@@ -1594,6 +1594,35 @@
       "card_ref": ""
     },
     {
+      "pattern_key": "log in (verb) vs login (noun)",
+      "normalized_key": "log in (verb) vs login (noun)",
+      "category": "TRACK",
+      "error_type": "WORD_FORM",
+      "target": "VOCABULARY",
+      "summary": "Use the two-word phrasal verb log in for the action; login is a noun or modifier (login page, login details).",
+      "rule": "subject + log(ged) in; a/the login + noun",
+      "classification_reason": "Common tech-English word-form split, also relevant to set up/setup and back up/backup; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-30",
+          "original": "I already login",
+          "corrected": "I already logged in",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
       "pattern_key": "make + object + bare verb",
       "normalized_key": "make + object + bare verb",
       "category": "TRACK",
