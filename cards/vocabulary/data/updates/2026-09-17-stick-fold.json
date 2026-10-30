@@ -1,0 +1,446 @@
+[
+  {
+    "term": "stick",
+    "observed_forms": [
+      "stick",
+      "stuck",
+      "stick on",
+      "stick to",
+      "stick with",
+      "stick around",
+      "stick out",
+      "stick up for"
+    ],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["noun", "verb", "phrasal verb"],
+    "pronunciation": "/stɪk/",
+    "tts_text": "stick. stick on. stick to. stick with. stick around. stick out. stick up for.",
+    "frequency_band": "VERY_COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-09-17",
+    "sources": ["direct user submission"],
+    "classification_reason": "A very common everyday American-English noun and irregular verb; the card emphasizes the learner-requested high-value forms stick on, stick to, stick with, stick around, stick out, stick up for, and be or get stuck.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A thin piece of wood, especially one that has fallen or been cut from a tree.",
+            "example": "She picked up a stick and threw it for the dog.",
+            "synonyms": [
+              {
+                "term": "twig",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "a small, thin branch"
+              },
+              {
+                "term": "branch",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "usually larger and still attached to or cut from a tree"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To attach something to a surface, or to become attached.",
+            "example": "Stick the grocery list on the fridge.",
+            "usage_note": "Common patterns: stick A on B and stick A to B. On often emphasizes placement on a surface; to often emphasizes attachment. Irregular forms: stick–stuck–stuck.",
+            "synonyms": [
+              {
+                "term": "attach",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader and more neutral"
+              },
+              {
+                "term": "affix",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "more formal"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "detach",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "separate something that was attached"
+              },
+              {
+                "term": "remove",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "take something away from a surface"
+              }
+            ]
+          },
+          {
+            "definition": "Informal: to put something somewhere quickly or casually.",
+            "example": "Just stick the leftovers in the fridge.",
+            "synonyms": [
+              {
+                "term": "put",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "neutral and more broadly applicable"
+              },
+              {
+                "term": "place",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "more deliberate and slightly more formal"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "common form — be/get stuck",
+        "senses": [
+          {
+            "definition": "To be unable to move, leave, or make progress.",
+            "example": "We got stuck in traffic for an hour.",
+            "usage_note": "It also applies to tasks and problems: I'm stuck on the last question.",
+            "synonyms": [
+              {
+                "term": "trapped",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "especially when someone is unable to leave"
+              },
+              {
+                "term": "unable to progress",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "describes being stuck on a task or problem"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "free",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "able to move or leave"
+              },
+              {
+                "term": "make progress",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "continue advancing on a task or problem"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "part_of_speech": "common phrasal verbs",
+        "senses": [
+          {
+            "definition": "STICK TO — to continue following a plan, rule, schedule, diet, subject, or similar established course.",
+            "example": "Let's stick to the plan.",
+            "synonyms": [
+              {
+                "term": "adhere to",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more formal"
+              },
+              {
+                "term": "follow",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "natural with plans, rules, and instructions"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "deviate from",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "move away from an established plan or subject"
+              }
+            ]
+          },
+          {
+            "definition": "STICK WITH — to continue using, doing, choosing, or supporting something or someone.",
+            "example": "I'll stick with my current laptop for another year.",
+            "synonyms": [
+              {
+                "term": "continue with",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "neutral and broadly applicable"
+              },
+              {
+                "term": "persist with",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "emphasizes continuing despite difficulty"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "abandon",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "stop supporting or continuing something"
+              },
+              {
+                "term": "switch from",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "replace one choice with another"
+              }
+            ]
+          },
+          {
+            "definition": "STICK AROUND — to remain somewhere or continue to be present.",
+            "example": "Stick around after the meeting if you have any questions.",
+            "synonyms": [
+              {
+                "term": "stay",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more neutral"
+              },
+              {
+                "term": "remain",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more formal"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "leave",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "go away from a place"
+              }
+            ]
+          },
+          {
+            "definition": "STICK OUT — to extend beyond a surface or be especially noticeable.",
+            "example": "That spelling mistake really sticks out.",
+            "synonyms": [
+              {
+                "term": "stand out",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "natural when something is especially noticeable"
+              },
+              {
+                "term": "protrude",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "used for extending beyond a surface and is more formal"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "blend in",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "not be easily noticed"
+              }
+            ]
+          },
+          {
+            "definition": "STICK UP FOR — to defend someone or something against criticism or unfair treatment.",
+            "example": "She always sticks up for her teammates.",
+            "synonyms": [
+              {
+                "term": "stand up for",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "equally common"
+              },
+              {
+                "term": "defend",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more neutral"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "fold",
+    "observed_forms": [
+      "fold",
+      "fold up",
+      "fold over",
+      "fold in",
+      "fold the lower-left corner up diagonally"
+    ],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["noun", "verb", "phrasal verb"],
+    "pronunciation": "/foʊld/",
+    "tts_text": "fold. fold up. fold over. fold in.",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-09-17",
+    "sources": ["direct user submission"],
+    "classification_reason": "A common everyday noun and verb for clothes, paper, and physical instructions; the card emphasizes the learner-requested constructions fold up, fold over, and fold in.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A line or bent part created when one part of something is placed over another.",
+            "example": "There was a deep fold in the fabric.",
+            "synonyms": [
+              {
+                "term": "crease",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "emphasizes the visible line"
+              },
+              {
+                "term": "bend",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "does not necessarily create a sharp line"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To bend something so that one part lies over another.",
+            "example": "Fold the paper in half before cutting it.",
+            "usage_note": "Common combinations include fold clothes, fold a sheet of paper, fold something in half, and fold your arms.",
+            "synonyms": [
+              {
+                "term": "bend",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader and does not require one part to lie over another"
+              },
+              {
+                "term": "crease",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "emphasizes creating a visible fold line"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "unfold",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "open something that has been folded"
+              },
+              {
+                "term": "flatten",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "make something level and remove its folded shape"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "part_of_speech": "common phrasal verbs and constructions",
+        "senses": [
+          {
+            "definition": "FOLD UP — to make something smaller by folding it or to move one part upward by folding.",
+            "example": "Fold the lower-left corner up diagonally.",
+            "usage_note": "Separable: fold up the map, fold the map up, and fold it up; not fold up it.",
+            "synonyms": [
+              {
+                "term": "collapse",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "applies to furniture or structures designed to fold"
+              },
+              {
+                "term": "compact",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "make something take up less space"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "unfold",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "return something to its open position"
+              }
+            ]
+          },
+          {
+            "definition": "FOLD OVER — to bend or turn one part so that it lies over another part.",
+            "example": "Fold the top edge over by two inches.",
+            "usage_note": "Separable: fold the edge over and fold it over; not fold over it.",
+            "synonyms": [
+              {
+                "term": "turn over",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "works in some physical instructions"
+              },
+              {
+                "term": "bend over",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "may not result in one part lying flat against another"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "unfold",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "return something to its open position"
+              }
+            ]
+          },
+          {
+            "definition": "FOLD IN — in cooking, to gently combine an ingredient with a mixture without removing too much air.",
+            "example": "Gently fold the egg whites into the batter.",
+            "synonyms": [
+              {
+                "term": "mix in",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader and does not describe the gentle folding technique"
+              },
+              {
+                "term": "incorporate",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "formal and does not specify how the ingredients are combined"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  }
+]

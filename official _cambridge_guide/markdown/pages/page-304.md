@@ -1,0 +1,15 @@
+## PDF page 304
+
+<!-- source-pdf-page: 304 -->
+
+Reading
+
+Carthage was the largest ofthe towns founded by the Phoenicians on the north African coast, and it rapidly assumed a leading position among the neighbouring colonies. The traditional date of its founding is 814 BC, but archaeological evidence suggests that it was probably settled a little over a century, bates,
+
+The subsequent spread and growth of Phoenician colonies in the western Mediterranean, and even out to the Atlantic coasts of Africa and Spain, was as much the achievement of Carthage as of the original Phoenician trading cities such as Tyre and Sidon. But no doubt links were maintained with the homeland, and new colonists continued to travel west.
+
+From the 8th century BC, many of the coastal cities of Phoenicia came under the control of a succession of imperial powers, each of them defeated and replaced in the region by the next: first the Assyrians, then the Babylonians, Persians and Macedonian Greeks.
+
+In 64 BC, the area of Phoenicia became part of the Roman province of Syria. The Phoenicians as an _ identifiable people then faded from history, merging into the populations of modern Lebanon and —_ northern Syria.
+
+307

@@ -1,0 +1,2508 @@
+[
+  {
+    "term": "magnificent / spectacular",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "magnificent: adjective",
+      "spectacular: adjective"
+    ],
+    "pronunciation": "magnificent: /mæɡˈnɪfəsənt/<br>spectacular: /spɛkˈtækjələr/",
+    "tts_text": "magnificent. spectacular",
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Extremely beautiful, impressive, or excellent.",
+            "example": "The view from the rooftop was magnificent.",
+            "synonyms": [
+              {
+                "term": "splendid",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "excellent",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "less focused on striking effect"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "unimpressive",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "entry_term": "magnificent",
+        "common_patterns": "a magnificent view/building/performance; look magnificent",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "You are describing the view from your hotel.",
+              "examples": "“The view was magnificent.” / “The view was spectacular.”",
+              "guidance": "Both are enthusiastic compliments; either works."
+            },
+            {
+              "situation": "A project fails in a dramatic way.",
+              "examples": "“It was a spectacular failure.”",
+              "guidance": "Spectacular can describe a striking negative result; magnificent normally praises something."
+            }
+          ],
+          "note": "Both mean extremely impressive and often work in the same sentence: “The view was magnificent/spectacular.” Learn common combinations rather than forcing a strict distinction. Spectacular also describes dramatic results, including a spectacular failure; magnificent normally expresses praise."
+        }
+      },
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Extremely impressive or striking, especially to look at; also remarkable in scale or result.",
+            "example": "The fireworks were spectacular.",
+            "synonyms": [
+              {
+                "term": "stunning",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for striking appearance"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "unremarkable",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "entry_term": "spectacular",
+        "common_patterns": "a spectacular view/show; spectacular success/failure"
+      }
+    ],
+    "observed_forms": [
+      "magnificent",
+      "spectacular",
+      "magnificent / spectacular"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "entice / induce",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "entice: verb",
+      "induce: verb"
+    ],
+    "pronunciation": "entice: /ɪnˈtaɪs/<br>induce: /ɪnˈdus/",
+    "tts_text": "entice. induce",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Attract someone by offering something appealing, often encouraging an action.",
+            "example": "The discount enticed me to try the service.",
+            "synonyms": [
+              {
+                "term": "tempt",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in appealing-offer contexts"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "deter",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "entry_term": "entice",
+        "common_patterns": "entice someone to + verb; entice someone into + V-ing; entice someone with + offer",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "An appealing offer makes someone stay.",
+              "examples": "“The offer enticed him to stay.” / “The offer induced him to stay.”",
+              "guidance": "Both work. Entice highlights appeal; induce sounds more formal."
+            },
+            {
+              "situation": "Something causes a physical effect.",
+              "examples": "“The medication can induce sleep.”",
+              "guidance": "Induce has a cause-an-effect sense; entice does not have this construction."
+            }
+          ],
+          "note": "Both can describe influencing someone to act: “The offer enticed/induced him to stay.” Entice highlights an appealing offer; induce is more formal and also describes causing an effect: “The medication can induce sleep.” These are useful contexts, not mutually exclusive categories."
+        }
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Cause a state or effect; also influence someone to act, often through an incentive. Usually more formal than cause or persuade.",
+            "example": "The medication can induce sleep.",
+            "synonyms": [
+              {
+                "term": "cause",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for effects"
+              },
+              {
+                "term": "persuade",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in some action contexts"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "prevent",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for effects"
+              }
+            ]
+          },
+          {
+            "definition": "Influence someone to do something, often through an incentive; formal.",
+            "example": "The offer induced several employees to stay.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "induce",
+        "common_patterns": "induce sleep/labor; induce someone to + verb"
+      }
+    ],
+    "observed_forms": [
+      "entice",
+      "induce",
+      "entice / induce"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "incentive / motive / motivation / drive / cue / trigger / stimulus / impulse / encouragement",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "incentive: noun",
+      "motive: noun",
+      "motivation: noun",
+      "drive: noun · verb",
+      "cue: noun",
+      "trigger: noun · verb",
+      "stimulus: noun",
+      "impulse: noun",
+      "encouragement: noun"
+    ],
+    "pronunciation": "incentive: /ɪnˈsɛntɪv/<br>motive: /ˈmoʊtɪv/<br>motivation: /ˌmoʊtəˈveɪʃən/<br>drive: /draɪv/<br>cue: /kju/<br>trigger: /ˈtrɪɡər/<br>stimulus: /ˈstɪmjələs/<br>impulse: /ˈɪmpʌls/<br>encouragement: /ɪnˈkɜrɪdʒmənt/",
+    "tts_text": "incentive. motive. motivation. drive. cue. trigger. stimulus. impulse. encouragement",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "Something that encourages an action, often a reward or benefit.",
+            "example": "The bonus gives employees an incentive to improve performance.",
+            "synonyms": [
+              {
+                "term": "inducement",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more formal"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "disincentive",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "entry_term": "incentive",
+        "common_patterns": "an incentive to + verb; offer/provide an incentive; tax incentives",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "You explain what makes work worthwhile.",
+              "examples": "“The bonus is an incentive to work harder.” / “The bonus gives me motivation to work harder.”",
+              "guidance": "Incentive names the encouraging benefit; motivation can describe the desire or reason it creates."
+            },
+            {
+              "situation": "You describe a reason or determination.",
+              "examples": "“What was his motive for hiding it?” / “She has the drive to finish it.”",
+              "guidance": "Motive fits a reason behind an action; drive fits determination. Motivation can also refer to either reasons or willingness."
+            },
+            {
+              "situation": "Something signals or sets off an action.",
+              "examples": "“That was my cue to leave.” / “Stress is a trigger for my headaches.” / “The policy provides a stimulus to investment.”",
+              "guidance": "Cue fits a signal; trigger fits a reaction starting; stimulus is broader and often scientific or economic."
+            },
+            {
+              "situation": "You describe an urge or support.",
+              "examples": "“I resisted the impulse to buy it.” / “Her encouragement helped me keep going.”",
+              "guidance": "Impulse is a sudden urge; encouragement is supportive input."
+            }
+          ],
+          "note": "These belong to related contexts, but are not nine interchangeable words for motivation. Incentive is something that makes acting worthwhile; motive is a reason behind an action. Motivation and drive overlap for willingness or determination. A cue is a signal; a trigger sets off a reaction; stimulus is broader and common in scientific/economic discussion. An impulse is a sudden urge; encouragement is supportive input. Start with familiar combinations: incentive to work, motive for lying, motivation to study, drive to succeed, cue to leave, trigger for headaches, stimulus to investment, impulse to buy, words of encouragement."
+        }
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A reason for doing something, especially when explaining someone's intentions.",
+            "example": "What was his motive for hiding the error?",
+            "synonyms": [
+              {
+                "term": "reason",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in many action contexts"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "motive",
+        "common_patterns": "a motive for + noun/V-ing; an ulterior motive"
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "The desire or willingness to act; also the reasons behind an action.",
+            "example": "I've lost motivation to study after work.",
+            "synonyms": [
+              {
+                "term": "incentive",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "for reasons"
+              },
+              {
+                "term": "drive",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for strong willingness"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "apathy",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for willingness"
+              }
+            ]
+          }
+        ],
+        "entry_term": "motivation",
+        "common_patterns": "motivation to + verb; motivation for + action; lack/lose motivation"
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "Strong motivation or determination to achieve something.",
+            "example": "I realized I was losing my drive after months of repetitive work.",
+            "synonyms": [
+              {
+                "term": "determination",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "apathy",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for ambition"
+              }
+            ]
+          },
+          {
+            "definition": "A journey in a car or another road vehicle.",
+            "example": "The hotel is a short drive from the airport.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A device that stores or reads digital data.",
+            "example": "Back up the files to an external drive.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "drive",
+        "common_patterns": "the drive to + verb; a drive to succeed; go for a drive; a hard drive; drive a car; drive change"
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Operate a car or another motor vehicle.",
+            "example": "I drove to the station to pick them up.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Cause or strongly motivate an action, change, or result.",
+            "example": "Customer feedback drives our product decisions.",
+            "synonyms": [
+              {
+                "term": "motivate",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "fits people’s actions better than every kind of result"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "drive"
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A signal that tells someone to act or helps them interpret a situation.",
+            "example": "That was my cue to leave.",
+            "synonyms": [
+              {
+                "term": "signal",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in many contexts"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "cue",
+        "common_patterns": "a cue to + verb; take your cue from someone; visual/social cues"
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "something that sets off a reaction or event.",
+            "example": "Stress is a trigger for my headaches.",
+            "synonyms": [
+              {
+                "term": "cause",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader than the initiating factor"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "trigger",
+        "common_patterns": "a trigger for + reaction; identify/avoid a trigger; trigger + alert/reaction/event"
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "set off a reaction or event.",
+            "example": "The deployment triggered an alert.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "trigger"
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "Something that produces a response or encourages activity; common in scientific and economic contexts.",
+            "example": "The policy provided a stimulus to investment.",
+            "synonyms": [
+              {
+                "term": "stimulation",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": ""
+              },
+              {
+                "term": "incentive",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "in economic contexts"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "stimulus",
+        "common_patterns": "a stimulus to + activity; respond to a stimulus; plural stimuli"
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A sudden urge to act, often without planning.",
+            "example": "I resisted the impulse to check my phone.",
+            "synonyms": [
+              {
+                "term": "urge",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "impulse",
+        "common_patterns": "an impulse to + verb; on impulse; resist an impulse"
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "Support that gives someone confidence or makes them more willing to act.",
+            "example": "Her encouragement helped me keep going.",
+            "synonyms": [
+              {
+                "term": "support",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in many interpersonal contexts"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "discouragement",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "entry_term": "encouragement",
+        "common_patterns": "give someone encouragement; encouragement to + verb; words of encouragement"
+      }
+    ],
+    "observed_forms": [
+      "incentive",
+      "motive",
+      "motivation",
+      "drive",
+      "cue",
+      "trigger",
+      "stimulus",
+      "impulse",
+      "encouragement",
+      "incentive / motive / motivation / drive / cue / trigger / stimulus / impulse / encouragement"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true,
+    "merge_from": [
+      "drive"
+    ]
+  },
+  {
+    "term": "assure / reassure / guarantee",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "assure: verb",
+      "reassure: verb",
+      "guarantee: verb · noun"
+    ],
+    "pronunciation": "assure: /əˈʃʊr/<br>reassure: /ˌriəˈʃʊr/<br>guarantee: /ˌɡærənˈti/",
+    "tts_text": "assure. reassure. guarantee",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Tell someone confidently that something is true or will happen.",
+            "example": "I assured her that we could meet the deadline.",
+            "synonyms": [
+              {
+                "term": "reassure",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "overlaps when addressing a concern"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "assure",
+        "common_patterns": "assure someone that + clause; assure someone of + noun",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "You confidently address someone’s concern.",
+              "examples": "“I assured her that everything was fine.” / “I reassured her that everything was fine.”",
+              "guidance": "Both work; reassure explicitly addresses worry or doubt."
+            },
+            {
+              "situation": "You distinguish comfort from a promise.",
+              "examples": "“I can reassure you that we’re doing our best, but I can’t guarantee success.”",
+              "guidance": "Guarantee commits to an outcome or certainty; reassurance need not do that."
+            }
+          ],
+          "note": "Assure and reassure overlap when a confident statement reduces worry: “I assured/reassured her that everything was fine.” Reassure explicitly addresses worry or doubt. Guarantee is a stronger commitment to an outcome or certainty: “I can reassure you that we’re doing our best, but I can’t guarantee success.” Use assure/reassure + PERSON + that-clause; guarantee can take a that-clause directly."
+        }
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Make someone feel less worried or doubtful.",
+            "example": "The doctor reassured me that the results were normal.",
+            "synonyms": [
+              {
+                "term": "comfort",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader emotional support"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "worry",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "entry_term": "reassure",
+        "common_patterns": "reassure someone that + clause; reassure someone about + issue"
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "promise or make certain that an outcome will happen.",
+            "example": "We can't guarantee that the fix will work.",
+            "synonyms": [
+              {
+                "term": "ensure",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "for making certain, without necessarily making a promise"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "guarantee",
+        "common_patterns": "guarantee that + clause; guarantee something; guarantee someone a refund; a guarantee that + clause; no guarantee of + outcome"
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "a promise that something will happen or meet a standard.",
+            "example": "There is no guarantee that the fix will work.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "guarantee"
+      }
+    ],
+    "observed_forms": [
+      "assure",
+      "reassure",
+      "guarantee",
+      "assure / reassure / guarantee"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "deprive / deprecate / depreciate",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "deprive: verb",
+      "deprecate: verb",
+      "depreciate: verb"
+    ],
+    "pronunciation": "deprive: /dɪˈpraɪv/<br>deprecate: /ˈdɛprəkeɪt/<br>depreciate: /dɪˈpriʃieɪt/",
+    "tts_text": "deprive. deprecate. depreciate",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Take away or deny something needed, valued, or deserved.",
+            "example": "The noise deprived us of sleep.",
+            "synonyms": [
+              {
+                "term": "deny",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "deny someone something"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "provide",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "provide someone with something"
+              }
+            ]
+          }
+        ],
+        "entry_term": "deprive",
+        "common_patterns": "deprive someone of + noun; be deprived of + noun",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "Noise keeps you from sleeping.",
+              "examples": "“The noise deprived me of sleep.”",
+              "guidance": "Deprive someone of something."
+            },
+            {
+              "situation": "An old API is no longer recommended.",
+              "examples": "“We deprecated the old API.”",
+              "guidance": "Discouraged use; not necessarily removed."
+            },
+            {
+              "situation": "A car loses value.",
+              "examples": "“Cars depreciate as they get older.”",
+              "guidance": "Depreciate describes value or accounting."
+            }
+          ],
+          "note": "These three verbs are not synonyms. Deprive means deny something needed or valued; deprecate means discourage software use or formally disapprove; depreciate concerns monetary value or accounting. “The noise deprived me of sleep.” “We deprecated the old API.” “Cars depreciate.” A deprecated feature can still work; the status does not itself mean removal."
+        }
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "In software, mark a feature as discouraged or no longer recommended; also formally express disapproval.",
+            "example": "We deprecated the old endpoint in favor of the new API.",
+            "synonyms": [
+              {
+                "term": "discourage",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "for software"
+              },
+              {
+                "term": "disapprove of",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for general disapproval"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "endorse",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "of disapproval"
+              }
+            ]
+          },
+          {
+            "definition": "Express disapproval; formal and less common in everyday conversation.",
+            "example": "The writer deprecated the use of violence.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "deprecate",
+        "common_patterns": "deprecate an API/feature; a deprecated method"
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Lose monetary value; in accounting, reduce an asset's recorded value over time.",
+            "example": "Cars usually depreciate as they get older.",
+            "synonyms": [
+              {
+                "term": "lose value",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for market value"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "appreciate",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "for market value"
+              }
+            ]
+          },
+          {
+            "definition": "Reduce an asset’s recorded value over time in accounting.",
+            "example": "The company depreciates its equipment over five years.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "depreciate",
+        "common_patterns": "depreciate in value; depreciate equipment over five years"
+      }
+    ],
+    "observed_forms": [
+      "deprive",
+      "deprecate",
+      "depreciate",
+      "deprive / deprecate / depreciate"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "substitute",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "verb · noun"
+    ],
+    "pronunciation": "/ˈsʌbstɪtut/",
+    "tts_text": "substitute",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "use one thing instead of another.",
+            "example": "You can substitute oat milk for regular milk.",
+            "synonyms": [
+              {
+                "term": "replace",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "when the construction is adjusted"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: substitute NEW for OLD; substitute for someone; a substitute for + noun"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "someone or something used instead of another.",
+            "example": "Oat milk is a substitute for regular milk.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "observed_forms": [
+      "substitute",
+      "substitute"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "notice / find out",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "notice: verb · noun",
+      "find out: phrasal verb"
+    ],
+    "pronunciation": "notice: /ˈnoʊtɪs/<br>find out: /faɪnd ˈaʊt/",
+    "tts_text": "notice. find out",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "become aware of something through observation.",
+            "example": "I noticed that the app was running slowly.",
+            "synonyms": [
+              {
+                "term": "observe",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for observation, more deliberate/formal"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "overlook",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "when failing to notice"
+              }
+            ]
+          }
+        ],
+        "entry_term": "notice",
+        "common_patterns": "notice something; notice that + clause; notice someone + V-ing; give someone notice; at short notice",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "Observation reveals a fact.",
+              "examples": "“I noticed that the door was unlocked.” / “I found out that the door was unlocked.”",
+              "guidance": "Both can work; notice highlights awareness through observation, find out highlights learning the information."
+            },
+            {
+              "situation": "You see an error or investigate a cause.",
+              "examples": "“I noticed a typo.” / “I found out why the server crashed.”",
+              "guidance": "Notice suits direct observation; find out suits discovering an explanation."
+            }
+          ],
+          "note": "Notice commonly describes becoming aware through observation; find out describes learning information, including by being told or investigating. Either may work when observation reveals a fact: “I noticed/found out that the door was unlocked.” Context decides. “I noticed a typo” is direct observation; “I found out why the server crashed” is discovering an explanation."
+        }
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "information announcing something, or advance warning.",
+            "example": "We need two weeks’ notice before you leave.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "notice"
+      },
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Learn or discover information.",
+            "example": "I found out that the database was down.",
+            "synonyms": [
+              {
+                "term": "discover",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "find out",
+        "common_patterns": "find out that + clause; find out why/how/when; find out about + noun"
+      }
+    ],
+    "observed_forms": [
+      "notice",
+      "find out",
+      "notice / find out"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "compromise / meet halfway / concede / give in / back down",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "compromise: noun · verb",
+      "meet halfway: idiom",
+      "concede: verb",
+      "give in: phrasal verb",
+      "back down: phrasal verb"
+    ],
+    "pronunciation": "compromise: /ˈkɑmprəmaɪz/<br>meet halfway: /mit ˌhæfˈweɪ/<br>concede: /kənˈsid/<br>give in: /ɡɪv ˈɪn/<br>back down: /bæk ˈdaʊn/",
+    "tts_text": "compromise. meet halfway. concede. give in. back down",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "an agreement reached by accepting less than originally wanted.",
+            "example": "We reached a compromise on the deadline.",
+            "synonyms": [
+              {
+                "term": "agreement",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "for the noun"
+              },
+              {
+                "term": "meet halfway",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for mutual adjustment"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "compromise",
+        "common_patterns": "reach a compromise; compromise with someone on something; compromise security",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "Two sides adjust their demands.",
+              "examples": "“We compromised on the deadline.” / “We met each other halfway on the deadline.”",
+              "guidance": "Both work for mutual adjustment."
+            },
+            {
+              "situation": "Someone yields in a negotiation.",
+              "examples": "“They conceded on the deadline.”",
+              "guidance": "Concede can mean yield something after resisting."
+            },
+            {
+              "situation": "You acknowledge a point.",
+              "examples": "“I concede that your approach is simpler.”",
+              "guidance": "Concede that + clause means admit a point; it need not mean accept a demand."
+            },
+            {
+              "situation": "Someone stops resisting.",
+              "examples": "“She finally gave in.” / “She finally backed down.”",
+              "guidance": "Often overlapping; neither requires a mutual compromise."
+            },
+            {
+              "situation": "An action puts something at risk.",
+              "examples": "“Sharing passwords compromises security.”",
+              "guidance": "Compromise also means weaken or endanger."
+            }
+          ],
+          "note": "Compromise and meet someone halfway often describe the same mutual adjustment. Concede can mean admit a point or yield something. Give in and back down often overlap for stopping resistance; neither requires both sides to adjust. Compromise security means put security at risk, not negotiate."
+        }
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "accept less than originally wanted to reach agreement.",
+            "example": "We compromised on the deadline.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "weaken or put something at risk.",
+            "example": "Sharing passwords can compromise security.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "compromise"
+      },
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Accept part of another person's wishes so both sides can agree.",
+            "example": "If you can extend the deadline, I'll meet you halfway on the scope.",
+            "synonyms": [
+              {
+                "term": "compromise",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in negotiation"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "meet halfway",
+        "common_patterns": "meet someone halfway; meet each other halfway"
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Admit that something is true, or yield something after resisting.",
+            "example": "I concede that your approach is simpler.",
+            "synonyms": [
+              {
+                "term": "admit",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for acknowledging a fact"
+              },
+              {
+                "term": "yield",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for giving way"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "deny",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "of admitting a claim"
+              }
+            ]
+          }
+        ],
+        "entry_term": "concede",
+        "common_patterns": "concede that + clause; concede a point; concede defeat"
+      },
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Stop resisting and agree to a demand or temptation.",
+            "example": "I finally gave in and agreed to help.",
+            "synonyms": [
+              {
+                "term": "yield",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more formal"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "hold out",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "when continuing to resist"
+              }
+            ]
+          }
+        ],
+        "entry_term": "give in",
+        "common_patterns": "give in to + pressure/demand/temptation"
+      },
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Withdraw a position or demand after opposition.",
+            "example": "She refused to back down on the deadline.",
+            "synonyms": [
+              {
+                "term": "give in",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in many disputes"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "stand firm",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "entry_term": "back down",
+        "common_patterns": "back down on/from + position/demand; refuse to back down"
+      }
+    ],
+    "observed_forms": [
+      "compromise",
+      "meet halfway",
+      "concede",
+      "give in",
+      "back down",
+      "compromise / meet halfway / concede / give in / back down"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "responsible for / accountable for / answerable to / in charge of",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "responsible for: adjective phrase",
+      "accountable for: adjective phrase",
+      "answerable to: adjective phrase",
+      "in charge of: prepositional phrase"
+    ],
+    "pronunciation": "responsible for: /rɪˈspɑnsəbəl fɔr/<br>accountable for: /əˈkaʊntəbəl fɔr/<br>answerable to: /ˈænsərəbəl tu/<br>in charge of: /ɪn ˈtʃɑrdʒ əv/",
+    "tts_text": "responsible for. accountable for. answerable to. in charge of",
+    "senses": [
+      {
+        "part_of_speech": "adjective phrase",
+        "senses": [
+          {
+            "definition": "Having a duty, causing something, or bearing responsibility for a result.",
+            "example": "I'm responsible for reviewing pull requests.",
+            "synonyms": [
+              {
+                "term": "accountable for",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for answerability, not all duty/cause uses"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "Be the cause of something.",
+            "example": "A faulty sensor was responsible for the shutdown.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Bear responsibility or blame for a result.",
+            "example": "You’ll be held responsible for any mistakes.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "responsible for",
+        "common_patterns": "be responsible for + noun/V-ing; hold someone responsible for + result",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "Someone must answer for mistakes.",
+              "examples": "“You’ll be held responsible for mistakes.” / “You’ll be held accountable for mistakes.”",
+              "guidance": "Both work; no strict distinction needed."
+            },
+            {
+              "situation": "You describe your duties.",
+              "examples": "“I’m responsible for reviewing code.”",
+              "guidance": "Responsible for + noun/V-ing."
+            },
+            {
+              "situation": "You name who you answer to.",
+              "examples": "“I’m accountable to my manager for the release.” / “I’m answerable to my manager for the release.”",
+              "guidance": "To introduces the person; for introduces the result or action."
+            },
+            {
+              "situation": "You identify the project leader.",
+              "examples": "“Maya is in charge of the project.”",
+              "guidance": "Management; she may also be responsible and accountable."
+            },
+            {
+              "situation": "Something causes a failure.",
+              "examples": "“A sensor was responsible for the failure.”",
+              "guidance": "Responsible also describes causes; a sensor cannot justify its actions."
+            }
+          ],
+          "note": "Responsible for and accountable for often mean essentially the same thing for actions or results. “You’ll be held responsible/accountable for mistakes” is natural either way. Accountable makes explaining or justifying actions more explicit. Answerable to and accountable to name who you answer to; answerable for and accountable for name what you answer for. In charge of describes management and can overlap with both responsibility and accountability. Responsible also describes causes: “A faulty sensor was responsible for the failure”; accountable would be unusual for a sensor."
+        }
+      },
+      {
+        "part_of_speech": "adjective phrase",
+        "senses": [
+          {
+            "definition": "Responsible for actions or results and expected to explain or justify them.",
+            "example": "I'm accountable for the release outcome.",
+            "synonyms": [
+              {
+                "term": "responsible for",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in answerability contexts"
+              },
+              {
+                "term": "answerable for",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "accountable for",
+        "common_patterns": "be accountable for + noun/V-ing; be accountable to + person/body; hold someone accountable"
+      },
+      {
+        "part_of_speech": "adjective phrase",
+        "senses": [
+          {
+            "definition": "Required to explain or justify your actions to a person or organization.",
+            "example": "The director is answerable to the board.",
+            "synonyms": [
+              {
+                "term": "accountable to",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "answerable to",
+        "common_patterns": "be answerable to + person/body; be answerable for + action/result"
+      },
+      {
+        "part_of_speech": "prepositional phrase",
+        "senses": [
+          {
+            "definition": "Managing, directing, or having control over something.",
+            "example": "Maya is in charge of the project.",
+            "synonyms": [
+              {
+                "term": "in control of",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in management contexts"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "in charge of",
+        "common_patterns": "be in charge of + noun/V-ing; put someone in charge of something"
+      }
+    ],
+    "observed_forms": [
+      "responsible for",
+      "accountable for",
+      "answerable to",
+      "in charge of",
+      "responsible for / accountable for / answerable to / in charge of"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "account for",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "phrasal verb"
+    ],
+    "pronunciation": "/əˈkaʊnt fɔr/",
+    "tts_text": "account for",
+    "senses": [
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Explain or cause something; make up a proportion; report resource use or establish someone's whereabouts.",
+            "example": "Subscriptions account for 60% of our revenue.",
+            "synonyms": [
+              {
+                "term": "explain",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for explanation"
+              },
+              {
+                "term": "constitute",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for proportion"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: account for + result; account for + percentage + of something; account for expenses; everyone is accounted for"
+          },
+          {
+            "definition": "Explain or be a cause of something.",
+            "example": "Network delays account for the slow response.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Explain how resources were used.",
+            "example": "You must account for every expense.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Establish where people or things are.",
+            "example": "All employees have been accounted for.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "observed_forms": [
+      "account for",
+      "account for"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "stem from / boil down to",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "stem from: phrasal verb",
+      "boil down to: phrasal verb"
+    ],
+    "pronunciation": "stem from: /stɛm frəm/<br>boil down to: /bɔɪl ˈdaʊn tu/",
+    "tts_text": "stem from. boil down to",
+    "senses": [
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Originate in or be caused by something.",
+            "example": "The failures stem from a configuration error.",
+            "synonyms": [
+              {
+                "term": "result from",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "stem from",
+        "common_patterns": "problem/result + stem from + cause",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "You explain where a problem comes from.",
+              "examples": "“The problem stems from poor communication.”",
+              "guidance": "Stem from introduces the origin or cause."
+            },
+            {
+              "situation": "You summarize the deciding issue.",
+              "examples": "“The decision boils down to cost.”",
+              "guidance": "Boil down to identifies the essential issue; the cause and essential explanation can overlap."
+            }
+          ],
+          "note": "Stem from introduces an origin or cause: “The problem stems from poor communication.” Boil down to identifies an essential explanation or deciding factor: “The decision boils down to cost.” They can overlap when the essential explanation is also the cause, but they organize the explanation differently."
+        }
+      },
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Have something as the essential point or underlying issue after considering the details.",
+            "example": "The decision boils down to cost.",
+            "synonyms": [
+              {
+                "term": "come down to",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for the underlying issue"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "boil down to",
+        "common_patterns": "something boils down to + noun/V-ing; boil something down to + main points"
+      }
+    ],
+    "observed_forms": [
+      "stem from",
+      "boil down to",
+      "stem from / boil down to"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "count on / rely on",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "count on: phrasal verb",
+      "rely on: phrasal verb"
+    ],
+    "pronunciation": "count on: /kaʊnt ɑn/<br>rely on: /rɪˈlaɪ ɑn/",
+    "tts_text": "count on. rely on",
+    "senses": [
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Depend on someone or something or confidently expect something.",
+            "example": "You can count on me to finish it.",
+            "synonyms": [
+              {
+                "term": "rely on",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in dependence contexts"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "count on",
+        "common_patterns": "count on + noun; count on someone to + verb; count on + V-ing",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "You promise someone they can depend on you.",
+              "examples": "“You can count on me to finish it.” / “You can rely on me to finish it.”",
+              "guidance": "Both work; no fine distinction needs memorizing."
+            },
+            {
+              "situation": "You describe practical dependence on a tool.",
+              "examples": "“We rely on automated tests to catch regressions.”",
+              "guidance": "A natural use of rely on; count on can also express confidence that the tests will catch them."
+            }
+          ],
+          "note": "These often mean the same thing: “You can count on/rely on me to finish it.” Both express trust or dependence. Rely on also naturally describes practical dependence on tools or resources; count on can highlight confident expectation. Do not force a distinction where either fits."
+        }
+      },
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Depend on or trust someone or something.",
+            "example": "We rely on automated tests to catch regressions.",
+            "synonyms": [
+              {
+                "term": "depend on",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "count on",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in trust contexts"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "rely on",
+        "common_patterns": "rely on + noun; rely on someone/something to + verb"
+      }
+    ],
+    "observed_forms": [
+      "count on",
+      "rely on",
+      "count on / rely on"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "go past / pass / get past",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "go past: verb phrase",
+      "pass: verb",
+      "get past: verb phrase"
+    ],
+    "pronunciation": "go past: /ɡoʊ pæst/<br>pass: /pæs/<br>get past: /ɡɛt pæst/",
+    "tts_text": "go past. pass. get past",
+    "senses": [
+      {
+        "part_of_speech": "verb phrase",
+        "senses": [
+          {
+            "definition": "Go beyond someone or something physically.",
+            "example": "Go past the bank and turn left.",
+            "synonyms": [
+              {
+                "term": "pass",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in physical movement"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "go past",
+        "common_patterns": "go past + landmark/person",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "You travel beyond a station.",
+              "examples": "“We went past the station.” / “We passed the station.”",
+              "guidance": "Both work; pass takes the object directly."
+            },
+            {
+              "situation": "You get beyond an obstacle.",
+              "examples": "“We couldn’t get past the crowd.” / “I can’t get past the login screen.”",
+              "guidance": "Get past works for physical and other obstacles."
+            }
+          ],
+          "note": "Go past and pass often describe the same physical movement: “We went past/passed the station.” Get past also works physically and can emphasize overcoming an obstacle: “I can’t get past the login screen.” Pass is a verb taking its object directly; past follows go/get in these frames. Do not force a difference where several choices work."
+        }
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Go past something; also succeed in a test or cause something to go to another person.",
+            "example": "We passed the station a few minutes ago.",
+            "synonyms": [
+              {
+                "term": "go past",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for movement"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "fail",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "for a test"
+              }
+            ]
+          },
+          {
+            "definition": "Succeed in a test.",
+            "example": "She passed the certification exam.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Give something to another person.",
+            "example": "Could you pass me the charger?",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "pass",
+        "common_patterns": "pass + place/person; pass a test; pass someone something"
+      },
+      {
+        "part_of_speech": "verb phrase",
+        "senses": [
+          {
+            "definition": "Go beyond a position or overcome an obstacle or difficult experience.",
+            "example": "I couldn't get past the login screen.",
+            "synonyms": [
+              {
+                "term": "overcome",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for obstacles"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "get past",
+        "common_patterns": "get past + obstacle/person/place; get past a setback"
+      }
+    ],
+    "observed_forms": [
+      "go past",
+      "pass",
+      "get past",
+      "go past / pass / get past"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "turn out / end up",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "turn out: phrasal verb",
+      "end up: phrasal verb"
+    ],
+    "pronunciation": "turn out: /tɜrn ˈaʊt/<br>end up: /ɛnd ˈʌp/",
+    "tts_text": "turn out. end up",
+    "senses": [
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "To happen or develop in a particular way, often with an unexpected result.",
+            "example": "Despite the rain, the outdoor event turned out well.",
+            "usage_note": "Common pattern: turn out + adjective or adverb.",
+            "synonyms": [
+              {
+                "term": "prove to be",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for results"
+              },
+              {
+                "term": "show up",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for attendance"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "To be finally discovered or proved to have a particular identity or quality.",
+            "example": "The apparent network failure turned out to be a configuration error.",
+            "usage_note": "Common patterns: turn out to be something and it turns out that + clause.",
+            "synonyms": [
+              {
+                "term": "prove to be",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "slightly more formal"
+              },
+              {
+                "term": "be revealed as",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "emphasizes that hidden information becomes known"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "To attend an event or appear somewhere, especially as part of a group.",
+            "example": "More than two thousand residents turned out to vote.",
+            "usage_note": "Common pattern: turn out for something or turn out to do something.",
+            "synonyms": [
+              {
+                "term": "show up",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more general and often refers to an individual"
+              },
+              {
+                "term": "attend",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "takes a direct object and is more neutral"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "To produce or make something, especially regularly or in large quantities.",
+            "example": "The factory turns out five thousand units a week.",
+            "synonyms": [
+              {
+                "term": "produce",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more neutral and used in a wider range of contexts"
+              },
+              {
+                "term": "manufacture",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "specifically refers to making physical goods"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "turn out",
+        "common_patterns": "turn out + adjective/adverb; turn out to + verb; it turns out that + clause; turn out for + event; turn out + product",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "A meeting proves useful.",
+              "examples": "“The meeting ended up being useful.” / “The meeting turned out to be useful.”",
+              "guidance": "Both work; useful frames differ."
+            },
+            {
+              "situation": "You discover a fact.",
+              "examples": "“It turned out that the server was misconfigured.”",
+              "guidance": "It turned out that + clause; end up does not take this frame."
+            },
+            {
+              "situation": "You describe attendance or production.",
+              "examples": "“Hundreds of people turned out.” / “The factory turns out parts.”",
+              "guidance": "These are other senses of turn out, not senses of end up."
+            }
+          ],
+          "note": "For outcomes, “The meeting ended up being useful” and “The meeting turned out to be useful” both work. End up highlights the final situation; turn out highlights how it proved to be. Useful frames: end up + V-ing/adjective/place; turn out + adjective/adverb; turn out to + verb; it turns out that + clause. Turn out also has attendance and production senses, shown in its definitions."
+        }
+      },
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Reach a final situation after a process, often unexpectedly.",
+            "example": "We ended up working late.",
+            "synonyms": [
+              {
+                "term": "wind up",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "conversational"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "end up",
+        "common_patterns": "end up + V-ing/adjective; end up in/at + place"
+      }
+    ],
+    "observed_forms": [
+      "turn out",
+      "end up",
+      "turn out / end up"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true,
+    "merge_from": [
+      "turn out"
+    ]
+  },
+  {
+    "term": "turnout",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "noun"
+    ],
+    "pronunciation": "/ˈtɜrnˌaʊt/",
+    "tts_text": "turnout",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "The number of people who attend an event or participate in an election.",
+            "example": "Voter turnout reached 72 percent in the local election.",
+            "usage_note": "Common patterns: a high/low turnout; voter turnout; turnout at/for + event",
+            "synonyms": [
+              {
+                "term": "attendance",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for events"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "A widened area beside a road where vehicles can stop or pull aside.",
+            "example": "We pulled into a turnout to let the truck pass.",
+            "usage_note": "American English.",
+            "synonyms": [
+              {
+                "term": "pullout",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "another American term for a roadside stopping area"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "observed_forms": [
+      "turnout",
+      "turnout"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "stave off / prevent",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "stave off: phrasal verb",
+      "prevent: verb"
+    ],
+    "pronunciation": "stave off: /steɪv ˈɔf/<br>prevent: /prɪˈvɛnt/",
+    "tts_text": "stave off. prevent",
+    "senses": [
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "To prevent or delay something bad or unwanted, often only temporarily.",
+            "example": "The emergency loan helped the company stave off bankruptcy.",
+            "synonyms": [
+              {
+                "term": "ward off",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "prevent",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "often overlapping"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "bring on",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for causing a problem"
+              }
+            ]
+          }
+        ],
+        "entry_term": "stave off",
+        "common_patterns": "stave off + threat/problem",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "You try to avoid burnout.",
+              "examples": "“Regular breaks help stave off burnout.” / “Regular breaks help prevent burnout.”",
+              "guidance": "Both work. Stave off often suggests resisting or delaying an approaching threat."
+            },
+            {
+              "situation": "A rule stops an action.",
+              "examples": "“Access controls prevent users from deleting files.”",
+              "guidance": "Use prevent someone/something from + V-ing, not prevent from alone."
+            }
+          ],
+          "note": "These overlap: stave off burnout and prevent burnout both work. Stave off often suggests keeping an approaching problem away or delaying it; prevent emphasizes stopping it from happening in the relevant situation. Neither promises prevention forever. The submitted “prevent from” is represented by the complete frame prevent someone/something from + V-ing. Also normal: prevent + problem."
+        }
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Stop an event from happening or stop someone or something from doing an action.",
+            "example": "Access controls prevent users from deleting protected files.",
+            "synonyms": [
+              {
+                "term": "stop",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in stop someone from doing something"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "cause",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for making an event happen"
+              }
+            ]
+          }
+        ],
+        "entry_term": "prevent",
+        "common_patterns": "prevent + problem; prevent + person/thing + from + V-ing"
+      }
+    ],
+    "observed_forms": [
+      "stave off",
+      "prevent",
+      "stave off / prevent"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true,
+    "merge_from": [
+      "stave off"
+    ]
+  },
+  {
+    "term": "run a red light",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "verb phrase"
+    ],
+    "pronunciation": "/rʌn ə rɛd laɪt/",
+    "tts_text": "run a red light",
+    "senses": [
+      {
+        "part_of_speech": "verb phrase",
+        "senses": [
+          {
+            "definition": "Drive through a traffic light when it is red.",
+            "example": "The driver ran a red light.",
+            "synonyms": [
+              {
+                "term": "go through a red light",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: run a red light; get a ticket for running a red light"
+          }
+        ]
+      }
+    ],
+    "observed_forms": [
+      "run a red light",
+      "run a red light"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "if needed",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "conditional expression"
+    ],
+    "pronunciation": "/ɪf ˈnidəd/",
+    "tts_text": "if needed",
+    "senses": [
+      {
+        "part_of_speech": "conditional expression",
+        "senses": [
+          {
+            "definition": "If something is required or someone needs it.",
+            "example": "We can schedule another meeting if needed.",
+            "synonyms": [
+              {
+                "term": "if necessary",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in most practical contexts"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: clause + if needed; If needed, + clause"
+          }
+        ]
+      }
+    ],
+    "observed_forms": [
+      "if needed",
+      "if needed"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "underneath",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "preposition · adverb"
+    ],
+    "pronunciation": "/ˌʌndərˈniːθ/",
+    "tts_text": "underneath",
+    "senses": [
+      {
+        "part_of_speech": "preposition · adverb",
+        "senses": [
+          {
+            "definition": "Below something, often directly below it or covered by it.",
+            "example": "My phone was underneath the blanket.",
+            "synonyms": [
+              {
+                "term": "under",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "underneath often emphasizes the position below or what is concealed"
+              },
+              {
+                "term": "beneath",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "often more formal"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "above",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for vertical position"
+              }
+            ],
+            "usage_note": "Common patterns: underneath + noun; underneath alone when the object is understood. “There’s a label underneath.”"
+          },
+          {
+            "definition": "Beneath a visible appearance or surface quality.",
+            "example": "Underneath his confidence, he was nervous.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "observed_forms": [
+      "underneath",
+      "underneath"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "that said / let’s say",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "that said: discourse marker",
+      "let’s say: fixed expression"
+    ],
+    "pronunciation": "that said: /ðæt ˈsɛd/<br>let’s say: /lɛts ˈseɪ/",
+    "tts_text": "that said. let’s say",
+    "senses": [
+      {
+        "part_of_speech": "discourse marker",
+        "senses": [
+          {
+            "definition": "Acknowledge an earlier point and introduce a limitation or contrasting consideration.",
+            "example": "The tool is useful. That said, we still need to review its output.",
+            "synonyms": [
+              {
+                "term": "having said that",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "however",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "marks contrast without necessarily acknowledging the prior point"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "that said",
+        "common_patterns": "statement. That said, + contrasting clause.",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "You add a limitation to an earlier claim.",
+              "examples": "“The tool is useful. That said, we still need to review its output.”",
+              "guidance": "That said qualifies the earlier point."
+            },
+            {
+              "situation": "You introduce an assumed example.",
+              "examples": "“Let’s say the server receives a thousand requests per second. How would we scale it?”",
+              "guidance": "Let’s say introduces an assumption; it does not itself mark contrast."
+            }
+          ],
+          "note": "That said qualifies an earlier claim; let’s say introduces an example or assumption. “Remote work saves time. That said, it can feel isolating.” versus “Remote work saves time. Let’s say you save an hour a day—that adds up.” A reservation here means a concern or qualification, not a booking."
+        }
+      },
+      {
+        "part_of_speech": "fixed expression",
+        "senses": [
+          {
+            "definition": "Introduce an assumed situation or illustrative example.",
+            "example": "Let’s say the server receives a thousand requests per second. How would we scale it?",
+            "synonyms": [
+              {
+                "term": "suppose",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "before a hypothetical clause"
+              },
+              {
+                "term": "for example",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "introduces examples without necessarily making an assumption"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "let’s say",
+        "common_patterns": "let’s say + clause; let’s say + hypothetical amount. “Let’s say $500.”"
+      }
+    ],
+    "observed_forms": [
+      "that said",
+      "let’s say",
+      "that said / let’s say"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "sentence / condemn / convict / charge",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "sentence: verb · noun",
+      "condemn: verb",
+      "convict: verb · noun",
+      "charge: verb · noun"
+    ],
+    "pronunciation": "sentence: /ˈsɛntəns/<br>condemn: /kənˈdɛm/<br>convict: verb /kənˈvɪkt/; noun /ˈkɑnvɪkt/<br>charge: /tʃɑrdʒ/",
+    "tts_text": "sentence. condemn. a convict. to convict. charge",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "officially impose a punishment in court.",
+            "example": "The judge sentenced him to three years in prison for fraud.",
+            "synonyms": [
+              {
+                "term": "punishment",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "to the legal noun"
+              },
+              {
+                "term": "impose a sentence on",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "with the verb"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "sentence",
+        "common_patterns": "sentence someone to + punishment; for + offense; receive/serve a prison sentence; write a sentence.",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "You report an accusation.",
+              "examples": "“Prosecutors charged him with fraud.”",
+              "guidance": "Charge someone with a crime; this does not establish guilt."
+            },
+            {
+              "situation": "You report a finding of guilt.",
+              "examples": "“He was convicted of fraud.”",
+              "guidance": "Convict someone of a crime."
+            },
+            {
+              "situation": "You report the punishment.",
+              "examples": "“The judge sentenced him to three years in prison.”",
+              "guidance": "Sentence someone to a punishment."
+            },
+            {
+              "situation": "You report strong criticism.",
+              "examples": "“The judge condemned his behavior.”",
+              "guidance": "Condemn normally expresses disapproval; the formal legal use also permits condemned to death."
+            }
+          ],
+          "note": "Charge is an accusation; convict is a finding of guilt; sentence imposes punishment. A person can be charged without later being convicted. Condemn usually expresses strong disapproval; its formal legal sense also permits “condemned to death.” Sentence is the usual neutral verb for reporting a prison term. This comparison focuses on the legal sense of charge; its other everyday senses are outside this proposal."
+        }
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "a punishment imposed by a court.",
+            "example": "He received a three-year prison sentence.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "a grammatical unit expressing a statement, question, or other complete construction.",
+            "example": "Write one sentence using the new word.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "sentence"
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To express strong disapproval of someone or something, usually for moral reasons.",
+            "example": "The board condemned the use of customer data without consent.",
+            "synonyms": [
+              {
+                "term": "denounce",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for public disapproval"
+              },
+              {
+                "term": "sentence",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for legal punishment"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "praise",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "of expressing disapproval"
+              }
+            ]
+          },
+          {
+            "definition": "To sentence someone to a punishment or force someone into an unpleasant condition.",
+            "example": "The ruling condemned thousands of families to years of uncertainty.",
+            "usage_note": "Pattern: condemn someone to something.",
+            "synonyms": [
+              {
+                "term": "sentence",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "used specifically for a legal punishment"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "To officially declare a building unsafe or unfit for use.",
+            "example": "Inspectors condemned the apartment building after the fire.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "condemn",
+        "common_patterns": "condemn + person/thing; condemn someone for + wrongdoing; condemn something as + description; condemn someone to + punishment/condition."
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "officially find someone guilty of a crime.",
+            "example": "He was convicted of fraud.",
+            "synonyms": [
+              {
+                "term": "find guilty",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "with the verb"
+              },
+              {
+                "term": "prisoner",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "to the noun, not every prisoner has been convicted"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "acquit",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "of the verb: acquit someone of a charge"
+              }
+            ]
+          }
+        ],
+        "entry_term": "convict",
+        "common_patterns": "convict someone of + crime; be convicted of + crime; an escaped convict."
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "a person found guilty of a crime, especially one serving a prison sentence.",
+            "example": "The novel follows an escaped convict.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "convict"
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "formally accuse someone of a crime.",
+            "example": "Prosecutors charged him with fraud.",
+            "synonyms": [
+              {
+                "term": "accuse",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader and uses accuse someone of something"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "charge",
+        "common_patterns": "charge someone with + crime/V-ing; be charged with + crime; face a charge; charges against someone."
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "a formal accusation of a crime.",
+            "example": "He faces a fraud charge.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "charge"
+      }
+    ],
+    "observed_forms": [
+      "sentence",
+      "condemn",
+      "convict",
+      "charge",
+      "sentence / condemn / convict / charge"
+    ],
+    "sources": [
+      "Learner-approved consolidated vocabulary review, 2026-10-14; final removals and grouped layout approved in conversation."
+    ],
+    "seen_date": "2026-10-14",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true,
+    "merge_from": [
+      "condemn"
+    ]
+  }
+]

@@ -1,0 +1,3004 @@
+{
+  "created_on": "2026-10-27",
+  "root_directory": "EN",
+  "purpose": "Portable authoring snapshot and cloud design handoff",
+  "python_minimum": "3.10",
+  "files": {
+    ".gitignore": {
+      "bytes": 346,
+      "sha256": "3b24aa6634df1692ac1f80b2224d2e3c810630a4c4d7bb716a2ccce5c85f1d15"
+    },
+    "AGENTS.md": {
+      "bytes": 24533,
+      "sha256": "e792733091a19b9915d5a9b5a582d9303858243df6e5dee275361785397530de"
+    },
+    "PLAN.md": {
+      "bytes": 7059,
+      "sha256": "8e0af39620ab6a5ce55da40f20be46e209769ef004309177a6bb1fa3b316c9cf"
+    },
+    "README.md": {
+      "bytes": 2048,
+      "sha256": "18791e99b9b675063763946a899e462cd11dea1013233dd1d68848708710d0ee"
+    },
+    "UNIT-MANIFEST.md": {
+      "bytes": 7767,
+      "sha256": "2b8fa72cb7b1c205a147af269d97c188ba88f072c18c0d4b7fb9f61dfbd592a2"
+    },
+    "UNIT-SPEC.md": {
+      "bytes": 3197,
+      "sha256": "45e54cba27e82ed1cd7ab7897ea789a400ea1ef017454f4f73991f9e1c8cd754"
+    },
+    "cards/CARD_AUTHORING.md": {
+      "bytes": 10047,
+      "sha256": "3920fbccc2c147e691abdd19e71d2edee4419c6f8ee985b57dcbca5da3392291"
+    },
+    "cards/CONNECTION_DECK_PLAN.md": {
+      "bytes": 38890,
+      "sha256": "5c1494cb86c955ff632a28ded9d9ba9a9be34c436d2eaf696ec087d76b68e072"
+    },
+    "cards/PREPOSITION_DECK_PLAN.md": {
+      "bytes": 45716,
+      "sha256": "f9fc9e90092dfd362423b9f2c2fcedb7007350d123a8b2a389d1c6aabd3d768b"
+    },
+    "cards/connections/01-prepositions.md": {
+      "bytes": 48169,
+      "sha256": "1a417fbeb18f8cecb3258a002ac3d5167bc4a79223258c54032355d79efa1840"
+    },
+    "cards/connections/02-verb-patterns.md": {
+      "bytes": 62002,
+      "sha256": "fd9a3d7e8cc488f7afcfce79fc7ae41339ef9c90847160e2bf3e8e1af0bb0023"
+    },
+    "cards/connections/03-adjective-participle-patterns.md": {
+      "bytes": 40009,
+      "sha256": "568a510b3acc511d246cb95b1450b36ab286cf91543fc61a66c8a51c23ae06a1"
+    },
+    "cards/connections/04-noun-patterns.md": {
+      "bytes": 34285,
+      "sha256": "cf1685a36463308b9e65c04e97a5d72eeee13e504e81ac65c93073adfa0549de"
+    },
+    "cards/connections/05-conjunction-clause-linkers.md": {
+      "bytes": 42235,
+      "sha256": "1991c42e233f187013aee29d3190be44028d8e8d65937097397ecda97188b8cb"
+    },
+    "cards/connections/06-relative-noun-modifying-clauses.md": {
+      "bytes": 26871,
+      "sha256": "3da59f31d063f19ed03b64db0bb56d576b5e0dba5aab24e824b5e537b217db33"
+    },
+    "cards/connections/07-nonfinite-reduced-clauses.md": {
+      "bytes": 15849,
+      "sha256": "d172f599255038f0fb5cd310ba17bb9b8a932e9d5c677a03402bbb74e778621a"
+    },
+    "cards/connections/08-coordination-parallelism.md": {
+      "bytes": 23645,
+      "sha256": "6fa74f97f95cbdf7fc326f6e7aa5a02daf7fad208531e43a0638bd214e80f20d"
+    },
+    "cards/connections/09-comparison-degree-result.md": {
+      "bytes": 35506,
+      "sha256": "462f45c76d3840ccae312c038419d9ed2ea956943ee8aa5a78da6be8ddb5fcc8"
+    },
+    "cards/connections/AUDIT.md": {
+      "bytes": 5781,
+      "sha256": "54b8229cbbb5e44fc7dd229e64d201effd037fdff3b68d62a332bdd69d809354"
+    },
+    "cards/connections/README.md": {
+      "bytes": 3514,
+      "sha256": "77c34da4293fa50cfabf28c4ea471ecbe8410cf2aff751c58ac0c67fdf46385d"
+    },
+    "cards/connections/anki-import.tsv": {
+      "bytes": 330535,
+      "sha256": "758325aa00489f1fc7fcc45562aefb9bdb8dd7d00207065b2a3f921461a3ad72"
+    },
+    "cards/connections/card-reviews/01.md": {
+      "bytes": 39582,
+      "sha256": "557995f255c0bcaceb3a65e7dc288e891bebfcccd3bd81c73414e17d48972f25"
+    },
+    "cards/connections/card-reviews/02.md": {
+      "bytes": 25548,
+      "sha256": "5ee5fcfacb1f516df4bf322ac99177cf97e886c1e9a9c0f491246b074b924ab4"
+    },
+    "cards/connections/card-reviews/03.md": {
+      "bytes": 35394,
+      "sha256": "cefb31ae6f475056de16fc0ac4e158bf98ad8a44e25adffd6e4a6e1a2e4447f0"
+    },
+    "cards/connections/card-reviews/04.md": {
+      "bytes": 24094,
+      "sha256": "88b8fb7f0573bfd1d7abbe1fcd72e8ca9b5d70e1499e0e6e131588aa43bb6c5e"
+    },
+    "cards/connections/card-reviews/05.md": {
+      "bytes": 31873,
+      "sha256": "36bbe2a38797c299eb4ce46b5d899cfa36c618d52825cdf5a1c3da9d23707faf"
+    },
+    "cards/connections/card-reviews/06.md": {
+      "bytes": 22481,
+      "sha256": "54170ddaacda88c5908e51793fd76c3d3abd8393ae71a70d642f513c6639d24e"
+    },
+    "cards/connections/card-reviews/07.md": {
+      "bytes": 2378,
+      "sha256": "9affeaa2fbed1426526c598c0fe5a8289e1429cb461b46663a17c743176cb756"
+    },
+    "cards/connections/card-reviews/08.md": {
+      "bytes": 2240,
+      "sha256": "0725d6b9975ec7684062bcfc4dcdde414793f5946f89dc059deaf896ee37419d"
+    },
+    "cards/connections/card-reviews/09.md": {
+      "bytes": 7814,
+      "sha256": "893f993179c4b697e9bc5b86df5b708af73e9bb3e7d21b5e6d8bb4358ece84ab"
+    },
+    "cards/connections/card-reviews/README.md": {
+      "bytes": 1056,
+      "sha256": "5363aca36ffe3896d6a88b18e4f5b66e491205aa708b74b9acbd7e0bdf74ab0b"
+    },
+    "cards/connections/coverage.tsv": {
+      "bytes": 247885,
+      "sha256": "ad422ab4bc138da9dfaf66b55448fdae50fc8665cc4df1aa40cff0a8f7ac4b56"
+    },
+    "cards/connections/inventory-reviews/01-02.md": {
+      "bytes": 6925,
+      "sha256": "201a390bab7a679ed8e5e406c872c62f3179a6d29749359e61d6028544f890b1"
+    },
+    "cards/connections/inventory-reviews/03-04.md": {
+      "bytes": 8069,
+      "sha256": "08e01a95d53247164fb526942c77b365e91699f4690fa7c745a91ef1a3842582"
+    },
+    "cards/connections/inventory-reviews/05-07.md": {
+      "bytes": 10493,
+      "sha256": "dd27c5fb1f5b6606c68a632f6925036bfb10a3827d76a303c1d8fabde2345a9f"
+    },
+    "cards/connections/inventory-reviews/08-09.md": {
+      "bytes": 6880,
+      "sha256": "0db80837df6711a1f270e0dd9ef6d7cc865fb43aee98e5fc5c96424dbaa6016a"
+    },
+    "cards/connections/inventory-slices/01-02.tsv": {
+      "bytes": 72130,
+      "sha256": "a483e8edeaf22dc58949d041a199af72d69949c0285735d8a3f3e3607e05756a"
+    },
+    "cards/connections/inventory-slices/03-04.tsv": {
+      "bytes": 58522,
+      "sha256": "68960af704608eeb1e065d8eab435859068b6f9df2ab17eae4de109bdb297ea5"
+    },
+    "cards/connections/inventory-slices/05-07.tsv": {
+      "bytes": 67248,
+      "sha256": "14548e867610d725288799cc36dbecb840b0b24e8f202ec530a68c3f9a3ee234"
+    },
+    "cards/connections/inventory-slices/08-09.tsv": {
+      "bytes": 50531,
+      "sha256": "83f9462012a61a74267066e209c1f8d1ff8f26a17c9c60445931a08284d266f3"
+    },
+    "cards/connections/inventory-slices/README.md": {
+      "bytes": 3923,
+      "sha256": "986e603b4f6817c19cf5254618f34f6164431214e13764eeec3d9d28494a21af"
+    },
+    "cards/corrections/README.md": {
+      "bytes": 13175,
+      "sha256": "9e8f13261be52dd027e1c2ecfd12ee8eb44ac83ca7563548315bd63f701d973f"
+    },
+    "cards/corrections/data/correction_master.json": {
+      "bytes": 127131,
+      "sha256": "e0bb8431b1d274d7f8fc115fe1a28bc743eaa8ebbc8a0ccdaaf3e3c17a7e2f85"
+    },
+    "cards/corrections/scripts/update_corrections.py": {
+      "bytes": 29743,
+      "sha256": "7a70e7799bb4fd2e958aea5a6f46574f9f2908748568e3a8c25a17b607523303"
+    },
+    "cards/patterns/OMISSION_GRAMMAR_CARD_SPEC.md": {
+      "bytes": 8144,
+      "sha256": "e0ae81f3085243e33a2345fc49ec85bcbcf033fc06328dc475f6d092ecff7217"
+    },
+    "cards/patterns/PATTERN_FRAME_SELECTION.md": {
+      "bytes": 72559,
+      "sha256": "e8251f00a66d706b39eb63e5dc7f4c533f9423f84b6804c6147798d0207651ab"
+    },
+    "cards/patterns/README.md": {
+      "bytes": 1697,
+      "sha256": "a8349cddae31171507827a137ec5bf676916535cc597723b088047cd18156b45"
+    },
+    "cards/patterns/american_english_production_patterns_catalog.md": {
+      "bytes": 451104,
+      "sha256": "69cc18a516bd4e26da6c70dc0159e7485bed40c09beed3b12e656bd37a51c616"
+    },
+    "cards/patterns/anki-import.tsv": {
+      "bytes": 239960,
+      "sha256": "b462b4c7d99d6643ca371a4d4faf8126a042abdc4a421eefdd8b083ba87be736"
+    },
+    "cards/patterns/cards.md": {
+      "bytes": 217756,
+      "sha256": "d22f3ec4ac1aaa8d24265dca1ca9c0b362ef6d351242bf99cc812bd374783764"
+    },
+    "cards/prepositions/AUDIT.md": {
+      "bytes": 8578,
+      "sha256": "753595044da9775f86508764493b08ada1d43d99985c5fcd921b2cd71058c952"
+    },
+    "cards/prepositions/PILOT.md": {
+      "bytes": 13119,
+      "sha256": "78c661bc58ee8287fad081a42892255a7ccaf739c0d8938f26ece2315cf9aa62"
+    },
+    "cards/prepositions/coverage.tsv": {
+      "bytes": 165708,
+      "sha256": "2a12bab215a298eadcc50e6ac797995eeeea772da06c6126756dcdc8de55504c"
+    },
+    "cards/prepositions/inventory-reviews/01-03.md": {
+      "bytes": 5710,
+      "sha256": "267995099c13e0be5e62896e0744a378cfa986b926b6d2c314ddd9aa940fa27c"
+    },
+    "cards/prepositions/inventory-reviews/04-05.md": {
+      "bytes": 18299,
+      "sha256": "56a91af98fda9d993bbd99406ce6880bf42363d04b59d2d7dc4e2b963c59620c"
+    },
+    "cards/prepositions/inventory-reviews/06-07.md": {
+      "bytes": 15532,
+      "sha256": "5e5a601aaa4511a3a0b6a5e3cd2cbe1a6883996e2b1d1760f87b966c12a4db42"
+    },
+    "cards/prepositions/inventory-reviews/08-09.md": {
+      "bytes": 12216,
+      "sha256": "1050703d70b624d01e981801946894dd631954232f74ecb012d3552c4e20de5f"
+    },
+    "cards/prepositions/inventory-slices/01-03.tsv": {
+      "bytes": 38223,
+      "sha256": "092389a41c2cb44203a0f2a4f76588c958d28d63c1196e68f7aece80cb80b149"
+    },
+    "cards/prepositions/inventory-slices/04-05.tsv": {
+      "bytes": 40811,
+      "sha256": "6607f09ddc746fff9a1e0dd266620c9fa0bc455ae5acaabc5956358df85ee60a"
+    },
+    "cards/prepositions/inventory-slices/06-07.tsv": {
+      "bytes": 34169,
+      "sha256": "50f4bd9135d76f4f986fe7236380d1f7a8e232a8f800e79a14534be33f42eda4"
+    },
+    "cards/prepositions/inventory-slices/08-09.tsv": {
+      "bytes": 52909,
+      "sha256": "54e9c804089e3262fed9a130470568156bf23c296aaac00378885cfdc4e1a8ea"
+    },
+    "cards/prepositions/inventory-slices/README.md": {
+      "bytes": 2421,
+      "sha256": "08471786b05e6d6677fda1fdcc4efae438079a37b7d0e95c6f09ab40bec18f92"
+    },
+    "cards/tools/build_connection_coverage.py": {
+      "bytes": 11028,
+      "sha256": "3265fb1d93b7c25394d5fe600bb4e547581d8062c495aea0e045a276a43df4d9"
+    },
+    "cards/tools/build_connection_import.py": {
+      "bytes": 25402,
+      "sha256": "7dc70af89789d2d4a4ca1381490e772392884c546483c1fdedc8003c53d3f8de"
+    },
+    "cards/tools/build_import.py": {
+      "bytes": 20193,
+      "sha256": "1323fd2faf688b37daa7bd9a4cd3a9988805e5ba0ffbde6911f050b654c7283a"
+    },
+    "cards/tools/build_preposition_coverage.py": {
+      "bytes": 6776,
+      "sha256": "8ecbf09540f0c2721208d4896921297a05e5d3c097929aacb34a64881b515604"
+    },
+    "cards/tools/promote_connection_cards.py": {
+      "bytes": 7834,
+      "sha256": "0a481064287a563dabee3b10642641cc0939e26e65d36b483218abeb80ee9479"
+    },
+    "cards/vocabulary/CARD_AUTHORING.md": {
+      "bytes": 34774,
+      "sha256": "e4a72de638a37fe967d2c199e5cd0f5d61b14fd9dd974329c9d8479321f21ca7"
+    },
+    "cards/vocabulary/README.md": {
+      "bytes": 3095,
+      "sha256": "136a86c1b91d579eecbdd4cdac556de505be80d06e401c9cc90f4c7f0011e9ff"
+    },
+    "cards/vocabulary/anki/back.html": {
+      "bytes": 359,
+      "sha256": "2377d61994aff6d20c7f5f2c127d3ca302a24592321d3ca62ff08918b46edafe"
+    },
+    "cards/vocabulary/anki/front.html": {
+      "bytes": 319,
+      "sha256": "ec4c2e16c2d0f754865a5a8912d3e50f543c8134a719e2166cec44d54b36baec"
+    },
+    "cards/vocabulary/anki/styling.css": {
+      "bytes": 3502,
+      "sha256": "88892b7793d0d58d13d6d3b2cf71fde35cf15a55d32514d817b02786f226c277"
+    },
+    "cards/vocabulary/data/updates/2026-08-21-approved-seven.json": {
+      "bytes": 14695,
+      "sha256": "0f96559c6e5dc0665320d760779ac981348e9cfe593a714359d752a1ecc9e771"
+    },
+    "cards/vocabulary/data/updates/2026-08-21-canal-turn-out-turnout.json": {
+      "bytes": 7475,
+      "sha256": "84ee997fd02a67919bf42b04e70267b5e121ff00a14177d4d33e4d6079f8ad88"
+    },
+    "cards/vocabulary/data/updates/2026-08-21-initial-batch.json": {
+      "bytes": 38134,
+      "sha256": "bda3ed88731878fcdd6c40e002d814849e062f9806ba4fb55c4012877c7f8a59"
+    },
+    "cards/vocabulary/data/updates/2026-08-21-sociopath-astray-batch.json": {
+      "bytes": 6648,
+      "sha256": "32ad053cc582a8c5033b5fe36b017937c70eca830f838e1350e735028830bf01"
+    },
+    "cards/vocabulary/data/updates/2026-08-24-approved-22.json": {
+      "bytes": 40667,
+      "sha256": "f9b9f708e375460d6a77e3b4a52c5213ae887454037d03b25037e8481971b303"
+    },
+    "cards/vocabulary/data/updates/2026-08-25-cunning.json": {
+      "bytes": 2466,
+      "sha256": "a76e9a7388ed424d617fc892de97aa9b090d256b4d162ed5b5f5242139cff9ea"
+    },
+    "cards/vocabulary/data/updates/2026-08-25-meteorology-as-yet-cylinder-harsh-shade-startle.json": {
+      "bytes": 11786,
+      "sha256": "b93a236b4b306e6be293e8d7e3eb59d569f76ffacd6270880644c8e2faa69930"
+    },
+    "cards/vocabulary/data/updates/2026-08-26-smuggle-hassle-alchemy-conceive.json": {
+      "bytes": 7673,
+      "sha256": "252bfec71a6b0c7fbd559fc92387efdf4c76babc2b763d039866017a808f2455"
+    },
+    "cards/vocabulary/data/updates/2026-09-08-gecko-vocabulary.json": {
+      "bytes": 36694,
+      "sha256": "c728851bbde4bbe44f66ae930cdbe46459d95a0aaf22f5a1db044329c3da33e3"
+    },
+    "cards/vocabulary/data/updates/2026-09-15-use-up.json": {
+      "bytes": 2116,
+      "sha256": "0c3224d59c2dcf23f38619692d339ef4441b4ff63013e6cad4180d710d0edbf0"
+    },
+    "cards/vocabulary/data/updates/2026-09-16-actuate.json": {
+      "bytes": 2851,
+      "sha256": "7ffa6160e74388fb8f1d1c93e813d5309c88104e1a7c93d7c5a2d7f10bbd8549"
+    },
+    "cards/vocabulary/data/updates/2026-09-16-arouse.json": {
+      "bytes": 3241,
+      "sha256": "d6ce47a1ad6b6c3f5f837988a52b9422f0d020ce53d330b8cd3b15b22cbbc679"
+    },
+    "cards/vocabulary/data/updates/2026-09-17-approved-pending-24.json": {
+      "bytes": 54288,
+      "sha256": "a75c68d608b85778631309eb4c63bba7fd38003f39f6873cf423e594bc418c51"
+    },
+    "cards/vocabulary/data/updates/2026-09-17-stick-fold.json": {
+      "bytes": 15403,
+      "sha256": "1e01d76ec6e2017b7786fd03a133924bf3a1124f55bbaa1708f149ba382e0dc5"
+    },
+    "cards/vocabulary/data/updates/2026-09-17-winder-cog-fond-thermometer-probe-speedometer.json": {
+      "bytes": 13705,
+      "sha256": "ddda958d7f9e72aabc0d839797ac0243e7e2debd5a6bb85de98ff0aabba565d5"
+    },
+    "cards/vocabulary/data/updates/2026-09-23-approved-pending-batch.json": {
+      "bytes": 37908,
+      "sha256": "2ea385afe3a13598a962cbe582b05e67f584e9b821bc78782f96c5dcf04e28c7"
+    },
+    "cards/vocabulary/data/updates/2026-10-12-nyc-la-approved.json": {
+      "bytes": 136186,
+      "sha256": "6ebad57c8d891c19dfc8a826c11f3c06393d2fc132bbe3ae756eb5b4858e6d4a"
+    },
+    "cards/vocabulary/data/updates/2026-10-13-in-place-out-there.json": {
+      "bytes": 6542,
+      "sha256": "c1981875a52bb5f922550638a21e5c58cdf9f588a5901d4f92c0781c57e09afd"
+    },
+    "cards/vocabulary/data/updates/2026-10-13-streamline.json": {
+      "bytes": 2202,
+      "sha256": "76b0ce03e5d601f5205033c6d5fdaf6d3a6d56fc052c78d47f3b5100760533cf"
+    },
+    "cards/vocabulary/data/updates/2026-10-14-approved-contrast-batch.json": {
+      "bytes": 92736,
+      "sha256": "5f798b7e86d819227b082979bc8edc4cf19fb3709099d71ab83b6afa6c97f0be"
+    },
+    "cards/vocabulary/data/updates/2026-10-15-astray-deviate-detour-contrast.json": {
+      "bytes": 12302,
+      "sha256": "73f298bd5e919ef75ba6692f28d33a4d066ae45b16f48d7866574c51a137d0ee"
+    },
+    "cards/vocabulary/data/updates/2026-10-27-personal-chunks.json": {
+      "bytes": 128455,
+      "sha256": "e42202cd58b9e4f176454f9e426bd97e22bed2f0bed7bff93a2c7d9240f83f11"
+    },
+    "cards/vocabulary/data/vocabulary_master.csv": {
+      "bytes": 408314,
+      "sha256": "2be0ff157e4cf75b287daf581b8eda88bde60051097ffe9c61921e8f3c1bdc8c"
+    },
+    "cards/vocabulary/exports/anki_import.csv": {
+      "bytes": 465666,
+      "sha256": "196d932e16f5240a5da68f6a46bf611a4972155f1cec80a2fe6c60cf4e2a5fb9"
+    },
+    "cards/vocabulary/reviews/2026-10-12-nyc-la-approved/NYC_English_Complete_Review.xlsx": {
+      "bytes": 37645,
+      "sha256": "26bfd4f8dd049b2137fbfbff2f68c8ecb127e89702d71b94aab3573c265c2acd"
+    },
+    "cards/vocabulary/reviews/2026-10-12-nyc-la-approved/NYC_LA_Added_Cards.md": {
+      "bytes": 54072,
+      "sha256": "c41a43ffb7c5c3296612261f477bd00f4d4c11e641f37766aaa197dc841fd02a"
+    },
+    "cards/vocabulary/reviews/2026-10-12-nyc-la-approved/NYC_LA_Added_Cards_Manifest.json": {
+      "bytes": 14179,
+      "sha256": "8232989b26951840e58a0eafa0ced04c00b01215ef52f2cdccbf9e4b98c49fd0"
+    },
+    "cards/vocabulary/reviews/2026-10-12-nyc-la-approved/NYC_LA_English_Review.csv": {
+      "bytes": 137932,
+      "sha256": "ea03d40398d10c8e6092405847fc83f6391203b33ad12faa273713c3dd51e76c"
+    },
+    "cards/vocabulary/reviews/2026-10-12-nyc-la-approved/NYC_LA_Review_Checklist.md": {
+      "bytes": 8735,
+      "sha256": "1c1738ae886e6df5616ee034ac87e263779311878cd4be39d528d0dd287bc31f"
+    },
+    "cards/vocabulary/reviews/2026-10-14-approved/Complete_Cards.md": {
+      "bytes": 86805,
+      "sha256": "40ad2be4e942bd89866cdd4884fbfa791d5cbf65fcc37ed2c1ee01ddb76a4fa6"
+    },
+    "cards/vocabulary/reviews/2026-10-14-approved/Consolidated_Vocabulary_Review_2026-10-14.inventory.json": {
+      "bytes": 3429,
+      "sha256": "bbe180c61b4d5ca616eadecf4cb29a90a4f4e0f4ffe6a9536d0171f2e911ddb2"
+    },
+    "cards/vocabulary/reviews/2026-10-14-approved/Consolidated_Vocabulary_Review_2026-10-14.md": {
+      "bytes": 48891,
+      "sha256": "090079bd86922a40a3444860af54b926153ee2ffd1e90bb6b4f23014292f8f15"
+    },
+    "cards/vocabulary/reviews/2026-10-14-approved/anki-note-migrations.json": {
+      "bytes": 389,
+      "sha256": "6460b4ff7c3b19c627864c5ac6f8d4b861d8364e152de2ae1613784033ea2ab8"
+    },
+    "cards/vocabulary/reviews/2026-10-14-approved/validation.json": {
+      "bytes": 429,
+      "sha256": "4b51ee2b1e165d903850a0b8a676cf129bdc9aad17b1a0bd8d631305ca9378c6"
+    },
+    "cards/vocabulary/scripts/test_grouped_vocabulary.py": {
+      "bytes": 3315,
+      "sha256": "31ef71806e4b535266747e01fac36c9df77932a22629df6c3961d5dec1c6d376"
+    },
+    "cards/vocabulary/scripts/update_vocabulary.py": {
+      "bytes": 28497,
+      "sha256": "efb93ee96dbd207acb4b73a9902c4a935f2518ad2029001c6b0fd0a21c40f396"
+    },
+    "cheat-sheet.md": {
+      "bytes": 9056,
+      "sha256": "b0a2fe92f7926706fbf46288311632978b6c4e33f568a5306aa5047a58356d78"
+    },
+    "design.md": {
+      "bytes": 16671,
+      "sha256": "023457a0cd25ac716663eafaa1e6038aba3f8a1ef4f0c06f3ea489abb495a971"
+    },
+    "diagnostic.md": {
+      "bytes": 3978,
+      "sha256": "6af71d9fe8af3c5729ac3eb4491887e106e8a8564b16bad2fb329d8a067e072a"
+    },
+    "grammar-map.md": {
+      "bytes": 17260,
+      "sha256": "4d0a5b0c35f3aee585c6cb13b7c5e38b178fac4d18d3d5f94636da7ecf441552"
+    },
+    "grammar_in_use/01-time-and-tense/README.md": {
+      "bytes": 3843,
+      "sha256": "620552ed62092e5b0547f4b98c19f807673718a7597bdb8e9d5fbe32ffd2ac28"
+    },
+    "grammar_in_use/01-time-and-tense/units/001.md": {
+      "bytes": 2234,
+      "sha256": "e69d765b77f03167bb32fbe2cb0c7d144f61cf94f5454de92e7e444ca9902500"
+    },
+    "grammar_in_use/01-time-and-tense/units/002.md": {
+      "bytes": 2319,
+      "sha256": "8ea1d628f6738a8deb0e3e3e47c6e3d481c4a3aac5bae356973003f00fd3215f"
+    },
+    "grammar_in_use/01-time-and-tense/units/003.md": {
+      "bytes": 2406,
+      "sha256": "9158565e04d861876fdf13db3e092daeee02b2e04679089132f83cd7ef5a1ccb"
+    },
+    "grammar_in_use/01-time-and-tense/units/004.md": {
+      "bytes": 2657,
+      "sha256": "6588fa5241dcdc0440f1f44d8487af622b459368414920d3fdaa5bf509fd0ba3"
+    },
+    "grammar_in_use/01-time-and-tense/units/005.md": {
+      "bytes": 2092,
+      "sha256": "114d7d34aed9c7f3108460da53eb4ab92424627bd5f3692f41afd116c43085fa"
+    },
+    "grammar_in_use/01-time-and-tense/units/006.md": {
+      "bytes": 1885,
+      "sha256": "8c4dc4ec5d68a2b2488819fd6cc49a32a556d8a3fcc86d2b2cbfdef8c4c822ac"
+    },
+    "grammar_in_use/01-time-and-tense/units/007.md": {
+      "bytes": 1940,
+      "sha256": "3eb28cc2dbe91d20f08b159272284230e08c6a808293647b6319bd70bf485124"
+    },
+    "grammar_in_use/01-time-and-tense/units/008.md": {
+      "bytes": 2854,
+      "sha256": "ab1e957d0d1b008dd3dedac9498c451f472bb0dbaded1f466a1313e8d4b49c9d"
+    },
+    "grammar_in_use/01-time-and-tense/units/009.md": {
+      "bytes": 2642,
+      "sha256": "4991645e8c3a7d71438bad920fb112f4c6afcc136baa625d509e00a851c15ca7"
+    },
+    "grammar_in_use/01-time-and-tense/units/010.md": {
+      "bytes": 2488,
+      "sha256": "cc7fabe9867c851b7e4933eb723fc161ce8883ee891e65655f0f6c3573fd0975"
+    },
+    "grammar_in_use/01-time-and-tense/units/011.md": {
+      "bytes": 2594,
+      "sha256": "53a51d155d75adfc5ed91c2498844fe99aa591f2e0a63d7172395cf670fb9502"
+    },
+    "grammar_in_use/01-time-and-tense/units/012.md": {
+      "bytes": 2801,
+      "sha256": "504c5e567705bea81aa72affaa7333bb5d1784166f8e068b1fc7cf7525918f5d"
+    },
+    "grammar_in_use/01-time-and-tense/units/013.md": {
+      "bytes": 2613,
+      "sha256": "911a8a9a8d9d7505e6e2cdee085f4f4b3eaca73c8cd9e83dd7e3cba03eb49de4"
+    },
+    "grammar_in_use/01-time-and-tense/units/014.md": {
+      "bytes": 2556,
+      "sha256": "6abd92c81bba58d6bfd0be35feff563da297c5dbad39869b07d683066e744ffe"
+    },
+    "grammar_in_use/01-time-and-tense/units/015.md": {
+      "bytes": 2331,
+      "sha256": "92fd569536b0bf2d64ddc1697946e4918eae9026f63c658f703390699ba597b2"
+    },
+    "grammar_in_use/01-time-and-tense/units/016.md": {
+      "bytes": 2611,
+      "sha256": "6bdd2ec3747cb61b181752f9178f14f59c42e7a9838ebfb8988d5e21738d64a4"
+    },
+    "grammar_in_use/01-time-and-tense/units/017.md": {
+      "bytes": 2290,
+      "sha256": "8e244e3f627d6532f2f8eb9f74b7993b6c87c041adec4a66d89bd33785740205"
+    },
+    "grammar_in_use/01-time-and-tense/units/018.md": {
+      "bytes": 2478,
+      "sha256": "a995132cb3b5708927b6767e63b216c53a9476db827f2f094e484a63e19e0fc6"
+    },
+    "grammar_in_use/02-future-and-conditionals/README.md": {
+      "bytes": 3445,
+      "sha256": "653a0a3fb94548bd91f042969683195ac8d03e38e63a5aa65b1c141d22b483e1"
+    },
+    "grammar_in_use/02-future-and-conditionals/units/019.md": {
+      "bytes": 2339,
+      "sha256": "7be09f378a2a7137a566a18952007aaa814ad0b68569b3f6ae6aa00055c51323"
+    },
+    "grammar_in_use/02-future-and-conditionals/units/020.md": {
+      "bytes": 2311,
+      "sha256": "5548ba07bb5aa45149b98437b9b9c717c68f6dbc9458d92185601fea003587f9"
+    },
+    "grammar_in_use/02-future-and-conditionals/units/021.md": {
+      "bytes": 2184,
+      "sha256": "4e19c0202327c2cb7136db2dd0b6fb271537db5b9188c3ea801bd397a2c0f8bf"
+    },
+    "grammar_in_use/02-future-and-conditionals/units/022.md": {
+      "bytes": 2413,
+      "sha256": "bdfee2adfc85db3af1f12e646ce70be80e59769d7b22734e51ca3510ca7c0533"
+    },
+    "grammar_in_use/02-future-and-conditionals/units/023.md": {
+      "bytes": 2000,
+      "sha256": "9776e18121a12f00513fd014ae233c9fd2319583b713fb8b4c4d367664e66a16"
+    },
+    "grammar_in_use/02-future-and-conditionals/units/024.md": {
+      "bytes": 2203,
+      "sha256": "c6cad198da7316b91ccbe156d76d608e924ebfcbfaf9cb05cda91a62e9e97725"
+    },
+    "grammar_in_use/02-future-and-conditionals/units/025.md": {
+      "bytes": 2137,
+      "sha256": "6cc3c151a4cfc04e4ef477619eaef28160eb50d531f87041e8620d3c2f55d805"
+    },
+    "grammar_in_use/02-future-and-conditionals/units/038.md": {
+      "bytes": 1818,
+      "sha256": "042791f9287210248b27b19459123dea4cc994e20f93a352a716870a6c1ed7b9"
+    },
+    "grammar_in_use/02-future-and-conditionals/units/039.md": {
+      "bytes": 1985,
+      "sha256": "bc6f69bcc413d5e0f289a7613873843c846a06a59f6e31b907010e882e28e4d6"
+    },
+    "grammar_in_use/02-future-and-conditionals/units/040.md": {
+      "bytes": 1911,
+      "sha256": "657db01e7bdfafafae3f895d8ba7872eb9a4f6d5c1533cc3dc4189e812132902"
+    },
+    "grammar_in_use/02-future-and-conditionals/units/041.md": {
+      "bytes": 1976,
+      "sha256": "d9128a75fb36353275a0de6623c0aad9e9abb24c2c5bd54076265dc34f97010b"
+    },
+    "grammar_in_use/03-modals-and-attitude/README.md": {
+      "bytes": 3479,
+      "sha256": "fe95e8d1557e1353dcab7c784d62121e539d125d8a3de54dbb8a8678688c2bea"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/026.md": {
+      "bytes": 2373,
+      "sha256": "37376b2aaf59977da52fe47d672ad552256e46790dafa48b27a5f4500f199a6f"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/027.md": {
+      "bytes": 2479,
+      "sha256": "fe62227616c4dc132b8923e785b8db67554a48bd2dce58b9c5965a4852597895"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/028.md": {
+      "bytes": 2077,
+      "sha256": "f0e49ee23a2bd3c93b5cbf386b243bc3d1f122afda698edf5b48545050000edf"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/029.md": {
+      "bytes": 2173,
+      "sha256": "db8eacc4fb16ab5377abcf955e16a011b284c32697b962e6e94e56aaae52482d"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/030.md": {
+      "bytes": 1921,
+      "sha256": "6fe0fbfd9cb05aca9f97fd4599eabd6119c22f16bf142dc14e9aa728b0131395"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/031.md": {
+      "bytes": 2276,
+      "sha256": "4659a2516daaa4ada63cc30bedb620627d869597659dab20d96e5f1e81ae01c8"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/032.md": {
+      "bytes": 2229,
+      "sha256": "9ec68e58984a18c69fe99b2ee1839fb103c4a3be2b802a6f56b5b3eb52e38081"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/033.md": {
+      "bytes": 2272,
+      "sha256": "6490799ce7323cb5283c260b1723af3c6781edeecce5ed5716305295f80c3b30"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/034.md": {
+      "bytes": 2192,
+      "sha256": "542cd14a5406a9507480d555257fb4379329adbcc93859cea0e5bc3dc3a376ba"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/035.md": {
+      "bytes": 2026,
+      "sha256": "5c8f8b0cc1ce30258e40fefe92d62c7371fb6a710954425adbff90e16bb9540e"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/036.md": {
+      "bytes": 2233,
+      "sha256": "5320895faf57ea900e4c08f86d0e025d5daa40b4459537149cf997085178b586"
+    },
+    "grammar_in_use/03-modals-and-attitude/units/037.md": {
+      "bytes": 2181,
+      "sha256": "965c172bfe45059a9522b789094b8a35932ddd14033c910afd75c7ffa504b7f5"
+    },
+    "grammar_in_use/04-passive-and-reported-meaning/README.md": {
+      "bytes": 3589,
+      "sha256": "88e174bcafd4a0f4737f08ba043c7096575f2bb3b0d0627cd3a0d7ad48478cb1"
+    },
+    "grammar_in_use/04-passive-and-reported-meaning/units/042.md": {
+      "bytes": 2122,
+      "sha256": "bb5782cb5376bdd725e82b42cbfff1c6876c8aa684a019fb7632905c01df682b"
+    },
+    "grammar_in_use/04-passive-and-reported-meaning/units/043.md": {
+      "bytes": 2060,
+      "sha256": "fbd8e7aaa0f68ed566f445b38453797ddf7314f8e623512012dcd2aed1999093"
+    },
+    "grammar_in_use/04-passive-and-reported-meaning/units/044.md": {
+      "bytes": 1960,
+      "sha256": "8724218012688c0f52b7ac5296cff94bcf42a0f9fb0990b89a16e9343d0383db"
+    },
+    "grammar_in_use/04-passive-and-reported-meaning/units/045.md": {
+      "bytes": 2253,
+      "sha256": "9526c58c0714400dcab75073e051acab2fe45f5ba88f93800a5ae53511a72f98"
+    },
+    "grammar_in_use/04-passive-and-reported-meaning/units/046.md": {
+      "bytes": 1950,
+      "sha256": "3f7e23762c21184c1f6d77890ee152ae27aadb1b959149816cc8b9c088be0970"
+    },
+    "grammar_in_use/04-passive-and-reported-meaning/units/047.md": {
+      "bytes": 1956,
+      "sha256": "54c4e9476560d864c49572e980d3ef230898a18502e5a292d5dbcb4eb62a8e56"
+    },
+    "grammar_in_use/04-passive-and-reported-meaning/units/048.md": {
+      "bytes": 2066,
+      "sha256": "bf2721755c31c4b3372f8e151375e0b439aa7d350077cc4015132473dd569910"
+    },
+    "grammar_in_use/05-questions-and-conversation-control/README.md": {
+      "bytes": 3534,
+      "sha256": "c4f49f4fac8c89835109cf2e3a0e1f3f6e00b443a865811b7007ebcc1541d0c5"
+    },
+    "grammar_in_use/05-questions-and-conversation-control/units/049.md": {
+      "bytes": 2266,
+      "sha256": "f923a7d3e5bf62867f1a71dfa941063e8575fe2fc127f0fa9e95531442750e2c"
+    },
+    "grammar_in_use/05-questions-and-conversation-control/units/050.md": {
+      "bytes": 2180,
+      "sha256": "fbc158a689cf332b5678f3b6426981c65e96f0fde9d0b97784cad48352487371"
+    },
+    "grammar_in_use/05-questions-and-conversation-control/units/051.md": {
+      "bytes": 2156,
+      "sha256": "b63a3e6c930578c84b57ba09baf88eb5f2ff701480ab86f26480a60c1c29b272"
+    },
+    "grammar_in_use/05-questions-and-conversation-control/units/052.md": {
+      "bytes": 1913,
+      "sha256": "dc3ea72f894c5804f47917748d12b90db6de370c1973549a3c7feccf7e61655a"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/README.md": {
+      "bytes": 3420,
+      "sha256": "eea6ec3d04218f610cec0ebcedcc4719cabc457cbaee2eb622af575cb4976c26"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/053.md": {
+      "bytes": 2157,
+      "sha256": "b2e9416d728b3f27efaf72987b3218543a0d4bc612837b4b202b54089bcd3df1"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/054.md": {
+      "bytes": 1979,
+      "sha256": "816bf852d7257f6a25451db9570ee3fa24614df42cf4d3a9dc2ef3ff3bfc5ab6"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/055.md": {
+      "bytes": 1891,
+      "sha256": "57c6cbf7447b9b8171b789df86a84643f9a11fd90760c0fd699484aa1ee78f7d"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/056.md": {
+      "bytes": 2040,
+      "sha256": "4a5bb2074c70deddf133e0153565271a4bfeeb0018c6474c87e4a940b0b8429d"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/057.md": {
+      "bytes": 2068,
+      "sha256": "dd65db5ebbabadf0e2e8b3bc5a4882b679aedb26355b8142ac99f4480b8a7e58"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/058.md": {
+      "bytes": 2193,
+      "sha256": "f1f7d2d59d0e237c999136daf0c81bdb942ba900948b8cc9778c8c6c6c3d020d"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/059.md": {
+      "bytes": 2117,
+      "sha256": "f3308acf95973e7254fcab5cec5c21895bf0488ec30759f2ace1aac2aa702bea"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/060.md": {
+      "bytes": 2040,
+      "sha256": "eea4c38137733bcdfdc7fbfe28997b1571d5823e9eed26a987357bde3f594322"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/061.md": {
+      "bytes": 2187,
+      "sha256": "ad2d5befaf164c0971bdf74892e7e50f3826cc21f0c7663cd962b2b8ec43223a"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/062.md": {
+      "bytes": 2207,
+      "sha256": "1ffa81be143ac965d465123f03f6773e32379449e1e4cf23e9a46274c79da38c"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/063.md": {
+      "bytes": 2221,
+      "sha256": "dd49b7f369317101d96d842afb5fe84344cfcd0e33b5c7efb7eb364fd1665876"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/064.md": {
+      "bytes": 1981,
+      "sha256": "8d421281224fea8c3d620a3ea8aec97aac32e90cf43afc77c9d703c0beb1d449"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/065.md": {
+      "bytes": 2136,
+      "sha256": "bab138eef40d4c8c2138640a6c9efb9053978d6c2dc3cc9efa003499bfda501c"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/066.md": {
+      "bytes": 2216,
+      "sha256": "23cfdeccb64dd99cdedebe49630e8b0b197e6a457249b49ccc1433752c43d725"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/067.md": {
+      "bytes": 1878,
+      "sha256": "73250e74693e1e4a929f4dda2676a3dd7304fdead53c3be1afd33ef5cdfde32c"
+    },
+    "grammar_in_use/06-verb-patterns-ing-and-to/units/068.md": {
+      "bytes": 2268,
+      "sha256": "ededf2bebc43434882287f588f2ab3b4770ce24bbe3ddab837f71659d5195972"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/README.md": {
+      "bytes": 3599,
+      "sha256": "8adfd65a42f343c10c6aab401e6c3ded64ed8b851ded55696cacda90ad326114"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/069.md": {
+      "bytes": 1947,
+      "sha256": "0207a5fa388da6c702efe39f00be081b57e414f6f3263b0206d3a3327630cf1b"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/070.md": {
+      "bytes": 2121,
+      "sha256": "433a3f18a4303911c27adf02900c8863f17a984cd5d8193acb383ee1b1d21e47"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/071.md": {
+      "bytes": 1839,
+      "sha256": "920ddb19d34bcbb5c65dc34105108cd50c2f24d7f7916e6881b0c038710c8fc7"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/072.md": {
+      "bytes": 1993,
+      "sha256": "b973ff65102bc33ddc0c7751bb04f5204a5373274ff2215d848dc67fcc0e4cb3"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/073.md": {
+      "bytes": 1941,
+      "sha256": "94dafcd90b3f3d8e61dfcc10f0c70429fad11422e5976b49f10c9958f36fda81"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/074.md": {
+      "bytes": 1785,
+      "sha256": "6a4130892b3fd69f5dba9fc0eab2e46f3425bad9cd1c58b049bd8810348df090"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/075.md": {
+      "bytes": 1902,
+      "sha256": "5608d7bb9a36f22a088b18ca556cec4147fc8a7d02df61c37a9d63eab34b0a5c"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/076.md": {
+      "bytes": 2173,
+      "sha256": "583a0e0cd101b47ab30a5ce5614b0014ae2bd46785485ad6f4658b69d03e9918"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/077.md": {
+      "bytes": 1801,
+      "sha256": "9092f3ce51557e50294ca390d5d9bd0dadd1b12e7e487494e1d3966b26934b4b"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/078.md": {
+      "bytes": 2021,
+      "sha256": "f1eafdf1bda25d52fde1220cbc7d84316f1296dea4f1ba247d06e8bf61892d81"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/079.md": {
+      "bytes": 2132,
+      "sha256": "e199a14609c4481da22c264c294682dba7926ccb75b71817d587365d206b72d7"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/080.md": {
+      "bytes": 2085,
+      "sha256": "17c3155b6bb1cbda9b8579124439c73ad80012fd5d29a0668be4ea79345ca074"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/081.md": {
+      "bytes": 2407,
+      "sha256": "999e585c261a568aa400230188da7cf3601866d573d3839555b0c30ea0af3af8"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/082.md": {
+      "bytes": 1967,
+      "sha256": "7071a6a2fa085860b42a2ca521a3628b02499131c92721758897f0f80d1506b7"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/083.md": {
+      "bytes": 1865,
+      "sha256": "0d805458c96597caac1fac9a928a67fa70be80a233fe7cef746e18d60c731c8a"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/084.md": {
+      "bytes": 1827,
+      "sha256": "9706cfa2c4d740d36fe232ac1fca3f6428906a85c15a7489aa7dc7dafb894ddb"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/085.md": {
+      "bytes": 2066,
+      "sha256": "36593871ff1a856882d419051af73f33f3d6262e7cf58fc93697e2ef6e7287cb"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/086.md": {
+      "bytes": 1877,
+      "sha256": "0c0601a28620fb97176835db6ea36f1898538fbaecc505aa8be1613059ede09a"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/087.md": {
+      "bytes": 2269,
+      "sha256": "8f3f16bbff032e09319f1469accba4767918e40f176753b7e0308aa3981793e2"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/088.md": {
+      "bytes": 1724,
+      "sha256": "dfd84d24df34bf10fda29ba32da37579e98deb6f7b2a03905bbc50229073652b"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/089.md": {
+      "bytes": 2028,
+      "sha256": "285fff86d13648ff80cf29a878cc0056060b224ad157ff5f6f21e24c736e92be"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/090.md": {
+      "bytes": 1903,
+      "sha256": "57bc144c42e9db39f721e0fb4b8bfd4622c837f27bc82846e6b19931f9e6aa82"
+    },
+    "grammar_in_use/07-nouns-articles-and-quantity/units/091.md": {
+      "bytes": 1734,
+      "sha256": "dea26b01be310dbadf0906304a5cf20d9e05fcac4e1b8bea3fb73ab80b42817f"
+    },
+    "grammar_in_use/08-relative-and-reduced-clauses/README.md": {
+      "bytes": 4612,
+      "sha256": "a88779fd793f2ecfa338364ee3e96c653846c5cf82bb4b1c639160923d008a05"
+    },
+    "grammar_in_use/08-relative-and-reduced-clauses/units/092.md": {
+      "bytes": 2664,
+      "sha256": "b74d7cd013006bc478e4c04c16868b2e19d8b0d93a2437097849145d809f2130"
+    },
+    "grammar_in_use/08-relative-and-reduced-clauses/units/093.md": {
+      "bytes": 2635,
+      "sha256": "72814405fbf7d518b9920af0e9c9122a548c5f26d8159246f8bc2fb127d180d7"
+    },
+    "grammar_in_use/08-relative-and-reduced-clauses/units/094.md": {
+      "bytes": 2504,
+      "sha256": "9b2bc9bea6e23348f62b3506c32afc40d01dbc6f3f96d6ae06e8f967361a3e99"
+    },
+    "grammar_in_use/08-relative-and-reduced-clauses/units/095.md": {
+      "bytes": 2982,
+      "sha256": "adb43efb1d19f6e7aab5e6a2f035d11ac784f4e8cfb6b5f3bb064217422fe9b9"
+    },
+    "grammar_in_use/08-relative-and-reduced-clauses/units/096.md": {
+      "bytes": 2724,
+      "sha256": "7f7205866bbf3a5dd774af1c47457cead5e58fd6242b173d67c9fa112b5c2394"
+    },
+    "grammar_in_use/08-relative-and-reduced-clauses/units/097.md": {
+      "bytes": 3053,
+      "sha256": "2d0fe6de342cfd3c2f6cdd61f1265a64c6c13709e79a3513a978e95ff65df7c8"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/README.md": {
+      "bytes": 3495,
+      "sha256": "07189689257e2ac0fd6e6817d616963597cc8edb4fc096bab36a91b87ef8d806"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/098.md": {
+      "bytes": 2063,
+      "sha256": "859dc30c5b6d2a3a0ffeab948cf1d7ca6f6e1c5fc3bb2363b6eae4eae77cf693"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/099.md": {
+      "bytes": 2561,
+      "sha256": "f16310c414bec95e561a10859f428cf1f68efb6299d773e9fa61e32294895dcb"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/100.md": {
+      "bytes": 2231,
+      "sha256": "6b12e7a742e2d2f2961e2aea7e399849e7ebf2de84afe5605a3ae7ac62e662f5"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/101.md": {
+      "bytes": 2182,
+      "sha256": "b8d5449046d3d990e82050e28eddd449493500f241e88ff0a44b974bcd979a1e"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/102.md": {
+      "bytes": 2456,
+      "sha256": "2437b8df7f698df2a9cb6e96cb103b7e3d1690d9a808e40293d3bd64ac2f9350"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/103.md": {
+      "bytes": 2277,
+      "sha256": "4a5b352e3617fd7d956725f19d7d25a1b776d890ef74a48f66baf8c789833fb6"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/104.md": {
+      "bytes": 2405,
+      "sha256": "9c6e90071c9116ca99a09febc6625c29958e3ed42262b71e7bdee885f4f75d25"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/105.md": {
+      "bytes": 1994,
+      "sha256": "51988bfa35222c9f3d9f73c1316c1fd7b8e7dc36335a12b7e68b10ea750d3ccc"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/106.md": {
+      "bytes": 2548,
+      "sha256": "b2e8456956924587fbe1ba63cdcb0ff8a924fe93c05cde027bb07278db61c067"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/107.md": {
+      "bytes": 2316,
+      "sha256": "f6bf840e9fde41783fbd6c4672bfd360ad1aa55c945a821dd9775393c36c581e"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/108.md": {
+      "bytes": 2192,
+      "sha256": "e5a95591f00c7de1d98f3d5efff58f0b8a88474f792ee83e1f4a7a4b92863a64"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/109.md": {
+      "bytes": 2162,
+      "sha256": "b091b30c9bb5d2d9affa7b62c7c1aad189c042d2dbf211758aa084d6e0367333"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/110.md": {
+      "bytes": 2233,
+      "sha256": "10e6d02c23f8978784b9be357cedf8f13a7e89d1789f805aff7d57accaa4a7a9"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/111.md": {
+      "bytes": 2508,
+      "sha256": "5362875ad8dd9c0bba277eef4c9822945f7106361993e6864bc2a6d76a82b7b4"
+    },
+    "grammar_in_use/09-adjectives-adverbs-and-comparison/units/112.md": {
+      "bytes": 2394,
+      "sha256": "a5e9bd07a0dc7100bfbf44130ab9a7da1f6c212ca855a80c519455aa57e68aa1"
+    },
+    "grammar_in_use/10-linking-ideas/README.md": {
+      "bytes": 3250,
+      "sha256": "dd5305180f491a150b770d68a4a748251d0d99b1570dd08bfbb1c0b95e8f56a8"
+    },
+    "grammar_in_use/10-linking-ideas/units/113.md": {
+      "bytes": 2623,
+      "sha256": "812cfd2cd1297230030067ae549cc059f3f2048065dfdbae79c344c8984f4de0"
+    },
+    "grammar_in_use/10-linking-ideas/units/114.md": {
+      "bytes": 2182,
+      "sha256": "76a3f9424c07ec4bce568beb0de20816410960b403bea18e5d4f1c8c92819987"
+    },
+    "grammar_in_use/10-linking-ideas/units/115.md": {
+      "bytes": 2137,
+      "sha256": "9fcfd7047d845a86b69d350a3d00fec609f121e6cf15b4cc15bcff9192de7dc3"
+    },
+    "grammar_in_use/10-linking-ideas/units/116.md": {
+      "bytes": 2197,
+      "sha256": "c1a2e7f0afeb59405652a8a356aaecbbc267261d3b5defac3c3961eb0b990020"
+    },
+    "grammar_in_use/10-linking-ideas/units/117.md": {
+      "bytes": 2264,
+      "sha256": "06c5354ef0d7b1c8ece42b6c1f2de59431ddd119dabf7e02ead074c6aeb11819"
+    },
+    "grammar_in_use/10-linking-ideas/units/118.md": {
+      "bytes": 2398,
+      "sha256": "27ba2aa629bed734a962a25d145f001e1067cd19240613412d61af782c841de4"
+    },
+    "grammar_in_use/10-linking-ideas/units/119.md": {
+      "bytes": 1917,
+      "sha256": "c26ded3e2b6526c1ffd8f35fb70861d7f5f4a8e39393290653429c0d15e8d5e0"
+    },
+    "grammar_in_use/10-linking-ideas/units/120.md": {
+      "bytes": 2053,
+      "sha256": "701729ae3a8bb032bba752822de23db093951ecaf6b23e363dc4f725b3e8a1d8"
+    },
+    "grammar_in_use/11-prepositions/README.md": {
+      "bytes": 2618,
+      "sha256": "8ee014a64fbc85ac59320753806f5a518c14a30c49410decc75b14bebb4d2c7a"
+    },
+    "grammar_in_use/11-prepositions/units/121.md": {
+      "bytes": 1966,
+      "sha256": "40914ca094f4e2778970b997be99ce8fcc5d0bb91bdcb02352476e05655c1e9f"
+    },
+    "grammar_in_use/11-prepositions/units/122.md": {
+      "bytes": 1915,
+      "sha256": "a2dc362a905982c122cd0909bb41a18c9f506a5962c91e498091c132617662d5"
+    },
+    "grammar_in_use/11-prepositions/units/123.md": {
+      "bytes": 1785,
+      "sha256": "d9d3528136f8b0c3730f05559d412c062b1085ad1ce83147864b0737883d6b28"
+    },
+    "grammar_in_use/11-prepositions/units/124.md": {
+      "bytes": 2000,
+      "sha256": "cd967cc620da066c9cfb96c0a5c836f02fad39df6ec03a5820d2fd416f120aa2"
+    },
+    "grammar_in_use/11-prepositions/units/125.md": {
+      "bytes": 1968,
+      "sha256": "81b44b046702f19f16fc8b60824743ea7267664041515ccee02e8ec1299b788e"
+    },
+    "grammar_in_use/11-prepositions/units/126.md": {
+      "bytes": 1909,
+      "sha256": "f94e80c104a55d9a3aa8596ffc2d4d01a90019eb6384eb0747831f0e2bc103ef"
+    },
+    "grammar_in_use/11-prepositions/units/127.md": {
+      "bytes": 1613,
+      "sha256": "e633f9f646a33b1a65d10514d2326d60bc8a170884e06c517c17ceb73230d133"
+    },
+    "grammar_in_use/11-prepositions/units/128.md": {
+      "bytes": 1604,
+      "sha256": "04530cfcfc6320b359090190aca671eec126f66a93edc2106ce0c0f04281b5e2"
+    },
+    "grammar_in_use/11-prepositions/units/129.md": {
+      "bytes": 1807,
+      "sha256": "c030f03ce79f50c83cf37ca34a7dafc53815c05459a621af5ed3df52d9ec9b64"
+    },
+    "grammar_in_use/11-prepositions/units/130.md": {
+      "bytes": 1875,
+      "sha256": "de2ae4db8ddd9a1a8a2fce3096c3db4c9a711164ea3b39a25acd3fcfd750e9dc"
+    },
+    "grammar_in_use/11-prepositions/units/131.md": {
+      "bytes": 1776,
+      "sha256": "6b02923084f8135ccfcea61c2bf628bfebc48c00b5c192756e439f345e1ee756"
+    },
+    "grammar_in_use/11-prepositions/units/132.md": {
+      "bytes": 1699,
+      "sha256": "3473972f5b95f773979c3bf244130e6ea768d102c7976a88a649a0c54707f327"
+    },
+    "grammar_in_use/11-prepositions/units/133.md": {
+      "bytes": 1998,
+      "sha256": "11c95d39a14e85fadb4ffc69825d21bff20728f819c1d8a0c68ccabd8ecf19a7"
+    },
+    "grammar_in_use/11-prepositions/units/134.md": {
+      "bytes": 1775,
+      "sha256": "fc9e5753b5c5d9cc55df25a0884cc326b4f6cacf1207517b920f4e5998ef684e"
+    },
+    "grammar_in_use/11-prepositions/units/135.md": {
+      "bytes": 1820,
+      "sha256": "dba7404d5e04576103164417cb69d098a88721406758a46a1617234e49055c41"
+    },
+    "grammar_in_use/11-prepositions/units/136.md": {
+      "bytes": 1990,
+      "sha256": "7d55b1c0d09fe6c3f7ec8496f5652e03483c384cc9f26fb7bdb640a61a4a8d6a"
+    },
+    "grammar_in_use/12-phrasal-verbs/README.md": {
+      "bytes": 2569,
+      "sha256": "e6b5b2bb5001a5e3c11a40c0eae0d4ab4dc93763e67e00f5c17a108b93cd9788"
+    },
+    "grammar_in_use/12-phrasal-verbs/units/137.md": {
+      "bytes": 1918,
+      "sha256": "16e3f05347009e48b069c7a39181093c1884e5a1d4096cb33cd8c513edb6763e"
+    },
+    "grammar_in_use/12-phrasal-verbs/units/138.md": {
+      "bytes": 1738,
+      "sha256": "3a582ee53e1991130975554aad796916f8bc29b0489a34aaa78cbe85c9189db2"
+    },
+    "grammar_in_use/12-phrasal-verbs/units/139.md": {
+      "bytes": 1891,
+      "sha256": "538e6f5276cac20ca802ab5341e8d1745bf0b4478a39868376855bc5ed0c5d60"
+    },
+    "grammar_in_use/12-phrasal-verbs/units/140.md": {
+      "bytes": 2019,
+      "sha256": "7255ff7cef77946397c9460e7522f69444e20f28699f277640315a6385f4b122"
+    },
+    "grammar_in_use/12-phrasal-verbs/units/141.md": {
+      "bytes": 2073,
+      "sha256": "42286d52e5f9b24b1690ceccde18448d26a2da91025278d3e55a5ff6066a93dc"
+    },
+    "grammar_in_use/12-phrasal-verbs/units/142.md": {
+      "bytes": 2566,
+      "sha256": "796f742d68b7150e1046f1c5f57660966d50583761ed14c9b8be236218d60299"
+    },
+    "grammar_in_use/12-phrasal-verbs/units/143.md": {
+      "bytes": 2383,
+      "sha256": "d2134d2b2f9c2359954dd3a5dc04bcc6be09ec7598d0987ecbfa584a7b7483c1"
+    },
+    "grammar_in_use/12-phrasal-verbs/units/144.md": {
+      "bytes": 2328,
+      "sha256": "9a7ce8ee3e8800135b0287a912a31e247b39f651b136daff16927724a6e2d6a0"
+    },
+    "grammar_in_use/12-phrasal-verbs/units/145.md": {
+      "bytes": 2279,
+      "sha256": "5226f70e3d507030559ddcd7e8d09709614ca41cf861345eb9d522c774e7c900"
+    },
+    "handoff/last_card_update/implementation_manifest.json": {
+      "bytes": 1890,
+      "sha256": "fe9e0b087d4610da2f61fad87515dc2865d4479ba6772383e9cbdf121cae01b4"
+    },
+    "handoff/last_card_update/implementation_result.json": {
+      "bytes": 1231,
+      "sha256": "4f08bd551d353a5166e5ed3659c41d567aef13ad50bbb48d99b019cc0e4e45c9"
+    },
+    "handoff/last_card_update/updated_cards.html": {
+      "bytes": 150528,
+      "sha256": "05760a9b7596e3445867e4f8240c186ba7b62d3edf6088e5b67e6a99ed15f49e"
+    },
+    "handoff/last_card_update/updated_cards.json": {
+      "bytes": 136944,
+      "sha256": "87c74a5a1989e8b61565013df46775f5bbdf63a777464ecf585caced2950572a"
+    },
+    "handoff/validation_report.json": {
+      "bytes": 8688,
+      "sha256": "c01e51b7db8803bcbcb0e85fe7f18d2cf652f554356549b0e238e9c2e3289084"
+    },
+    "official _cambridge_guide/markdown/README.md": {
+      "bytes": 2842,
+      "sha256": "82c57062182d1eac7a368754ba9b12392e7bd9d58c26c072d59e3bd9a40e4e93"
+    },
+    "official _cambridge_guide/markdown/book-sections/01-front-matter-and-contents.md": {
+      "bytes": 8242,
+      "sha256": "d907477553fcba8d2c555cc25baad0f3da70b037d5fcb5c38fc222c370e9ae42"
+    },
+    "official _cambridge_guide/markdown/book-sections/02-introduction-and-ielts-summary.md": {
+      "bytes": 15565,
+      "sha256": "64b70de60b05124b6e722d2753a10d379728800363c782f08b148e767706ccee"
+    },
+    "official _cambridge_guide/markdown/book-sections/03-listening-skills.md": {
+      "bytes": 45985,
+      "sha256": "1f87808ab7880b170fa41297914cd2cf7bc36d0e437b6d69caa1311be132e93d"
+    },
+    "official _cambridge_guide/markdown/book-sections/04-reading-skills.md": {
+      "bytes": 112193,
+      "sha256": "4ea24816802c021098bed0f9ec0c4b24857ef14a73291e0a5d2a8a69b42a6aeb"
+    },
+    "official _cambridge_guide/markdown/book-sections/05-writing-skills.md": {
+      "bytes": 79278,
+      "sha256": "50331e4e94ba8b36503554917e8d6d720cb94266f552c7b8c17cae2254697fe9"
+    },
+    "official _cambridge_guide/markdown/book-sections/06-speaking-skills.md": {
+      "bytes": 37774,
+      "sha256": "71836698218c7821bc29530a8451632a2de69fc06af6799a4362698c00021762"
+    },
+    "official _cambridge_guide/markdown/book-sections/07-practice-tests.md": {
+      "bytes": 315544,
+      "sha256": "f13d8824893a9b2a1a9ed218fe710f2e19d6f3995304d0b362e974a5a83df2cd"
+    },
+    "official _cambridge_guide/markdown/book-sections/08-recording-scripts.md": {
+      "bytes": 188197,
+      "sha256": "d4a302881a096e4b8936187536fe8d1e1d9c77471d5c52e645d09550f45dc4fa"
+    },
+    "official _cambridge_guide/markdown/book-sections/09-answer-key.md": {
+      "bytes": 112069,
+      "sha256": "b5c8318070d17ec783a08a2100b60be5f1d959682bb03c5f70160a5d8d87e25c"
+    },
+    "official _cambridge_guide/markdown/book-sections/10-answer-sheet-and-back-matter.md": {
+      "bytes": 17615,
+      "sha256": "9cbb74cca417aba754af8883825f7a3dfc4253f75aab26587f2bb21560f5ecc1"
+    },
+    "official _cambridge_guide/markdown/chapters/00-opening/01-front-matter-and-contents.md": {
+      "bytes": 9409,
+      "sha256": "3dbfb7c9d54e65ebcd8a67d12216e0fc3054f5d60888cdb3b3c000d628a8a927"
+    },
+    "official _cambridge_guide/markdown/chapters/00-opening/02-introduction.md": {
+      "bytes": 6197,
+      "sha256": "d4e3672f13ae56918d85cd9066ad6a7e7a75b905234b163ba7cf48dda5d0edea"
+    },
+    "official _cambridge_guide/markdown/chapters/00-opening/03-ielts-summary.md": {
+      "bytes": 12203,
+      "sha256": "b9cd4ea24dbc45678ec0170c38fc074a5db1349faa862be230cac514f7d4e061"
+    },
+    "official _cambridge_guide/markdown/chapters/01-listening/00-overview.md": {
+      "bytes": 4402,
+      "sha256": "fb268f8ec987480cf90b4cdb7c3421a18c814d3340c5db64e8a4721aed0f1698"
+    },
+    "official _cambridge_guide/markdown/chapters/01-listening/01-getting-ready-to-listen.md": {
+      "bytes": 6780,
+      "sha256": "247aa30b7ac2bf5c62233f244e7468a95017df4430c900d7515fc3f37dad98b9"
+    },
+    "official _cambridge_guide/markdown/chapters/01-listening/02-following-a-conversation.md": {
+      "bytes": 8501,
+      "sha256": "8e0adf5080b6d338c4f15a3516f828987b8006dad8a52b8af9203ddcc9b72fe1"
+    },
+    "official _cambridge_guide/markdown/chapters/01-listening/03-recognising-paraphrase.md": {
+      "bytes": 6687,
+      "sha256": "38b048b6db6b3a062650b89b00bd51077d4bbf322b1bdbf6fe05731e3e8c7da5"
+    },
+    "official _cambridge_guide/markdown/chapters/01-listening/04-places-and-directions.md": {
+      "bytes": 6136,
+      "sha256": "27b79fec18b072cacc0771c35f2f43a4547b870d20a7a9632b8cca2909a4d741"
+    },
+    "official _cambridge_guide/markdown/chapters/01-listening/05-listening-for-actions-and-processes.md": {
+      "bytes": 12300,
+      "sha256": "5bee6cf00b0374e1990691fe90ff1f356459790945fe81ab58be784edc1cf167"
+    },
+    "official _cambridge_guide/markdown/chapters/01-listening/06-attitude-and-opinion.md": {
+      "bytes": 6218,
+      "sha256": "c947b95872e0d42d6eb0d7860a050c8f15e9a97849b3681c2bb9647330b8c81c"
+    },
+    "official _cambridge_guide/markdown/chapters/01-listening/07-following-a-lecture-or-talk.md": {
+      "bytes": 7292,
+      "sha256": "82937e7f00bf818486f4c4176bbdcee24a08dec218207ba73bcf741de69ce0c6"
+    },
+    "official _cambridge_guide/markdown/chapters/01-listening/08-contrasting-ideas.md": {
+      "bytes": 7149,
+      "sha256": "f0dc8c867c75c087d673863e0b4ea6c07241fe955716c4b5d11018ce7f02cb18"
+    },
+    "official _cambridge_guide/markdown/chapters/02-reading/00-overview.md": {
+      "bytes": 3990,
+      "sha256": "3bb07419d37aff4179aaf82f4728d28f4334722ae4bd3992c7d0185f3dab4d58"
+    },
+    "official _cambridge_guide/markdown/chapters/02-reading/01-reading-strategies.md": {
+      "bytes": 9272,
+      "sha256": "5027352a4b5f72ef96fa5aef80ed98402dc2874b48ff6fd15b9dfad4d34c6f90"
+    },
+    "official _cambridge_guide/markdown/chapters/02-reading/02-descriptive-passages.md": {
+      "bytes": 12869,
+      "sha256": "38fd6bde6f0071e370a663634b37a39fe9dae11a65f9e043dd629d0acd7a7f83"
+    },
+    "official _cambridge_guide/markdown/chapters/02-reading/03-understanding-the-main-ideas.md": {
+      "bytes": 11560,
+      "sha256": "6cd4134223cbd441bfab8a17d2851cdb75bbe528d6e52ef16bd3d6d5a2c8a0de"
+    },
+    "official _cambridge_guide/markdown/chapters/02-reading/04-locating-and-matching-information.md": {
+      "bytes": 11480,
+      "sha256": "d606ca9d849f7c1c3475f984ab84716a161ba30cbdbf1a5e34f11f0aee4f1d55"
+    },
+    "official _cambridge_guide/markdown/chapters/02-reading/05-discursive-passages.md": {
+      "bytes": 13048,
+      "sha256": "51bdeb8a0d8ac6105105b811c093c72a48686ac10d28bc91936a8a321eef0dc4"
+    },
+    "official _cambridge_guide/markdown/chapters/02-reading/06-multiple-choice-questions.md": {
+      "bytes": 7210,
+      "sha256": "1c35b7d468cc5c44659986eac3898da227416fc83be74ceeb1ffb03abe4a101f"
+    },
+    "official _cambridge_guide/markdown/chapters/02-reading/07-opinions-and-attitudes.md": {
+      "bytes": 10831,
+      "sha256": "513238938398f6e31f08199497e27b85e7c9f8b665e2b8f47f74b091d7d9596d"
+    },
+    "official _cambridge_guide/markdown/chapters/02-reading/08-general-training-reading.md": {
+      "bytes": 27768,
+      "sha256": "62e9cf06dff2a28e36a9e674d1bc0b4294be24d4be00c42d35a071579413929e"
+    },
+    "official _cambridge_guide/markdown/chapters/03-writing/00-overview.md": {
+      "bytes": 3326,
+      "sha256": "d382b4669b35dc7a9de00d81abb86b0b39762d2359b63baa9beb9052d2adb047"
+    },
+    "official _cambridge_guide/markdown/chapters/03-writing/01-describing-a-chart-table-or-graph.md": {
+      "bytes": 11099,
+      "sha256": "38c589cb8b2665834037f25a0bb9f18a4e3c4de02990f8107dcacce43b4a70c5"
+    },
+    "official _cambridge_guide/markdown/chapters/03-writing/02-comparing-and-contrasting-graphs-and-tables.md": {
+      "bytes": 11348,
+      "sha256": "276d9e7d7e099ad9ef9a066808e8d5c2f4f12a9022b86644ad871c002206941b"
+    },
+    "official _cambridge_guide/markdown/chapters/03-writing/03-describing-diagrams.md": {
+      "bytes": 7700,
+      "sha256": "f1edb1735031a64d97460549cc34be6db6f3657674214e3f22d3a686e8390e2a"
+    },
+    "official _cambridge_guide/markdown/chapters/03-writing/04-describing-maps.md": {
+      "bytes": 5162,
+      "sha256": "f47ce5604607760ca26ba39e1f9eafe6ccc2b7d931dcacc55f4c44e369f4b0b3"
+    },
+    "official _cambridge_guide/markdown/chapters/03-writing/05-general-training-writing-task-1-a-letter.md": {
+      "bytes": 11485,
+      "sha256": "c145d85340d4f04a63275d3e9f48e97525a2cf32fcde920057d709c18de89d16"
+    },
+    "official _cambridge_guide/markdown/chapters/03-writing/06-writing-task-2-getting-ready-to-write.md": {
+      "bytes": 10964,
+      "sha256": "c9bacc3ef43003aad67ba040abfc40352f4eac48a53ae6016b877ced2a015559"
+    },
+    "official _cambridge_guide/markdown/chapters/03-writing/07-writing-task-2-expressing-your-ideas-clearly.md": {
+      "bytes": 11136,
+      "sha256": "fbdbfe72f92165abef2edd2c71406c996ebcdeae9c7a4b7354689b0355102335"
+    },
+    "official _cambridge_guide/markdown/chapters/03-writing/08-writing-task-2-checking-and-correcting.md": {
+      "bytes": 11301,
+      "sha256": "b7f3296920e6f4387c5277a6d5144d2670a991a9472126208b7882ccb5587d57"
+    },
+    "official _cambridge_guide/markdown/chapters/03-writing/STUDY_PLAN.md": {
+      "bytes": 6683,
+      "sha256": "37f747e349a3d511fc5f6510097ec1ba7f55dcb7a19990b93069af9f010fa84c"
+    },
+    "official _cambridge_guide/markdown/chapters/04-speaking/00-overview.md": {
+      "bytes": 2880,
+      "sha256": "d996ff8e009c8fbb9432f9d7d47c6a4cb64a73e50be7238e9ee8417e806645b1"
+    },
+    "official _cambridge_guide/markdown/chapters/04-speaking/01-the-speaking-test-part-1.md": {
+      "bytes": 8418,
+      "sha256": "7fc5e6e5d952ae80a9bfe6ab1926979ad036f2c3170ee29f7fb510d8402bbb33"
+    },
+    "official _cambridge_guide/markdown/chapters/04-speaking/02-part-2-giving-a-talk.md": {
+      "bytes": 9666,
+      "sha256": "9c2ed9390f57c1b6416bdfcb3e31a16f77d6fbe7f434fa7d288956b8e37557f9"
+    },
+    "official _cambridge_guide/markdown/chapters/04-speaking/03-part-3-talking-about-abstract-topics.md": {
+      "bytes": 7903,
+      "sha256": "c97bd7f90d2ba7ae0f8b256854d665cb7ba500aa0beb7efcb7bd40f7519c27c8"
+    },
+    "official _cambridge_guide/markdown/chapters/04-speaking/04-checking-correcting-and-assessing.md": {
+      "bytes": 9296,
+      "sha256": "eb41d7d30a588960b695701d275622a823064580f11d1181eb6690106e671199"
+    },
+    "official _cambridge_guide/markdown/chapters/04-speaking/STUDY_PLAN.md": {
+      "bytes": 6647,
+      "sha256": "275a42282f93b32635cd9343d07291fa09b0fc830ef2ef235f1c2fe6141295a9"
+    },
+    "official _cambridge_guide/markdown/chapters/05-practice-tests/01-practice-test-1.md": {
+      "bytes": 51090,
+      "sha256": "425a3ad16fadb79708ca4c9e807628ad813f0dfef1afbf636411e05f491f2e90"
+    },
+    "official _cambridge_guide/markdown/chapters/05-practice-tests/02-practice-test-2.md": {
+      "bytes": 35585,
+      "sha256": "f17411fd9076a8931915372bcfeebd20f6bbebdb86757f669844106fb157ac6b"
+    },
+    "official _cambridge_guide/markdown/chapters/05-practice-tests/03-practice-test-3.md": {
+      "bytes": 36157,
+      "sha256": "0974749e25d1bebad0e9dda98e150f462fadaee131e5e510ada717040f70ecc0"
+    },
+    "official _cambridge_guide/markdown/chapters/05-practice-tests/04-practice-test-4.md": {
+      "bytes": 41861,
+      "sha256": "fc68b2ee1b28f777a3aae6df647119e9522133ac13978f0e65dd2a5493bbaafe"
+    },
+    "official _cambridge_guide/markdown/chapters/05-practice-tests/05-practice-test-5.md": {
+      "bytes": 38227,
+      "sha256": "1c62adef0abc47058004d235522af8ecdb55d881ed72bd661b457b1e03a1b21e"
+    },
+    "official _cambridge_guide/markdown/chapters/05-practice-tests/06-practice-test-6.md": {
+      "bytes": 31962,
+      "sha256": "c16e466ffbfbca82cc64936d05562d410bd265b85189c1abbb552622b3934d4a"
+    },
+    "official _cambridge_guide/markdown/chapters/05-practice-tests/07-practice-test-7.md": {
+      "bytes": 40621,
+      "sha256": "e5b7ee738954ab47a1debfbff9985daf9b115ed4cd595dcdf4fe14b574eeeb70"
+    },
+    "official _cambridge_guide/markdown/chapters/05-practice-tests/08-practice-test-7-general-training.md": {
+      "bytes": 26773,
+      "sha256": "4c1d6d2be16ce40a74086bf5ba22d1e91e8576cf3657367cdded81305944d111"
+    },
+    "official _cambridge_guide/markdown/chapters/05-practice-tests/09-practice-test-8.md": {
+      "bytes": 36744,
+      "sha256": "fc860bca3cadc04d9eca1770544d0c86168b61808a99e0cedb0902a78e5fa413"
+    },
+    "official _cambridge_guide/markdown/chapters/05-practice-tests/10-practice-test-8-general-training.md": {
+      "bytes": 26927,
+      "sha256": "9394a7f86d24e210bfd6bb2efea8720495ad997182412ead80d97c068d221b26"
+    },
+    "official _cambridge_guide/markdown/chapters/06-recording-scripts.md": {
+      "bytes": 207848,
+      "sha256": "8ddafda298f78322043a8f3e48eda28dffefe15843a4a8a1136fec8d77374bf5"
+    },
+    "official _cambridge_guide/markdown/chapters/07-answer-key.md": {
+      "bytes": 128137,
+      "sha256": "ad6960618be09932364e65111797498d8d07df02df6c829a1e952a342fd0e874"
+    },
+    "official _cambridge_guide/markdown/chapters/08-sample-answer-sheets-and-back-matter.md": {
+      "bytes": 19314,
+      "sha256": "e659316f8f2e36f190ca1c893628337b102b8bda0354205642153e334f1409b5"
+    },
+    "official _cambridge_guide/markdown/chapters/README.md": {
+      "bytes": 5978,
+      "sha256": "3dce8276068f6e3f20c78140945056aca96ab39afc26c083e82a43c1dc8aabfc"
+    },
+    "official _cambridge_guide/markdown/pages/page-001.md": {
+      "bytes": 457,
+      "sha256": "8b2cacca55f8707bc44fbf20b6b1bfcfc32b154bf29cd5b92f13d75a1fa64796"
+    },
+    "official _cambridge_guide/markdown/pages/page-002.md": {
+      "bytes": 578,
+      "sha256": "84fa9d529f4734898e30b2cd8ac66c58c22f02087348d2de1dc7f02af07e3aca"
+    },
+    "official _cambridge_guide/markdown/pages/page-003.md": {
+      "bytes": 1681,
+      "sha256": "0a9d471a23f1b11202ca92a02ec358ad6d2b116557e4bb1f6efe5749fffc2bdf"
+    },
+    "official _cambridge_guide/markdown/pages/page-004.md": {
+      "bytes": 2474,
+      "sha256": "f3dfa65a2653299ca41d62d737bcae2102f6d59f60495050d7b088510e6e513a"
+    },
+    "official _cambridge_guide/markdown/pages/page-005.md": {
+      "bytes": 2783,
+      "sha256": "aa9cbab1ad5b0330b0d6598f946707484e76d7cf642fdf9bc0f90e284a9a6da7"
+    },
+    "official _cambridge_guide/markdown/pages/page-006.md": {
+      "bytes": 2069,
+      "sha256": "926f2c669edc89a3fb9441b340a0d98724b5ceb063526ee3a83b4a7d1ffe7d35"
+    },
+    "official _cambridge_guide/markdown/pages/page-007.md": {
+      "bytes": 2925,
+      "sha256": "aec9f2215a0e590b01d40295e6c5739c7aa16198aecc3a39e7185c5f5688f004"
+    },
+    "official _cambridge_guide/markdown/pages/page-008.md": {
+      "bytes": 2143,
+      "sha256": "1a714f6089fd0c65d69f946fee6c5e05ac6194eb44473c413d904e0c353ad859"
+    },
+    "official _cambridge_guide/markdown/pages/page-009.md": {
+      "bytes": 1174,
+      "sha256": "aba6199fe683d4c9775a1e955bdb6b28bdad874adf57747d7e88f02b3d05c485"
+    },
+    "official _cambridge_guide/markdown/pages/page-010.md": {
+      "bytes": 2305,
+      "sha256": "caf4a488b499866e082b18e1fb60fe9c153ef52823e9fc8d3622969a2953b524"
+    },
+    "official _cambridge_guide/markdown/pages/page-011.md": {
+      "bytes": 1625,
+      "sha256": "bb5a824d6df0efeba29d2dbcf85ccc43427196d40e8b3fd16ec8a92099ddad3e"
+    },
+    "official _cambridge_guide/markdown/pages/page-012.md": {
+      "bytes": 2147,
+      "sha256": "ab23fcc7dc5377a2b831dd13a65c848d98a82775f98ec83bf2dc82120a1c7af3"
+    },
+    "official _cambridge_guide/markdown/pages/page-013.md": {
+      "bytes": 884,
+      "sha256": "23cd49f7d94c80c15791c6277692e65efa1cb1f061a1d2951306c832ac2913a3"
+    },
+    "official _cambridge_guide/markdown/pages/page-014.md": {
+      "bytes": 1594,
+      "sha256": "15e1248df9d1dba76e2e8754bc6b97282c57514af99b3c2dba1f1f384eb2ddd1"
+    },
+    "official _cambridge_guide/markdown/pages/page-015.md": {
+      "bytes": 1527,
+      "sha256": "aafb547d0fd5dc39f178af30c61e92bf5e136771fc849dd42f8965ad18fa9cc3"
+    },
+    "official _cambridge_guide/markdown/pages/page-016.md": {
+      "bytes": 2029,
+      "sha256": "57f4784a95624ee4020d3890becfdda1c59e5fb7c3d4a1e82c0e804be1817fae"
+    },
+    "official _cambridge_guide/markdown/pages/page-017.md": {
+      "bytes": 1715,
+      "sha256": "880ef85c8c75ca38ccf554d8be9a6c1c9020d9fe16cfa062a5b516d70883a46f"
+    },
+    "official _cambridge_guide/markdown/pages/page-018.md": {
+      "bytes": 1506,
+      "sha256": "1587b9ee868134e14105b18851a4c46cc71b4142528e2674b3236da23e1d813d"
+    },
+    "official _cambridge_guide/markdown/pages/page-019.md": {
+      "bytes": 1827,
+      "sha256": "ed3c042b46acefbee57f60ae29fe73966f47c357332e0cbf5170d0ddf838a3ae"
+    },
+    "official _cambridge_guide/markdown/pages/page-020.md": {
+      "bytes": 1653,
+      "sha256": "0fec65ed22e6db5d1ff4636328c7699a64a451fe4bb998b159ed6b43f87eb5e6"
+    },
+    "official _cambridge_guide/markdown/pages/page-021.md": {
+      "bytes": 1680,
+      "sha256": "f9d5cf8eb0345502be41abb711d84d6a6b2ba5d0ad5d321aef79d5d9bb00e30a"
+    },
+    "official _cambridge_guide/markdown/pages/page-022.md": {
+      "bytes": 1649,
+      "sha256": "3bafbedb312084c1494d9c73ba597771ec2880f4dc6b7dd5ae6ba990b3307119"
+    },
+    "official _cambridge_guide/markdown/pages/page-023.md": {
+      "bytes": 1375,
+      "sha256": "79594f7c4c8fbc9f294467f1dde3198f2f82981a1d885bdd2a572ef74896e054"
+    },
+    "official _cambridge_guide/markdown/pages/page-024.md": {
+      "bytes": 1383,
+      "sha256": "6b7e865fe6a6c613a8a225315e09d9b69fba2f0b4fc08343e9cb9e8b3bb40b90"
+    },
+    "official _cambridge_guide/markdown/pages/page-025.md": {
+      "bytes": 2388,
+      "sha256": "9a7feddc8c18a7f417f35d98e3068b1332bfbf7392e0140fab4b232540c91a6c"
+    },
+    "official _cambridge_guide/markdown/pages/page-026.md": {
+      "bytes": 890,
+      "sha256": "5047074c441129560e69d209eaa77f327e50b810c42be37a2fced028f859348f"
+    },
+    "official _cambridge_guide/markdown/pages/page-027.md": {
+      "bytes": 1343,
+      "sha256": "4d405135cf25ed9a075714d22d123bd9e274733c52cc4481ead284271d8752b4"
+    },
+    "official _cambridge_guide/markdown/pages/page-028.md": {
+      "bytes": 1187,
+      "sha256": "e72e9368a9fa418eea7a29104c6dab4840c3445a39c0ff4f872941461cb17ed2"
+    },
+    "official _cambridge_guide/markdown/pages/page-029.md": {
+      "bytes": 1223,
+      "sha256": "189d8d3c2eb9df4570652e0af3e20bd23b0789d122e2db58f25e9237f8fcadf8"
+    },
+    "official _cambridge_guide/markdown/pages/page-030.md": {
+      "bytes": 1133,
+      "sha256": "00bbfe9dd83c382958977fd4d980950de2559e3c50ef82eededc44d43a5592b5"
+    },
+    "official _cambridge_guide/markdown/pages/page-031.md": {
+      "bytes": 802,
+      "sha256": "46783df253d61b1f795984b7a9521be647ab033edf4035688a82339a24b2a592"
+    },
+    "official _cambridge_guide/markdown/pages/page-032.md": {
+      "bytes": 995,
+      "sha256": "cd3663cb9963ef6a700c3d592afb5a365ec4b03572dbe428bfe243f4fe45002c"
+    },
+    "official _cambridge_guide/markdown/pages/page-033.md": {
+      "bytes": 1607,
+      "sha256": "3539fde93be68e67b9139e06b3a7c639f170538d1e11e8a6ed72f1931138fba1"
+    },
+    "official _cambridge_guide/markdown/pages/page-034.md": {
+      "bytes": 1170,
+      "sha256": "40b41e1d2051fa95bcfaff136f366cdd5be5544281c0fe8372169fd3e9fad40c"
+    },
+    "official _cambridge_guide/markdown/pages/page-035.md": {
+      "bytes": 1841,
+      "sha256": "843706aa03c52c6f842e6efc9c41dfc76b98e192bf3b0e1ccf4a868bfb283a8d"
+    },
+    "official _cambridge_guide/markdown/pages/page-036.md": {
+      "bytes": 1651,
+      "sha256": "f6037492cd5351a5f211d7a78e73834c61ad65c409239d3329f5ad7837a22c30"
+    },
+    "official _cambridge_guide/markdown/pages/page-037.md": {
+      "bytes": 1795,
+      "sha256": "eff56a21b14960230503efad6020350a752a0e731fbd0da4558d1c647cfd5f67"
+    },
+    "official _cambridge_guide/markdown/pages/page-038.md": {
+      "bytes": 1596,
+      "sha256": "df11e7096c6cf2349f7fbfcedef458e7be67e46a0d7aeb6c03b7d2772062a920"
+    },
+    "official _cambridge_guide/markdown/pages/page-039.md": {
+      "bytes": 2298,
+      "sha256": "21fdb0b4ee4994368335fb6343294fab6fa6b2ab9a1f5d8c8590636445a18d84"
+    },
+    "official _cambridge_guide/markdown/pages/page-040.md": {
+      "bytes": 1615,
+      "sha256": "6fd976db977a57d895b79d2f597f51e7dae1cf12ce09e80ec6ed484ea84725a7"
+    },
+    "official _cambridge_guide/markdown/pages/page-041.md": {
+      "bytes": 2359,
+      "sha256": "7ecd049760d84b5112f7a0c7e91b78e8be47d6e44f9607fd1603bc5035a74a4a"
+    },
+    "official _cambridge_guide/markdown/pages/page-042.md": {
+      "bytes": 1748,
+      "sha256": "f92e6eded0f65dcd2f5f35cade77f8dd3fbb740fa4f4eb06383aa73be6a1732b"
+    },
+    "official _cambridge_guide/markdown/pages/page-043.md": {
+      "bytes": 1679,
+      "sha256": "8dc9fa12cb34afb146de7dde8d0aca59ea52230f4d8009068130b0a54f2fe828"
+    },
+    "official _cambridge_guide/markdown/pages/page-044.md": {
+      "bytes": 1924,
+      "sha256": "dd68373b55ffe460d3ffd9d4832b56d59b494f2d476fbb928476334a221821e6"
+    },
+    "official _cambridge_guide/markdown/pages/page-045.md": {
+      "bytes": 1625,
+      "sha256": "e0978205cf20c496ff366256e4a63127c4afe44d7e88b69b160b2557d328b380"
+    },
+    "official _cambridge_guide/markdown/pages/page-046.md": {
+      "bytes": 2754,
+      "sha256": "b459d02db687234da77ea390badc2835a583c5f80f3c250f8105001cffe8ee89"
+    },
+    "official _cambridge_guide/markdown/pages/page-047.md": {
+      "bytes": 3074,
+      "sha256": "468c7df90a52015a666013076d7a0cb1032ef61177f3b215411228b54e8eedcc"
+    },
+    "official _cambridge_guide/markdown/pages/page-048.md": {
+      "bytes": 1643,
+      "sha256": "c10ab0451f6aefc6bdb6acab72fed3da69373415af2a74c154f1254473d6c66f"
+    },
+    "official _cambridge_guide/markdown/pages/page-049.md": {
+      "bytes": 2628,
+      "sha256": "365c17d805e87bf95c6c7c2ec364845f57e1001497218c1d940404e1f8e32bd4"
+    },
+    "official _cambridge_guide/markdown/pages/page-050.md": {
+      "bytes": 1880,
+      "sha256": "5f6c2aa850a9fad2f274c53269f8cad5af832a64afbf33d5bed66cd6a2686aa1"
+    },
+    "official _cambridge_guide/markdown/pages/page-051.md": {
+      "bytes": 2290,
+      "sha256": "9193c4d8ed894e093beae2c1d449e8fdbb3d311ea446a9a5ff66f0319bfc0d73"
+    },
+    "official _cambridge_guide/markdown/pages/page-052.md": {
+      "bytes": 2261,
+      "sha256": "e3277859b23160093b4c692450c7966502e8f572c64ca04db07a592723835e65"
+    },
+    "official _cambridge_guide/markdown/pages/page-053.md": {
+      "bytes": 1988,
+      "sha256": "112e626a4b34599958df447f244d3f5673052b7443576a31ff3bc9ef84e410db"
+    },
+    "official _cambridge_guide/markdown/pages/page-054.md": {
+      "bytes": 760,
+      "sha256": "3d6db55fb6d0c54445f199d15233c2721d1ba86e135332dec08c014c388c74eb"
+    },
+    "official _cambridge_guide/markdown/pages/page-055.md": {
+      "bytes": 1293,
+      "sha256": "caf37561936f6199d62ec3c7593d3cc0150932cbf5cb96566826b6f0821324c0"
+    },
+    "official _cambridge_guide/markdown/pages/page-056.md": {
+      "bytes": 1615,
+      "sha256": "4a30c6179f2ea817f72569ea6ab88b689f40c5528e45ef708a095e9e7d05d890"
+    },
+    "official _cambridge_guide/markdown/pages/page-057.md": {
+      "bytes": 3552,
+      "sha256": "495e712537803ac00adec851142ad8fdab32a63310c9ed00016c4a50e05b9013"
+    },
+    "official _cambridge_guide/markdown/pages/page-058.md": {
+      "bytes": 2647,
+      "sha256": "6a801317cfb1ff0667687054f0d193a8d284bc34722fae6d0df5bf647da0c898"
+    },
+    "official _cambridge_guide/markdown/pages/page-059.md": {
+      "bytes": 4927,
+      "sha256": "b644d72e570dc27ac0a5efb0aac34be6dcae507055564c2fa85755ae7d2b067d"
+    },
+    "official _cambridge_guide/markdown/pages/page-060.md": {
+      "bytes": 1815,
+      "sha256": "67686e4e99ceb784ae73f5c241a22829237ca742ba874a931d374aece00ae6e3"
+    },
+    "official _cambridge_guide/markdown/pages/page-061.md": {
+      "bytes": 1864,
+      "sha256": "74d92fa51896f3a51f80cc99264481ec75504fd97a5fa4b0a3441a1f4c8f760a"
+    },
+    "official _cambridge_guide/markdown/pages/page-062.md": {
+      "bytes": 3953,
+      "sha256": "138c003569c73c5511e162724afd1b421522b1919687b0d394b355d9a7a2df87"
+    },
+    "official _cambridge_guide/markdown/pages/page-063.md": {
+      "bytes": 2076,
+      "sha256": "b066ce38fcbac71656032a137e7dd09de87ad8a25b9d0e0b76215ad400b6efb0"
+    },
+    "official _cambridge_guide/markdown/pages/page-064.md": {
+      "bytes": 1895,
+      "sha256": "46c248fd3595315e400a6c28abc652d5bc9d2f168f108f9510e23747fa75dcd0"
+    },
+    "official _cambridge_guide/markdown/pages/page-065.md": {
+      "bytes": 1102,
+      "sha256": "ed8ce0a06efb814f2cfacfb59b1461b85a465a2f67fd6fac911f8030087ba9ea"
+    },
+    "official _cambridge_guide/markdown/pages/page-066.md": {
+      "bytes": 3303,
+      "sha256": "a09af71f000dfc8a3fcaab31620d22b9c8fe80def48e628240eddf7b83c56df1"
+    },
+    "official _cambridge_guide/markdown/pages/page-067.md": {
+      "bytes": 2462,
+      "sha256": "f1cb11ec8ce83fac03d2614d7e4cd36c3caf1747750412e2f5f6af0e316b7c64"
+    },
+    "official _cambridge_guide/markdown/pages/page-068.md": {
+      "bytes": 1689,
+      "sha256": "ce274d6ae534b4d97d9dd447a985ad2c134b0b34e8d48180fa9942260cd8026b"
+    },
+    "official _cambridge_guide/markdown/pages/page-069.md": {
+      "bytes": 2122,
+      "sha256": "b9358dabe1251e3b80104a1dd34aa8be2716bc5a92c59bd4aea729ac79a3e0e0"
+    },
+    "official _cambridge_guide/markdown/pages/page-070.md": {
+      "bytes": 3009,
+      "sha256": "c3e5f5619f9ee4a43835347883c3a4f772807b1dbdcaa033fd2cc9901499d6d5"
+    },
+    "official _cambridge_guide/markdown/pages/page-071.md": {
+      "bytes": 2109,
+      "sha256": "dcae3d20cedd4f44f67ff4e6a6afca41837413786952ee762c5e85221f1c27f2"
+    },
+    "official _cambridge_guide/markdown/pages/page-072.md": {
+      "bytes": 2738,
+      "sha256": "4feec1e38dbf30eb32d75ae23a25de96b0b0bf43503beab566a433f1871b9916"
+    },
+    "official _cambridge_guide/markdown/pages/page-073.md": {
+      "bytes": 2297,
+      "sha256": "867c2321fb8d02eac23c6191b8a3b7c8acb154fc67ac6f7142f80f22fc7710b3"
+    },
+    "official _cambridge_guide/markdown/pages/page-074.md": {
+      "bytes": 1190,
+      "sha256": "50ed0fba9dbffaeaccc22a7f2f5436ab1f5e59d2962a4e41ba6dd9038b5babac"
+    },
+    "official _cambridge_guide/markdown/pages/page-075.md": {
+      "bytes": 2888,
+      "sha256": "cd46155563e42a8d69d6ad12f0fe34680272c45ec68a45610226fe120a61db39"
+    },
+    "official _cambridge_guide/markdown/pages/page-076.md": {
+      "bytes": 2063,
+      "sha256": "47839b910c2e15ceb287b33aa82dd1f837ec431a9589992536d5d7d84f3a93a8"
+    },
+    "official _cambridge_guide/markdown/pages/page-077.md": {
+      "bytes": 1844,
+      "sha256": "c0176ffbac1bb0a6f197979c6b2bd5f36b7fe4a702fbcbd91a17e7eecc8070a6"
+    },
+    "official _cambridge_guide/markdown/pages/page-078.md": {
+      "bytes": 2855,
+      "sha256": "3e2cacda7dbb4e51e2d7d3fb8b547fc0d2e867cbd789109c45741a968bad8800"
+    },
+    "official _cambridge_guide/markdown/pages/page-079.md": {
+      "bytes": 1144,
+      "sha256": "d511c1b69527f8050255295d28de385063679d846b57aab4b5f5af2b0f7de95e"
+    },
+    "official _cambridge_guide/markdown/pages/page-080.md": {
+      "bytes": 2138,
+      "sha256": "3577642c9d458015a173077afcc0ddcddff6e0925097c64103f5abb1f55de23b"
+    },
+    "official _cambridge_guide/markdown/pages/page-081.md": {
+      "bytes": 2014,
+      "sha256": "e422507bc5a51790ec3ab6cd736acf8e8e811ae9227bed2185ab7efacf616728"
+    },
+    "official _cambridge_guide/markdown/pages/page-082.md": {
+      "bytes": 2094,
+      "sha256": "57a7769d1d8a1e3c909ae8fc03511e3502ef87e4ae4b8fdd1f3955628bc63d1c"
+    },
+    "official _cambridge_guide/markdown/pages/page-083.md": {
+      "bytes": 2235,
+      "sha256": "1b6f922ce7e47f1e850f77e2d350cd2367b370b212c883fa677ff8a42e0cef58"
+    },
+    "official _cambridge_guide/markdown/pages/page-084.md": {
+      "bytes": 2173,
+      "sha256": "4aaf48e019ba0c8bf152177cd6c9159c585dcc0754f56af73f7b9da39fc61484"
+    },
+    "official _cambridge_guide/markdown/pages/page-085.md": {
+      "bytes": 1343,
+      "sha256": "55829356f8aa3f2b4870f5d83f412f81558d5f2d1af9460fa4d4534e113ef264"
+    },
+    "official _cambridge_guide/markdown/pages/page-086.md": {
+      "bytes": 3732,
+      "sha256": "e41e775a9f5a636d1299f422c3a52c78a1b39f33777eff3dce761aa17eed2435"
+    },
+    "official _cambridge_guide/markdown/pages/page-087.md": {
+      "bytes": 1612,
+      "sha256": "4bb2e7c734a1026d6c1c7f889dbc431c59b1456ad88744f243d1da88b6c9a466"
+    },
+    "official _cambridge_guide/markdown/pages/page-088.md": {
+      "bytes": 1985,
+      "sha256": "d2e7ba6da44dede79af38cdac31c51fac863278e5c2633e33e5c96e8ac0cf6f1"
+    },
+    "official _cambridge_guide/markdown/pages/page-089.md": {
+      "bytes": 1644,
+      "sha256": "130ac89566f3760587067228f91813e7a18c8df1df92bfcfbb767739199630e7"
+    },
+    "official _cambridge_guide/markdown/pages/page-090.md": {
+      "bytes": 6078,
+      "sha256": "56da96f6777808a75f8260801bfed2a73940face8338a45aee10bc903e1f01d4"
+    },
+    "official _cambridge_guide/markdown/pages/page-091.md": {
+      "bytes": 1663,
+      "sha256": "249896fb01e8858aef5f86627b0b9243b673476f5a9e568ff048c4d608c225fd"
+    },
+    "official _cambridge_guide/markdown/pages/page-092.md": {
+      "bytes": 1180,
+      "sha256": "30e13ae941fc32b38f72437eae082a171cc1792fceac48bf28e9509d4a9e3c44"
+    },
+    "official _cambridge_guide/markdown/pages/page-093.md": {
+      "bytes": 1634,
+      "sha256": "e9d87df16a891f0f8a4532409c535945855b6bc0c60bd127dbdd816ca35d1e86"
+    },
+    "official _cambridge_guide/markdown/pages/page-094.md": {
+      "bytes": 811,
+      "sha256": "c195f45b05280d02ea8f36d0b1950a73ba0432537d5440ae7a03f85e872f3e71"
+    },
+    "official _cambridge_guide/markdown/pages/page-095.md": {
+      "bytes": 1726,
+      "sha256": "600c75318d1ceef3b3eee285c7a65127e7df7b10419f1d637b8198a57633239d"
+    },
+    "official _cambridge_guide/markdown/pages/page-096.md": {
+      "bytes": 1403,
+      "sha256": "5016c3a5f6276b0af072a0c4609e67a1b728320d0a18d3ee1f52b90bb4d22a0d"
+    },
+    "official _cambridge_guide/markdown/pages/page-097.md": {
+      "bytes": 1438,
+      "sha256": "ba1634915de69319f5fab29955ff88e34756e12dbbc3084cf1b12105dd028e60"
+    },
+    "official _cambridge_guide/markdown/pages/page-098.md": {
+      "bytes": 1816,
+      "sha256": "2d52d7eb02a5be1373264e0a5aee8830ed9755d99e232140f1a7a536c90c32a7"
+    },
+    "official _cambridge_guide/markdown/pages/page-099.md": {
+      "bytes": 1279,
+      "sha256": "027126d0cc354c4113d8f27288bcc335ce6d7790e8b27ac2fca213cb539660db"
+    },
+    "official _cambridge_guide/markdown/pages/page-100.md": {
+      "bytes": 2804,
+      "sha256": "3a0bc468abb242c1ba8457181dade53d2a885a9d1e193ba59b743d43dac3a2a1"
+    },
+    "official _cambridge_guide/markdown/pages/page-101.md": {
+      "bytes": 1293,
+      "sha256": "de109a2d0f3bee2634c636934d808d8320a6dd290d9166bd63c4cfbec0fa2758"
+    },
+    "official _cambridge_guide/markdown/pages/page-102.md": {
+      "bytes": 1732,
+      "sha256": "eab694612b17184802f45dc234189eb983a9160297f1969520212d2fdeb91525"
+    },
+    "official _cambridge_guide/markdown/pages/page-103.md": {
+      "bytes": 1973,
+      "sha256": "3234231c5e8984db2234eb002a716ad21ba41c4c53312c00aa99eafe5264f3e6"
+    },
+    "official _cambridge_guide/markdown/pages/page-104.md": {
+      "bytes": 1807,
+      "sha256": "6edb4cfdd8461d08a582a44f715a94b8d4baa0e9c67fd365448cc045770caebe"
+    },
+    "official _cambridge_guide/markdown/pages/page-105.md": {
+      "bytes": 1578,
+      "sha256": "1e658b69a85742aa63f77baaed8f8973497d9964f9ebd8b856520ccd56c9dfe4"
+    },
+    "official _cambridge_guide/markdown/pages/page-106.md": {
+      "bytes": 2124,
+      "sha256": "55ef6f795487aecab6e260a401a2d559303b287db953a8e7ffdf3b3a37fb0623"
+    },
+    "official _cambridge_guide/markdown/pages/page-107.md": {
+      "bytes": 1085,
+      "sha256": "3996c73f6cd11e35428f24187e4390d36515953026eb209aa353b50b9f13dca3"
+    },
+    "official _cambridge_guide/markdown/pages/page-108.md": {
+      "bytes": 2279,
+      "sha256": "5db87b00d78170538b43fadc3c9e5f1ac94ccf15b69f99af7122e34e717122ac"
+    },
+    "official _cambridge_guide/markdown/pages/page-109.md": {
+      "bytes": 1885,
+      "sha256": "1d3ef5672d8790060334b1de72ae05fe79c297ca541af8ca4b213b270bdd506d"
+    },
+    "official _cambridge_guide/markdown/pages/page-110.md": {
+      "bytes": 1544,
+      "sha256": "7b54a526ad2a4da498bf0e0969464b88ef5d9b5c2448b63c6c77e20dbcb9e215"
+    },
+    "official _cambridge_guide/markdown/pages/page-111.md": {
+      "bytes": 1494,
+      "sha256": "618e4c21cd1a3acee83d6efc03a155cf6627ecb599b638d293ed2a313921b44b"
+    },
+    "official _cambridge_guide/markdown/pages/page-112.md": {
+      "bytes": 1355,
+      "sha256": "ba666bb84294c6b906feeca2dd77d37c7ae1880e98e27d423bc8a48857a2d434"
+    },
+    "official _cambridge_guide/markdown/pages/page-113.md": {
+      "bytes": 2331,
+      "sha256": "656a5db4b3c49436240d6d1dba4c4204c77d07a4f140fc4cb950b393877f3f33"
+    },
+    "official _cambridge_guide/markdown/pages/page-114.md": {
+      "bytes": 1350,
+      "sha256": "0c708bd46d6b5166d56746fee9e343b4fb81807dd93b73e0dfa6b98edc886ffd"
+    },
+    "official _cambridge_guide/markdown/pages/page-115.md": {
+      "bytes": 1902,
+      "sha256": "a476a3a973233759a14ca78e6712b104a5772256eed545ab775f2e4b05989d95"
+    },
+    "official _cambridge_guide/markdown/pages/page-116.md": {
+      "bytes": 1302,
+      "sha256": "fe9a1bdc53c050b7fe483433c6acf0d23ee59a3dc22d3ddf75707b186be14385"
+    },
+    "official _cambridge_guide/markdown/pages/page-117.md": {
+      "bytes": 2316,
+      "sha256": "43e14b9a50b3a03f57582fc6843c0e48ac7091d2942888bcbc1720913196a90c"
+    },
+    "official _cambridge_guide/markdown/pages/page-118.md": {
+      "bytes": 2312,
+      "sha256": "0e576815aa0df67617331aabf8afb278c0820d1a4b23a95e4e0b76f26f457c08"
+    },
+    "official _cambridge_guide/markdown/pages/page-119.md": {
+      "bytes": 1443,
+      "sha256": "1e75a76b950fd857994674391e61242858b86cae89c39e7489e2769f2867c079"
+    },
+    "official _cambridge_guide/markdown/pages/page-120.md": {
+      "bytes": 2019,
+      "sha256": "72246a949361a129ac9e8b5766e92aaba4b5a40409e6a1ac44f38a0f3f6744d7"
+    },
+    "official _cambridge_guide/markdown/pages/page-121.md": {
+      "bytes": 1914,
+      "sha256": "4ade870eddba26464a8bdffb3827dd412e1709bc265a27428697d080e76d5b7e"
+    },
+    "official _cambridge_guide/markdown/pages/page-122.md": {
+      "bytes": 1896,
+      "sha256": "17d2bfb7bd609c8a89e68389f56c8ed83afe0e683e0601788683b5b613d6ec0c"
+    },
+    "official _cambridge_guide/markdown/pages/page-123.md": {
+      "bytes": 2394,
+      "sha256": "1aba447ab5a07309f1d3ff177b041c39b4453368ed4175553b5d37e801bf4f96"
+    },
+    "official _cambridge_guide/markdown/pages/page-124.md": {
+      "bytes": 1984,
+      "sha256": "34811451c65d0b0024f41963783974476df0f8deb110a3dd8e43ee4082278349"
+    },
+    "official _cambridge_guide/markdown/pages/page-125.md": {
+      "bytes": 2176,
+      "sha256": "28c9bb86b8036cb2cb8e79f8d7e3c0bb32181c097aa9111df228c613cdaeff77"
+    },
+    "official _cambridge_guide/markdown/pages/page-126.md": {
+      "bytes": 2236,
+      "sha256": "018d78d6d5a8d6249394995cd5209dfebe2d0beebe2cde7dd0b804addb2ba4a7"
+    },
+    "official _cambridge_guide/markdown/pages/page-127.md": {
+      "bytes": 2249,
+      "sha256": "623f8502d629adf048cdcc2adf34ab55317c17e487c729ac6367c10cffd85dfc"
+    },
+    "official _cambridge_guide/markdown/pages/page-128.md": {
+      "bytes": 1865,
+      "sha256": "04b703a6b19fe6fc16b3ffd49210d7e49b83318f812fa4212ee846847dd92da5"
+    },
+    "official _cambridge_guide/markdown/pages/page-129.md": {
+      "bytes": 1966,
+      "sha256": "5e118c1464c0fe8d15bf3add654144750dade6cddf9d6b546234b66912bb0ce4"
+    },
+    "official _cambridge_guide/markdown/pages/page-130.md": {
+      "bytes": 1878,
+      "sha256": "eac2f63fafd5a26e2d58e514837a7767e7113b7338f54ffd852655bd902128af"
+    },
+    "official _cambridge_guide/markdown/pages/page-131.md": {
+      "bytes": 2553,
+      "sha256": "7af05aedaef4932af8b3234739e52a7fcecd9d18b6ea089bf1063a12e40857d5"
+    },
+    "official _cambridge_guide/markdown/pages/page-132.md": {
+      "bytes": 1414,
+      "sha256": "ca6bb281a47cd0365a6b4285a4b880c7997266be2af5016250ea8fd8c9280a6c"
+    },
+    "official _cambridge_guide/markdown/pages/page-133.md": {
+      "bytes": 2151,
+      "sha256": "5bacbe486fcd4a43f2bbb059e1bc4a0d781c34b88af077a99b2d04503b90a064"
+    },
+    "official _cambridge_guide/markdown/pages/page-134.md": {
+      "bytes": 2898,
+      "sha256": "e57fc48e1fc90b08c6154429bfe13370fea4d7f22944fe190213bc9ba627c512"
+    },
+    "official _cambridge_guide/markdown/pages/page-135.md": {
+      "bytes": 1835,
+      "sha256": "3889919a82a2c42759f3f320efaf505bca845e6eea42045a7ac269aef95416db"
+    },
+    "official _cambridge_guide/markdown/pages/page-136.md": {
+      "bytes": 618,
+      "sha256": "87ccdf8542223ed7449e1f1492ea07f1f64e79366113571670672ccc7230ded3"
+    },
+    "official _cambridge_guide/markdown/pages/page-137.md": {
+      "bytes": 2072,
+      "sha256": "8bc2e252e6b6f1233798ba0e38942646fdf784c850f8b2ec512fbaef131e8a07"
+    },
+    "official _cambridge_guide/markdown/pages/page-138.md": {
+      "bytes": 2169,
+      "sha256": "e71e96a5d24c0c20efb97ecf99bd8c791ad7983fdfd44d62909099516b83c2ce"
+    },
+    "official _cambridge_guide/markdown/pages/page-139.md": {
+      "bytes": 2278,
+      "sha256": "4e2e3a08702b783f1ad944bb88cd2c4b9fbbf2977e1bbde773b61de48fc474d0"
+    },
+    "official _cambridge_guide/markdown/pages/page-140.md": {
+      "bytes": 1986,
+      "sha256": "4d9d0674fdcc8d4dca6aa64069d1999ecaeb822ba63b905c4880027e08697ea1"
+    },
+    "official _cambridge_guide/markdown/pages/page-141.md": {
+      "bytes": 1662,
+      "sha256": "3839e24134399536a8dea1d1967df5db140c29000894b2c35d31a85a1130227e"
+    },
+    "official _cambridge_guide/markdown/pages/page-142.md": {
+      "bytes": 1938,
+      "sha256": "b5babfecb022b60f46da168211a5113f53d459368d584547342627c2dae626b5"
+    },
+    "official _cambridge_guide/markdown/pages/page-143.md": {
+      "bytes": 1842,
+      "sha256": "33ba7ca97df4bc5086ea42b78b70f5e3c43c8132d6b0c1aa3dcccc9a744a0e27"
+    },
+    "official _cambridge_guide/markdown/pages/page-144.md": {
+      "bytes": 2435,
+      "sha256": "d9cbf6828b933a32af7d08350b4f3dad056c6ea1af2974df91faedbaef1b1835"
+    },
+    "official _cambridge_guide/markdown/pages/page-145.md": {
+      "bytes": 1803,
+      "sha256": "96c1a16db9efa4a0bf9ba88cf9423f37fbaf40f177631b613f1a51d2e14764f2"
+    },
+    "official _cambridge_guide/markdown/pages/page-146.md": {
+      "bytes": 1692,
+      "sha256": "02b8a61b5ddc799475c85771d19c006df2582a0daa01a42c3407e4f00eec253f"
+    },
+    "official _cambridge_guide/markdown/pages/page-147.md": {
+      "bytes": 1791,
+      "sha256": "ff3a43e615a5c433aaa47d942ccce8b7a6a0ed5d51495f1132b773f00c7ab113"
+    },
+    "official _cambridge_guide/markdown/pages/page-148.md": {
+      "bytes": 2456,
+      "sha256": "0751aaeb233d929097314092c403e7246dab96a3162209737760b1d30138d777"
+    },
+    "official _cambridge_guide/markdown/pages/page-149.md": {
+      "bytes": 1672,
+      "sha256": "051258990fac8a2564f8306dccc6612d21b48d8e5288e9f7ab9ef40eabd03a12"
+    },
+    "official _cambridge_guide/markdown/pages/page-150.md": {
+      "bytes": 1452,
+      "sha256": "ea46a9b3166319449e60efa2b354f94eef790e21a32c74c3dce3c6b27d03bbe1"
+    },
+    "official _cambridge_guide/markdown/pages/page-151.md": {
+      "bytes": 1989,
+      "sha256": "b9113cc56792dabf4826f5e77ea1ec49142bf809c470fdf95209a4120cdbef55"
+    },
+    "official _cambridge_guide/markdown/pages/page-152.md": {
+      "bytes": 1036,
+      "sha256": "28c42c9072a7474123f0822f73b4d5c1957dd22ec37203a4ef501532025bb81e"
+    },
+    "official _cambridge_guide/markdown/pages/page-153.md": {
+      "bytes": 2266,
+      "sha256": "b3af0f6d311e1bc76ed058c6c56b0b85a40558750590dc67cfa22546fe4e1dd8"
+    },
+    "official _cambridge_guide/markdown/pages/page-154.md": {
+      "bytes": 2429,
+      "sha256": "fa5e32ca7cd2009c49fed75fb0192ac6ce59131916692e6fe46d8a2cf26e314f"
+    },
+    "official _cambridge_guide/markdown/pages/page-155.md": {
+      "bytes": 2246,
+      "sha256": "b397df04a23f022a4ece9024b1bd3d2890d2a93918ee13e62b855e5da222b044"
+    },
+    "official _cambridge_guide/markdown/pages/page-156.md": {
+      "bytes": 1075,
+      "sha256": "9efb26e06bd34872db71c2bc194fe6b74b83e47657f06490a95cd53f702e949e"
+    },
+    "official _cambridge_guide/markdown/pages/page-157.md": {
+      "bytes": 1072,
+      "sha256": "b6a9c47739fb6637b7822c46ac8617d9cf3a6a5606456bf76ffb69ba5fb1e2fb"
+    },
+    "official _cambridge_guide/markdown/pages/page-158.md": {
+      "bytes": 1556,
+      "sha256": "522ba37c3089d5f2ebb51220616831a4e1279fe2044d5f83ff491dd6ea2f2e30"
+    },
+    "official _cambridge_guide/markdown/pages/page-159.md": {
+      "bytes": 1109,
+      "sha256": "214bc180ddd4300cc283f04e5f22431cbb538900b5b072978f8731a4b2fc325d"
+    },
+    "official _cambridge_guide/markdown/pages/page-160.md": {
+      "bytes": 2120,
+      "sha256": "ad68263df061745f1b35832a11eb975c21e377cd8006859159c9e958a6cc9f86"
+    },
+    "official _cambridge_guide/markdown/pages/page-161.md": {
+      "bytes": 4675,
+      "sha256": "afceeefdd9fd9a37302e0e673bff607cbfcedbdfd78345ebc5a0368e27c6897e"
+    },
+    "official _cambridge_guide/markdown/pages/page-162.md": {
+      "bytes": 5928,
+      "sha256": "ab5ec55440abf75fb4c22d8015dd312bb0ce0ba2e8bd97c490a37ccff03292da"
+    },
+    "official _cambridge_guide/markdown/pages/page-163.md": {
+      "bytes": 1627,
+      "sha256": "2c407ca0bca113cab292153424233d70b49fd10d9cae53ecaa39e59a1d7639ef"
+    },
+    "official _cambridge_guide/markdown/pages/page-164.md": {
+      "bytes": 3115,
+      "sha256": "911680919a8e1f15e7124916e9667ce5368be109bcf33891980c197b89747695"
+    },
+    "official _cambridge_guide/markdown/pages/page-165.md": {
+      "bytes": 3767,
+      "sha256": "cf347634818e0ffbcc4f7293797a5bb6ab6aff1537025445983bc0ae4fe774fa"
+    },
+    "official _cambridge_guide/markdown/pages/page-166.md": {
+      "bytes": 2236,
+      "sha256": "6e1b48ad203e86fca2461e37037a2a2a77d38d66b36aa4c000b124d221626c8a"
+    },
+    "official _cambridge_guide/markdown/pages/page-167.md": {
+      "bytes": 1356,
+      "sha256": "0a291d445052ba7806585e68225b358e0d7f6fd7cd5afc3b68c59248b51231bb"
+    },
+    "official _cambridge_guide/markdown/pages/page-168.md": {
+      "bytes": 3845,
+      "sha256": "7bd18e4c7ef8818bdc09eae5398b6247a023119dac8f6305c41d716c95e2de2e"
+    },
+    "official _cambridge_guide/markdown/pages/page-169.md": {
+      "bytes": 2805,
+      "sha256": "8f115ebb9b61354169ed5d7490a8f0a19513cd28705b20951ebcf58a6c633880"
+    },
+    "official _cambridge_guide/markdown/pages/page-170.md": {
+      "bytes": 1757,
+      "sha256": "545117a3d8b15f1bd438d416ca2afaf319e0a3f7b26ed94d1e9b319a3bd25630"
+    },
+    "official _cambridge_guide/markdown/pages/page-171.md": {
+      "bytes": 2082,
+      "sha256": "8dce664e2cfbe5dd76fdd4e4bf82f93f588fd79e97534bb3d9af2dcba4d0671b"
+    },
+    "official _cambridge_guide/markdown/pages/page-172.md": {
+      "bytes": 1843,
+      "sha256": "b3a09a8258a25b0f9a69e51dcea4fcd404dafbae3bf4d5d9921a59d04ee52c5e"
+    },
+    "official _cambridge_guide/markdown/pages/page-173.md": {
+      "bytes": 1946,
+      "sha256": "2eec8c328285341b31f6b388a9cf05702aad4692c0de10c0785901cd9210e850"
+    },
+    "official _cambridge_guide/markdown/pages/page-174.md": {
+      "bytes": 1228,
+      "sha256": "9837a6d1e1206e51740c64380f6c58612d9250513f1afada82a329f2c491ef6c"
+    },
+    "official _cambridge_guide/markdown/pages/page-175.md": {
+      "bytes": 1147,
+      "sha256": "8169bd2a74a352babe3467892393761d58e287204cbf482c3c0d496fbc71a7ee"
+    },
+    "official _cambridge_guide/markdown/pages/page-176.md": {
+      "bytes": 1350,
+      "sha256": "f2c1da40d06cc9f3d9b3a6eb472ac723aaa2f28a0269efc23f5d8a403f7c590c"
+    },
+    "official _cambridge_guide/markdown/pages/page-177.md": {
+      "bytes": 1079,
+      "sha256": "6bbffcb9a1c581efbed22f71f31771f747ae1a5f30af9d4cdbb5909cb898d76c"
+    },
+    "official _cambridge_guide/markdown/pages/page-178.md": {
+      "bytes": 3560,
+      "sha256": "69b5c9cd617375f8cd1c940cb0a53c4dd27b3357ec5c4085b9c5b4f7c902e0f7"
+    },
+    "official _cambridge_guide/markdown/pages/page-179.md": {
+      "bytes": 1662,
+      "sha256": "240819d896bf3db1151050dd231b24fb0215f625b7cb1460fabb1338bb297fdf"
+    },
+    "official _cambridge_guide/markdown/pages/page-180.md": {
+      "bytes": 1769,
+      "sha256": "defee8e24409ba208b4f801cc959f7b12083bfca98e1a69f08bc8d423dc81b62"
+    },
+    "official _cambridge_guide/markdown/pages/page-181.md": {
+      "bytes": 940,
+      "sha256": "c7e5c6ea8991d82c84aa5bd56544dd9c6cc60883e76c983cc2ea5422e33d2b7d"
+    },
+    "official _cambridge_guide/markdown/pages/page-182.md": {
+      "bytes": 2921,
+      "sha256": "d906a622e4c729c8ac12096cfeff5fd651d639083f2c78bb76be3b2a3056e03b"
+    },
+    "official _cambridge_guide/markdown/pages/page-183.md": {
+      "bytes": 2972,
+      "sha256": "76e781077f2bf3bfba68479e9da514ee6e97ba77c17788061c3cf85b98cbe719"
+    },
+    "official _cambridge_guide/markdown/pages/page-184.md": {
+      "bytes": 1169,
+      "sha256": "53cd705aa751ef8933b1685df2797f261b568759647a543ec4686fd4e2ed1756"
+    },
+    "official _cambridge_guide/markdown/pages/page-185.md": {
+      "bytes": 3412,
+      "sha256": "62ff86303a359f02bc13c4bf80b1bbc4609df88fc1bb1dfa52e0a769ce09c9ba"
+    },
+    "official _cambridge_guide/markdown/pages/page-186.md": {
+      "bytes": 2544,
+      "sha256": "ee93879f82b81ab4bb229075e04a92a119a5fdcf20e3735b40dbcb03f60cb76e"
+    },
+    "official _cambridge_guide/markdown/pages/page-187.md": {
+      "bytes": 1521,
+      "sha256": "a5a4afea40d1b1fce43a8966fc4ba983a8281a7d9641e6da0023b0a55ada78fc"
+    },
+    "official _cambridge_guide/markdown/pages/page-188.md": {
+      "bytes": 1074,
+      "sha256": "8b702d5cc6c1f67971bf75425642bbe20ca62080eed839560da303a50c06ebde"
+    },
+    "official _cambridge_guide/markdown/pages/page-189.md": {
+      "bytes": 1202,
+      "sha256": "c0f222ef860232ebf3bbbde531e09216b99b95f3e936ab4956e0f161057ca271"
+    },
+    "official _cambridge_guide/markdown/pages/page-190.md": {
+      "bytes": 1307,
+      "sha256": "aa972a2186b4288d325779ed4282567206d3969f94d1c227da1ac60935c13f92"
+    },
+    "official _cambridge_guide/markdown/pages/page-191.md": {
+      "bytes": 1404,
+      "sha256": "7a06bb7cccb4b96210578014faa2f65b450eca7ec175dadeb517b80c59d39f24"
+    },
+    "official _cambridge_guide/markdown/pages/page-192.md": {
+      "bytes": 1228,
+      "sha256": "e752da754c1a45a16e137a85518f63f0740b659fbea42ab86469b25a53667230"
+    },
+    "official _cambridge_guide/markdown/pages/page-193.md": {
+      "bytes": 561,
+      "sha256": "3d2527ead031976d3bfd3625a4e930b68efd0df2ad70b46f19be99526f997eaa"
+    },
+    "official _cambridge_guide/markdown/pages/page-194.md": {
+      "bytes": 886,
+      "sha256": "8186b34110d03d9ad9569ff5372ed319c090ba014d2459553d8f0a40bd4e4c4b"
+    },
+    "official _cambridge_guide/markdown/pages/page-195.md": {
+      "bytes": 1181,
+      "sha256": "1e1189c91f812423bae7d62972bf7c3dd8182521ce24ec84e2111fb3be56df03"
+    },
+    "official _cambridge_guide/markdown/pages/page-196.md": {
+      "bytes": 3384,
+      "sha256": "6b1ca37ca5dcfd294b19dcf6f7e51a4cf460f334c502aa348a06e1d01f0c0ee5"
+    },
+    "official _cambridge_guide/markdown/pages/page-197.md": {
+      "bytes": 2943,
+      "sha256": "fd1bf3631208a6160c769cf6d5059039e7c70143481af2f5d75e3afb509e12e2"
+    },
+    "official _cambridge_guide/markdown/pages/page-198.md": {
+      "bytes": 1381,
+      "sha256": "fc83bbceb63ab56967b77075dac1c7cf66ba1d516680fa9c09404b1b55dd6690"
+    },
+    "official _cambridge_guide/markdown/pages/page-199.md": {
+      "bytes": 829,
+      "sha256": "829e8a679ebe0ec8d99930976ef597e791a7542ebc59747b3fd2598e8869f809"
+    },
+    "official _cambridge_guide/markdown/pages/page-200.md": {
+      "bytes": 3351,
+      "sha256": "8438c88674f778c415d50d454b57dadd4bf1696d14cba4c4815d2538b9930bd2"
+    },
+    "official _cambridge_guide/markdown/pages/page-201.md": {
+      "bytes": 2483,
+      "sha256": "fe59446822ca1fe734dc82270971ebc298202a9d351b62df325a491ac3dfad26"
+    },
+    "official _cambridge_guide/markdown/pages/page-202.md": {
+      "bytes": 1042,
+      "sha256": "fe2fee4327acf83a2da215659c83a2c312d76d33e4f7153acf9d2edb67bf15e0"
+    },
+    "official _cambridge_guide/markdown/pages/page-203.md": {
+      "bytes": 3793,
+      "sha256": "28c537e3efc72ab3d3898aa0025f71ffb8111f6daa68aa1f7ee78a15d1f58392"
+    },
+    "official _cambridge_guide/markdown/pages/page-204.md": {
+      "bytes": 2928,
+      "sha256": "839bf9189f099522afb1aadd9a97f23d32d77968efdc9c8482841402d9700c26"
+    },
+    "official _cambridge_guide/markdown/pages/page-205.md": {
+      "bytes": 1390,
+      "sha256": "55076ca9b1772f272648cea3ea63ff800768744270d10d6a5fabf8d7ac36f30b"
+    },
+    "official _cambridge_guide/markdown/pages/page-206.md": {
+      "bytes": 1059,
+      "sha256": "49ea1b970f4936fbd3aad06086e755b9280bc5830dda52d5b1ff868597df5c05"
+    },
+    "official _cambridge_guide/markdown/pages/page-207.md": {
+      "bytes": 1597,
+      "sha256": "83a3e73606455eba72ad1fa698011b2b5e31a26ffb5559138e0d7e1d877e3be1"
+    },
+    "official _cambridge_guide/markdown/pages/page-208.md": {
+      "bytes": 1329,
+      "sha256": "e724fb3419d9ea5955f8ad5fd27014fcf40140099e4aacc9449a3128066fbf8b"
+    },
+    "official _cambridge_guide/markdown/pages/page-209.md": {
+      "bytes": 525,
+      "sha256": "b0ba2f01b573a7ad700be9c87787046bbae2544c277863c88188a8a786aeb32f"
+    },
+    "official _cambridge_guide/markdown/pages/page-210.md": {
+      "bytes": 696,
+      "sha256": "2560ad67ba63b614d6d05781361bbd9782a1d22ef87ffb6194715d2bd06643ec"
+    },
+    "official _cambridge_guide/markdown/pages/page-211.md": {
+      "bytes": 1170,
+      "sha256": "65b920f5ed401770e9ea246efa92b4f6796bccfa27ef9346fa32afecd67461be"
+    },
+    "official _cambridge_guide/markdown/pages/page-212.md": {
+      "bytes": 712,
+      "sha256": "8802d299628f01f0f19242256d10dfbb5896ed4f880273fa079b5da0bca0c8c5"
+    },
+    "official _cambridge_guide/markdown/pages/page-213.md": {
+      "bytes": 984,
+      "sha256": "e94407011e3851ed2015c63f979a0e0342481132d25b9d84cd2aebec12a52a54"
+    },
+    "official _cambridge_guide/markdown/pages/page-214.md": {
+      "bytes": 3889,
+      "sha256": "5246de5294826c904e988f828f8074ab63d1b0d1ad83e198c01327f889472058"
+    },
+    "official _cambridge_guide/markdown/pages/page-215.md": {
+      "bytes": 3176,
+      "sha256": "e6b890da767c8a95ff05ff778b21a7950e9e59181181dd3d448e9e2ee16b30f8"
+    },
+    "official _cambridge_guide/markdown/pages/page-216.md": {
+      "bytes": 1987,
+      "sha256": "78fff4a19ba36919e4f502a0806ce81dc23e25bd319fcf78897d884268bcc375"
+    },
+    "official _cambridge_guide/markdown/pages/page-217.md": {
+      "bytes": 5256,
+      "sha256": "4dc532c1da5c46483269e990eccce90214fe2a17f2ab2dfdeefad9c48968ed9b"
+    },
+    "official _cambridge_guide/markdown/pages/page-218.md": {
+      "bytes": 2113,
+      "sha256": "b5e736521de25334eb8a96c314f092843ca75f463e392fe99e24fb17bf6437dc"
+    },
+    "official _cambridge_guide/markdown/pages/page-219.md": {
+      "bytes": 1225,
+      "sha256": "a39b4e1e0539682b2a2c154b1abc3ca3d27679e52bbf5712f74156d085e29372"
+    },
+    "official _cambridge_guide/markdown/pages/page-220.md": {
+      "bytes": 1050,
+      "sha256": "584eec3e55182ae6278307618f4a7235aa5811cc25306c9c6438c2d9f1a2263a"
+    },
+    "official _cambridge_guide/markdown/pages/page-221.md": {
+      "bytes": 3650,
+      "sha256": "3b12d39b765f63f477140538ad506c647ae45776720019f93fe0d0377ddb6ea7"
+    },
+    "official _cambridge_guide/markdown/pages/page-222.md": {
+      "bytes": 3055,
+      "sha256": "5956975a158a5058feef2408eb94aa3e688ad2628c2ecb99c7912120f21688fe"
+    },
+    "official _cambridge_guide/markdown/pages/page-223.md": {
+      "bytes": 1202,
+      "sha256": "8fe954b65489f1cad22f2e64b513eda4d477eb9480195741690f6d4da3f8f4f3"
+    },
+    "official _cambridge_guide/markdown/pages/page-224.md": {
+      "bytes": 1351,
+      "sha256": "ea872612e70787211e8c58465a976293d25c309f1d92e7ff5ba3107e64e55e00"
+    },
+    "official _cambridge_guide/markdown/pages/page-225.md": {
+      "bytes": 1305,
+      "sha256": "4e4aab00d6e8b8b622c97a03f1ae7986142e1784f4ca7745d392ea8729463b35"
+    },
+    "official _cambridge_guide/markdown/pages/page-226.md": {
+      "bytes": 1786,
+      "sha256": "cd17bcb8256cb75960d80e14791a65cfeb32d948817bd840423aef7ffb145425"
+    },
+    "official _cambridge_guide/markdown/pages/page-227.md": {
+      "bytes": 1052,
+      "sha256": "b7fe478a9302e9d68702e59d442c8745b20aefc16f5a40dfc498b2130239e1e1"
+    },
+    "official _cambridge_guide/markdown/pages/page-228.md": {
+      "bytes": 562,
+      "sha256": "1ad03f3f695a74741dc0cd2e5ae13a485c5a76a4550ef0443e89aea3d4f188e3"
+    },
+    "official _cambridge_guide/markdown/pages/page-229.md": {
+      "bytes": 460,
+      "sha256": "bd14a840ca05bf17da1b24f7231a4d4904260367f8ba87aa93eef378bd53ec18"
+    },
+    "official _cambridge_guide/markdown/pages/page-230.md": {
+      "bytes": 1201,
+      "sha256": "c8dcb1c03a6139e38e1de477266f2e54cdcbbf5f8c456b126fc088ef5c4f0eaf"
+    },
+    "official _cambridge_guide/markdown/pages/page-231.md": {
+      "bytes": 812,
+      "sha256": "cd9742c3bc1eef5ea1636d4b6de922ac49cb812d48e8bc474af95e41bd38bf5d"
+    },
+    "official _cambridge_guide/markdown/pages/page-232.md": {
+      "bytes": 1040,
+      "sha256": "95e0915f2833f0c2638db659be024f6221b77ae24c0550ccb0b1d22c2514f173"
+    },
+    "official _cambridge_guide/markdown/pages/page-233.md": {
+      "bytes": 1123,
+      "sha256": "1df40a8e6dfd404881b75c78ef3846b7e0f737d412ba9b941d84456affd3a345"
+    },
+    "official _cambridge_guide/markdown/pages/page-234.md": {
+      "bytes": 3521,
+      "sha256": "a8d1fb8f121c861f92b49dfc7f5e0ebc561704b36c88e53989f1a7be0f076a4b"
+    },
+    "official _cambridge_guide/markdown/pages/page-235.md": {
+      "bytes": 2236,
+      "sha256": "ba9c2fb1341eaef0f4a80e078e6be4642331e5193d1489211c83efbda561b714"
+    },
+    "official _cambridge_guide/markdown/pages/page-236.md": {
+      "bytes": 4040,
+      "sha256": "2dca9d971d31c5654a1730f46024638f182574ec60b4978b14cbd11e1696abed"
+    },
+    "official _cambridge_guide/markdown/pages/page-237.md": {
+      "bytes": 2424,
+      "sha256": "e3f95b16e389f41a67daa4dbbd29578c0e2bfe076450228612bdcfe47a9a9d5f"
+    },
+    "official _cambridge_guide/markdown/pages/page-238.md": {
+      "bytes": 1107,
+      "sha256": "c9c62a4ac182b78ca038fd6e90caf48880b6f155ef914000f2cd18ff410b6129"
+    },
+    "official _cambridge_guide/markdown/pages/page-239.md": {
+      "bytes": 868,
+      "sha256": "9d157fde5aa6192dabb437555fd46bfa8a0817e2bd4cd9c1895a9e74b2fc6973"
+    },
+    "official _cambridge_guide/markdown/pages/page-240.md": {
+      "bytes": 4105,
+      "sha256": "c3a7a437d40db42bb5f5be57321bf809bda26102443d32b908c8b6f1437f5a04"
+    },
+    "official _cambridge_guide/markdown/pages/page-241.md": {
+      "bytes": 2430,
+      "sha256": "cb07baf4a9994616f959b8d1c4aa4d3e5eae44fc5e09e6040d78e8500b6565e9"
+    },
+    "official _cambridge_guide/markdown/pages/page-242.md": {
+      "bytes": 562,
+      "sha256": "62596369f3c7a167bf6fa7dace67942f84283bfe678ee57e211cb79b97b30d58"
+    },
+    "official _cambridge_guide/markdown/pages/page-243.md": {
+      "bytes": 840,
+      "sha256": "a573a21bb1e8bc2985a2e6f7289784c817680386fd67fe8f931e15f0ebb071df"
+    },
+    "official _cambridge_guide/markdown/pages/page-244.md": {
+      "bytes": 1351,
+      "sha256": "40879969442a0675a05bd8ea8ff1131c7ec305986104da069d54a4ac00efdf70"
+    },
+    "official _cambridge_guide/markdown/pages/page-245.md": {
+      "bytes": 1127,
+      "sha256": "e017a7dbf6e3dfb344410467c566b56e081c1c682122e7afe7721375934e5aa1"
+    },
+    "official _cambridge_guide/markdown/pages/page-246.md": {
+      "bytes": 1763,
+      "sha256": "35cb90125cef0fe6352006b5a69edd7c1161b94d474efe534e406caea724b16c"
+    },
+    "official _cambridge_guide/markdown/pages/page-247.md": {
+      "bytes": 872,
+      "sha256": "587e1127af204f4fb703f39438854eb1b94930f688dde90cdfb5b9ecbc7d7647"
+    },
+    "official _cambridge_guide/markdown/pages/page-248.md": {
+      "bytes": 1191,
+      "sha256": "fd297a0f0a428a3768c183e92d4b11e6bf70fb3ede53ccd4965f1f97a9288f2c"
+    },
+    "official _cambridge_guide/markdown/pages/page-249.md": {
+      "bytes": 1573,
+      "sha256": "3ab40065d719ae3c368ca11343ff27a24afafdd1903feeb516a1af792adfb06c"
+    },
+    "official _cambridge_guide/markdown/pages/page-250.md": {
+      "bytes": 359,
+      "sha256": "e3d78e8ab71c9cb8dddeb0c90e10c36719b9465850e77c0f3be2b00b190c5731"
+    },
+    "official _cambridge_guide/markdown/pages/page-251.md": {
+      "bytes": 852,
+      "sha256": "bb8d23bb7be5c8b4f6eebd1e1e72e4ea7bfdac7233818f26f72887fb8fa2dc98"
+    },
+    "official _cambridge_guide/markdown/pages/page-252.md": {
+      "bytes": 1213,
+      "sha256": "0adfad8bdf2e7cefe8c9fba430120fbb8092f90b130a531effc741c244cb68e7"
+    },
+    "official _cambridge_guide/markdown/pages/page-253.md": {
+      "bytes": 1070,
+      "sha256": "28cf3de1e9fbb2bc330968c9c8ddf60becdcd7a02cc8aefe11d5ed513163ba5e"
+    },
+    "official _cambridge_guide/markdown/pages/page-254.md": {
+      "bytes": 6188,
+      "sha256": "cd2893bce6499af582c66954f4d8b4e4e3fff0c0aa0c9401879c6dd07d937f95"
+    },
+    "official _cambridge_guide/markdown/pages/page-255.md": {
+      "bytes": 859,
+      "sha256": "c34f044e90fae8b2ad2ff4f03d04b92a7be583b30343ae76a3da8e66e37642aa"
+    },
+    "official _cambridge_guide/markdown/pages/page-256.md": {
+      "bytes": 3509,
+      "sha256": "f833ac87fdbf486129c0034391d555486399d37227530e8f7e4fcedda9989196"
+    },
+    "official _cambridge_guide/markdown/pages/page-257.md": {
+      "bytes": 2892,
+      "sha256": "563eb0d31f745c578e3f34632167543a1a298404d2e893b931b1b407ec79d78d"
+    },
+    "official _cambridge_guide/markdown/pages/page-258.md": {
+      "bytes": 1472,
+      "sha256": "7278ce445f813658d2b5cf5e3f84c150e7b4b71e2c6f2a5687718076d8d08840"
+    },
+    "official _cambridge_guide/markdown/pages/page-259.md": {
+      "bytes": 855,
+      "sha256": "f2ae71947cd71e304b1de6d956efee50cb102e956e8610f1315ffc856efdc2d6"
+    },
+    "official _cambridge_guide/markdown/pages/page-260.md": {
+      "bytes": 1141,
+      "sha256": "0e8e572b9c11047d850af2731fc142410276cccf59c60bad048be0213450b265"
+    },
+    "official _cambridge_guide/markdown/pages/page-261.md": {
+      "bytes": 1422,
+      "sha256": "2342d72a6f452865834a5157a5746edf485cbfc57000255d67b1aeef59e70964"
+    },
+    "official _cambridge_guide/markdown/pages/page-262.md": {
+      "bytes": 1682,
+      "sha256": "df824b2dd5903c78df86de08dcd5092679723a20fc34126d5fa0b15b8c4dfa2a"
+    },
+    "official _cambridge_guide/markdown/pages/page-263.md": {
+      "bytes": 1197,
+      "sha256": "d5c36dd92de41ba475e302270e0b6f89d78ce5ff1d8bad03cc7e247482c6cd28"
+    },
+    "official _cambridge_guide/markdown/pages/page-264.md": {
+      "bytes": 1180,
+      "sha256": "1063a1cf59d482b6fb026b4496c033c7f0782dd04e57d5136fe37daaeceab6c6"
+    },
+    "official _cambridge_guide/markdown/pages/page-265.md": {
+      "bytes": 639,
+      "sha256": "8fc62e81d3ca54a148d6e611c762b8a49fa93a63094d45d5447fb288285e84e8"
+    },
+    "official _cambridge_guide/markdown/pages/page-266.md": {
+      "bytes": 1588,
+      "sha256": "48b96d3abc6217d43cba035ce3ce9d203d2e2cbba19bb0053a8d18e23fb7ee19"
+    },
+    "official _cambridge_guide/markdown/pages/page-267.md": {
+      "bytes": 668,
+      "sha256": "ab2c73ae4fc74fc14243aba58c14ffd45845c0537f4283c0e07daae8de3a51d8"
+    },
+    "official _cambridge_guide/markdown/pages/page-268.md": {
+      "bytes": 1225,
+      "sha256": "51d365ca4b3da72e33968fa97b660a9779491ea8c1b54c78b8424d73c1c52f13"
+    },
+    "official _cambridge_guide/markdown/pages/page-269.md": {
+      "bytes": 2853,
+      "sha256": "1361518509954d67bfc7b487598b5b3092e1c654c7f349790d1cd9a81ae40943"
+    },
+    "official _cambridge_guide/markdown/pages/page-270.md": {
+      "bytes": 3594,
+      "sha256": "4c2f5c17a4d0cfff8a15c4a77e5803157426bf045eec3b857daf2b27ba61a8f8"
+    },
+    "official _cambridge_guide/markdown/pages/page-271.md": {
+      "bytes": 1612,
+      "sha256": "ade6976723c90035ce01a22ae7a1988f85fbdd472f4702629e90212b5b6a06d6"
+    },
+    "official _cambridge_guide/markdown/pages/page-272.md": {
+      "bytes": 3306,
+      "sha256": "b4f761a98a3af32ecdbb6784df9d72f1a11072de285b519984bd5093d30d71b6"
+    },
+    "official _cambridge_guide/markdown/pages/page-273.md": {
+      "bytes": 2579,
+      "sha256": "61cbbdb9f4e31ee4613c5706fa4e41eb28396645a3c7c20cf0286670dee5377a"
+    },
+    "official _cambridge_guide/markdown/pages/page-274.md": {
+      "bytes": 1332,
+      "sha256": "eb28bf0d0a4c99c5efd7e1b263e49e954c2110761b4a54ceca39ac1b2424b1d6"
+    },
+    "official _cambridge_guide/markdown/pages/page-275.md": {
+      "bytes": 561,
+      "sha256": "eec2cb5878577a435937553c7dcbc4d874052cdd4b5c2e162dbc29e86069566d"
+    },
+    "official _cambridge_guide/markdown/pages/page-276.md": {
+      "bytes": 975,
+      "sha256": "7d8671713ce67c0bfa1d3db3d3577adf4f207883155383232b8c5985274e9c93"
+    },
+    "official _cambridge_guide/markdown/pages/page-277.md": {
+      "bytes": 4366,
+      "sha256": "8b1c2ed18f9b4519fd2ec2db0c7300af48a85a90f96c4a6a10d3a1720ca5a7a0"
+    },
+    "official _cambridge_guide/markdown/pages/page-278.md": {
+      "bytes": 2045,
+      "sha256": "57cfc02d336665aab44d7ed5822f02142e448de41fa235dc5dc77305df76882a"
+    },
+    "official _cambridge_guide/markdown/pages/page-279.md": {
+      "bytes": 1861,
+      "sha256": "b32c3039437b5704ac6c2a2d856d4bbbb0e6e7ea921162491c814d1a892f4e2d"
+    },
+    "official _cambridge_guide/markdown/pages/page-280.md": {
+      "bytes": 1346,
+      "sha256": "d90ce4f35f9b6234d57219d6aa3cc137ee5ba13c0dcaaaa9058fa8ebe2bf6f2b"
+    },
+    "official _cambridge_guide/markdown/pages/page-281.md": {
+      "bytes": 1254,
+      "sha256": "9eb2dfeb016db16add07be74f9401d28b5d2afd66c0200167fa282451f85f6b9"
+    },
+    "official _cambridge_guide/markdown/pages/page-282.md": {
+      "bytes": 839,
+      "sha256": "e43723ecff867c8a3bc92ca70ff10f833c1ddbd67d9178f0b44af0cbc4ff5404"
+    },
+    "official _cambridge_guide/markdown/pages/page-283.md": {
+      "bytes": 2424,
+      "sha256": "0a30c9eaa7f8049585b1573a95dd52a51ea12f090af5f4c93e182e85c1c237ae"
+    },
+    "official _cambridge_guide/markdown/pages/page-284.md": {
+      "bytes": 717,
+      "sha256": "a5c4f1d3e289fbf6b798092bebbf51e404e2871cd0c097b4f56af81d2c0c27b7"
+    },
+    "official _cambridge_guide/markdown/pages/page-285.md": {
+      "bytes": 1571,
+      "sha256": "1884c833b78cf54278c8039a07d941d4e3c7bb952ec62442d9e9af34bf69174a"
+    },
+    "official _cambridge_guide/markdown/pages/page-286.md": {
+      "bytes": 724,
+      "sha256": "7108f022cc500a11a6c86370468b021f0a3ba692a31c0f89cc966ddf63e952ec"
+    },
+    "official _cambridge_guide/markdown/pages/page-287.md": {
+      "bytes": 2567,
+      "sha256": "9428f1bbfd54a074ad3179727145a52ac4ec46d008569dfbf2cb4179958e2981"
+    },
+    "official _cambridge_guide/markdown/pages/page-288.md": {
+      "bytes": 902,
+      "sha256": "4afb004c4d9fc26baf1ab052f98102bc63bfaab2a088090994313fc5e432f692"
+    },
+    "official _cambridge_guide/markdown/pages/page-289.md": {
+      "bytes": 2250,
+      "sha256": "33a14ca6f27f52d63dbfcd5dbcc5cf63d024d531164c8b6bc00a5e4f10245dd7"
+    },
+    "official _cambridge_guide/markdown/pages/page-290.md": {
+      "bytes": 942,
+      "sha256": "169ba144707d8b6c82dedef8ad1c0dbe3ea63b7ed303fb363ca814afd0ef5370"
+    },
+    "official _cambridge_guide/markdown/pages/page-291.md": {
+      "bytes": 3632,
+      "sha256": "9e80205ef05332c4cbac565014dfbba81ceddadbdc701c6c2b871ba40593006f"
+    },
+    "official _cambridge_guide/markdown/pages/page-292.md": {
+      "bytes": 2072,
+      "sha256": "3293189a727f69f3624bc67864a1b7e98450d1102f927aa9ade712e322cc5dd7"
+    },
+    "official _cambridge_guide/markdown/pages/page-293.md": {
+      "bytes": 1117,
+      "sha256": "d824a957246e4bc5837ba48ad69c100d36f542baf9261513c5335f591cd2f1f0"
+    },
+    "official _cambridge_guide/markdown/pages/page-294.md": {
+      "bytes": 704,
+      "sha256": "f31a878f6da8fa81fae4523c5321691d09aff3c4ec6ddaec54c02e8f945f78ce"
+    },
+    "official _cambridge_guide/markdown/pages/page-295.md": {
+      "bytes": 886,
+      "sha256": "2d95fa9dfc1f2c4c71fbf8e4c93810f1913db41b1bc27ab8cdae55106669677a"
+    },
+    "official _cambridge_guide/markdown/pages/page-296.md": {
+      "bytes": 1002,
+      "sha256": "f5cf452d9fb3301a0cd9a61b4b0d484b56cfd53fbae41ea2b89ae9a8b23e067f"
+    },
+    "official _cambridge_guide/markdown/pages/page-297.md": {
+      "bytes": 1179,
+      "sha256": "7f6b6db7fe2cf4d12256885cc5aabc413015f3e89cfa775671f98c06d3b5e8eb"
+    },
+    "official _cambridge_guide/markdown/pages/page-298.md": {
+      "bytes": 635,
+      "sha256": "f13540f86ae076699aff74cf86650de8b72505d54a2edbe0a1b51c4c25ef10c4"
+    },
+    "official _cambridge_guide/markdown/pages/page-299.md": {
+      "bytes": 502,
+      "sha256": "cbed6d9690326fd9c4fadba35057949812357ffa45e4eef8a69ddae64ac6cb3c"
+    },
+    "official _cambridge_guide/markdown/pages/page-300.md": {
+      "bytes": 1098,
+      "sha256": "ee17f1a1c2382fc49c270526de24ced73ee458641de9f3ada022e5026c38e4bb"
+    },
+    "official _cambridge_guide/markdown/pages/page-301.md": {
+      "bytes": 496,
+      "sha256": "30abbcf04f84daead05b709181fc3ac6b1c46d0c4ee7c58852eea01da56f9ee7"
+    },
+    "official _cambridge_guide/markdown/pages/page-302.md": {
+      "bytes": 1727,
+      "sha256": "38d0512dc6c2f55a924361d62434ad70fb1868f34569398a048302171bb5a875"
+    },
+    "official _cambridge_guide/markdown/pages/page-303.md": {
+      "bytes": 4193,
+      "sha256": "915a3af05b87a657317d6130829d9f6c65e8efde1015d5a720cc127812c920ea"
+    },
+    "official _cambridge_guide/markdown/pages/page-304.md": {
+      "bytes": 1206,
+      "sha256": "392e91ede86aadf3218b030ec304b6afbfce1018c806828c481f022055cd5163"
+    },
+    "official _cambridge_guide/markdown/pages/page-305.md": {
+      "bytes": 1564,
+      "sha256": "787c2d85abe47c8980de51d509893a1243fdcfe67306314df789d1f0fdcf5fd7"
+    },
+    "official _cambridge_guide/markdown/pages/page-306.md": {
+      "bytes": 1011,
+      "sha256": "bbece89cc92341e69c50d2ba33979dd6bd037db0e5b7521af95b08ee02b18265"
+    },
+    "official _cambridge_guide/markdown/pages/page-307.md": {
+      "bytes": 2991,
+      "sha256": "46f4c0e06b16215f6dedabd1babd801371f90a73b02d39919c2eef1d29c000bd"
+    },
+    "official _cambridge_guide/markdown/pages/page-308.md": {
+      "bytes": 2310,
+      "sha256": "b441288def3840cbeff9427c41e5055199f7ab974532afdefd46c1ef5c586906"
+    },
+    "official _cambridge_guide/markdown/pages/page-309.md": {
+      "bytes": 1534,
+      "sha256": "2352f9ee3bd688cfa3552888e80129beba515f85cb5741a10846237ce82cd9db"
+    },
+    "official _cambridge_guide/markdown/pages/page-310.md": {
+      "bytes": 3178,
+      "sha256": "69ef6f05c71999026745489fd96b5a0f5d55126102a1903fb56db658b89da0e5"
+    },
+    "official _cambridge_guide/markdown/pages/page-311.md": {
+      "bytes": 2525,
+      "sha256": "15f8fa89bbe4aa493b8afec6e912f6928c73b09fccb00df9990dbd3d1fcc5988"
+    },
+    "official _cambridge_guide/markdown/pages/page-312.md": {
+      "bytes": 1616,
+      "sha256": "4769ecab78397c5361b799ac3a322eb45b05a0a1aa8a6b4d8d1fafc47a98366d"
+    },
+    "official _cambridge_guide/markdown/pages/page-313.md": {
+      "bytes": 729,
+      "sha256": "3563002841bd428260b7f05cb1cbdc47e5bf987720866c6b1dbb3bec483b6d95"
+    },
+    "official _cambridge_guide/markdown/pages/page-314.md": {
+      "bytes": 1204,
+      "sha256": "cf1f4348f96acd7ad07faa3b13397fadb62a102aea36cea5a7d173e139b195d4"
+    },
+    "official _cambridge_guide/markdown/pages/page-315.md": {
+      "bytes": 1713,
+      "sha256": "0f72303caea759ddbd9e75ff4194e2dd3c1552ce32d4f53baf00fbfab42f1fd1"
+    },
+    "official _cambridge_guide/markdown/pages/page-316.md": {
+      "bytes": 2257,
+      "sha256": "18840537aa40e322e8913fa65432d5bd7fc0d1149c0ba536f1f462434acae5e1"
+    },
+    "official _cambridge_guide/markdown/pages/page-317.md": {
+      "bytes": 749,
+      "sha256": "0c3ad718387b0b29d4264d54948fa3618e0d86d8e9fd85e2745f837b7d87162a"
+    },
+    "official _cambridge_guide/markdown/pages/page-318.md": {
+      "bytes": 2314,
+      "sha256": "a92d3e07c97572d7d249cf478216ea676531c1468a72c5075eaacb64ada6b97b"
+    },
+    "official _cambridge_guide/markdown/pages/page-319.md": {
+      "bytes": 893,
+      "sha256": "19d0b4a234d24cbb35b597a8142e7ab09a83c7e279aeae28c2e085e4a4111d7e"
+    },
+    "official _cambridge_guide/markdown/pages/page-320.md": {
+      "bytes": 2388,
+      "sha256": "48794dae5de6971205be9aa86d0b75d097c9b2e0d76c5cce48e6a51cfa9005e8"
+    },
+    "official _cambridge_guide/markdown/pages/page-321.md": {
+      "bytes": 781,
+      "sha256": "ed2141d3a61cec07f633ed5a868c89451744335c52905cd6149339905a6bd1bd"
+    },
+    "official _cambridge_guide/markdown/pages/page-322.md": {
+      "bytes": 2553,
+      "sha256": "8fc13f5dabb0064c56c9cf34e12860ab487da381bea3429679a649b8090d3333"
+    },
+    "official _cambridge_guide/markdown/pages/page-323.md": {
+      "bytes": 716,
+      "sha256": "907e9d3f1ba965dd46c6fc5ee437aa2b788c47910bec2ceb711ebcb4adf763cf"
+    },
+    "official _cambridge_guide/markdown/pages/page-324.md": {
+      "bytes": 1006,
+      "sha256": "d220aa28ac283ab4e2f9f5f7c451ef54f3265dff20c7ca342634c948e9daf32f"
+    },
+    "official _cambridge_guide/markdown/pages/page-325.md": {
+      "bytes": 3886,
+      "sha256": "7d5095945a55f1a437bf3c4641b90f7abdbff5d2447263c25c1753f17f78db85"
+    },
+    "official _cambridge_guide/markdown/pages/page-326.md": {
+      "bytes": 1746,
+      "sha256": "1db062e743d6a927e6b663052035db877735defee05ff5fb9995a52e5027cd9d"
+    },
+    "official _cambridge_guide/markdown/pages/page-327.md": {
+      "bytes": 772,
+      "sha256": "e963df96d212d31d297fb58365001595ee6b8b448cb9a059d9ad17e3daae394f"
+    },
+    "official _cambridge_guide/markdown/pages/page-328.md": {
+      "bytes": 598,
+      "sha256": "f878bdf1573ef49ba734f57fc07288355afdfe024cb5838495ea2655e0090f3b"
+    },
+    "official _cambridge_guide/markdown/pages/page-329.md": {
+      "bytes": 970,
+      "sha256": "eec4feade5363034b97acba02750cee347b62f407276f8f19e44600b9a0917f5"
+    },
+    "official _cambridge_guide/markdown/pages/page-330.md": {
+      "bytes": 3710,
+      "sha256": "29be83101ea84c9f4c940a7c615da07ec5ccaee9896779c0450a7925db188bcd"
+    },
+    "official _cambridge_guide/markdown/pages/page-331.md": {
+      "bytes": 6230,
+      "sha256": "f2cf4dd1065463c5579a4945ee432787b9c3311ee46251967a5c1f9159cacfc7"
+    },
+    "official _cambridge_guide/markdown/pages/page-332.md": {
+      "bytes": 4648,
+      "sha256": "d7a178383450b63b77e8bfc54ef1db337bd65da34574e489ac7203ea8467d97f"
+    },
+    "official _cambridge_guide/markdown/pages/page-333.md": {
+      "bytes": 5902,
+      "sha256": "77d8a7dd59384ca749871bb6b6c6c4c97d6389a6e1b75cafbe6fd130416d7605"
+    },
+    "official _cambridge_guide/markdown/pages/page-334.md": {
+      "bytes": 5574,
+      "sha256": "c12845a5ac772a54ddcf6c9b6609233f0153c165a0f7317baf22a426073a7b89"
+    },
+    "official _cambridge_guide/markdown/pages/page-335.md": {
+      "bytes": 4749,
+      "sha256": "6473440badea727682c1c7d1b455373e75e277ea1260dbe7b94d4b98ef7c1391"
+    },
+    "official _cambridge_guide/markdown/pages/page-336.md": {
+      "bytes": 5037,
+      "sha256": "c2c24c5a1265e96010aaf7d8eb1e5a6d7946823be306d0349e39bcf12afcdfd0"
+    },
+    "official _cambridge_guide/markdown/pages/page-337.md": {
+      "bytes": 5088,
+      "sha256": "92daf582aeca5f2d05dfa5f7bb004060862dc1cf0cd0ae5ff1a2e0ec7e3df9a5"
+    },
+    "official _cambridge_guide/markdown/pages/page-338.md": {
+      "bytes": 4879,
+      "sha256": "5538d13a947bcbe73c66df1fe9983d57796bc11fd54dd76c1982e56dc07b9c94"
+    },
+    "official _cambridge_guide/markdown/pages/page-339.md": {
+      "bytes": 6089,
+      "sha256": "9b81729bfb2f53fc79965d0b4e31e0ec05706d9c23b5380b3d07c5efc45dc891"
+    },
+    "official _cambridge_guide/markdown/pages/page-340.md": {
+      "bytes": 6165,
+      "sha256": "ec1ec27e15a65c5b6983257239633e4183ac0d1465c2615a20a09ea72c873f6f"
+    },
+    "official _cambridge_guide/markdown/pages/page-341.md": {
+      "bytes": 5329,
+      "sha256": "e32d60610b7b51d3d3bccf43a9862f1eaf1730050df92a2b9e21a8f9531686fc"
+    },
+    "official _cambridge_guide/markdown/pages/page-342.md": {
+      "bytes": 7214,
+      "sha256": "8c7951793c6b0a1f981a82a4a3c41cd5d64cb8bf04b3e14d8b76b07fabc1c679"
+    },
+    "official _cambridge_guide/markdown/pages/page-343.md": {
+      "bytes": 6469,
+      "sha256": "fa31c42701ac0e4c324de0107979df88194d9e7caf897adde9ae58ff118413e8"
+    },
+    "official _cambridge_guide/markdown/pages/page-344.md": {
+      "bytes": 5108,
+      "sha256": "b5924e6d2636711aa44bcd4cfde4d5c6f39707aa03bbda88c9403e811d57f3f5"
+    },
+    "official _cambridge_guide/markdown/pages/page-345.md": {
+      "bytes": 6364,
+      "sha256": "c038819fc3d9053a60c9e6ab448277ddf1decc5266a212457c3c9c7ca07173ba"
+    },
+    "official _cambridge_guide/markdown/pages/page-346.md": {
+      "bytes": 6349,
+      "sha256": "e01be5b11114275a7e67d00fa5ef22544478441baca7aadea9220c5d6bc8abcb"
+    },
+    "official _cambridge_guide/markdown/pages/page-347.md": {
+      "bytes": 5719,
+      "sha256": "4bfb87d46ba9f53b72ce9d51e1b2d30b1a2286fd2971ac24f9d9d5ab7586d9ae"
+    },
+    "official _cambridge_guide/markdown/pages/page-348.md": {
+      "bytes": 6274,
+      "sha256": "69d2c86a26ac2e67afe187ed87273e6e2b794b8449ebdf96b222ed706c11412a"
+    },
+    "official _cambridge_guide/markdown/pages/page-349.md": {
+      "bytes": 6381,
+      "sha256": "8ebb663d291f4ba22f3faf7bb20032ef75c0a1fc6282593ce8f04bbe1c76ad2b"
+    },
+    "official _cambridge_guide/markdown/pages/page-350.md": {
+      "bytes": 5728,
+      "sha256": "6c6f5bcf0675815ae04c8f677eaf64da025fd9f9b7440f5893b41e4f6739a12b"
+    },
+    "official _cambridge_guide/markdown/pages/page-351.md": {
+      "bytes": 6556,
+      "sha256": "83831cc691e36a7be301b6b471dd1ac309a30f728fa9c1c865c2e9b886f553c5"
+    },
+    "official _cambridge_guide/markdown/pages/page-352.md": {
+      "bytes": 6265,
+      "sha256": "8ca59839a6fda44ee05e1e9d9ff063823222e84a05acadc60b80b9a775f3deea"
+    },
+    "official _cambridge_guide/markdown/pages/page-353.md": {
+      "bytes": 5430,
+      "sha256": "a0096aa5e49c125662a8aa23fea034bda015e0b14b1c7939044c38c0bfdc495c"
+    },
+    "official _cambridge_guide/markdown/pages/page-354.md": {
+      "bytes": 6065,
+      "sha256": "988696f6c2c08fb96d4183e9e3ef9f3e2925dd8fab3472ddc7eded5a43488965"
+    },
+    "official _cambridge_guide/markdown/pages/page-355.md": {
+      "bytes": 5738,
+      "sha256": "1cdd7be79cd06495f10e0213046b2b62b448cf5bcf3737697e95ece19b017f93"
+    },
+    "official _cambridge_guide/markdown/pages/page-356.md": {
+      "bytes": 5897,
+      "sha256": "deed96dac28c4a2f59082b5303e72bae96e1905706aa8d28574e9529af464722"
+    },
+    "official _cambridge_guide/markdown/pages/page-357.md": {
+      "bytes": 5705,
+      "sha256": "fcf4d55ad6f75f7877cda56948d7fc7de6a24838c2031eddfef72d33a876e936"
+    },
+    "official _cambridge_guide/markdown/pages/page-358.md": {
+      "bytes": 6172,
+      "sha256": "8c4c9bd2a28f4d1f5891201e11dc03980dce1cddf3b3649d5f8f50075ceb46f4"
+    },
+    "official _cambridge_guide/markdown/pages/page-359.md": {
+      "bytes": 5746,
+      "sha256": "7c6db5ae63e53e3ab1f388aee4c05646c94afc9e257d4c4d39b3fe951a3ec655"
+    },
+    "official _cambridge_guide/markdown/pages/page-360.md": {
+      "bytes": 5912,
+      "sha256": "6beb3a334808e1e700c1a401ecd8958edba63cb1d23ee8af084aa5b883aaa695"
+    },
+    "official _cambridge_guide/markdown/pages/page-361.md": {
+      "bytes": 6075,
+      "sha256": "b29be9969a9926c1f4ed3c3c38142498de4aff3b2ea8a3169bcc75cb8d3b83ad"
+    },
+    "official _cambridge_guide/markdown/pages/page-362.md": {
+      "bytes": 3362,
+      "sha256": "3ec36d2a5e2d5572b824d7500a04fe14b067d2da890bc6f3c64357353e26f5e8"
+    },
+    "official _cambridge_guide/markdown/pages/page-363.md": {
+      "bytes": 2166,
+      "sha256": "fd0ecc539365f2ecc2713504cd111e08c21d4a71843b6d69e478ff2e5fd085c2"
+    },
+    "official _cambridge_guide/markdown/pages/page-364.md": {
+      "bytes": 2522,
+      "sha256": "b35e0f89ade4b56b07bb1383998a0f3c3b3b3e990a0e54ad8deed0d0f79e4cdf"
+    },
+    "official _cambridge_guide/markdown/pages/page-365.md": {
+      "bytes": 3150,
+      "sha256": "f5a72e7845908a18a6e897fb69ad1213481879c7be16652b9db4212ba2542f2e"
+    },
+    "official _cambridge_guide/markdown/pages/page-366.md": {
+      "bytes": 2546,
+      "sha256": "214dd014822ed29aac701f2d302dadefd2ab6be94fb8334c2370e93fb6d8b239"
+    },
+    "official _cambridge_guide/markdown/pages/page-367.md": {
+      "bytes": 3718,
+      "sha256": "65327d94b49005dfb0d7f33931e397f3c04b0777cf4543c4a6b342bb6e12c1b6"
+    },
+    "official _cambridge_guide/markdown/pages/page-368.md": {
+      "bytes": 2362,
+      "sha256": "6d5e9a982f547378425391f343f38d1ed4b8590bdd7ed2cdffca6a8bd1893714"
+    },
+    "official _cambridge_guide/markdown/pages/page-369.md": {
+      "bytes": 3795,
+      "sha256": "3d12095d5e065a8ff25a53126b9905546c9c3b1aa13cb79b0dd7458efc1eea63"
+    },
+    "official _cambridge_guide/markdown/pages/page-370.md": {
+      "bytes": 4147,
+      "sha256": "42ba069599411d54c84d414f0d06ac22e52625fd4415c16ccf3860279c8f28a0"
+    },
+    "official _cambridge_guide/markdown/pages/page-371.md": {
+      "bytes": 3858,
+      "sha256": "e258293abdf9cb68959defb56112ec79b2de718db5dae9770df3fff65deb0011"
+    },
+    "official _cambridge_guide/markdown/pages/page-372.md": {
+      "bytes": 3999,
+      "sha256": "6a1f62435afdd240d70c7f152407c407186a2b3fe0a42672b90b0aaa11bc441e"
+    },
+    "official _cambridge_guide/markdown/pages/page-373.md": {
+      "bytes": 3448,
+      "sha256": "e4b7614b060c8068f0220ed6581991ccb64db34c79380b958b1ec8e77ed1d35d"
+    },
+    "official _cambridge_guide/markdown/pages/page-374.md": {
+      "bytes": 6661,
+      "sha256": "856e9bc7e4527ec23218a725d56c413217c6f3582509ea7ee16ab488d32806cc"
+    },
+    "official _cambridge_guide/markdown/pages/page-375.md": {
+      "bytes": 3837,
+      "sha256": "b7478975d00499067cc4081baf7369c73d5bfa27f078aa6786f3b0c49e99544f"
+    },
+    "official _cambridge_guide/markdown/pages/page-376.md": {
+      "bytes": 3511,
+      "sha256": "bc421b2d5d73d0159c941fd3761b4bf2280a568b55a768020d2cb16ae8e32417"
+    },
+    "official _cambridge_guide/markdown/pages/page-377.md": {
+      "bytes": 2424,
+      "sha256": "00ac52fa090659cd53ca44f4f4205d39ab5fabb68fe769eb3d81f2524ea311b4"
+    },
+    "official _cambridge_guide/markdown/pages/page-378.md": {
+      "bytes": 3494,
+      "sha256": "38e2e52ad65bbd931113e9327f257c35dddef2ae42f1a2dd3d7e2205c3132948"
+    },
+    "official _cambridge_guide/markdown/pages/page-379.md": {
+      "bytes": 3373,
+      "sha256": "9d5c14dd7da9cc31f8942c2020184a002f0df81466de07f95c80edbdf76404dc"
+    },
+    "official _cambridge_guide/markdown/pages/page-380.md": {
+      "bytes": 3733,
+      "sha256": "e7ddb44d9924e43abe84369e68b6f2944eba618c3df16214f557bf4e13a973cf"
+    },
+    "official _cambridge_guide/markdown/pages/page-381.md": {
+      "bytes": 3816,
+      "sha256": "9b79cb8ed7ad15207ae451773822eed07aa46b5653c9fff2312dc426f17f5218"
+    },
+    "official _cambridge_guide/markdown/pages/page-382.md": {
+      "bytes": 4069,
+      "sha256": "2b2e4e34b44f31a9269242a04e6e385f77e111ea7a59125b836fa326596e5469"
+    },
+    "official _cambridge_guide/markdown/pages/page-383.md": {
+      "bytes": 3172,
+      "sha256": "ae73d2b355f784425cf521fe51f6d9a446a1e3e496dec90d7dde4209b061f06b"
+    },
+    "official _cambridge_guide/markdown/pages/page-384.md": {
+      "bytes": 4789,
+      "sha256": "6a6f667043f3947de94b2493f5c74a441b9a4753dc44e02d0616e0aa74724135"
+    },
+    "official _cambridge_guide/markdown/pages/page-385.md": {
+      "bytes": 6369,
+      "sha256": "77fca0be7a20d65535d6d0c5f1defc31e2cfd96fd66da125bd2cb5ee1d17bdff"
+    },
+    "official _cambridge_guide/markdown/pages/page-386.md": {
+      "bytes": 3798,
+      "sha256": "3dce5540f6d3eda13cb4d8e3471c07b214165bd2279b583e8c615160562fe19c"
+    },
+    "official _cambridge_guide/markdown/pages/page-387.md": {
+      "bytes": 4132,
+      "sha256": "5133be1eb7a9bd7a4347ba194f18175cd54ba7c0831748d8003210711c7d8711"
+    },
+    "official _cambridge_guide/markdown/pages/page-388.md": {
+      "bytes": 3802,
+      "sha256": "aec22e00d2a902f8cf6228a7fe931eed5a8d433430bb71c25814fab828dd9fda"
+    },
+    "official _cambridge_guide/markdown/pages/page-389.md": {
+      "bytes": 3637,
+      "sha256": "ad66dbe188e101d35172eb77a2ea8daabf295100229da669cdae08675f160315"
+    },
+    "official _cambridge_guide/markdown/pages/page-390.md": {
+      "bytes": 3762,
+      "sha256": "c7fbaf316cba7ac89e5b5806338f18f4ec99b480d9c55a10859a9adf04ac4726"
+    },
+    "official _cambridge_guide/markdown/pages/page-391.md": {
+      "bytes": 3215,
+      "sha256": "f3b7b879029740d7a342446b7de9815e8df0a9528cd108d038f5876b553b7d3d"
+    },
+    "official _cambridge_guide/markdown/pages/page-392.md": {
+      "bytes": 2977,
+      "sha256": "0ccdb4504660c92113032518fc23802bdb65c571506d82f4ff2883050bf3fdd3"
+    },
+    "official _cambridge_guide/markdown/pages/page-393.md": {
+      "bytes": 1528,
+      "sha256": "c54b7b677620b026f6e11d03d6daeb1ce01f558ac277e19447ac4d1d220a6c05"
+    },
+    "official _cambridge_guide/markdown/pages/page-394.md": {
+      "bytes": 746,
+      "sha256": "78503793a43f8df3afac981a8ee342114cb94032ea02437c0efaf3dfdd02e438"
+    },
+    "official _cambridge_guide/markdown/pages/page-395.md": {
+      "bytes": 5128,
+      "sha256": "2f88e54863198495074d2b6a2ca505dadc8eb4cedc173a42b60b0d4af1551163"
+    },
+    "official _cambridge_guide/markdown/pages/page-396.md": {
+      "bytes": 3875,
+      "sha256": "77742102aae6265548e33c5b58cb76dafe3c0d5ef7806f05dc444a4861b0e2aa"
+    },
+    "official _cambridge_guide/markdown/pages/page-397.md": {
+      "bytes": 6870,
+      "sha256": "2d212a5c223cccbfba36a25c8f53e353a03de0080cc2889196401cd58c01699a"
+    },
+    "official _cambridge_guide/markdown/pages/page-398.md": {
+      "bytes": 720,
+      "sha256": "c7390c47f710a28af05c4d403419859780c5b7d6762c51dd7eb475b964829c05"
+    },
+    "official _cambridge_guide/markdown/sections/pages-001-050.md": {
+      "bytes": 86566,
+      "sha256": "09b4f04f43cca46fb99eb1ff81849581f19010ae3880689018742a1be1976fae"
+    },
+    "official _cambridge_guide/markdown/sections/pages-051-100.md": {
+      "bytes": 109090,
+      "sha256": "9a412ed2afa06ab7d266ee80dd50b8061a13775f7b9c23191027eae697fe7723"
+    },
+    "official _cambridge_guide/markdown/sections/pages-101-150.md": {
+      "bytes": 94937,
+      "sha256": "63c3e638cce1c9318a34da28805958581dbd7c788dfa4d1dc49d497e9707b192"
+    },
+    "official _cambridge_guide/markdown/sections/pages-151-200.md": {
+      "bytes": 102423,
+      "sha256": "210f47daddb01a2c6708cb3f81ca1d70ed8f960af628124e793333e3f92ca9d8"
+    },
+    "official _cambridge_guide/markdown/sections/pages-201-250.md": {
+      "bytes": 87910,
+      "sha256": "6920413a211f6774e724362225b3f51989a6858736bf17d8b388a2d414da8805"
+    },
+    "official _cambridge_guide/markdown/sections/pages-251-300.md": {
+      "bytes": 83637,
+      "sha256": "8f98902ea1ed428f7bde3bfc1d1bcaa04b65be7fdf2dbc963543318ece5c8fd4"
+    },
+    "official _cambridge_guide/markdown/sections/pages-301-350.md": {
+      "bytes": 169170,
+      "sha256": "595486d1a48e6a873be7edd92f500a9f9ce1d62205051e6c31e93d992f7961c2"
+    },
+    "official _cambridge_guide/markdown/sections/pages-351-398.md": {
+      "bytes": 198598,
+      "sha256": "62464acc999471b5fcf0f2ec6d6ab98b09ac37c666d9775836872030de61f595"
+    },
+    "official _cambridge_guide/markdown/the-official-cambridge-guide-to-ielts.md": {
+      "bytes": 930666,
+      "sha256": "dd43753c2b8a7a64dae3141e97605010b84055c9403fe98b4b02129fba29dd1b"
+    },
+    "paths/ielts-speaking-7.md": {
+      "bytes": 2983,
+      "sha256": "49baac87668b658f8b48ed827419af9410aeaa71704db0d150e20df04e71d3f5"
+    },
+    "paths/natural-speaking.md": {
+      "bytes": 3834,
+      "sha256": "8e9997c094b9f2668aef7b6ea4ae5b89e57c4c83d4bf3469464ee3b22c582006"
+    },
+    "practice/speaking-prompts.md": {
+      "bytes": 2242,
+      "sha256": "c8b30deb66a956bc5939e50b611b97b1ca38076b2e3788ae0083df2a27a4ba09"
+    },
+    "scripts/audit.py": {
+      "bytes": 6469,
+      "sha256": "fc475680b7cbdfb3fe9b7d370296ccd08cdf57879e3f6c9d2922c19575db2ce2"
+    },
+    "scripts/build_grammar_map.py": {
+      "bytes": 3419,
+      "sha256": "e3e657fb2d027e9f3635718af0913f31b72797e798d324170797553af64c4152"
+    },
+    "scripts/verify_handoff.py": {
+      "bytes": 4879,
+      "sha256": "32fafeb9cbae6ac98b142dc28b2c2b4b7bc7cc9b690085bcd674808d7302143d"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+## PDF page 142
+
+<!-- source-pdf-page: 142 -->
+
+Speaking skills
+
+- 1.4 PP Video 6 Check your answers to 1.3, set a timer and watch Emanuele giving his talk. As you listen, make notes on what he says about each of the points in the task.
+
+- 1.5 How long did Emanuele speak for? Look at the notes you made from Emanuele’s talk. What would you add to make his talk longer?
+
+- 1.6 Video? Some candidates run out of ideas after only one minute. Watch Saida’s response. How does the examiner help?
+
+- If you run out of ideas after only one minute, you can
+
+Test Tip As you talk, you should only look at your notes briefly. Don't read directly from your notes. Notice how each of the candidates in the videos keeps eye contact with the examiner.
+
+- ¢ look quickly at your notes.
+
+- ¢ look at the question again (did you miss any details out?).
+
+- e refer back to an earlier point in your talk and add more.
+
+- ¢ keep talking while you think.
+
+- 1.7 The words in the box are useful to help you keep talking. Complete phrases 1-6 with a suitable word from the box. You may use any of the phrases more than once.
+
+add mentioned said described as else forgot 1 I said earlier ...
+
+   - 2 Atthe beginning I are 3 I don’t think I’ve vee
+
+   - 4 Now, what can I say?
+
+   - 5 I'd just like to something about ...
+
+   - 6 One thing I to mention ...
+
+- 1.8 Video’ Watch Sanem completing the task in 1.2. Does she cover all of the points in the task?
+
+- 1.9 > Video 9 Watch Sanem and Emanuele, talking at the end of Part 2. Write down the question the examiner asks. 1 Sanem’s rounding-off question: 2 Emanuele’s rounding-off question:
+
+      - Test Tip if you run
+
+      - ? out of ideas after one ? minute, give yourself “ fresh start by looking at ‘-our task notesin theor looking Skahat again
+
+- 1.10 It is important to answer all of the questions fully. Watch again and make a note of how the candidates extend their answer.
+
+141

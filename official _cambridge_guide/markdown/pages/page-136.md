@@ -1,0 +1,11 @@
+## PDF page 136
+
+<!-- source-pdf-page: 136 -->
+
+IELTS Speaking
+
+### How can | improve my Speaking paper score?
+
+You can improve your score by making sure you answer each question fully and remembering the test tips in this unit. This unit will also tell you the speaking skills you need to practise in order to achieve your best score. Before the test, practise speaking as often as you can and make sure that you can talk for two minutes ona topic. Do not try to learn answers for the test. Studying all aspects of English including pronunciation, vocabulary and grammar will also help improve your IELTS score.
+
+tap

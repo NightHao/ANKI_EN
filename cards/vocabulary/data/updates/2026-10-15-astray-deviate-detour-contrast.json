@@ -1,0 +1,282 @@
+[
+  {
+    "term": "astray / deviate / detour / get off track / go off the rails",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "astray: adverb",
+      "deviate: verb",
+      "detour: noun · verb",
+      "get off track: idiom",
+      "go off the rails: idiom"
+    ],
+    "pronunciation": "astray: /əˈstreɪ/<br>deviate: /ˈdiviˌeɪt/<br>detour: /ˈdiˌtʊr/<br>get off track: /ɡɛt ɔf træk/<br>go off the rails: /ɡoʊ ɔf ðə reɪlz/",
+    "tts_text": "astray. deviate. detour. get off track. go off the rails.",
+    "observed_forms": [
+      "astray",
+      "deviate",
+      "detour",
+      "get off track",
+      "go off the rails",
+      "astray / deviate / detour / get off track / go off the rails"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adverb",
+        "senses": [
+          {
+            "definition": "Away from the correct path or destination.",
+            "example": "The hikers went astray after missing a trail marker.",
+            "usage_note": "Common pattern: go astray.",
+            "synonyms": [
+              {
+                "term": "off course",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "also used figuratively for a plan or process"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "on course",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for direction"
+              }
+            ]
+          },
+          {
+            "definition": "Away from the correct belief, plan, or standard of behavior.",
+            "example": "A misleading benchmark led the engineering team astray.",
+            "usage_note": "Common pattern: lead someone astray.",
+            "synonyms": [
+              {
+                "term": "in the wrong direction",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "a transparent phrase with a broader grammatical range"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "Lost or sent to the wrong place.",
+            "example": "My package seems to have gone astray.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "astray",
+        "common_patterns": "go astray; lead someone astray. Astray is an adverb; go or lead supplies the verb.",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "A discussion wanders away from its purpose.",
+              "examples": "“We’re getting off track.” / “We’re deviating from the topic.”",
+              "guidance": "Both work. Off track is conversational; deviating sounds more formal."
+            },
+            {
+              "situation": "You adapt a plan intentionally.",
+              "examples": "“We deviated from the plan to include the new requirements.”",
+              "guidance": "Deviate need not mean making a mistake. Go astray would suggest something went wrong."
+            },
+            {
+              "situation": "A road is closed.",
+              "examples": "“We had to take a detour.” / “We had to deviate from our planned route.”",
+              "guidance": "Both describe changing routes. Take a detour is the everyday travel expression."
+            },
+            {
+              "situation": "Bad advice takes you in the wrong direction.",
+              "examples": "“That advice led me astray.” / “That advice got me off track.”",
+              "guidance": "Both can work. The first emphasizes being misled; the second emphasizes losing your intended direction."
+            },
+            {
+              "situation": "A meeting becomes chaotic.",
+              "examples": "“The meeting went off the rails.”",
+              "guidance": "Stronger than merely getting off topic; it suggests things became difficult to control."
+            }
+          ],
+          "note": "These expressions overlap around leaving an intended direction. Get off track is an everyday default for losing focus. Deviate from describes departure from something specified, including deliberate changes. Take a detour is especially useful for an alternative route and can also describe a temporary diversion in discussion. Go astray suggests a wrong direction, an error, or something becoming lost. Go off the rails is usually a stronger, more dramatic description of things going wrong. Do not force a distinction where several choices work."
+        }
+      },
+      {
+        "entry_term": "deviate",
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Depart from a route, plan, rule, or expected pattern. This can be deliberate and need not be bad.",
+            "example": "We deviated from the original plan to accommodate the client’s request.",
+            "synonyms": [
+              {
+                "term": "depart from",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "when the construction is adjusted"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "adhere to",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for following a plan or rule"
+              }
+            ]
+          }
+        ],
+        "common_patterns": "deviate from + plan, route, rule, topic."
+      },
+      {
+        "entry_term": "detour",
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "An alternative or indirect route, often taken to avoid an obstacle or visit somewhere.",
+            "example": "We took a detour because the road was closed.",
+            "synonyms": [
+              {
+                "term": "alternative route",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "not every alternative route is indirect"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "common_patterns": "take a detour; a detour around something; detour through somewhere."
+      },
+      {
+        "entry_term": "detour",
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Travel by an alternative or indirect route.",
+            "example": "We detoured through a nearby town.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "common_patterns": ""
+      },
+      {
+        "entry_term": "get off track",
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Move away from the intended topic, task, or direction.",
+            "example": "We got off track discussing features we don’t actually need.",
+            "synonyms": [
+              {
+                "term": "get sidetracked",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for losing focus"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "stay on track",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "common_patterns": "get/go off track; get someone back on track."
+      },
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Become uncontrolled or depart badly from the intended course; informal.",
+            "example": "The discussion went off the rails when people started trading insults.",
+            "synonyms": [
+              {
+                "term": "go wrong",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader and less suggestive of losing control"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "stay under control",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "entry_term": "go off the rails",
+        "common_patterns": "go off the rails; a meeting/project goes off the rails. Keep the and plural rails."
+      }
+    ],
+    "merge_from": [
+      "astray",
+      "go off the rails"
+    ],
+    "merged_source_records": [
+      {
+        "Term": "astray",
+        "NormalizedTerm": "astray",
+        "ObservedForms": "[\"astray\"]",
+        "Priority": "ACTIVE",
+        "PartsOfSpeech": "adverb",
+        "PronunciationHTML": "/əˈstreɪ/",
+        "TTS_Text": "astray",
+        "SensesJSON": "[{\"part_of_speech\":\"adverb\",\"senses\":[{\"definition\":\"Away from the correct path or destination.\",\"example\":\"The hikers went astray after missing a trail marker.\",\"usage_note\":\"Common pattern: go astray.\",\"synonyms\":[{\"term\":\"off course\",\"rank\":1,\"relationship\":\"NEAR-INTERCHANGEABLE\",\"note\":\"also used figuratively for a plan or process\"}],\"antonyms\":[]},{\"definition\":\"Away from the correct belief, plan, or standard of behavior.\",\"example\":\"A misleading benchmark led the engineering team astray.\",\"usage_note\":\"Common pattern: lead someone astray.\",\"synonyms\":[{\"term\":\"in the wrong direction\",\"rank\":1,\"relationship\":\"RELATED\",\"note\":\"a transparent phrase with a broader grammatical range\"}],\"antonyms\":[]}]}]",
+        "FrequencySource": "qualitative estimate",
+        "FrequencyValue": "",
+        "FrequencyBand": "MODERATELY_COMMON",
+        "DailyConversationRelevance": "MEDIUM",
+        "IELTSRelevance": "MEDIUM",
+        "ProfessionalRelevance": "MEDIUM",
+        "FantasyLiteraryRelevance": "HIGH",
+        "EncounterCount": "1",
+        "FirstSeen": "2026-08-21",
+        "LastSeen": "2026-08-21",
+        "Sources": "[\"direct user submission\"]",
+        "IncludeInAnki": "true",
+        "ClassificationReason": "A reusable adverb in the common patterns go astray and lead someone astray, with both literal and figurative applications."
+      },
+      {
+        "Term": "go off the rails",
+        "NormalizedTerm": "go off the rails",
+        "ObservedForms": "[\"go off the rails\"]",
+        "Priority": "ACTIVE",
+        "PartsOfSpeech": "idiom",
+        "PronunciationHTML": "/ɡoʊ ɔf ðə ˈreɪlz/",
+        "TTS_Text": "go off the rails",
+        "SensesJSON": "[{\"part_of_speech\":\"idiom\",\"senses\":[{\"definition\":\"Become uncontrolled or depart badly from the intended course; informal.\",\"example\":\"The discussion went off the rails when people started trading insults.\",\"synonyms\":[{\"term\":\"go wrong\",\"rank\":1,\"relationship\":\"RELATED\",\"note\":\"broader and less suggestive of losing control\"}],\"antonyms\":[]}]}]",
+        "FrequencySource": "qualitative estimate",
+        "FrequencyValue": "",
+        "FrequencyBand": "COMMON",
+        "DailyConversationRelevance": "HIGH",
+        "IELTSRelevance": "MEDIUM",
+        "ProfessionalRelevance": "LOW",
+        "FantasyLiteraryRelevance": "LOW",
+        "EncounterCount": "1",
+        "FirstSeen": "2026-10-12",
+        "LastSeen": "2026-10-12",
+        "Sources": "[\"NYC/LA trip vocabulary workbook and direct conversation; approved checklist A65\"]",
+        "IncludeInAnki": "true",
+        "ClassificationReason": "Learner explicitly approved this unrejected ACTIVE item after reviewing the NYC/LA checklist."
+      }
+    ],
+    "sources": [
+      "Direct conversation: learner reviewed full grouped preview and approved addition on 2026-10-15.",
+      "https://dictionary.cambridge.org/us/dictionary/english/astray",
+      "https://dictionary.cambridge.org/us/dictionary/english/go-off-the-rails",
+      "https://www.collinsdictionary.com/us/dictionary/english/deviate"
+    ],
+    "seen_date": "2026-10-15",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "classification_reason": "Approved contrast card for productive everyday AmE and professional discussion, with situation-based examples and explicit overlap.",
+    "replace_senses": true
+  }
+]

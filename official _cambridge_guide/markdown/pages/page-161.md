@@ -1,0 +1,23 @@
+## PDF page 161
+
+<!-- source-pdf-page: 161 -->
+
+Test 1
+
+### READING PASSAGE
+
+#### 1
+
+Test Tip Aim to complete the questions in the recommended time. There are usually two or three sets of questions in each section. Each correct answer scores one mark.
+
+You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below. The Dover Bronze-Ase Boat A beautifully preserved boat, made around 3,000 years ago and discovered by chance in a muddy hole, has had a profound impact on archaeological research.
+
+It was 1992. In England, workmen were building a a wreck, but had been deliberately discarded, new road through the heart of Dover, to connect dismantled and broken. Perhaps it had been the ancient port and the Channel Tunnel, which, ‘ritually killed’ at the end of its life, like other when it opened just two years later, was tobe the — Bronze-Age Bronze-Age objects. first land link between Britain and Europe for over With hindsight, it was significant that the 10,000 years. A small team from the Canterbury boat was found and studied by mainstream Archaeological Trust (CAT) worked alongside the archaeologists who who naturally focused on its workmen, recording new discoveries brought to cultural context. At the time, ancient boats light by the machines. were often considered only from a narrower narrower At the base of a deep shaft six metres below the — technological technological perspective, but news about about the modern streets a wooden structure was revealed. Dover boat boat reached a broad audience. In 2002, Cleaning away the waterlogged site overlying the the tenth anniversary of the the discovery, the Dover timbers, archaeologists realised its true nature. Bronze-Age Boat Trust hosted a conference, They had found a prehistoric boat, preserved by where this meeting of different different traditions became the type of sediment in which it was buried. It was —_apparent.apparent. Alongside technical papers about papers about the then named the Dover Bronze-Age Boat. boat, other speakers speakers explored its social and About nine metres of the boat's length was economic contexts, and the religious perceptions recovered; one end lay beyond the excavation and _ of boats boats in Bronze-Age societies. Many speakers speakers had to be left. What survived consisted essentially came from overseas, and debate about cultural of four intricately carved oak planks: two on connections was renewed. the bottom, joined along a central seam by a Within seven years of excavation, the Dover complicated system of wedges and timbers, and boat had been conserved and displayed, but it two at the side, curved and stitched to the others. | was apparent was apparent apparent that there were issues that could The seams had been made watertight by pads of not be resolved simply by studying the old moss, fixed by wedges and yew stitches. wood. Experimental archaeology seemed to be
+
+a wreck, but had been deliberately discarded, dismantled and broken. Perhaps it had been ‘ritually killed’ at the end of its life, like other — Bronze-Age Bronze-Age objects. With hindsight, it was significant that the boat was found and studied by mainstream archaeologists who who naturally focused on its cultural context. At the time, ancient boats were often considered only from a narrower narrower — technological technological perspective, but news about about the Dover boat boat reached a broad audience. In 2002, on the tenth anniversary of the the discovery, the Dover Bronze-Age Boat Trust hosted a conference, where this meeting of different different traditions became —_apparent.apparent. Alongside technical papers about papers about the boat, other speakers speakers explored its social and economic contexts, and the religious perceptions of boats boats in Bronze-Age societies. Many speakers speakers came from overseas, and debate about cultural connections was renewed.
+
+Within seven years of excavation, the Dover boat had been conserved and displayed, but it | was apparent was apparent apparent that there were issues that could not be resolved simply by studying the old wood. Experimental archaeology seemed to be the solution: a boat reconstruction, half-scale or full-sized, would permit assessment of the different hypotheses regarding its build and the missing end. The possibility of returning to Dover to search for the boat’s unexcavated northern
+
+The timbers that closed the recovered end of the boat had been removed in antiquity when it was abandoned, but much about its original shape could be deduced. There was also evidence for missing upper side planks. The boat was not
+
+160

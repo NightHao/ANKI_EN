@@ -1,0 +1,3265 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "pattern_key": "a/an according to the following sound",
+      "normalized_key": "a / an according to the following sound",
+      "category": "TRACK",
+      "error_type": "ARTICLE",
+      "target": "PATTERN",
+      "summary": "Choose an before a vowel sound.",
+      "rule": "Use an autonomous agent because autonomous starts with a vowel sound; choose a/an by sound, not spelling alone.",
+      "classification_reason": "Useful article-selection issue in learner production.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "last_success": "",
+      "sources": [
+        "Cambridge Unit 7 follow-up practice: even / even though"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-19",
+          "original": "a autonomous agent",
+          "corrected": "an autonomous agent",
+          "source": "Cambridge Unit 7 follow-up practice: even / even though"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "a lot as an adverbial",
+      "normalized_key": "a lot as an adverbial",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Use a lot without plural -s as an adverbial.",
+      "rule": "He helped him a lot, not a lots.",
+      "classification_reason": "Recurrence after explanation; continue tracking during practice.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "last_success": "",
+      "sources": [
+        "Cambridge Speaking Unit 2 exercise 1.3 notes",
+        "Cambridge Speaking Unit 2 video 6 notes"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-22",
+          "original": "Move my Mom a lots",
+          "corrected": "It moved my mom a lot.",
+          "source": "Cambridge Speaking Unit 2 exercise 1.3 notes"
+        },
+        {
+          "date": "2026-10-22",
+          "original": "He helped him a lots before",
+          "corrected": "He had helped him a lot before.",
+          "source": "Cambridge Speaking Unit 2 video 6 notes"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "a similar length of time",
+      "normalized_key": "a similar length of time",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "PATTERN",
+      "summary": "Use a similar length of time when comparing durations.",
+      "rule": "in a similar length of time; take about the same amount of time. Length of time is the usual noun phrase for duration.",
+      "classification_reason": "Useful duration expression in study and work planning.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "last_success": "",
+      "sources": [
+        "Cambridge Speaking chapter equal study-time split"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-22",
+          "original": "in simliar time length",
+          "corrected": "in a similar length of time",
+          "source": "Cambridge Speaking chapter equal study-time split"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "a vs one before a singular count noun",
+      "normalized_key": "a vs one before a singular count noun",
+      "category": "TRACK",
+      "error_type": "ARTICLE",
+      "target": "PATTERN",
+      "summary": "Use either a/an or one before a singular count noun, not both together.",
+      "rule": "a/an + singular count noun; one + singular count noun; not a one + singular count noun",
+      "classification_reason": "This is a reusable determiner boundary in spontaneous production.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "last_success": "",
+      "sources": [
+        "verb-pattern learning question"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-17",
+          "original": "There is a one big obstacle",
+          "corrected": "There is one big obstacle",
+          "source": "verb-pattern learning question"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "add X to Y",
+      "normalized_key": "add x to y",
+      "category": "TRACK",
+      "error_type": "PREPOSITION",
+      "target": "CONNECTION",
+      "summary": "Use to for the thing that receives an added item.",
+      "rule": "add + item + to + recipient or whole",
+      "classification_reason": "The same verb-preposition pattern has recurred in another context.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "add s after song",
+          "corrected": "add an -s to 'song'",
+          "source": "direct user conversation"
+        },
+        {
+          "date": "2026-09-16",
+          "original": "add into deck",
+          "corrected": "add it to the deck",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "adjectives do not take plural -s",
+      "normalized_key": "adjectives do not take plural -s",
+      "category": "TRACK",
+      "error_type": "WORD_FORM",
+      "target": "PATTERN",
+      "summary": "Keep an adjective unchanged whether it describes one person or several people.",
+      "rule": "someone + adjective; adjective + singular or plural noun; never add plural -s to the adjective",
+      "classification_reason": "A broadly reusable word-form rule; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "someone dumbs like me",
+          "corrected": "someone dumb like me",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "advertising vs advertisement",
+      "normalized_key": "advertising vs advertisement",
+      "category": "TRACK",
+      "error_type": "VOCABULARY",
+      "target": "VOCABULARY",
+      "summary": "Distinguish advertising activity from an individual advertisement.",
+      "rule": "Advertising is uncountable activity; advertisement is a countable individual ad. Use a great deal of advertising, an advertisement, or several advertisements.",
+      "classification_reason": "Reusable word-choice and countability contrast.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "last_success": "",
+      "sources": [
+        "Cambridge Writing Unit 7 exercise 2.3: selected word in sentence context"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-19",
+          "original": "8 advertisement",
+          "corrected": "8 advertising",
+          "source": "Cambridge Writing Unit 7 exercise 2.3: selected word in sentence context"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "another vs the other",
+      "normalized_key": "another vs the other",
+      "category": "TRACK",
+      "error_type": "VOCABULARY",
+      "target": "VOCABULARY",
+      "summary": "Use the other for the remaining specific member of a pair; use another for one additional or nonspecific member.",
+      "rule": "another + singular count noun = one more or a different one; the other + singular noun = the remaining specific one",
+      "classification_reason": "A common and productive vocabulary distinction; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "where is another as",
+          "corrected": "Where is the other 'as'?",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "appreciate + object / be appreciative of",
+      "normalized_key": "appreciate + object / be appreciative of",
+      "category": "TRACK",
+      "error_type": "WORD_FORM",
+      "target": "VOCABULARY",
+      "summary": "Use the verb appreciate directly with an object, or use the adjective appreciative after be with of.",
+      "rule": "appreciate + noun/gerund/that-clause; be appreciative of + noun",
+      "classification_reason": "The verb-adjective contrast remained difficult during immediate targeted practice.",
+      "encounter_count": 2,
+      "successful_use_count": 3,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "2026-09-15",
+      "sources": [
+        "IELTS Speaking Exercise 3.3 learner correction attempt",
+        "targeted correction practice",
+        "targeted practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "it means that you are very appreciate to this person",
+          "corrected": "It means that you really appreciate this person / you are very appreciative of this person.",
+          "source": "IELTS Speaking Exercise 3.3 learner correction attempt"
+        },
+        {
+          "date": "2026-09-15",
+          "original": "I am very appreciate my teammate for reviewing the code",
+          "corrected": "I really appreciate my teammate's review of the code / I am very appreciative of my teammate's review of the code.",
+          "source": "targeted correction practice"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-09-15",
+          "example": "He is appreciative of the sponsors from England.",
+          "source": "targeted practice"
+        },
+        {
+          "date": "2026-09-15",
+          "example": "I appreciate you providing supply to us.",
+          "source": "targeted practice"
+        },
+        {
+          "date": "2026-09-15",
+          "example": "He is appreciative of his patrons from England.",
+          "source": "targeted practice"
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "ask about + topic",
+      "normalized_key": "ask about + topic",
+      "category": "TRACK",
+      "error_type": "PREPOSITION",
+      "target": "CONNECTION",
+      "summary": "Use ask about before the topic being discussed; ask can take a person or a question directly.",
+      "rule": "ask about + topic; ask someone about + topic; ask + question",
+      "classification_reason": "A common productive verb-complement distinction; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "last_success": "",
+      "sources": [
+        "Anki coverage audit question"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-23",
+          "original": "the pattern I asked so far",
+          "corrected": "the patterns I've asked about so far",
+          "source": "Anki coverage audit question"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "ask someone to do vs require someone to do",
+      "normalized_key": "ask someone to do vs require someone to do",
+      "category": "TRACK",
+      "error_type": "VOCABULARY",
+      "target": "VOCABULARY",
+      "summary": "Distinguish a request from a requirement or obligation.",
+      "rule": "ask + person + to + base verb requests an action; require + person + to + base verb makes an action necessary or obligatory",
+      "classification_reason": "Broadly useful distinction in conversational and professional requests.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "last_success": "",
+      "sources": [
+        "NYC and LA vocabulary review request"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-12",
+          "original": "I've require another chatgpt to tidy up",
+          "corrected": "I've asked another chatgpt to tidy up",
+          "source": "NYC and LA vocabulary review request"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "assure vs ensure vs reassure",
+      "normalized_key": "assure vs ensure vs reassure",
+      "category": "TRACK",
+      "error_type": "VOCABULARY",
+      "target": "VOCABULARY",
+      "summary": "Use assure for confidently telling someone, ensure for causing a result, and reassure for reducing existing worry.",
+      "rule": "assure + person + that-clause; ensure + result or that-clause; reassure + person + that-clause/about something",
+      "classification_reason": "This is a useful and productive meaning-and-complement contrast; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "last_success": "2026-09-21",
+      "sources": [
+        "targeted vocabulary practice",
+        "immediate targeted practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-21",
+          "original": "I ensure that no one can harm you in the future. / I reassure u that no one can harm you in the future.",
+          "corrected": "I'll ensure that no one can harm you in the future. / Let me reassure you that no one can harm you in the future.",
+          "source": "targeted vocabulary practice"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-09-21",
+          "example": "I'll ensure that I can convince him...",
+          "source": "immediate targeted practice"
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "be + going to / gonna",
+      "normalized_key": "be + going to / gonna",
+      "category": "CARD_CANDIDATE",
+      "error_type": "VERB_FORM",
+      "target": "CONNECTION",
+      "summary": "Going to and its casual form gonna require a form of be before them.",
+      "rule": "I am / I'm going to or gonna + base verb; he/she is; you/we/they are",
+      "classification_reason": "A recurring missing-be error already covered by the learner-approved connection card.",
+      "encounter_count": 3,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-29",
+      "last_success": "",
+      "sources": [
+        "Listening Unit 5 Exercise 1.1 retry",
+        "assure, ensure, reassure, and certain practice",
+        "Cambridge Reading Unit 5 setup"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-17",
+          "original": "I gonna practice again",
+          "corrected": "I'm gonna practice again",
+          "source": "Listening Unit 5 Exercise 1.1 retry"
+        },
+        {
+          "date": "2026-09-21",
+          "original": "I gonna make some sentences",
+          "corrected": "I'm gonna make some sentences",
+          "source": "assure, ensure, reassure, and certain practice"
+        },
+        {
+          "date": "2026-09-29",
+          "original": "I gonna practice this chapter",
+          "corrected": "I'm gonna practice this chapter",
+          "source": "Cambridge Reading Unit 5 setup"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "ADDED",
+      "card_ref": "cards/connections/02-verb-patterns.md#c02-131"
+    },
+    {
+      "pattern_key": "be + past participle",
+      "normalized_key": "be + past participle",
+      "category": "TRACK",
+      "error_type": "VERB_FORM",
+      "target": "PATTERN",
+      "summary": "Use be + past participle when the subject receives the action.",
+      "rule": "The deck includes the material (active); the material is included in the deck (passive).",
+      "classification_reason": "Third independent occurrence, again with need to + verb; existing passive and need-to-be cards already teach the rule, so this is an activation gap.",
+      "encounter_count": 3,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-10-21",
+      "last_success": "",
+      "sources": [
+        "direct user conversation",
+        "direct user conversation about replacement deck coverage"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "needed to be add",
+          "corrected": "needs to be added",
+          "source": "direct user conversation"
+        },
+        {
+          "date": "2026-10-20",
+          "original": "is including",
+          "corrected": "is included",
+          "source": "direct user conversation about replacement deck coverage"
+        },
+        {
+          "date": "2026-10-21",
+          "original": "is there anything that needs to add?",
+          "corrected": "is there anything that needs to be added?",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "be + subject + adjective in questions",
+      "normalized_key": "be + subject + adjective in questions",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "PATTERN",
+      "summary": "Include and invert be when asking whether a subject has a quality.",
+      "rule": "Statement: all my sentences are natural. Yes/no question: are all my sentences natural?",
+      "classification_reason": "Reusable question structure; omitted auxiliary in learner's direct question.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "last_success": "",
+      "sources": [
+        "Cambridge Speaking chapter study split question"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-22",
+          "original": "And all my sentences natural?",
+          "corrected": "And are all my sentences natural?",
+          "source": "Cambridge Speaking chapter study split question"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "be able to + base verb",
+      "normalized_key": "be able to + base verb",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "CONNECTION",
+      "summary": "Include to between able and the following verb, including passive be.",
+      "rule": "be able to + base verb; passive: be able to be + past participle.",
+      "classification_reason": "A useful first recorded occurrence of missing infinitival to after able; track without adding an Anki note.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "last_success": "",
+      "sources": [
+        "Question about cloud-hosted EN sources and ChatGPT web editing, 2026-10-27"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-27",
+          "original": "should be able be touched",
+          "corrected": "should be able to be touched",
+          "source": "Question about cloud-hosted EN sources and ChatGPT web editing, 2026-10-27"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "be certain / make certain",
+      "normalized_key": "be certain / make certain",
+      "category": "TRACK",
+      "error_type": "WORD_FORM",
+      "target": "VOCABULARY",
+      "summary": "Certain is an adjective, not a verb; use be certain for confidence and make certain for taking action to ensure a result.",
+      "rule": "be certain that/about/of; make certain that; not be certained",
+      "classification_reason": "This is a common, reusable adjective-versus-action distinction; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "last_success": "",
+      "sources": [
+        "targeted vocabulary practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-21",
+          "original": "I'm certained that no one can harm you in the future.",
+          "corrected": "I'm certain that no one can harm you in the future.",
+          "source": "targeted vocabulary practice"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "be composed of vs be composed for / feature",
+      "normalized_key": "be composed of vs be composed for / feature",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "UNDECIDED",
+      "summary": "Use be composed of for constituent parts, be composed for for the intended instrument, and feature when an instrument is prominent in a song.",
+      "rule": "whole + be composed of + parts; music + be composed for + instrument; song + feature + instrument",
+      "classification_reason": "The wrong collocation changed the relationship between the songs and the instrument.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "last_success": "",
+      "sources": [
+        "IELTS Speaking Unit 1 Section 3 Exercise 3.8 final response"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "there're lots of songs composed of piano",
+          "corrected": "a lot of songs feature the piano / a lot of pieces are composed for the piano",
+          "source": "IELTS Speaking Unit 1 Section 3 Exercise 3.8 final response"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "be likely to + verb",
+      "normalized_key": "be likely to + verb",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "CONNECTION",
+      "summary": "Use a to-infinitive after be likely when predicting an action or state.",
+      "rule": "Subject + be likely to + base verb: are likely to have no access. Do not directly follow likely with with for this intended meaning.",
+      "classification_reason": "Common reusable construction for academic and everyday predictions.",
+      "encounter_count": 1,
+      "successful_use_count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "last_success": "2026-10-19",
+      "sources": [
+        "Cambridge Writing Unit 7 exercise 2.2 learner rewrite",
+        "Targeted practice: are likely to underperform is correct; unrelated word-form/article issues corrected separately."
+      ],
+      "examples": [
+        {
+          "date": "2026-10-19",
+          "original": "are likely with no access to education",
+          "corrected": "are likely to have no access to education",
+          "source": "Cambridge Writing Unit 7 exercise 2.2 learner rewrite"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-10-19",
+          "example": "The ppl who are self-deprecated are likely to underperform under the stress.",
+          "source": "Targeted practice: are likely to underperform is correct; unrelated word-form/article issues corrected separately."
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "bored vs boring",
+      "normalized_key": "bored vs boring",
+      "category": "TRACK",
+      "error_type": "WORD_FORM",
+      "target": "VOCABULARY",
+      "summary": "Use bored for the person experiencing boredom and boring for the thing that causes it.",
+      "rule": "person feels/is bored; activity, thing, or situation is boring",
+      "classification_reason": "This is a common and highly reusable participial-adjective contrast.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "",
+      "sources": [
+        "IELTS Speaking Exercise 3.5 learner response"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "I definitely feel boring at that time",
+          "corrected": "I definitely felt bored at that time",
+          "source": "IELTS Speaking Exercise 3.5 learner response"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "both + plural noun / either + singular noun",
+      "normalized_key": "both + plural noun / either + singular noun",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Both refers to two items together and takes a plural noun; either selects either one and takes a singular noun.",
+      "rule": "both parts will take about an hour; either part will take about an hour. Both parts is clearer when comparing their durations.",
+      "classification_reason": "Explicit learner uncertainty about a reusable determiner contrast.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "last_success": "",
+      "sources": [
+        "Cambridge study planning: split vs divide question"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-22",
+          "original": "both part (either?)",
+          "corrected": "both parts",
+          "source": "Cambridge study planning: split vs divide question"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "can vs can't for ability",
+      "normalized_key": "can vs can't for ability",
+      "category": "CORRECT_ONLY",
+      "error_type": "MEANING",
+      "target": "NONE",
+      "summary": "Use can't when saying that you are unable to distinguish things.",
+      "rule": "can = be able to; can't = be unable to",
+      "classification_reason": "This meaning reversal is likely an isolated missing letter rather than a stable knowledge gap.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "I can tell the dif between it and good, favorite",
+          "corrected": "I can't tell the difference between favorable, good, and favorite.",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "carbon dioxide spelling",
+      "normalized_key": "carbon dioxide spelling",
+      "category": "CORRECT_ONLY",
+      "error_type": "SPELLING",
+      "target": "NONE",
+      "summary": "Spell the compound carbon dioxide.",
+      "rule": "carbon dioxide; dioxide ends in oxide, not xocide",
+      "classification_reason": "An isolated spelling error; no evidence that a separate correction card is needed.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "last_success": "",
+      "sources": [
+        "carbon dioxide definition question"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-13",
+          "original": "carbon diaxocide",
+          "corrected": "carbon dioxide",
+          "source": "carbon dioxide definition question"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "chapter spelling",
+      "normalized_key": "chapter spelling",
+      "category": "CORRECT_ONLY",
+      "error_type": "SPELLING",
+      "target": "NONE",
+      "summary": "Spell chapter with p before t.",
+      "rule": "chapter, not chatper",
+      "classification_reason": "Likely an isolated letter-transposition slip rather than a broader knowledge gap.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "last_success": "",
+      "sources": [
+        "preposition on usage question"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-30",
+          "original": "chatper",
+          "corrected": "chapter",
+          "source": "preposition on usage question"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "convince vs convict / conviction",
+      "normalized_key": "convince vs convict / conviction",
+      "category": "TRACK",
+      "error_type": "VOCABULARY",
+      "target": "VOCABULARY",
+      "summary": "Use convince for causing belief, convict for officially finding someone guilty, and conviction for the resulting judgment or a firmly held belief.",
+      "rule": "convince + person + that-clause / convince + person + of + fact; convict + person + of + crime; secure + person's conviction",
+      "classification_reason": "The original wording confused belief with a legal judgment; this is a useful, productive vocabulary contrast.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "last_success": "",
+      "sources": [
+        "immediate targeted practice after assure, ensure, and reassure contrast"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-21",
+          "original": "I'll ensure that I can convince him of conviction of criminal.",
+          "corrected": "I'll ensure that I have enough evidence to convince him that the suspect is guilty. / I'll ensure that we have enough evidence to secure the criminal's conviction.",
+          "source": "immediate targeted practice after assure, ensure, and reassure contrast"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "coordinate shared-subject verbs with and",
+      "normalized_key": "coordinate shared-subject verbs with and",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "CONNECTION",
+      "summary": "Connect two finite verbs sharing a subject with a conjunction.",
+      "rule": "Subject + past-tense verb phrase + and + past-tense verb phrase; a comma alone does not connect two finite predicates.",
+      "classification_reason": "Useful reusable sentence structure in learner production.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "last_success": "",
+      "sources": [
+        "Targeted contrast-card practice: get off track / go off the rails"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-15",
+          "original": "He has gotten off track long ago, became addicted to video game day by day.",
+          "corrected": "He got off track long ago and became addicted to video games day by day.",
+          "source": "Targeted contrast-card practice: get off track / go off the rails"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "curse vs say or tell",
+      "normalized_key": "curse vs say or tell",
+      "category": "TRACK",
+      "error_type": "VOCABULARY",
+      "target": "VOCABULARY",
+      "summary": "Use say or tell for a prediction; curse means to swear at someone or invoke supernatural harm.",
+      "rule": "say that + clause; tell someone that + clause; curse at someone; curse someone",
+      "classification_reason": "The wrong verb substantially changed the intended meaning and the contrast is reusable.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "",
+      "sources": [
+        "targeted correction practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "He cursed me that I would never get over from the sadness",
+          "corrected": "He told me that I would never get over the sadness.",
+          "source": "targeted correction practice"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "daily vs everyday",
+      "normalized_key": "daily vs everyday",
+      "category": "CARD_CANDIDATE",
+      "error_type": "VOCABULARY",
+      "target": "CONNECTION",
+      "summary": "Use daily for something that happens every day and everyday for something ordinary or commonly used in normal life.",
+      "rule": "daily + routine/event/task; everyday + language/object/problem/life",
+      "classification_reason": "The learner-approved C03-071 contrast now covers daily, every day, and everyday in bounded contexts.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "last_success": "",
+      "sources": [
+        "follow-up vocabulary question about secure and guilty"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-21",
+          "original": "daily AmE",
+          "corrected": "everyday American English / daily conversation",
+          "source": "follow-up vocabulary question about secure and guilty"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "ADDED",
+      "card_ref": "cards/connections/03-adjective-participle-patterns.md#c03-071"
+    },
+    {
+      "pattern_key": "did + base verb in past questions",
+      "normalized_key": "did + base verb in past questions",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Use did or didn't plus the base verb to ask about a specific completed past action.",
+      "rule": "Did/Didn't + subject + base verb?",
+      "classification_reason": "This is a foundational and broadly reusable question pattern.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "last_success": "",
+      "sources": [
+        "Listening Unit 5 Exercise 1.2 clarification"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-17",
+          "original": "Don't I already paste the answers?",
+          "corrected": "Didn't I already paste the answers?",
+          "source": "Listening Unit 5 Exercise 1.2 clarification"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "didn't know + could",
+      "normalized_key": "didn't know + could",
+      "category": "TRACK",
+      "error_type": "VERB_FORM",
+      "target": "PATTERN",
+      "summary": "Use didn't know plus could when describing an ability or possibility that was unknown before but is known now.",
+      "rule": "I didn't know + subject + could + base verb",
+      "classification_reason": "This is a common and reusable frame for reacting to newly learned information.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "last_success": "",
+      "sources": [
+        "follow-up vocabulary question about feature"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "I don't even know I can use feature with an instrument like this.",
+          "corrected": "I didn't even know I could use feature with an instrument like this.",
+          "source": "follow-up vocabulary question about feature"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "directly spelling",
+      "normalized_key": "directly spelling",
+      "category": "CORRECT_ONLY",
+      "error_type": "SPELLING",
+      "target": "NONE",
+      "summary": "Spell directly with ct before ly.",
+      "rule": "direct + ly = directly",
+      "classification_reason": "Likely an isolated typing slip rather than a broader knowledge gap.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "last_success": "",
+      "sources": [
+        "Cambridge Reading Unit 5 Exercise 2.2"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-29",
+          "original": "diretly",
+          "corrected": "directly",
+          "source": "Cambridge Reading Unit 5 Exercise 2.2"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "do/does + subject + base verb in present questions",
+      "normalized_key": "do / does + subject + base verb in present questions",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "PATTERN",
+      "summary": "Use do or does before the subject in ordinary simple-present questions, with the base verb afterward.",
+      "rule": "Do + I/you/we/they/plural noun + base verb? Does + he/she/it/singular noun + base verb? People is plural: Do people tend ...?",
+      "classification_reason": "Common reusable question structure; the learner omitted the auxiliary and used singular agreement with people.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "last_success": "",
+      "sources": [
+        "there are more and more usage question"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-13",
+          "original": "or ppl tends to not use it in everyday AmE?",
+          "corrected": "or do ppl tend to not use it in everyday AmE?",
+          "source": "there are more and more usage question"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "embedded question uses statement word order",
+      "normalized_key": "embedded question uses statement word order",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "CONNECTION",
+      "summary": "Use statement word order inside an embedded question.",
+      "rule": "know / see / understand + wh-word + subject + verb; What do they look like? -> know what they look like; how do they look? -> know how they look",
+      "classification_reason": "Repeated embedded-question inversion in an independent context; useful conversational pattern.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-10-12",
+      "last_success": "",
+      "sources": [
+        "writing-study progress question",
+        "NYC and LA card-preview request"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-30",
+          "original": "Do u remember where did I left off on writing?",
+          "corrected": "Do u remember where I left off with my writing practice?",
+          "source": "writing-study progress question"
+        },
+        {
+          "date": "2026-10-12",
+          "original": "So I could know how do they look like",
+          "corrected": "So I could know what they look like",
+          "source": "NYC and LA card-preview request"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "every + singular count noun + singular verb",
+      "normalized_key": "every + singular count noun + singular verb",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Use a singular count noun and a singular verb after every or almost every.",
+      "rule": "every or almost every + singular count noun + singular verb",
+      "classification_reason": "A common productive agreement pattern; first learner-produced error after clarification.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "almost every singers in Taiwan can play it",
+          "corrected": "almost every singer in Taiwan can play it",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "every day vs everyday",
+      "normalized_key": "every day vs everyday",
+      "category": "CARD_CANDIDATE",
+      "error_type": "WORD_FORM",
+      "target": "CONNECTION",
+      "summary": "Use every day as a two-word time expression; use everyday as an adjective meaning ordinary or routine.",
+      "rule": "verb + every day; everyday + noun",
+      "classification_reason": "The learner-approved C03-071 contrast also covers the two-word time expression versus the one-word adjective.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "last_success": "",
+      "sources": [
+        "IELTS Speaking Unit 1 Section 3 Exercise 3.7 learner notes"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "almost everyday",
+          "corrected": "almost every day",
+          "source": "IELTS Speaking Unit 1 Section 3 Exercise 3.7 learner notes"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "ADDED",
+      "card_ref": "cards/connections/03-adjective-participle-patterns.md#c03-071"
+    },
+    {
+      "pattern_key": "feel + adjective for an emotional state",
+      "normalized_key": "feel + adjective for an emotional state",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "PATTERN",
+      "summary": "Use an adjective after linking feel to describe an emotional state.",
+      "rule": "feel isolated / feel lonely / feel valued; not feel being isolated for this meaning. Feel that someone is being isolated is a different finite-clause construction.",
+      "classification_reason": "Reusable emotional-state complement pattern; selected as one of three deep-review roots.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "last_success": "",
+      "sources": [
+        "mixed production-pattern and legal-vocabulary deep review"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-13",
+          "original": "it can make ppl feel being isolated",
+          "corrected": "it can make ppl feel isolated",
+          "source": "mixed production-pattern and legal-vocabulary deep review"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "find out about vs know",
+      "normalized_key": "find out about vs know",
+      "category": "TRACK",
+      "error_type": "VOCABULARY",
+      "target": "VOCABULARY",
+      "summary": "Distinguish actively learning information from already possessing it.",
+      "rule": "Find out about + topic describes acquiring information; know + topic/fact describes having knowledge. Take the time to find out about local customs describes preparation.",
+      "classification_reason": "A useful state-versus-acquisition contrast in learner word choice.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "last_success": "",
+      "sources": [
+        "Cambridge Writing Unit 7 exercise 2.3: selected word in sentence context"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-19",
+          "original": "3 know",
+          "corrected": "3 find out about",
+          "source": "Cambridge Writing Unit 7 exercise 2.3: selected word in sentence context"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "forward spelling",
+      "normalized_key": "forward spelling",
+      "category": "CORRECT_ONLY",
+      "error_type": "SPELLING",
+      "target": "NONE",
+      "summary": "Spell forward with the sequence for-ward.",
+      "rule": "forward, not foward",
+      "classification_reason": "This appears to be an isolated spelling slip rather than a productive language gap.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "before moving foward",
+          "corrected": "before moving forward",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "furthermore spelling",
+      "normalized_key": "furthermore spelling",
+      "category": "CORRECT_ONLY",
+      "error_type": "SPELLING",
+      "target": "NONE",
+      "summary": "Spell furthermore with further followed by more.",
+      "rule": "further + more = furthermore",
+      "classification_reason": "Likely an isolated spelling slip rather than a broader knowledge gap.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "last_success": "",
+      "sources": [
+        "Cambridge Reading Unit 5 Exercise 1.1"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-29",
+          "original": "futhermore",
+          "corrected": "furthermore",
+          "source": "Cambridge Reading Unit 5 Exercise 1.1"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "genre vs topic",
+      "normalized_key": "genre vs topic",
+      "category": "TRACK",
+      "error_type": "VOCABULARY",
+      "target": "VOCABULARY",
+      "summary": "Use genre for a type of creative work and topic for what something discusses.",
+      "rule": "be in or belong to the X genre; be about X or discuss the topic of X",
+      "classification_reason": "A useful distinction for discussing books, films, music, and other content; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "describe sth of specific topic ... they are in xxx genre",
+          "corrected": "If it is a genre, say it is in the X genre; if it is a topic, say it is about X.",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "get over + object / recover from + object",
+      "normalized_key": "get over + object / recover from + object",
+      "category": "TRACK",
+      "error_type": "PREPOSITION",
+      "target": "VOCABULARY",
+      "summary": "Use get over directly with an object, but use recover with from.",
+      "rule": "get over + illness/loss/problem; recover from + illness/loss/problem",
+      "classification_reason": "This is a common phrasal-verb and preposition contrast with broad conversational value.",
+      "encounter_count": 1,
+      "successful_use_count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "2026-09-15",
+      "sources": [
+        "targeted correction practice",
+        "follow-up practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "get over from the sadness",
+          "corrected": "get over the sadness / recover from the sadness",
+          "source": "targeted correction practice"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-09-15",
+          "example": "I would never get over the sadness.",
+          "source": "follow-up practice"
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "get stuck / be stuck",
+      "normalized_key": "get stuck / be stuck",
+      "category": "TRACK",
+      "error_type": "VERB_FORM",
+      "target": "PATTERN",
+      "summary": "Use got stuck for becoming unable to proceed and was stuck for the resulting state.",
+      "rule": "get/got stuck describes entering a state of being unable to move or proceed; be/was stuck describes that state. Stucked is not a standard English form.",
+      "classification_reason": "First meaningful occurrence of a common pattern useful in technical discussions.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "last_success": "",
+      "sources": [
+        "direct user conversation about a silent Claude Code installer"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-30",
+          "original": "Nothing, it just stucked there",
+          "corrected": "Nothing, it just got stuck there.",
+          "source": "direct user conversation about a silent Claude Code installer"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "have + past participle",
+      "normalized_key": "have + past participle",
+      "category": "TRACK",
+      "error_type": "VERB_FORM",
+      "target": "PATTERN",
+      "summary": "Use a past participle after have in the present perfect.",
+      "rule": "have/has + past participle; ask -> asked; require -> required",
+      "classification_reason": "Repeated productive verb-form error in a new context.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-10-12",
+      "last_success": "",
+      "sources": [
+        "IELTS Speaking Exercise 3.4 learner response",
+        "NYC and LA vocabulary review request"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "I haven't find the solution yet",
+          "corrected": "I haven't found the solution yet",
+          "source": "IELTS Speaking Exercise 3.4 learner response"
+        },
+        {
+          "date": "2026-10-12",
+          "original": "I've require another chatgpt to tidy up",
+          "corrected": "I've asked another chatgpt to tidy up",
+          "source": "NYC and LA vocabulary review request"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "How do I use X?",
+      "normalized_key": "how do i use x?",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "PATTERN",
+      "summary": "Use do-support and an explicit subject in a direct present-simple question.",
+      "rule": "How + do/does + subject + base verb + object?",
+      "classification_reason": "The direct-question structure has recurred in another vocabulary question.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-21",
+      "last_success": "",
+      "sources": [
+        "direct user conversation",
+        "follow-up vocabulary question about secure and guilty"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "How to use in support of",
+          "corrected": "How do I use 'in support of'?",
+          "source": "direct user conversation"
+        },
+        {
+          "date": "2026-09-21",
+          "original": "how to use secure and guilty in daily AmE?",
+          "corrected": "How do I use 'secure' and 'guilty' in everyday American English?",
+          "source": "follow-up vocabulary question about secure and guilty"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "imperative or can/could you + base verb for requests",
+      "normalized_key": "imperative or can / could you + base verb for requests",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "CONNECTION",
+      "summary": "Use a base-verb imperative for a direct request or can/could you plus a base verb for a question request.",
+      "rule": "Show me; Can you show me?; Could you show me?",
+      "classification_reason": "A common, reusable request structure in everyday and professional communication.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "last_success": "",
+      "sources": [
+        "Cambridge Reading Unit 5 Exercise 3.3"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-29",
+          "original": "u show me",
+          "corrected": "Show me. / Could you show me?",
+          "source": "Cambridge Reading Unit 5 Exercise 3.3"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "in any situation vs in any conditions",
+      "normalized_key": "in any situation vs in any conditions",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "VOCABULARY",
+      "summary": "Use situation for the circumstances of an interaction; conditions usually means physical or environmental circumstances, a state, or requirements.",
+      "rule": "speak/communicate/handle + in any situation / in professional situations; conditions = weather/working/road conditions, in poor conditions.",
+      "classification_reason": "Likely translation of a single Mandarin word; useful in speaking about goals and abilities; first occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-21",
+          "original": "I can speak EN fluently in any conditions",
+          "corrected": "I can speak English fluently in any situation",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "in spite of spelling",
+      "normalized_key": "in spite of spelling",
+      "category": "CORRECT_ONLY",
+      "error_type": "SPELLING",
+      "target": "NONE",
+      "summary": "Write in spite of as three separate words.",
+      "rule": "The expression is spelled in spite of, not inspite of.",
+      "classification_reason": "Isolated spelling correction; no Anki card needed.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "last_success": "",
+      "sources": [
+        "Cambridge Writing Unit 7 exercise 1.1"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-15",
+          "original": "inspite of",
+          "corrected": "in spite of",
+          "source": "Cambridge Writing Unit 7 exercise 1.1"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "including + example vs the + noun + subject + include",
+      "normalized_key": "including + example vs the + noun + subject + include",
+      "category": "TRACK",
+      "error_type": "VOCABULARY",
+      "target": "UNDECIDED",
+      "summary": "Including introduces examples that belong to a larger group already named; to refer to the items a source contains, use a relative clause with include or contain.",
+      "rule": "group, including + examples: many resources, including the PHRASE List; the patterns (that) they include / the patterns in them",
+      "classification_reason": "Shows translation-level knowledge of include without its usage boundary; first occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-21",
+          "original": "to compare including patterns with ours",
+          "corrected": "to compare the patterns they include with ours",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "keep a subject relative pronoun",
+      "normalized_key": "keep a subject relative pronoun",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "PATTERN",
+      "summary": "When the relative pronoun is the subject of the relative clause, it cannot be omitted.",
+      "rule": "anything/something/someone + that/who + verb: Is there anything that can be consolidated? (that may be dropped only when another subject follows: anything we can consolidate)",
+      "classification_reason": "Likely transfer from Mandarin structure; common in questions about tasks; first occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-21",
+          "original": "Is there anything can be consolidated?",
+          "corrected": "Is there anything that can be consolidated?",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "leave off at + point / with + activity",
+      "normalized_key": "leave off at + point / with + activity",
+      "category": "TRACK",
+      "error_type": "PREPOSITION",
+      "target": "CONNECTION",
+      "summary": "Use leave off at for a specific stopping point and leave off with for an activity, project, or topic.",
+      "rule": "leave off at + chapter/exercise/point; leave off with + activity/project/topic",
+      "classification_reason": "A useful preposition and complement distinction for discussing progress in study or work.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "last_success": "",
+      "sources": [
+        "writing-study progress question"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-30",
+          "original": "where I left off on writing",
+          "corrected": "where I left off with my writing practice",
+          "source": "writing-study progress question"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "let bygones be bygones",
+      "normalized_key": "let bygones be bygones",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "VOCABULARY",
+      "summary": "Use the fixed plural noun bygones in this idiom.",
+      "rule": "Let bygones be bygones uses bygones on both sides. Bygone is normally an adjective before a noun, as in a bygone era.",
+      "classification_reason": "A fixed-expression form worth tracking; the learner explicitly asked about its usage.",
+      "encounter_count": 1,
+      "successful_use_count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "last_success": "2026-10-13",
+      "sources": [
+        "bygone American English usage question",
+        "immediate targeted practice; idiom correctly used, remainder needs clarification"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-13",
+          "original": "Let bygone be bygone.",
+          "corrected": "Let bygones be bygones.",
+          "source": "bygone American English usage question"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-10-13",
+          "example": "We agreed to let bygones be bygones",
+          "source": "immediate targeted practice; idiom correctly used, remainder needs clarification"
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "make + object + bare verb",
+      "normalized_key": "make + object + bare verb",
+      "category": "TRACK",
+      "error_type": "OTHER",
+      "target": "CONNECTION",
+      "summary": "Use make someone feel more at ease for causing a more relaxed emotional state.",
+      "rule": "make + person + base verb: make her feel more at ease. More precedes at ease in this comparative expression.",
+      "classification_reason": "New occurrence of an existing productive construction.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-22",
+      "last_success": "",
+      "sources": [
+        "self-reported recurring verb-complement problem",
+        "Cambridge Speaking Unit 2, helping mother story"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-17",
+          "original": "make me to do",
+          "corrected": "make me do",
+          "source": "self-reported recurring verb-complement problem"
+        },
+        {
+          "date": "2026-10-22",
+          "original": "wanted to make her at ease more",
+          "corrected": "wanted to make her feel more at ease",
+          "source": "Cambridge Speaking Unit 2, helping mother story"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "most of + determiner + plural count noun",
+      "normalized_key": "most of + determiner + plural count noun",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Use a plural count noun for multiple members selected by most of.",
+      "rule": "most of the + plural count noun: most of the common patterns. Uncountable nouns can remain singular, as in most of the information.",
+      "classification_reason": "Reusable number choice after a partitive quantifier; track without creating another card.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "last_success": "",
+      "sources": [
+        "direct user question about belief-expression coverage in Patterns"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-20",
+          "original": "most of the common pattern",
+          "corrected": "most of the common patterns",
+          "source": "direct user question about belief-expression coverage in Patterns"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "natural wording / native speaker",
+      "normalized_key": "natural wording / native speaker",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "VOCABULARY",
+      "summary": "Natural describes usual idiomatic wording; native describes a person's first language or a place of origin.",
+      "rule": "a natural sentence; natural wording; a native speaker; my native language. Native-sounding is also possible for wording.",
+      "classification_reason": "Repeated use of native to evaluate sentence naturalness.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "last_success": "",
+      "sources": [
+        "Cambridge study planning: correction preference"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-22",
+          "original": "more native sentence",
+          "corrected": "more natural sentence",
+          "source": "Cambridge study planning: correction preference"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "need + object + to-infinitive",
+      "normalized_key": "need + object + to-infinitive",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "CONNECTION",
+      "summary": "After need plus a person, use a to-infinitive for the action that person must perform.",
+      "rule": "need + person + to + base verb",
+      "classification_reason": "Second occurrence, twice in one message; still a productive verb-complement activation gap.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-10-30",
+      "last_success": "",
+      "sources": [
+        "pending Anki item list request",
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-23",
+          "original": "I need u add spike, surge as well.",
+          "corrected": "I need u to add spike and surge as well.",
+          "source": "pending Anki item list request"
+        },
+        {
+          "date": "2026-10-30",
+          "original": "I need u assist me to build this cloud workflow, but I need u read this folder",
+          "corrected": "I need u to assist me with building this cloud workflow, but I need u to read this folder",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "not to mention vs there is no need to mention",
+      "normalized_key": "not to mention vs there is no need to mention",
+      "category": "TRACK",
+      "error_type": "MEANING",
+      "target": "PATTERN",
+      "summary": "Use not to mention to add supporting information; use there is no need to mention when saying that mentioning something is unnecessary.",
+      "rule": "statement, not to mention + added point; there is no need to mention + unnecessary topic",
+      "classification_reason": "The two expressions communicate nearly opposite intentions, so the distinction is high value.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "last_success": "",
+      "sources": [
+        "IELTS Speaking Unit 1 Section 3 Exercise 3.8 final response"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "No need to mention almost every famous pop singers in Taiwan able to piano.",
+          "corrected": "Not to mention that almost every famous pop singer in Taiwan can play it.",
+          "source": "IELTS Speaking Unit 1 Section 3 Exercise 3.8 final response"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "nothing + singular verb",
+      "normalized_key": "nothing + singular verb",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Nothing takes singular agreement.",
+      "rule": "there is nothing + adjective; nothing is + adjective; not there are nothing or nothing are",
+      "classification_reason": "Reusable agreement problem with indefinite pronouns.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "last_success": "",
+      "sources": [
+        "NYC and LA vocabulary review request"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-12",
+          "original": "there're nothing that're redundant",
+          "corrected": "there's nothing that's redundant",
+          "source": "NYC and LA vocabulary review request"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "noun + past participle modifier",
+      "normalized_key": "noun + past participle modifier",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "UNDECIDED",
+      "summary": "Use a past participle after a noun when the noun receives the action, or use a full relative clause.",
+      "rule": "noun + past participle = noun + that is/was + past participle",
+      "classification_reason": "This is a reusable noun-modification pattern and the first recorded occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "2026-09-15",
+      "sources": [
+        "direct user conversation",
+        "spontaneous IELTS Speaking practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "every session start here",
+          "corrected": "every session started here / every session that starts here",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-09-15",
+          "example": "I would like to read the books written by XXX.",
+          "source": "spontaneous IELTS Speaking practice"
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "noun + V-ing / noun + who/that + be + V-ing",
+      "normalized_key": "noun + v-ing / noun + who / that + be + v-ing",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "CONNECTION",
+      "summary": "Use a finite relative clause with its relative pronoun, or a V-ing modifier without be.",
+      "rule": "There are people using AI / There are people who are using AI; not There are people are using AI. In this active progressive relative construction, omit who/that and be together.",
+      "classification_reason": "A productive modifier-versus-finite-clause distinction directly raised by the learner.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "last_success": "",
+      "sources": [
+        "there are plus participial noun modifier question"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-13",
+          "original": "there're more and more ppl are using ai",
+          "corrected": "there're more and more ppl using ai",
+          "source": "there are plus participial noun modifier question"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "object relative clause without a resumptive pronoun",
+      "normalized_key": "object relative clause without a resumptive pronoun",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "CONNECTION",
+      "summary": "Do not repeat a relative-clause object with an extra pronoun.",
+      "rule": "the noun + that/which + subject + verb with an object gap: the words that I can express; not the words that I can express them",
+      "classification_reason": "Useful reusable relative-clause object pattern; first tracked occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "last_success": "",
+      "sources": [
+        "bathroom vocabulary and learning-priority conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-12",
+          "original": "words that I don't even know how to express them",
+          "corrected": "words that I don't even know how to express",
+          "source": "bathroom vocabulary and learning-priority conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "parallel verb forms joined by and",
+      "normalized_key": "parallel verb forms joined by and",
+      "category": "TRACK",
+      "error_type": "VERB_FORM",
+      "target": "PATTERN",
+      "summary": "Keep coordinated activity descriptions parallel.",
+      "rule": "Use giving and mentioning for parallel V-ing phrases, or she gives and mentions for finite clauses.",
+      "classification_reason": "Reusable coordination pattern in descriptions of speaking strategies.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "last_success": "",
+      "sources": [
+        "Cambridge Speaking exercise 1.10 answer"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-22",
+          "original": "Giving examples, and mentioned what kind of ppl she tends to help.",
+          "corrected": "Giving examples and mentioning what kind of ppl she tends to help.",
+          "source": "Cambridge Speaking exercise 1.10 answer"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "patient vs patience",
+      "normalized_key": "patient vs patience",
+      "category": "TRACK",
+      "error_type": "WORD_FORM",
+      "target": "VOCABULARY",
+      "summary": "Use the adjective patient for a person's behavior and the uncountable noun patience for the ability to wait calmly.",
+      "rule": "be patient with someone; have/lose/run out of patience; use up or test someone's patience",
+      "classification_reason": "This is a common and reusable word-family distinction in conversation and professional communication.",
+      "encounter_count": 1,
+      "successful_use_count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "2026-09-15",
+      "sources": [
+        "direct user conversation",
+        "targeted practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "that forth and back consumes my almost entire patient",
+          "corrected": "That back-and-forth uses up almost all my patience.",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-09-15",
+          "example": "This constant back-and-forth is using up all my patience.",
+          "source": "targeted practice"
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "people's + possessed noun",
+      "normalized_key": "people's + possessed noun",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Use the possessive form when naming whose attention it is.",
+      "rule": "people's attention / people's opinions; casual ppl's follows the same possessive pattern",
+      "classification_reason": "Useful possessive pattern with an irregular plural noun.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "last_success": "",
+      "sources": [
+        "attention and degree-of-change conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-13",
+          "original": "ppl attention",
+          "corrected": "ppl's attention",
+          "source": "attention and degree-of-change conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "percentage/fraction + of + plural count noun",
+      "normalized_key": "percentage / fraction + of + plural count noun",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "After a percentage or fraction describing part of a category of countable things, use no article before the percentage and a plural noun.",
+      "rule": "100%/half/most of + (determiner +) plural count noun: 100% of common AmE patterns; 80% of the cards. General adjective before the classifying modifier: common AmE patterns.",
+      "classification_reason": "Common in explanations and data descriptions; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-21",
+          "original": "the 100% of AmE common pattern",
+          "corrected": "100% of common AmE patterns",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "plural antecedent + they/them",
+      "normalized_key": "plural antecedent + they / them",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Use a plural pronoun when referring back to two or more expressions or things.",
+      "rule": "plural antecedent + they/them/their",
+      "classification_reason": "A broadly reusable reference pattern; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "last_success": "",
+      "sources": [
+        "rule out and rule in card request"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-23",
+          "original": "if there are other ways to use it",
+          "corrected": "if there are other ways to use them",
+          "source": "rule out and rule in card request"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "plural count noun as a complement for multiple items",
+      "normalized_key": "plural count noun as a complement for multiple items",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Use a plural count noun to classify multiple separate items.",
+      "rule": "They / all of them + are + plural count noun: All of them are verbs; not All of them are verb.",
+      "classification_reason": "A common reusable singular/plural pattern in explanations and technical classifications.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "last_success": "",
+      "sources": [
+        "require ask request comparison"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-12",
+          "original": "Are all of them verb?",
+          "corrected": "Are all of them verbs?",
+          "source": "require ask request comparison"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "plural count noun for several items",
+      "normalized_key": "plural count noun for several items",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "When a noun refers to many separate items of a countable kind, use the plural form.",
+      "rule": "the + plural count noun for a set: the patterns in the book; the cards we added",
+      "classification_reason": "Same root as earlier singular-for-plural slips today (pattern for patterns); reusable in every explanation about lists and cards.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-21",
+          "original": "have u tried to find the pattern in American English files",
+          "corrected": "have u tried to find the patterns in American English File",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "practice + skill/activity / work through + learning material",
+      "normalized_key": "practice + skill / activity / work through + learning material",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "VOCABULARY",
+      "summary": "Use practice for a skill or repeated activity and work through for completing learning material step by step.",
+      "rule": "practice + noun or V-ing; work through + chapter, exercise, problem set, or course material",
+      "classification_reason": "A common, reusable distinction between practicing an activity and progressing through study material.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "last_success": "",
+      "sources": [
+        "Cambridge Reading Unit 5 setup"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-29",
+          "original": "practice this chapter",
+          "corrected": "work through this chapter",
+          "source": "Cambridge Reading Unit 5 setup"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "preposition + V-ing for an action",
+      "normalized_key": "preposition + v-ing for an action",
+      "category": "TRACK",
+      "error_type": "OTHER",
+      "target": "CONNECTION",
+      "summary": "Use V-ing after by when describing a method.",
+      "rule": "by + V-ing describes how something is done: by exporting the cards.",
+      "classification_reason": "A new independent occurrence of the existing action-after-preposition pattern; merge rather than create another entry.",
+      "encounter_count": 4,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-27",
+      "last_success": "",
+      "sources": [
+        "Cambridge Unit 7 follow-up practice: even / even though",
+        "direct user request to consolidate the complete American English patterns deck",
+        "Learner approval to update personal chunks and delete the shortlist, 2026-10-27",
+        "Question about maintaining the EN workspace on multiple computers, 2026-10-27"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-20",
+          "original": "without run into any problems",
+          "corrected": "without running into any problems",
+          "source": "direct user request to consolidate the complete American English patterns deck"
+        },
+        {
+          "date": "2026-10-27",
+          "original": "after finish updating",
+          "corrected": "after you finish updating",
+          "source": "Learner approval to update personal chunks and delete the shortlist, 2026-10-27"
+        },
+        {
+          "date": "2026-10-27",
+          "original": "by export the cards",
+          "corrected": "by exporting the cards",
+          "source": "Question about maintaining the EN workspace on multiple computers, 2026-10-27"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "provide someone with something / provide something for someone",
+      "normalized_key": "provide someone with something / provide something for someone",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "CONNECTION",
+      "summary": "Use provide me with a sentence or provide a sentence for me.",
+      "rule": "provide + person + with + thing; provide + thing + for + person.",
+      "classification_reason": "Reusable request construction in learning and professional contexts.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "last_success": "",
+      "sources": [
+        "Cambridge study planning: correction preference"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-22",
+          "original": "provide more native sentence to me",
+          "corrected": "provide me with a more natural sentence",
+          "source": "Cambridge study planning: correction preference"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "put X on a card / in a deck",
+      "normalized_key": "put x on a card / in a deck",
+      "category": "TRACK",
+      "error_type": "PREPOSITION",
+      "target": "CONNECTION",
+      "summary": "Use on for content displayed on a card and in for a card contained in a deck.",
+      "rule": "put content on a card/page/screen; put a card in a deck",
+      "classification_reason": "A useful and productive surface-versus-container contrast; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "last_success": "",
+      "sources": [
+        "rule out and rule in card request"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-23",
+          "original": "put them into same card",
+          "corrected": "put them on the same card",
+          "source": "rule out and rule in card request"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "recharge vs regain energy",
+      "normalized_key": "recharge vs regain energy",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "VOCABULARY",
+      "summary": "Use recharge for batteries or figuratively for yourself; use regain or replenish with energy.",
+      "rule": "recharge a battery/device; recharge your batteries; take time to recharge; regain/replenish your energy",
+      "classification_reason": "This is a useful everyday collocation boundary and the first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 2,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "2026-09-15",
+      "sources": [
+        "IELTS Speaking Exercise 3.3 learner correction attempt",
+        "targeted practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "because I can recharge energy through it",
+          "corrected": "because it helps me regain my energy / because I can recharge by listening to it",
+          "source": "IELTS Speaking Exercise 3.3 learner correction attempt"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-09-15",
+          "example": "After a long meeting, I listen to music to regain my energy.",
+          "source": "targeted practice"
+        },
+        {
+          "date": "2026-09-15",
+          "example": "I took a weekend off to recharge.",
+          "source": "targeted practice"
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "repay someone's kindness / express gratitude",
+      "normalized_key": "repay someone's kindness / express gratitude",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "VOCABULARY",
+      "summary": "Use repay someone for their past help or return the favor for reciprocating help.",
+      "rule": "repay + person + for + help/kindness; return the favor. To locate the original help in the past, use past help, earlier help, or the help he had given me before.",
+      "classification_reason": "Follow-up production shows continued uncertainty about repay complements and past-time reference.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "last_success": "",
+      "sources": [
+        "Cambridge Speaking Unit 2 video 6 notes; interpreted from parenthetical description of earlier help",
+        "Cambridge Speaking Unit 2 follow-up: returning earlier help"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-22",
+          "original": "repay his thankfulness",
+          "corrected": "repay his friend's kindness",
+          "source": "Cambridge Speaking Unit 2 video 6 notes; interpreted from parenthetical description of earlier help"
+        },
+        {
+          "date": "2026-10-22",
+          "original": "Repay his help before?",
+          "corrected": "Repay him for his past help.",
+          "source": "Cambridge Speaking Unit 2 follow-up: returning earlier help"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "rise vs raise",
+      "normalized_key": "rise vs raise",
+      "category": "TRACK",
+      "error_type": "VOCABULARY",
+      "target": "VOCABULARY",
+      "summary": "Use rise when the subject increases by itself and raise when an agent causes an object to increase.",
+      "rule": "price rises; person or company raises the price; rise-rose-risen; raise-raised-raised",
+      "classification_reason": "A common and productive transitivity contrast; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "last_success": "2026-09-16",
+      "sources": [
+        "direct user conversation",
+        "targeted practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "The price rasies far more than what I expected.",
+          "corrected": "The price has risen far more than I expected.",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-09-16",
+          "example": "The price has risen far more than I expected.",
+          "source": "targeted practice"
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "self-deprecating adjective vs deprecated participle",
+      "normalized_key": "self-deprecating adjective vs deprecated participle",
+      "category": "TRACK",
+      "error_type": "WORD_FORM",
+      "target": "VOCABULARY",
+      "summary": "Use self-deprecating to describe someone who downplays or makes jokes about their own abilities.",
+      "rule": "Self-deprecating is the usual adjective: be self-deprecating; self-deprecating humor/remarks. Deprecated is a past participle used, for example, for software features whose use is discouraged.",
+      "classification_reason": "Productive adjective/participle confusion involving a recently studied word.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "last_success": "",
+      "sources": [
+        "Cambridge Unit 7 targeted be likely to practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-19",
+          "original": "The ppl who are self-deprecated",
+          "corrected": "The ppl who are self-deprecating",
+          "source": "Cambridge Unit 7 targeted be likely to practice"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "sentence/condemn + person + to + punishment",
+      "normalized_key": "sentence / condemn + person + to + punishment",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "VOCABULARY",
+      "summary": "Name the person as the object and introduce the punishment with to.",
+      "rule": "sentence someone to three years in prison; condemn someone to a punishment is grammatical but formal and especially associated with death sentences; for introduces the offense or reason, not the punishment. Neither frame uses condemn that he needs ...",
+      "classification_reason": "Reusable object/preposition structure for the two related legal verbs; selected as one of three deep-review roots.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "last_success": "",
+      "sources": [
+        "mixed production-pattern and legal-vocabulary deep review"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-13",
+          "original": "The judge sentenced this guy for being prison for three yrs.",
+          "corrected": "The judge sentenced this guy to three yrs in prison.",
+          "source": "mixed production-pattern and legal-vocabulary deep review"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "simple past with a finished past time",
+      "normalized_key": "simple past with a finished past time",
+      "category": "TRACK",
+      "error_type": "VERB_FORM",
+      "target": "PATTERN",
+      "summary": "Coordinate past events with past verb forms.",
+      "rule": "He took her out and they had a beautiful evening; use had for the past event.",
+      "classification_reason": "Sixth occurrence; emphatic present do + base verb used with earlier.",
+      "encounter_count": 6,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-10-30",
+      "last_success": "",
+      "sources": [
+        "IELTS Speaking Unit 1 Section 3 Exercise 3.8 learner response",
+        "Targeted contrast-card practice: get off track / go off the rails",
+        "Cambridge Speaking Unit 2, helping mother story",
+        "Cambridge Speaking Unit 2 exercise 1.3 notes",
+        "Cambridge Speaking Unit 2 video 6 notes",
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-22",
+          "original": "Move my Mom a lots, increase her leisure time",
+          "corrected": "It moved my mom a lot and increased her leisure time.",
+          "source": "Cambridge Speaking Unit 2 exercise 1.3 notes"
+        },
+        {
+          "date": "2026-10-22",
+          "original": "He took her out for dinner and have a beautiful evening together",
+          "corrected": "He took her out for dinner, and they had a beautiful evening together.",
+          "source": "Cambridge Speaking Unit 2 video 6 notes"
+        },
+        {
+          "date": "2026-10-30",
+          "original": "I do update anki earlier",
+          "corrected": "I updated Anki earlier",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "simple present for a current state",
+      "normalized_key": "simple present for a current state",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Use the simple present, not the simple past, for a state that is true now.",
+      "rule": "subject + present-tense stative verb for a current state: I have, I know, I need",
+      "classification_reason": "A broadly reusable tense distinction in current explanations.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-17",
+          "original": "I already had a bunch of pattern",
+          "corrected": "I already have a bunch of patterns",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "simple present vs be + V-ing",
+      "normalized_key": "simple present vs be + v-ing",
+      "category": "TRACK",
+      "error_type": "VERB_FORM",
+      "target": "PATTERN",
+      "summary": "Do not insert be before a simple-present lexical verb.",
+      "rule": "Use who end up for the simple present, or who are ending up for the present progressive; not who are end up.",
+      "classification_reason": "Useful verb-form distinction revealed in learner-produced relative clause.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "last_success": "",
+      "sources": [
+        "Cambridge Writing Unit 7 exercise 2.2 learner rewrite"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-19",
+          "original": "Children who are end up in manual jobs",
+          "corrected": "Children who end up in manual jobs",
+          "source": "Cambridge Writing Unit 7 exercise 2.2 learner rewrite"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "singular count noun needs a determiner",
+      "normalized_key": "singular count noun needs a determiner",
+      "category": "CARD_CANDIDATE",
+      "error_type": "OTHER",
+      "target": "PATTERN",
+      "summary": "A singular count noun such as deck normally needs a determiner.",
+      "rule": "Use the + singular count noun for an identified item: in the existing deck.",
+      "classification_reason": "Another spontaneous occurrence of the already tracked determiner problem; preserve its existing classification and preview state.",
+      "encounter_count": 25,
+      "successful_use_count": 3,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-10-27",
+      "last_success": "2026-09-22",
+      "sources": [
+        "direct user conversation",
+        "IELTS Speaking Exercise 3.3 learner correction attempt",
+        "targeted correction practice",
+        "targeted practice",
+        "follow-up correction practice",
+        "IELTS Speaking Exercise 3.4 learner response",
+        "spontaneous IELTS Speaking practice",
+        "IELTS Speaking Exercise 3.5 learner response",
+        "IELTS Speaking Unit 1 Section 3 Exercise 3.8 final response",
+        "IELTS Speaking continuation request",
+        "verb-pattern learning question",
+        "immediate targeted practice after assure, ensure, and reassure contrast",
+        "vocabulary question about based on and on top of",
+        "spontaneous follow-up comparison question",
+        "Anki coverage audit question",
+        "rule out and rule in card request",
+        "let bygones be bygones targeted practice",
+        "Targeted contrast-card practice: get off track / go off the rails",
+        "Cambridge Writing Unit 7 exercise 2.3: selected word in sentence context",
+        "Cambridge Unit 7 follow-up practice: even / even though",
+        "direct user request to review the American English production patterns catalog",
+        "Direct user conversation: local reference and pattern grouping audit",
+        "Personal chunks proposed-note count clarification, 2026-10-27"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-20",
+          "original": "there're bunch of materail",
+          "corrected": "there’s a bunch of material",
+          "source": "Direct user conversation: local reference and pattern grouping audit"
+        },
+        {
+          "date": "2026-10-21",
+          "original": "could u complete it by fixing contraction / no need to fix contraction",
+          "corrected": "could u complete it by fixing the contractions / no need to fix the contractions",
+          "source": "direct user conversation"
+        },
+        {
+          "date": "2026-10-27",
+          "original": "in existing deck",
+          "corrected": "in the existing deck",
+          "source": "Personal chunks proposed-note count clarification, 2026-10-27"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-09-15",
+          "example": "I prefer writing emails on a computer.",
+          "source": "targeted practice"
+        },
+        {
+          "date": "2026-09-15",
+          "example": "I don't like this computer screen.",
+          "source": "spontaneous IELTS Speaking practice"
+        },
+        {
+          "date": "2026-09-22",
+          "example": "What's the dif?",
+          "source": "spontaneous follow-up comparison question"
+        }
+      ],
+      "card_status": "PREVIEWED",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "sometimes vs sometime",
+      "normalized_key": "sometimes vs sometime",
+      "category": "TRACK",
+      "error_type": "WORD_FORM",
+      "target": "VOCABULARY",
+      "summary": "Use sometimes for occasional frequency and sometime for an unspecified time.",
+      "rule": "sometimes = occasionally, before a main verb or at clause beginning; sometime = at an unspecified time, often with next week/tomorrow/in the future",
+      "classification_reason": "Reusable time-versus-frequency distinction in the learner’s own explanation.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "last_success": "",
+      "sources": [
+        "grouped vocabulary contrast-card request"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-14",
+          "original": "which means sometime I can't differentiate them.",
+          "corrected": "which means sometimes I can't differentiate them.",
+          "source": "grouped vocabulary contrast-card request"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "spend + time + V-ing",
+      "normalized_key": "spend + time + v-ing",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "PATTERN",
+      "summary": "Use spend time doing an activity, or spend time on a noun.",
+      "rule": "spend + time + V-ing; spend + time + on + noun. Most of her time identifies a portion of her available time.",
+      "classification_reason": "Useful productive collocation for everyday narratives.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "last_success": "",
+      "sources": [
+        "Cambridge Speaking Unit 2, helping mother story"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-22",
+          "original": "spend most of time on doing housework",
+          "corrected": "spent most of her time doing housework",
+          "source": "Cambridge Speaking Unit 2, helping mother story"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "straight spelling",
+      "normalized_key": "straight spelling",
+      "category": "CORRECT_ONLY",
+      "error_type": "SPELLING",
+      "target": "NONE",
+      "summary": "Spell straight with the letter sequence a-i-g-h-t.",
+      "rule": "straight, not striaght",
+      "classification_reason": "An isolated letter-transposition slip that does not currently justify spaced review.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "last_success": "",
+      "sources": [
+        "straight away vocabulary-card request"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-29",
+          "original": "Striaght away",
+          "corrected": "Straight away",
+          "source": "straight away vocabulary-card request"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "stuff as an uncountable noun",
+      "normalized_key": "stuff as an uncountable noun",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "VOCABULARY",
+      "summary": "Stuff is uncountable and takes singular agreement.",
+      "rule": "stuff, not stuffs; there is more stuff; stuff that draws attention",
+      "classification_reason": "A reusable everyday mass-noun pattern.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "last_success": "",
+      "sources": [
+        "attention and degree-of-change conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-13",
+          "original": "There're more and more stuffs that draw ppl attention...",
+          "corrected": "There's more and more stuff that draws ppl's attention...",
+          "source": "attention and degree-of-change conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "taste in music",
+      "normalized_key": "taste in music",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "VOCABULARY",
+      "summary": "Use taste in music for the kinds of music someone likes; touching describes something that causes emotion.",
+      "rule": "someone's taste in music changes; a touching song/story/moment",
+      "classification_reason": "The intended meaning was unclear without the standard collocation, and the distinction is useful for IELTS speaking.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "last_success": "",
+      "sources": [
+        "IELTS Speaking Unit 1 Section 3 Exercise 3.8 learner response"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "the touching songs changed as time goes by",
+          "corrected": "my taste in music has changed over time",
+          "source": "IELTS Speaking Unit 1 Section 3 Exercise 3.8 learner response"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "the + specific known noun",
+      "normalized_key": "the + specific known noun",
+      "category": "TRACK",
+      "error_type": "ARTICLE",
+      "target": "UNDECIDED",
+      "summary": "Distinguish generic stress from a specific identified source of stress.",
+      "rule": "Use under stress for stress generally; under the stress of a particular situation identifies a specific source.",
+      "classification_reason": "Recurring article choice with a general uncountable noun.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-10-19",
+      "last_success": "",
+      "sources": [
+        "Cambridge Reading Unit 5 Exercise 2.2",
+        "Cambridge Unit 7 targeted be likely to practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-29",
+          "original": "tell me answer",
+          "corrected": "tell me the answer",
+          "source": "Cambridge Reading Unit 5 Exercise 2.2"
+        },
+        {
+          "date": "2026-10-19",
+          "original": "are likely to underperform under the stress",
+          "corrected": "are likely to underperform under stress",
+          "source": "Cambridge Unit 7 targeted be likely to practice"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "the question here / the difficulty lies in",
+      "normalized_key": "the question here / the difficulty lies in",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "PATTERN",
+      "summary": "Use 'the question here' for the question in the current discussion; use 'lie in' to identify where a problem, answer, or difficulty is found.",
+      "rule": "the question/issue here is ...; the problem/difficulty/answer lies in + noun or V-ing",
+      "classification_reason": "This is a useful abstract-location contrast and the first recorded occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "the real question lying here",
+          "corrected": "the real question here",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "there is + singular / there are + plural",
+      "normalized_key": "there is + singular / there are + plural",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Use there is with a bunch of uncountable material.",
+      "rule": "There is a bunch of material; bunch is singular and material is uncountable.",
+      "classification_reason": "Merge with the existing agreement pattern; no new card is authorized by correction tracking.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "last_success": "",
+      "sources": [
+        "Direct vocabulary question: cautious / precarious / careful",
+        "Direct user conversation: local reference and pattern grouping audit"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-20",
+          "original": "Is there any synonyms?",
+          "corrected": "Are there any synonyms?",
+          "source": "Direct vocabulary question: cautious / precarious / careful"
+        },
+        {
+          "date": "2026-10-20",
+          "original": "there're bunch of materail",
+          "corrected": "there’s a bunch of material",
+          "source": "Direct user conversation: local reference and pattern grouping audit"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "third-person singular in the simple present",
+      "normalized_key": "third-person singular in the simple present",
+      "category": "TRACK",
+      "error_type": "OTHER",
+      "target": "PATTERN",
+      "summary": "Use a singular present-tense verb when explaining what one mark means.",
+      "rule": "An X means ...; X, which means ... . Use means when the subject refers to one mark or the meaning of the preceding statement.",
+      "classification_reason": "Merge this new occurrence with the existing subject-verb agreement record; no additional Anki note is requested.",
+      "encounter_count": 5,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-10-27",
+      "last_success": "",
+      "sources": [
+        "IELTS Speaking Unit 1 Section 3 Exercise 3.8 learner response",
+        "direct user conversation",
+        "mixed production-pattern and legal-vocabulary deep review",
+        "Personal chunks consolidation discussion, 2026-10-27"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-13",
+          "original": "A higher salary doesn't necessaraily mean that a job provide better quality of life.",
+          "corrected": "A higher salary doesn't necessarily mean that a job provides better quality of life.",
+          "source": "mixed production-pattern and legal-vocabulary deep review"
+        },
+        {
+          "date": "2026-10-21",
+          "original": "if that really cover",
+          "corrected": "if that really covers",
+          "source": "direct user conversation"
+        },
+        {
+          "date": "2026-10-27",
+          "original": "which mean I don't think they are necessary.",
+          "corrected": "which means I don't think they are necessary.",
+          "source": "Personal chunks consolidation discussion, 2026-10-27"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "this/that + singular noun / these/those + plural noun",
+      "normalized_key": "this / that + singular noun / these / those + plural noun",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Match a demonstrative to the number of the following noun.",
+      "rule": "this/that + singular noun; these/those + plural noun: this card, these cards.",
+      "classification_reason": "Useful demonstrative-number agreement contrast in current spontaneous production; track without creating a card.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "last_success": "",
+      "sources": [
+        "Question about maintaining the EN workspace on multiple computers, 2026-10-27"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-27",
+          "original": "all this cards",
+          "corrected": "all these cards",
+          "source": "Question about maintaining the EN workspace on multiple computers, 2026-10-27"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "too + adjective + to-infinitive / so + adjective + that-clause",
+      "normalized_key": "too + adjective + to-infinitive / so + adjective + that-clause",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "PATTERN",
+      "summary": "Use either too plus an infinitive or so plus a complete that-clause; do not combine the two frames.",
+      "rule": "too + adjective + for someone + to + base verb; so + adjective + that + subject + finite verb",
+      "classification_reason": "A common reusable result contrast; the learner has shown both a correct use and one mixed construction.",
+      "encounter_count": 1,
+      "successful_use_count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "last_success": "2026-09-16",
+      "sources": [
+        "direct user conversation",
+        "targeted practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "The exam is too hard so that there is no one pass it.",
+          "corrected": "The exam is too hard for anyone to pass. / The exam is so hard that no one can pass it.",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-09-16",
+          "example": "The bridge is too narrow to support two lanes of traffic.",
+          "source": "targeted practice"
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "use up vs run out of",
+      "normalized_key": "use up vs run out of",
+      "category": "TRACK",
+      "error_type": "COLLOCATION",
+      "target": "PATTERN",
+      "summary": "Use up focuses on consuming a resource; run out of focuses on no longer having it.",
+      "rule": "person/process uses up resource; person/device runs out of resource",
+      "classification_reason": "This is a productive phrasal-verb contrast that affected clarity in targeted practice.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "",
+      "sources": [
+        "targeted correction practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "I always run out of my laptop power whenever I work for serveral hours",
+          "corrected": "My laptop always runs out of power whenever I work for several hours.",
+          "source": "targeted correction practice"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "used to + base verb / be used to + V-ing",
+      "normalized_key": "used to + base verb / be used to + v-ing",
+      "category": "TRACK",
+      "error_type": "VERB_FORM",
+      "target": "PATTERN",
+      "summary": "Use used to plus the base verb for a past habit, but be used to plus a noun or V-ing for familiarity.",
+      "rule": "past habit: used to + base verb; accustomed: be/get used to + noun or V-ing",
+      "classification_reason": "The learner correctly used the past-habit form once but again confused it with the familiarity form elsewhere.",
+      "encounter_count": 2,
+      "successful_use_count": 2,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "last_success": "2026-09-16",
+      "sources": [
+        "IELTS Speaking Exercise 3.4 learner response",
+        "IELTS Speaking Exercise 3.5 learner response",
+        "spontaneous IELTS Speaking practice",
+        "IELTS Speaking Unit 1 Section 3 Exercise 3.8 learner response"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "I'm used to cook; I used to writing dairy; I'm used to play video game",
+          "corrected": "I'm used to cooking; I used to write in a diary; I'm used to playing video games",
+          "source": "IELTS Speaking Exercise 3.4 learner response"
+        },
+        {
+          "date": "2026-09-15",
+          "original": "I'm used to play video games and spend time with my parent back then",
+          "corrected": "I used to play video games and spend time with my parents back then",
+          "source": "IELTS Speaking Exercise 3.5 learner response"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-09-15",
+          "example": "I used to listen to rock music when I was in elementary school.",
+          "source": "spontaneous IELTS Speaking practice"
+        },
+        {
+          "date": "2026-09-16",
+          "example": "When I was in elementary school, I used to listen to rock music.",
+          "source": "IELTS Speaking Unit 1 Section 3 Exercise 3.8 learner response"
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "V-ing clause as subject",
+      "normalized_key": "v-ing clause as subject",
+      "category": "TRACK",
+      "error_type": "VERB_FORM",
+      "target": "PATTERN",
+      "summary": "Use an -ing clause when an action is the subject of a sentence.",
+      "rule": "V-ing clause + finite verb: Putting related expressions together can help me.",
+      "classification_reason": "Useful productive structure; track active use before considering a card.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "last_success": "",
+      "sources": [
+        "direct user conversation about grouping contrast patterns"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-20",
+          "original": "put them together can help me",
+          "corrected": "putting them together can help me",
+          "source": "direct user conversation about grouping contrast patterns"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "vocabulary as an uncountable noun",
+      "normalized_key": "vocabulary as an uncountable noun",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Use vocabulary as an uncountable noun, or use vocabulary word or item for one countable entry.",
+      "rule": "a word or vocabulary item; some vocabulary; vocabulary is normally not used with a/an",
+      "classification_reason": "The countability distinction recurred during the immediate follow-up and remains worth tracking.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "last_success": "",
+      "sources": [
+        "vocabulary card request",
+        "straight away vocabulary-card request"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-29",
+          "original": "those vocabulary",
+          "corrected": "those vocabulary words",
+          "source": "vocabulary card request"
+        },
+        {
+          "date": "2026-09-29",
+          "original": "a vocabulary",
+          "corrected": "a vocabulary item",
+          "source": "straight away vocabulary-card request"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "vote for a person / vote on an issue / vote to do something",
+      "normalized_key": "vote for a person / vote on an issue / vote to do something",
+      "category": "TRACK",
+      "error_type": "PREPOSITION",
+      "target": "CONNECTION",
+      "summary": "Use vote for with a candidate, vote on with an issue, and vote to plus a base verb with an action.",
+      "rule": "vote for + candidate; vote on + issue; vote to + base verb",
+      "classification_reason": "The complement contrast is useful in civic, workplace, and professional contexts and needs further retrieval practice.",
+      "encounter_count": 2,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "last_success": "",
+      "sources": [
+        "direct user conversation"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-16",
+          "original": "voting to president Li",
+          "corrected": "voting for President Li",
+          "source": "direct user conversation"
+        },
+        {
+          "date": "2026-09-16",
+          "original": "He prefers to vote to President Li.",
+          "corrected": "He prefers to vote for President Li.",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "weigh vs weight",
+      "normalized_key": "weigh vs weight",
+      "category": "TRACK",
+      "error_type": "WORD_FORM",
+      "target": "VOCABULARY",
+      "summary": "Use weigh as the verb for measuring heaviness; use weight as the noun naming how heavy something is.",
+      "rule": "weigh + object; measure + object's weight; object + weighs + amount",
+      "classification_reason": "This is a common, productive noun-versus-verb distinction in daily and technical English.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "last_success": "",
+      "sources": [
+        "Listening Unit 5 Exercise 2.2"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-17",
+          "original": "Scales — weight",
+          "corrected": "Scales — weigh things",
+          "source": "Listening Unit 5 Exercise 2.2"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "What is + singular noun / What are + plural noun",
+      "normalized_key": "what is + singular noun / what are + plural noun",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Match is or are to the noun being defined.",
+      "rule": "What is a tax incentive? / What are tax incentives? The plural noun incentives takes are.",
+      "classification_reason": "A reusable definition-question frame with singular/plural agreement.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "last_success": "",
+      "sources": [
+        "tax incentives vocabulary question"
+      ],
+      "examples": [
+        {
+          "date": "2026-10-13",
+          "original": "What is tax incentives?",
+          "corrected": "What are tax incentives?",
+          "source": "tax incentives vocabulary question"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "what something is called / how to call",
+      "normalized_key": "what something is called / how to call",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "PATTERN",
+      "summary": "Use what something is called to ask for its name; use how to call for the method of making a phone call or contacting someone.",
+      "rule": "I don't know what it is called; Do you know what this is called?; how to call + person/number",
+      "classification_reason": "This is a common direct-translation error and a reusable distinction in everyday conversation.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "last_success": "",
+      "sources": [
+        "Listening Unit 5 Exercise 1.1 learner response"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-17",
+          "original": "don't know how to call",
+          "corrected": "I don't know what it's called",
+          "source": "Listening Unit 5 Exercise 1.1 learner response"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "will vs would for expected vs hypothetical results",
+      "normalized_key": "will vs would for expected vs hypothetical results",
+      "category": "TRACK",
+      "error_type": "GRAMMAR",
+      "target": "PATTERN",
+      "summary": "Use 'will' for an expected future result in the real current situation and 'would' for a hypothetical or future-in-the-past result.",
+      "rule": "real expected result: will + base verb; hypothetical result: would + base verb",
+      "classification_reason": "Second independent occurrence; real plan expressed with hypothetical 'd.",
+      "encounter_count": 2,
+      "successful_use_count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-10-21",
+      "last_success": "2026-09-15",
+      "sources": [
+        "direct user conversation",
+        "follow-up practice"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-15",
+          "original": "every session start here would correct me ... now",
+          "corrected": "every session started here will now correct me ...",
+          "source": "direct user conversation"
+        },
+        {
+          "date": "2026-10-21",
+          "original": "Considering I'd use it to learn most of the common patterns",
+          "corrected": "Considering I'll use it to learn most of the common patterns",
+          "source": "direct user conversation"
+        }
+      ],
+      "successful_examples": [
+        {
+          "date": "2026-09-15",
+          "example": "Back then, he told me that I would never get over the sadness.",
+          "source": "follow-up practice"
+        }
+      ],
+      "card_status": "NONE",
+      "card_ref": ""
+    },
+    {
+      "pattern_key": "wonder whether/if + statement word order",
+      "normalized_key": "wonder whether / if + statement word order",
+      "category": "TRACK",
+      "error_type": "STRUCTURE",
+      "target": "PATTERN",
+      "summary": "After wonder whether or wonder if, use an embedded clause with statement word order.",
+      "rule": "I wonder whether/if + subject + verb; do not attach a separate inverted direct question",
+      "classification_reason": "This is a common and reusable structure for polite questions and uncertainty; first meaningful occurrence.",
+      "encounter_count": 1,
+      "successful_use_count": 0,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "last_success": "",
+      "sources": [
+        "Anki coverage audit question"
+      ],
+      "examples": [
+        {
+          "date": "2026-09-23",
+          "original": "I wonder the pattern I asked so far, are they all included in anki deck?",
+          "corrected": "I wonder whether all the patterns I've asked about so far are included in the Anki decks.",
+          "source": "Anki coverage audit question"
+        }
+      ],
+      "successful_examples": [],
+      "card_status": "NONE",
+      "card_ref": ""
+    }
+  ]
+}

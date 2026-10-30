@@ -1,0 +1,43 @@
+## PDF page 144
+
+<!-- source-pdf-page: 144 -->
+
+Speaking skills
+
+##### 2.4
+
+   - It is important to use a variety of language. Do you think
+
+   - Melanie uses a variety of connecting words and phrases or does she repeat the same ones?
+
+- 2.5 Melanie also connects her ideas using pronouns. Look again at the sentence endings A-H and highlight all of the pronouns.
+
+Fluency refers to the speed of your delivery and how hesitant you are. Candidates who are hesitant often say er ... a lot.
+
+#### 2.6 | P Video 11. Watch Saida’s talk and think about coherence and fluency.
+
+- 1 What words and phrases does Saida use to link her ideas?
+
+- 2 What other connecting words could Saida have used? 3 Does she use pronouns? 4 Does Saida talk fluently, or is she quite hesitant?
+
+### 3 Organising your notes and your talk
+
+Making notes can help you to plan your ideas and to give you a fresh start during your talk. Your notes will help you to
+
+- ¢ start you thinking about the topic.
+
+- organise your ideas (improve your coherence).
+
+- ¢ keep going during your talk (improve your fluency).
+
+
+<!-- Start of picture text -->
+3.1 Read this Part 2 task and look at two different candidates’<br>Describe a person who has been an important influence in your life.<br>You should = .<br>who this person is and how long you have known him or her<br>why you chose this person<br>how this person has influenced your life<br>and explain how you feel about him or her.<br>Candidate. 1<br><!-- End of picture text -->
+
+Read this Part 2 task and look at two different candidates’ notes.
+
+. Test Tip When you or her aié haakina your notes e 9 you ' By SReL fe wiite toe much. It is important to use this time to think and note down ideas or words, but you also need to be able / to quickly look at your notes during your talk and easily find your next idea. Try to find a way that helps you do li = a = / GEES COCR WSC sg your page, rather than in a random order).
+
+Who and how long? older brother / 36 years old / a lawyer/ lives in America / not see often / known him all my life Why | chose him when young had problems at school / learning difficulties / his dream — to be a lawyer / failed many times/ finally succeeded How he has influenced my life taught me to keep going / have a clear goal / don't give up / last year: | failed important test/ disappointed but didn't give up / trying again soon My feelings grateful / admiration / proud
+
+143

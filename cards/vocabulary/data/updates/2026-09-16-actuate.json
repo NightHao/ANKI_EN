@@ -1,0 +1,83 @@
+[
+  {
+    "term": "actuate",
+    "observed_forms": ["actuate"],
+    "priority": "RECEPTIVE",
+    "parts_of_speech": ["verb"],
+    "pronunciation": "/ˈæk.tʃuˌeɪt/",
+    "tts_text": "actuate",
+    "frequency_band": "UNCOMMON",
+    "daily_relevance": "LOW",
+    "ielts_relevance": "LOW",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-09-16",
+    "sources": ["direct user submission"],
+    "classification_reason": "An uncommon but useful technical verb for causing mechanisms to operate, plus a formal motive-related sense worth recognizing.",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To cause a machine or mechanism to move or operate.",
+            "example": "An electric motor actuates the valve when the pressure rises.",
+            "synonyms": [
+              {
+                "term": "activate",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader, while actuate often refers specifically to mechanical movement or operation"
+              },
+              {
+                "term": "operate",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "may mean controlling or using a device rather than causing its mechanism to move"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "deactivate",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "makes a device inactive"
+              },
+              {
+                "term": "disengage",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "disconnects or stops an engaged mechanism"
+              }
+            ]
+          },
+          {
+            "definition": "To cause someone to act for a particular reason, usually in a formal passive construction.",
+            "example": "His decision was actuated by fear rather than evidence.",
+            "synonyms": [
+              {
+                "term": "motivate",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "much more common and neutral"
+              },
+              {
+                "term": "impel",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "suggests strong pressure or force causing someone to act"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "deter",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "discourages someone from acting"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

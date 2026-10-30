@@ -1,0 +1,1762 @@
+# Reading Skills
+
+_Physical PDF pages 43–91_
+
+> OCR-derived reading copy. Page markers refer to physical PDF pages. Check tables, diagrams, unusual typography, and answer blanks against the source PDF when exact layout matters.
+
+## PDF page 43
+
+<!-- source-pdf-page: 43 -->
+
+##### What's the difference between Academic Reading and General Training Reading?
+
+There are two separate reading tests, one for Academic candidates and one for General Training candidates. Before enrolling for the test, you need to decide which test is best for you. See www.ielts.org for advice.
+
+### How long does the IELTS Reading paper last?
+
+The test lasts 60 minutes. Within that time, you must complete three separate sections with a total of 40 questions. You must also transfer your answers onto a separate answer sheet (there is no extra time given for this).
+
+#### What type of information will | read?
+
+The Reading paper has three separate sections. Each section is a little more difficult than the one before and features authentic reading passages. The Academic module contains three long texts of an academic nature. The General Training module features a mixture of long and short texts of a more general nature, as well as texts related to work situations.
+
+### How is the Reading paper assessed?
+
+You will be asked a total of 40 questions. In order to assess how much of the reading passages you understand, the questions will usually paraphrase (use different words with the same meaning) the words that are in the text. The questions test a variety of reading skills including your ability to do the following.
+
+- e Identify the writer's overall purpose.
+
+- e Follow key arguments in a text.
+
+e Identify opinions and attitudes.
+
+- ¢ Locate specific information.
+
+- ¢ Distinguish main ideas from supporting details.
+
+e Extract information from a text to complete a diagram, summary, table or set of notes.
+
+42
+
+---
+
+## PDF page 44
+
+<!-- source-pdf-page: 44 -->
+
+Reading skills
+
+#### What type of questions will | need to answer?
+
+There are 12-13 questions in each section, and you will be asked 1-3 different types of question in any section. There are several possible types of question. For some tasks, you need to write words or numbers from the reading passage.
+
+- ¢ sentence completion
+
+- summary, note, table, flow-chart completion
+
+- ¢ short-answer questions
+
+- ¢ diagram label completion
+
+In other tasks, you need to choose one option from a list and write a letter on your answer sheet.
+
+- e multiple choice
+
+- ® matching information
+
+- ¢ matching headings
+
+- ¢ matching features
+
+- ¢ matching sentence endings
+
+- summary completion
+
+You may also need to decide if sentences are True/False/Not Given or Yes/No/Not Given, based on the information that you read.
+
+### How do |! answer the questions?
+
+The instructions and the questions will tell you what type of information you need to locate in the texts, and the type of answer you need to write. Carefully follow all of the instructions on the question paper. In this unit, you will be able to practise all of these question types.
+
+##### How can! improve my Reading paper score?
+
+You can improve your score by following the instructions exactly and remembering the Test Tips in this unit. Managing your time so that you can complete all of the questions is an important part of the Reading paper. This unit will also tell you the reading skills you need to practise in order to achieve your best score. Before the test, try to read a variety of texts and improve your speed-reading skills. Studying all aspects of English (including vocabulary and grammar) will also help improve your IELTS score. If you make any mistakes in the Practice Tests in this book, make sure that you read the texts again carefully and use the Answer Key to help you identify any problems,
+
+43
+
+---
+
+## PDF page 45
+
+<!-- source-pdf-page: 45 -->
+
+In this unit you will practise:
+
+- using the features of a passage
+
+- understanding explanations
+
+- ¢ skimming a text and speed reading
+
+- e global understanding of a passage
+
+### 1 Using the features of a Reading passage
+
+1.1 Label the reading passage with the correct letters in the box (A-G).
+
+Features of a Reading passage A footnote E heading B subheading F caption C column G_ paragraph , See D figure / illustration
+
+
+<!-- Start of picture text -->
+Sid Cowans looks at the health properties of a favourite drink<br><!-- End of picture text -->
+
+If you are a tea drinker you have probably heard of tannins, which are plant based chemicals found in tea. They are responsible for the astringent bitter taste sometimes associated with tea. When you drink a cup of tea, it usually dissolves and remains clear unless the water is too cold or too alkaline.
+
+
+<!-- Start of picture text -->
+Tannins occur in many different types of plants and food, but =<br>are especially present in oak galls, which have been used rea. 7 e > 2<br>for centuries in Chinese medicine due to their health giving OY 4 * } ae By<br>properties. Tannins are often present in drinks and medicine be ee ~ 4<br>because they are soluble in water, but how much they dissolve SP 7 fi Vy<br>ofdependsthe liquid.on factors like temperature and the chemical make up y aN |; x cla id Ps ><br>3 J — > “ qa<br>‘In chemistry, an alkali is the opposite of an acid Tannins; exist. :in s\ “=“> ; ‘ : -: / 4a f 4<br>? Abnormal growths on oak trees all types of tea : att<br><!-- End of picture text -->
+
+44
+
+---
+
+## PDF page 46
+
+<!-- source-pdf-page: 46 -->
+
+Reading skills
+
+- Most Reading passages will have a heading and a subheading. The subheading is used to give you the context to the passage.
+
+- 1.2 Match headings A-D from four Reading passages with subheadings 1-5. There is one extra subheading that you do not need. A Alpine Glacial Lakes 1 Researchers disagree about whether social media is making us B_ Clean Dream more isolated. C_ Virtual Connections 2 Climatologists are assessing the impact of climate change on D Creating Young Scientists high-altitude bodies of water. 3 James Clegg identifies two current trends that are expanding the role ofscience in high schools.
+
+   - 4 Alan Parker outlines a recent breakthrough in technology. 5 In the 19th century, a schoolgirl and a former travelling salesman helped turn the humble soap bar into an $18 billion industry.
+
+Understanding the context can help you to predict the type of information contained in the Reading passage.
+
+- 1.3 Match the types of information 1-6 to Reading headings A-D. Test Tip Timing is an You will need to use the information in the subheadings to help important part of the you and you may use any letter more than once. Reading test. Try to 1 arguments put forward by several different experts finish each section in 2 a description of a project in mountainous areas less than 20 minutes. 3 a discussion about the impact of technology on society Read the passage as 4 research linked to trends in weather patterns : 5 a historical look at a successful: business venture quickly ae peer (up 6 , . . to three minutes). an argument presented from one expert’s point of view Look at the questions
+
+- An IELTS Reading passage might contain footnotes. These help explain to see what type of technical terms. Some terms are explained in the passage. Other information you need terms can be understood by reading the text carefully. to find (up to one minute).
+
+- 1.4 The passage in 1.1 contains several explanations and definitions. Spend 12-13 minutes Read the passage and match terms (1-5) with meanings A-F. reading the passage in 1 tannin A a taste similar to a lemon detail and answering 2 astringent B_ a chemical found in certain plants the questions. 3 alkaline C able to dissolve in liquid If a question is taking 4 oak gall D the opposite of acidic too long, move on. 5 soluble E becoming cloudy Use your last 3-4 F a problem found on a type of tree minutes to transfer your answers, checking
+
+- 1.5 What helped you to identify the definition of each each word? and filling in any gaps A in your answers.
+
+- 1.5 What helped you to identify the definition of each each word? A a footnote in the text
+
+- Ban explanation in the text
+
+   - C_ the surrounding context
+
+45
+
+---
+
+## PDF page 47
+
+<!-- source-pdf-page: 47 -->
+
+### eeeBO _— Reading skills
+
+2 Skimming a passage and speed reading Skimming a passage means reading it quickly (concentrating on content words, like nouns and verbs) to find the main points. It is not reading for detail. Skimming a text will also give you a general idea of how the information is organised, which can help you locate information more easily later on. In your own language, you can probably skim read 100 words in 20 seconds. In the exam, you should aim to skim read 100 words in 30 seconds.
+
+#### 2.1 This passage has four paragraphs of around 100 words each.
+
+- 1 Using a timer, skim read the text to get the general idea of what it is about.
+
+- 2 After 30 seconds, jump to the start of the next paragraph.
+
+   - A The diets of children have changed dramatically over the last century due to the effect of technologies (such as improved transport, canning and refrigeration), social changes (such as the establishment of boarding schools) and evolving ideas about the nutritional needs of growing bodies. Before World War |, the meals of children and adults alike would typically consist of vegetables (often potatoes), large amounts of bread (often 0.5 kg/day) and soups with small amounts of meat.
+
+   - B_ Imagine a 12-year-old Australian boy from 1970 standing next to a 12-yearold boy from 2010. The boy from 2010 will probably be 3-5 cm taller and 7 kg heavier than his counterpart in 1970. He will also be 25% fatter. A lot of that fat will be around the waist. The 2010 school trousers won't fit the boy from 1970: they will be 10 cm too big around the waist. Now imagine that the two boys have a running race of over 1,600 metres: the boy from 1970 will finish 300 metres ahead of his mate from 40 years in the future.
+
+   - C There are two chances in three that the boy from 1970 walked to school each day; there are three chances in four that the boy from 2010 is driven to school by mum or dad. There are four chances in five that in 1970 the boy was allowed to play unsupervised in the neighbourhood; there is only one chance in four that in 2010 the boy will be allowed to go down to the park on his own. The boy in 1970 probably played three or four different sports; the boy from 2010 plays one or none. It is 30 times more likely that the local river was the favourite play space of the boy from 1970 than it is for the boy today.
+
+   - D_ What has caused these dramatic changes in the space of a single generation? There are two main theories. Increasing overweight is caused by an energy imbalance: either energy intake (food) increases, or energy expenditure decreases, or both. The ‘Gluttony Theory’ argues that children are fatter because they are eating more than they used to, and more bad food (high energy density, high in fat and sugar, high in saturated fats). The ‘Sloth Theory’ argues that children are fatter because they are less active than they used to be. The two theories have battled it out in nutrition and physical activity journals for the last 10 years.
+
+46
+
+---
+
+## PDF page 48
+
+<!-- source-pdf-page: 48 -->
+
+Reading skills
+
+- 2.2 Now look at questions 1-3 and, without looking at the passage, try to remember whether this information was
+
+   - A_ near the beginning. Bin the middle.
+
+   - C_ near the end.
+
+   - 1 a comparison of children now and in the past 2 different hypotheses for the changes in weight 3a list of factors that brought about changes in our diet
+
+- 2.3 Questions 1-3 in 2.2 each give the main idea of the paragraphs in the passage. Read the questions again and decide which paragraph (A-D) they relate to.
+
+### 3 Global understanding
+
+Sometimes, you may be asked a question that focuses on the whole Reading passage. This type of question may ask you to choose a suitable title for the passage.
+
+- 3.1 Which title (A-D) would be the most suitable for the Reading passage in 2.1?
+
+   - A Children’s eating patterns mimic those of their parents
+
+   - B_ The rapid transformation occurring in children’s body size C A demonstrated positive link between diet and health in children
+
+   - D The impact of modern technology on today’s food production
+
+Skim reading a passage can also give you a sense of the attitude of the writer. Global questions can sometimes focus on this.
+
+- 3.2 Read the passage again and answer the global question below. Which of the following describes the writer’s tone in this passage?
+
+   - A He is giving a neutral account of recent scientific research. B_ He is shocked that so many children are becoming overweight. C He feels enthusiastic about the progress that is being made. D He is doubtful that the situation will change in the near future.
+
+47
+
+---
+
+## PDF page 49
+
+<!-- source-pdf-page: 49 -->
+
+### 2 Descriptive passages
+
+In this unit you will practise:
+
+- scanning for specific details * completing notes or a flow-chart
+
+- recognising paraphrase ¢ labelling a diagram
+
+##### 1 Scanning for detail
+
+The passages in the IELTS Reading paper gradually become more difficult, with Section 1 being the easiest.
+
+###### 1.1 Spend one minute skim reading the following passage to get
+
+- a sense of the overall meaning. What is the main topic?
+
+A_ new discoveries in chemistry
+
+B_ the discovery of ancient objects C_ how international scientific teams work
+
+#### Ochre find reveals ancient knowledge of chemistry
+
+The oldest ochre-processing toolkits and workshop ever found have been unearthed, indicating that as far back as 100,000 years ago, humans had an understanding of chemistry.
+
+South Africa's Blombos Cave lies within a limestone cliff on the southern Cape coast, 300 km east of Cape Town. It's known for its 75,000-year-old rich deposits of<sup>artefactssuchasbeads,bonetoolsandochre</sup> engravings. Some engravings date as far back as 100,000 years.
+
+Archaeologist Christopher S. Henshilwood from the University of Witwatersrand in Johannesburg and University of Bergen, Norway has been excavating at the site since 1992, and has reported the discovery of a mixture, rich in ochre, stored in two abalone shells. It dates back to the Middle Stone Age - 100,000 years ago. Ochre is a term used to describe a piece of earth or rock containing red or yellow oxides or hydroxides ofiron. It can be used to make pigments, or paints, ranging from golden-yellow and light yellow-brown to a rich red. Its use spans the history of humans - from those living more than 200,000 years ago, to modern indigenous communities.
+
+Made from an array of materials, this mixture, which could have functioned as wall, object and skin decoration or skin protection (acting in a similar way to modern-day sunscreen), indicates the early developments that occurred in the people who originally used the site.
+
+“[Judging from] the complexity of the material that has been collected from different parts of the landscape and brought to the site, they [the people] must have had an elementary knowledge ofchemistry to be able to combine these materials to produce this form. It’s not a straightforward process,” said Henshilwood.
+
+1.2 Scanning involves searching a text quickly for a specific piece of information. Practise scanning the passage for the words/ numbers in the box.
+
+75,000 100,000 200,000 artefacts
+
+
+<!-- Start of picture text -->
+ochre<br><!-- End of picture text -->
+
+48
+
+---
+
+## PDF page 50
+
+<!-- source-pdf-page: 50 -->
+
+Reading skills
+
+### 2 Using words from the passage
+
+There are several types of question that ask you to write a word and/or number from the passage.
+
+- You will be told the maximum number of words to write.
+
+- ¢ You must only write words that are in the passage. Make sure you copy the spelling correctly.
+
+- You do not need to change the words in the passage and you do not need to join words together.
+
+- ¢ If you write too many words or make a spelling mistake, your answer will be marked wrong.
+
+   - Test Tip If the question asks you to write TWO WORDS AND/OR A NUMBER, this means the answer may be: * one word * one word + a number ¢ two words ¢ two words + a number Remember that even if a number is written as a word, it counts as a number (e.g. twenty five trees = one word and a number). You do not need to write full sentences or join words together. For example:
+
+Answer the question with NO MORE THAN TWO WORDS from the reading passage.
+
+What TWO colours did the painter use?
+
+(Answer: black, white not black-and-white)
+
+#### Short answer questions and sentence completion tasks
+
+Short answer questions test your ability to find specific details in a passage. Use the words in the questions to:
+
+- help locate the relevant part of the passage
+
+- find out exactly what details you are looking for.
+
+- 2.1 In questions 1-3 below, the key words that you need to locate in the passage are in bold, and the details you need to find out are underlined. Use these words to help you locate the relevant parts of the text and then answer the questions.
+
+   - Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. 1 Which of the artefacts mentioned are theoldest? 2 When was the material Henshilwood found originally made? 3 What two common materials did ancient humans use to obtain their ochre?
+
+49
+
+---
+
+## PDF page 51
+
+<!-- source-pdf-page: 51 -->
+
+_
+
+#### Reading skills
+
+- 2.2 Look at the remaining questions, 4-6. Underline the words that will help you locate the information in the passage and highlight the details you need to find. Then answer the questions.
+
+- 4 What did the ancient people use to keep their ochre mixture in? 5 Nowadays, who makes use of ochre? 6 Apart from painting, what else might ancient humans have used ochre for?
+
+- 3 Notes/flow-chart/diagram completion The questions in 3.1 all focus on paraphrase. Paraphrase is the use of different words with the same meaning. This helps to test how much of the Reading passage you understand.
+
+### 3.1 Look again at Questions 4-6.
+
+- 1 For Question 4, which word/s in the passage mean the same as ‘keep ... in’?
+
+- 2 For Question 5, which word in the passage helped you to identify what happens ‘nowadays’?
+
+- 3 For Question 6, which word/s in the passage mean the same as ‘used for’?
+
+Sentence completion questions also test your ability to find specific details or information in the passage. You must fill in the gaps in the sentences with appropriate words from the passage. The sentences will paraphrase the words and ideas. They also contain details that help you find the part you need to read in detail.
+
+- 3.2 Spend 30 seconds skim reading the next part of the Reading passage to get the general meaning.
+
+The Blombos Cave discovery is the earliest-known example of a pigment- or paint-producing workshop. All of the materials were discovered at the same site, and they included an array of raw materials including samples of bone and charcoal, as well as pigment-producing equipment such as grindstones and hammerstones. Judging by the equipment, which shows signs of wear, Henshilwood and his team were able to deduce the process used to produce the ochre mixture.
+
+First, the pieces of ochre were rubbed on quartzite slabs and crushed to produce a red powder. This was combined with ground-up mammal bone, the traces of which show signs that it was heated before being ground. The ochre powder and the bone pieces were mixed with charcoal, stone chips, quartz grains anda liquid (perhaps water) and was then transferred to abalone shells to be gently stirred before being ready for application.
+
+50
+
+---
+
+## PDF page 52
+
+<!-- source-pdf-page: 52 -->
+
+Reading skills
+
+
+<!-- Start of picture text -->
+3.3 Look at the sentence completion task below. Find words in the<br>passage in 3.2 that are paraphrases of the underlined words.<br>Choose NO MORE THAN THREE WORDS from the passage for each answer.<br>1 Two ingredients used to make paint found in the cave were<br>sinsssenstssssnasisscdetaivanssuvece AVG ccyosoosazecensnsnssnnsscvsscgssnsnassase i<br>2 Two examples of tools used to make the paint that were found in the cave<br>ED sscessscacosiscnicanaaissacs ssseas iA WO esi See ccnannannensacnonengnas<br>3 The Scientists USEd the ...cccccomosneomnmeee. ON the equipment to help work<br>out how the paint was made.<br><!-- End of picture text -->
+
+3.4 Carefully read the text, before and after the words you have found. Then complete Questions 1-3. Flow-chart : and Note completion tasks A flow chart is a diagram that shows the sequence of events ina process. In flow-chart completion questions, the information may not be presented in the same order as in the passage. 3.5 Study the flow-chart completion task below. For Questions 1-6, decide what type of information you need to find. 1 a noun - something colourful that is created by rubbing ochre against quartzite
+
+Test Tip Make sure you read the whole Passage so that you can locate any key words and paraphrases from the questions. Take highlighter pens into the exam with you. Use a different colour for each task, to highlight important parts of the text. This will help save time when checking answers.
+
+#### Choose ONE WORD ONLY from the passage for each answer.
+
+### How pigment was made in ancient times
+
+
+<!-- Start of picture text -->
+Aquartzite COMOUPFUD Foon csssenssininnnnnn Was Created by rubbing the ochre against piecesof<br>Animal DONES WEE 2 .....ccosesmnnnnnsnnennunne ANd then crushed and added to the ochre<br>The bones and ochre were mixed with other solids and the<br>B vcs Was then added researchers believe<br>The mixture Was Poured into 4 ooo then mixed by hand<br><!-- End of picture text -->
+
+
+<!-- Start of picture text -->
+The final mixture was ready to USe for @ither 5... Of Walls or as an early<br>TYP) Of 6 ooeccsssnmnnnn fOr the bod<br><!-- End of picture text -->
+
+51
+
+---
+
+## PDF page 53
+
+<!-- source-pdf-page: 53 -->
+
+OO——————_———_
+
+### Reading skills
+
+- 3.6 Look at the two Reading passages in 1.1 and 3.2. Which words or ideas are paraphrases of the underlined words in the flow chart? Highlight the parts you need to read in detail.
+
+3.7 Carefully read the passages in 1.1 and 3.2 and complete the flow chart. Make sure you use ONE WORD ONLY from the passages. Note completion tasks are similar to flow-chart completion, but may cover a larger part of the Reading passage. Again, the information may not be presented in the same order as the information in the passage. Use the headings in the notes to help you find the information in the passage.
+
+- 3.8 Study the note completion task below. For Questions 1-7, decide what type of information, ‘ you need to find. l a specific; year or the date when digging began Dg: Dep: ke sensei estan eae en susie SaaR AI RAR ANRC RENTS SECRETIONS 5
+
+Test Tip If you are asked to choose ONE WORD ONLY from the passage, make sure you do not add extra information such as adjectives or adverbs (e.g. bere tools; straits, gp stirred) or articles (the ochre). If you write more than one word, your answer will be marked as wrong.
+
+#### Complete the notes below.
+
+Choose NO MORE THAN ONE WORD AND/OR A NUMBER from the
+
+passage.
+
+
+<!-- Start of picture text -->
+Blombos Cave discovery<br><!-- End of picture text -->
+
+|Background|
+|---|
+|*<br>location: South Africa<br>©<br>the date digging began:<br>DT nccseccscssssscsseenecsesseeee|
+|*<br>Previous ancient objects found in this area|
+|Recent findings|
+|*<br>a mixture containing a substance Called $oo... (USEd to provide colour)<br><br>|
+|*<br>equipment|
+|©<br>arange Ofadditional 6wu... INClUding animal bone and charcoal|
+|Conclusion|
+|*<br>inprehistorictimes,humansknewbasic7.......cccccsssscsssseeeeeseseseee|
+
+
+3.9 Read the passages in 1.1 and 3.2 and complete the notes. Use the same techniques you have learned from previous exercises.
+
+52
+
+---
+
+## PDF page 54
+
+<!-- source-pdf-page: 54 -->
+
+Reading skills
+
+### Diagram completion tasks
+
+In labelling a diagram tasks, you will see a diagram anda description of a process. You need to carefully read the part of the passage that describes the process and complete the diagram with words from the passage.
+
+3.10 Look at the diagram. Try to imagine how the hydropower plant would work. Pay attention to how the parts are connected.
+
+Write NO MORE THAN ONE WORD from the text for each answer.
+
+
+<!-- Start of picture text -->
+Reservoir or<br>Dam<br>1 Transformer<br>Birsrh pets deets at SS _—<br>Generator containing gah ens ] : ees -<br>els REET rd 4 iM , e “s = =<br>2 tee — =—<br>Liss eo aR sale Sen ST Mien reat<br><!-- End of picture text -->
+
+53
+
+---
+
+## PDF page 55
+
+<!-- source-pdf-page: 55 -->
+
+- 3.11 Read the passage and underline the words that are already marked on the diagram.
+
+### The power of water
+
+Most hydropower plants rely on a dam that holds back water, creating a large reservoir behind it. Often, this reservoir is used as a recreational lake and is also known as the intake. Gates on the dam open and gravity pulls the water through the penstock, a line of pipe that leads to the turbine. Water builds up pressure as it flows through this pipe. The water strikes and turns the large blades of a turbine, which is attached to a generator above it by way of a shaft. As the turbine blades turn, so do a series of magnets inside the generator producing alternating current (AC) by moving electrons. The transformer, located inside the powerhouse, takes the AC and converts it to higher-voltage current.
+
+- 3.12 Answer Questions 1-5 on the diagram.
+
+- 3.13 Replace the underlined words below with appropriate paraphrases from the text.
+
+   - 1 The dam helps contain the water and produces a reservoir.
+
+   - 2 The water moves through a pipe and increases in pressure.
+
+   - 3 The water rotates the blades of a turbine that is connected to a generator.
+
+   - 4 The transformer changes the AC current into a more powerful one.
+
+54
+
+---
+
+## PDF page 56
+
+<!-- source-pdf-page: 56 -->
+
+percy = ng P = =. _ ff a ] i H|
+
+### 3 Understanding the main ideas
+
+- In this unit you will practise:
+
+- distinguishing main ideas from supporting ideas
+
+- * understanding the main points * identifying information in a Reading passage * matching headings ¢ multiple choice * True / False / Not Given
+
+#### 1 Identifying the main idea
+
+In the IELTS Reading paper, you may be asked to matcha list of headings with the correct paragraph or section of a passage. The headings summarise the main idea of the paragraph or section. The passage may be divided into paragraphs or sections (te. with more than one paragraph in a section). Matching headings questions are always placed before the passage on the question paper.
+
+- 1.1 Read headings i-vii. What topic do all of the headings have in common? Underline the main points in each heading.
+
+   - List of headings i The future of urban planning in America ii Conflicting ideas through the history of urban planning iii Urban planning has a long and varied history iv Financial problems helped spread an urban planning concept v_ The background to one particular planned community vi Political change obstructs progress in urban planning vii An urban plan to reduce traffic
+
+Test Tip Use this mp matching headings. 4 Resa @he headinesso that you ate SCHEER vetiettamen: 2 Skim read the whole passage to get the overall meaning. 3 Read the first paragraph and decide which headings might fit. 4 Re-read the paragraph and choose the heading that best summarises it. 5 Repeat steps 3 and 4 for the remaining paragraphs.
+
+55
+
+---
+
+## PDF page 57
+
+<!-- source-pdf-page: 57 -->
+
+#### Reading skills
+
+### 1.2 Skim read the passage below to get the overall meaning.
+
+### Planned communities: garden cities
+
+##### A
+
+The notion of planning entire communities prior to their construction is an ancient one. In fact, one of the earliest such cities on record is Miletus, Greece, which was built in the 4th century BC. Throughout the Middle Ages and the Renaissance, various planned communities (both theoretical and actual) were conceived. Leonardo da Vinci designed several cities that were never constructed. Following the Great Fire of London in 1666, the architect Christopher Wren created a new master plan for the city, incorporating park land and urban space. Several 18thcentury cities, including Washington D.C., New York City, and St Petersburg, Russia, were built according to comprehensive planning.
+
+###### B
+
+One of the most important planned city concepts, the Garden City Movement, arose in the latter part of the 19th century as a reaction to the pollution and crowding of the Industrial Revolution. In 1898, Ebenezer Howard published the book To-Morrow: A Peaceful Path to Real Reform in which he laid out his ideas concerning the creation of new economically viable towns. Howard believed that these towns should be limited in size and density, and surrounded with a belt of undeveloped land. The idea gained enough attention and financial backing to lead to the creation of Letchworth, in Hertfordshire, England. This was the first such ‘Garden City’. After the First World War, the second town built following Howard's ideas, Welwyn Garden City, was constructed.
+
+##### Cc
+
+In the early 1920s, American architects Clarence Stein and Henry Wright, inspired by Howard's ideas and the success of Letchworth and Welwyn, created the city of Radburn, New Jersey. Conceived as a community which would be safe for children, Radburn was intentionally designed so that the residents would not require automobiles. Several urban planning designs were pioneered at Radburn that would influence later planned communities, including the separation of pedestrians and vehicles, and the use of ‘superblocks’, each of which shared 23 acres of commonly held parkland.
+
+##### D
+
+In America, following the stock market crash of 1929, there was great demand for both affordable housing and employment for workers who had lost their jobs. In direct response to this, in 1935 President Roosevelt created the Resettlement Administration, which brought about a total of three greenbelt towns: Greenbelt, Maryland; Greenhills, Ohio; and Greendale, Wisconsin. These towns contained many of the elements of the Garden City Movement developments, including the use of superblocks and a ‘green belt’ of undeveloped land surrounding the community.
+
+- 1.3 Read Paragraph A and choose the best summary: A Past, present and future examples of urban planning B_ The history of urban planning C Problems associated with urban planning
+
+- 1.4 Create a shortlist of possible answers for Paragraph A. 1 Decide which headings (i-vii) you can confidently say are not connected to the main topic of paragraph A.
+
+- 2 Look at your shortlist again and choose the heading that best summarises the main idea of all of paragraph A.
+
+- 1.5 Read Paragraphs B-D again, and repeat the steps above.
+
+- 1.6 Look again at headings i-vii. For headings i, ii and vi, explain why they don’t match any paragraphs.
+
+Test Tip Don't try to match words in the nesta: eran {Scion the whole idea of each paragraph.
+
+56
+
+---
+
+## PDF page 58
+
+<!-- source-pdf-page: 58 -->
+
+Reading skills
+
+2 Understanding the main points paragraphAnother type of question that can focus on the main point ofa is multiple choice. This type of question often requires you to carefully read more than one sentence in the paragraph.
+
+### 2.1 Look at this question, based on the passage in 1.2.
+
+   - 1 In Paragraph A, what is the main point that the writer makes? A Some urban designs are better in theory than in practice.
+
+      - B The urban-planning concept itself is not restricted to modern times.
+
+      - C Urban planning should be carried out by professionals. D Some planned ancient cities are more successful than modern ones.
+
+- 2.2 The parts of ParagraphA relating to each option are underlined below. Read the paragraph carefully and choose the correct
+
+   - option, A-D.
+
+* The notion of planning entire communities prior to their construction is an ancient one. "In fact, one of the earliest such cities on record is Miletus, Greece, which was built in the 4th century BC. “° Throughout the Middle Ages and the Renaissance, various planned communities (both theoretical and actual) were conceived. “Leonardo da Vinci designed several cities that were never constructed. Following the Great Fire of London in 1666, the architect Christopher Wren created a new master plan for the city that incorporated park land and urban space. “ Several 18th-century cities, including Washington D.C. New York City, and St Petersburg, Russia, were built according to comprehensive planning.
+
+- 2.3 Read the questions below. Underline the parts of the passage
+
+   - that each question relates to. Then read the text in detail and choose the correct letter, A—D.
+
+   - 2 According to the second paragraph, the Garden City Movement
+
+   - A came just before the Industrial Revolution. B_ was held back by a war anda lack of funds. C resulted in cities that were larger than they had been before. D was designed to combat problems caused by modernisation.
+
+   - 3 What was one aim in designing the city of Radburn?
+
+      - A to create something totally different from cities elsewhere. B_ to reduce the danger for families living in the area. C to make sure people could park their cars close to their home. D to increase green spaces by designing houses with gardens.
+
+   - 4 What do the towns of Greenbelt, Greenhills and Greendale all have in common?
+
+      - A The residents were affected by the stock market collapse. B_ The towns were built for the wealthiest people in America. C The towns were each surrounded by natural parkland. D They were all constructed in the same year.
+
+57
+
+---
+
+## PDF page 59
+
+<!-- source-pdf-page: 59 -->
+
+3 Identifying information in a passage Test Tip Tip Remember For True / False / Not Given tasks, you need to look at a list of that you sentences or statements and decide whether they are: tested on ¢ True (the statement agrees with the information; oo.in the text) toinformationinformationunderstandyoutheread ¢ False (the statement is incorrect and does not agree with the in the the information in the text) should ¢ Not Given (you cannot say whether the statement is true or false you already know about because there is no information about this in the text) the topic. 3.1 Skim read this passage to get the general idea of the content. Urban heat In 1818, Luke Howard published The Climate ofLondon Large cities around around the world are adopting adopting in which he identified an emerging problem: urban to combat combat this issue and it is not uncommon uncommon development was having a direct impact on the local plants growing on on top of roofs roofs or down down the weather. The early 1800s was a time of great expansion large buildings. In Singapore, the government for London and ' Howard noticed that temperatures in pledged to transform transform it into a ‘city within ‘city within within a the city were gradually becoming higher than those in and, in 2006, they they held an international rural areas. We now refer to these areas as Urban Heat calling for entries to entries to to develop a master plan Islands. ? The difference in temperature is usually greater bring this about. One outcome was the One outcome was the outcome was the was the the at night and the phenomenon occurs in both winter ‘Supertrees: These These metal constructions are made to and summer. ’ Experts agree that this is due to urban resemble very very tall trees and range in height from 25m development, when open green spaces are replaced to 50m. 50m. Each one one is a a vertical freestanding with asphalt roads and tall brick or concrete buildings. and is home home to exotic plants and ferns. Their Their These materials retain heat generated by the Sun and allowed the designers to create an an release it through the night. In Atlanta, in the US, this rainforest canopy without without having to wait wait for trees to has even led to thunderstorms occurring inthe morning _ reach such heights. They contain They contain contain solar panels used rather than, as is more common, in the afternoon. light the the trees at night and and also containers containers to Officials there are advising builders to use light-coloured _ rainwater, making them truly self-sufficient. roofs in a bid to reduce the problem.
+
+
+<!-- Start of picture text -->
+Test Tip Tip Remember<br>that you are being<br>tested on your ability<br>toinformationinformationunderstandyoutheread<br>in the the passage. So you<br>should ignore anything<br>you already know about<br>the topic.<br><!-- End of picture text -->
+
+Large cities around around the world are adopting adopting strategies to combat combat this issue and it is not uncommon uncommon to find plants growing on on top of roofs roofs or down down the walls of large buildings. In Singapore, the government has pledged to transform transform it into a ‘city within ‘city within within a garden’ and, in 2006, they they held an international competition calling for entries to entries to to develop a master plan to help bring this about. One outcome was the One outcome was the outcome was the was the the creation of 18 ‘Supertrees: These These metal constructions are made to resemble very very tall trees and range in height from 25m to 50m. 50m. Each one one is a a vertical freestanding garden and is home home to exotic plants and ferns. Their Their structure allowed the designers to create an an immediate rainforest canopy without without having to wait wait for trees to _ reach such heights. They contain They contain contain solar panels used to light the the trees at night and and also containers containers to collect
+
+- 3.2 Decide if statements 1-3 are True, False or Not Given according to the underlined parts of the text.
+
+   - 1 Luke Howard invented the term ‘Urban Heat Island’. 2 City temperatures are higher than country temperatures regardless of the season. 3 Experts have failed in their efforts to create heat-reflecting concrete and brick.
+
+- 3.3 Read statements 4-8, then underline the relevant parts in the text. Are the statements True, False or Not Given?
+
+   - 4 Atlanta has experienced more dramatic weather change than other areas of the US. 5 Roofs that are dark in colour help address the issue of Urban Heat Islands. 6 Singapore’s Supertrees are made entirely from natural materials. 7 The designers of the Supertrees originally planned to plant very tall trees. 8 The Supertrees require regular maintenance.
+
+3.4 Read statements 1-8 again and correct any that were false.
+
+58
+
+---
+
+## PDF page 60
+
+<!-- source-pdf-page: 60 -->
+
+### 4 Locating and matching information
+
+- In this unit you will practise:
+
+- identifying types of information
+
+- ¢ locating and matching information
+
+- connecting ideas
+
+- matching sentence endings
+
+- matching information
+
+1 Identifying types of information For matching information tasks, you need to locate an idea or piece of information in the text and match it to a phrase that accurately describes it.
+
+- 1.1 Read the extracts from two separate paragraphs of a Reading
+
+   - passage. What type of information has been underlined?
+
+   - A a description of an animal's habitat
+
+   - B_ the issues that can cause something to happen C anargument for a type of action
+
+A B Meerkats devote a significant part These animals are transient by of their day to foraging for food with —_ nature and move if their food is in their sensitive noses. When they find short supply or if they're forced out it, they eat on the spot. Primarily, by a stronger gang. The group’s meerkats are insectivores, which dominant male, the alpha male, marks means their diet is mainly made up the group's territory to protect the of insects. boundary from rivals and predators.
+
+1.2 Look at this matching information task based on the extracts above.
+
+
+<!-- Start of picture text -->
+>.<br>ard<br>#3<br>yo<br>P f = ae |<br>yee<br><!-- End of picture text -->
+
+Which paragraph contains the following information?
+
+- 1 two situations that force meerkats to change where they live 2 how meerkats generally spend their time
+
+- 1 For this type of question, do you need to look for individual words or a whole idea?
+
+- 2 Question | matches the information underlined in the paragraph above, so the answer is B. Underline the part of paragraph A that matches the information in Question 2.
+
+59
+
+---
+
+## PDF page 61
+
+<!-- source-pdf-page: 61 -->
+
+Reading skills
+
+### These questions describe the information you need to find.
+
+- 1.3 Look at extracts A-H from different Reading passages and match them to the type of information that best describes them.
+
+   - A Water is forced B_ The water is C Our study looked D We achieved this at pressure warm thanks at the surrounding by weighing the through a narrow to a natural hot environment animals both pipe. The water spring beneath while previous before and after hits the top of the riverbed. researchers have periods of exercise. the water wheel, concentrated on causing it to turn. diet.
+
+   - E They live in dark, F Amonth later, we G After ten years, H_ It takes 35 days for humid areas were able to test they gave up. The the chick to leave and so tend to it again and the experiment had the nest and fly. be found in and results showed a failed and, as a result, around tropical significant change in the public grew rainforests. temperature when the angry at the waste insulation was used. of public funds.
+
+Types of information
+
+- 1 the findings of a study 2 the method used in a research study 3 the reaction to something 4 adescription of a habitat 5 the difference between current and past studies 6 a description of how something works 7 the cause of something 8 the amount of time needed for something
+
+2 Locating and matching information Just like matching headings, matching information questions are not in the same order as the passage.
+
+- Study Tip Some examples of the type of information you may be asked to find are: ¢ anumber ® acause ¢ afinding ° adate e an effect ® an account ° a measurement ® aconclusion * areaction ® areason e the problems e a description. When you are reading different passages in this book, think about whether the information matches any of these types.
+
+60
+
+---
+
+## PDF page 62
+
+<!-- source-pdf-page: 62 -->
+
+<!-- Start of picture text -->
+EESSSSS<br>Reading skills<br>2.1 Spend two minutes skim reading the passage below, so that you are<br>familiar with the type of information it contains.<br><!-- End of picture text -->
+
+- What is the main purpose of the passage? A to describe the habitat and eating habits of one specific animal B_ to explain the background to a proposed study into tropical animals C to argue that scientists can learn a great deal from studying nature D to give the findings of new research into an animal's behaviour
+
+- How geckos cope withe wet feet A Geckos are remarkable little lizards, clinging to almost any dry surface, and Alyssa Stark, from the University of Akron, US, explains that they appear to be equally happy scampering through tropical rainforest canopies as they are in urban settings. ’A lot of gecko studies D Next, the trio sprayed the glass plate with a mist of look at the very small adhesive structures on their water and re-tested the lizards, but this time the toes to understand how the system works at the most animals had problems holding tight. The droplets basic level, says Stark. She adds that the animals grip were interfering with the lizards’ attachment surfaces with microscopic hairs on the soles of their mechanism, but it wasn’t clear how. And when feet, which make close enough contact to be attracted the team immersed the geckos in a bath of room-
+
+- B to the surface by the minute forces between atoms. temperature water with a smooth glass bottom, However, she and her colleagues Timothy Sullivan the animals were completely unable to anchor and Peter Niewiarowski were curious about how themselves to the smooth surface. ‘The toes are the lizards cope on surfaces in their natural habitat. super-hydrophobic; (i.e. water repellent) explains Explaining that previous studies had focused on Stark, who could see a silvery bubbleofair around the reptiles clinging to artificial dry surfaces, Stark their toes. But, they were unable to displace the says ‘We know they are in tropical environments water around their feet to make the tight contact that probably have a lot of rain and geckos don’t that usually keeps the geckos in place. suddenly fall out of the trees when it’s wet: Yet, the E Then the team tested the lizard’s adhesive forces on animals do seem to have trouble getting a grip on the dry surface when their feet had been soaking smooth, wet, artificial surfaces, sliding down wet for 90 minutes, and found that the lizards could vertical glass after several steps. The team decided barely hold on, detaching when they were pulled to find out how geckos with wet feet cope on both with a force roughly equalling their own weight. wet and dry surfaces. ‘That might be the sliding behaviour that we see
+
+- C First, they had to find out how well their geckos when the geckos climb vertically up misted glass’, clung onto glass with dry feet. Fitting a tiny harness says Stark. So, geckos climbing on wet surfaces with around the lizard’s pelvis and gently lowering damp feet are constantly on the verge of slipping the animal onto a plate of smooth glass, Stark and Stark adds that when the soggy lizards were and Sullivan allowed the animal to become well faced with the misted and immersed horizontal attached before connecting the harness to a tiny surfaces, they slipped as soon as the rig started motor and gently pulling the lizard until it came pulling. Therefore geckos can walk on wet surfaces, unstuck. The geckos hung on tenaciously, and only as long as their feet are reasonably dry. However, came unstuck at forces of around 20N - about 20 as soon as their feet get wet, they are barely able to times their own body weight. ‘In my view, the gecko hang on, and the team is keen to understand how attachment system is over-designed; says Stark. long it takes geckos to recover from a drenching.
+
+61
+
+---
+
+## PDF page 63
+
+<!-- source-pdf-page: 63 -->
+
+<!-- Start of picture text -->
+» Reading skills<br><!-- End of picture text -->
+
+2.2 Look at this task based on the Reading passage. For each question, underline the type of information you need to scan for. The first two have been done for you.
+
+Which paragraph contains the following information?
+
+- N.B. You may use any letter more than once
+
+Write the correct letter, A-E, next to questions 1—7 below.
+
+      1. visual evidence of the gecko's ability to resist water 2 a question that is yet to be answered by the researchers 3 the method used to calculate the gripping power of geckos
+
+      - 4 the researcher's opinion of the gecko's gripping ability 5 amention of the different environments where geckos can be found 6 the contrast between Stark's research and the work of other researchers 7 the definition of a scientific term
+
+- 2.3 It is important to fully understand what you are looking for in the passage. Answer these questions, based on Question 1 in the task above.
+
+   - 1 Which of the following do you think is ‘visual evidence’?
+
+      - A something the researchers believe B_ something the researchers have seen
+
+      - C something the researchers have read about
+
+- 2 Which of the following means the same as ‘ability to resist Test Tip Make sure water’? to note any plurals A_ soaks up water in the questions (e.g. B_ sinks in water two examples of / the C_ stops water getting in different environments,
+
+- 3 Scan the passage to find. ‘visual. evidence’: of an abilityae to resist. etc).of neTherememay aebe parts water. Which paragraph contains this information? sss refer to only one of the
+
+- 2.4 things mentioned, so Study Questions 2-7 in 2.2 carefully and match them to you need to find the paragraphs A-E. Remember, the questions are not in the same paragraph that has order as the passage. This is because your task is to find out more than one. . where the information is. -
+
+- 2.5 Look again at Questions 2-7 and underline the parts of the passage that gave you your answer.
+
+62
+
+---
+
+## PDF page 64
+
+<!-- source-pdf-page: 64 -->
+
+3 How ideas are connected Another type of question that requires you to match information is matching sentence endings. For this type of task, you need to understand how ideas are connected within the Reading passage.
+
+- 3.1 Complete each sentence below with the correct ending, A-F, 1 When I pressed the switch, 2 If you heat ice,
+
+   - 3 The respondents to the survey 4 Children who attend small schools 5 Parents with overactive children
+
+   - A all came from similar economic backgrounds. B_ tend to need more sleep at night. C the light came on. D reported that she has been successful. E generally get more individual attention. F it melts.
+
+You were able to complete this task using only logic and your knowledge of grammar. In the IELTS Reading paper, you can do this to confirm or check your answers, but you will not be able to answer the questions without reading the passage.
+
+- 3.2 Look at these matching sentence endings questions based on the passage in 2.1. Try using these techniques to answer the questions.
+
+   - 1 Scan the passage in 2.1 to locate the information in the sentence beginnings (1-4).
+
+   - 2 Read the relevant part of the passage carefully, then choose the best sentence ending (A-F).
+
+   - 1 Other researchers have aimed to discover how
+
+   - 2 The work of Stark and her team is different because they wanted to find out how
+
+   - 3 Stark’s experiments revealed that
+
+   - 4 The researchers would still like to know when
+
+   - A geckos struggle to grip onto dry glass as well as wet glass.
+
+   - B_ the gripping mechanism of geckos actually works.
+
+   - C geckos have a weaker gripping mechanism than previously thought. D geckos are able to grip in rainforest settings.
+
+   - E geckos are able to recover their gripping abilities after getting wet. F geckos can grip more easily if their feet are not damp.
+
+63
+
+---
+
+## PDF page 65
+
+<!-- source-pdf-page: 65 -->
+
+||
+
+| |
+
+|
+
+### 5 Discursive. . passages
+
+In this unit you will practise:
+
+- reading discursive passages
+
+- e identifying theories and opinions
+
+- matching features
+
+#### 1 Discursive passages
+
+The texts in the Reading paper gradually become more difficult. They may present contrasting points in an argument or explain a complex theory. All Reading passages contain cohesive devices to help explain how the ideas are connected together.
+
+|
+
+|
+
+- 1.1 Write the cohesive devices in the box into the correct column of the table to show why a writer would use them.
+
+
+<!-- Start of picture text -->
+prereover such as although for instance<br>indeed therefore despite consequently<br>in spite of in addition thus as a result<br>similarly to illustrate this nonetheless in fact<br>whilst hence furthermore though<br>to add more / to show contrast / to give an example to draw a conclusion /<br>clarify a point present the opposite introduce a result<br>view<br><!-- End of picture text -->
+
+
+<!-- Start of picture text -->
+|<br><!-- End of picture text -->
+
+64
+
+---
+
+## PDF page 66
+
+<!-- source-pdf-page: 66 -->
+
+Reading skills
+
+1.2 Skim read the passage below. Find nine of the cohesive devices from the table in 1.1.
+
+Aesop’s fable ‘The crow and the pitcher’ more fact than fiction New research indicates that rooks, members of the crow family, are able to solve complex problems using tools. In Aesop's fictional fable ‘The crow and the pitcher’, a thirsty crow uses stones to raise the level of water in a jug to quench its ee thirst. A recent study demonstrates that tate a rooks, birds belonging to the corvid (or crow) — family, are in fact able to solve complex bis problems using tools and can easily master —) the same technique used in the story. or Christopher Bird of the University of Cambimpo **r** idge,tance whoof the ledfinding the **s** tudy,, statinhi **g** :hlighted‘Corvids the | —— 7; are remarkably intelligent, and in many a ways rival the great apes in their physical In the second experiment, the rooks were intelligence and ability to solve problems. The presented with stones that varied in size ory raed scdidhisadenidg to complete @ similar Here, the rooks selected larger stones over i = ihe ok itis S remarkable smaller ones (though they didn't do this considering their brain 's so different to the straight away). The scientists speculate that Greet Ses, Although it has been speculated the birds quickly realised that the larger si folidore, ipla re needed 2 stones displaced more water, and they were examine the extent of their intelligence and thus able to obtain the reward more quickly how they solve problems. than by using small stones. In their first experiment, the researchers According to the team, in the final varied the height of the water in a tube experiment, the rooks recognisad thet andof thetheresearch,four rooks,usedwhichstones wereto theraisesubjectthe scimrices sould not be manipulated in the water level to reach a worm floating on same manner as water.. Therefore. ‘ when top. The clever birds proved very se and arellew aha choice between a tube were alf-filled with either sawdust or water, rooks highly successful, regardiess of the dropped the pebbles into the tube containing starting level of the water or the number of water and not the sawdust the stones needed. Two of the birds were ‘ successful on their first attempt in raising Despite the fact that the study clearly the water to the correct height whilst the demonstrates the flexible nature of tool use other two birds needed a second try. in rooks, they are not believed to use tools i eIBOn Bethe epenelwittewiicthey a oni amcvetione enero Bard completed the task, the birds ae also ‘Rooks do not use tools in the wild because highly accurate in their ability, adding the they do not need to, not because they can't. exact number of stones needed to reach the They have access to other food that:can worm. Furthermore, rather than attempting be acquired without using tools.’ As Bird to reach the worm after each ican noted, that fits nicely with Aesop's maxim, dropped in, they apparently estimated the demonstrated by the crow: ‘Necessity is the number needed from the outset, and waited ; boy ; mother of invention. until the appropriate water level was reached before dipping their beaks into the tube. 65
+
+---
+
+## PDF page 67
+
+<!-- source-pdf-page: 67 -->
+
+ee eCCCCC(;’COt#(Ct(Ot#NN(NN##(#é#éw4w..gggeeeow
+
+### lll
+
+##### Reading skills
+
+- 1.3 Read the passage again and complete sentences 1-6 with endings A-H.
+
+   - 1 Anew study has actually 2 The intelligence of birds has been suggested in stories, but 3 Half of the birds in the experiment were immediately . f successful; however,
+
+   - 4 The birds promptly realised the advantage of using big stones, and so
+
+   - 5 The research showed rooks can use tools with ease, though 6 The rooks worked out the properties of different materials and asa result,
+
+      - A others needed several attempts. B_ experts think that they don’t do this in their natural habitat. C they achieved their goal sooner. D confirmeda fictional account. E helped us to understand a mysterious event. F only scientific studies can prove this. G_ they were able to protect themselves. H_ consistently rejected one particular type.
+
+> Study Tip There are several ways of linking ideas in a text. Look at the following examples: oo, a the findings; This is remarkable ...; Here, the rooks ... . Remember, it is important to study all aspects of language when preparing for the IELTS exam. As you read through longer, complex passages, try to/be aware of how the ideas are connected. This can also help improve your writing.
+
+- 1.4 Find synonyms in the passage for the cohesive devices that are underlined in questions 1-6.
+
+#### 2 Identifying theories and opinions
+
+Many academic texts contain the theories or views of different people or experts. Direct quotations are easily recognised by quotation marks, but a person’s views or ideas can also be referred to indirectly. In this extract from the Reading passage. the verbs highlighted and stated are both used to draw attention to the words of Christopher Bird. ee Bird of the Univ ersity of Cambridge, who led the study, highlig ited the importance of the findings, stating: ‘Corvids are remarkably intelligent, and in many ways rival the great apes in their physical intelligence and ability to solve problems,’ Bird’s views could also be expressed indirectly.
+
+2.1 Which verb in this sentence tells us that this is Bird’s view and not the writer’s? Christopher Bird of the Univ ersity of Cambridge, who led the study, believes that Corvids are remarkably intelligent, and in many ways rival the great apes in their physical intelligence and ability to solve problems.
+
+66
+
+---
+
+## PDF page 68
+
+<!-- source-pdf-page: 68 -->
+
+Reading skills ©
+
+- 2.2 Find three more verbs and one preposition in the passage that refer to the views or theories of an expert.
+
+- 2.3 Statements A-F paraphrase opinions or theories that appear in the Reading passage. Match them to the same idea in the passage, then put them in the order they appear.
+
+   - A We imagine that the rooks were soon able to appreciate the advantage of using different-sized tools.
+
+   - B_ Tooij use in rooks demonstrates a common English saying. C_ Using tools in their natural habitat is simply not necessary for rooks.
+
+   - D_ Rooks are as intelligent as the most intelligent of animals.
+
+   - E_ In their natural setting, rooks can obtain food without using tools.
+
+   - F The ability of rooks is surprising, given the lack of similarities between the brains of birds and mammals.
+
+* Study Tip Look online or find out if your local library has copies of international newspapers and magazines. Read the Education, Health or Science sections of newspapers such as The Times, The Guardian, The Australian, The New Zealand Herald, The New Yorker and The
+
+Washington Post for reports on academic studies.
+
+### 3 Matching features
+
+Matching features tasks are used with Reading passages that contain theories or comments about different people, places, years and things.
+
+For these tasks, the different options are listed in a box and you need to match them to the questions (sentences that paraphrase the information in the passage). The questions will not be in the same order as the passage.
+
+For some questions, you may need to match a person to a study or an action, rather than a theory or opinion.
+
+67
+
+---
+
+## PDF page 69
+
+<!-- source-pdf-page: 69 -->
+
+#### Reading skills
+
+- 3.1 Scan the passage on the following page for these names and highlight them each time they appear. e Page | ¢ Lieberman ¢ Gray
+
+- 3.2 Look at the following statements (Questions 1-5) and the list of researchers below. Match each statement with the correct researcher, A, B or C.
+
+##### Researchers
+
+- A Pagel B Lieberman C Gray
+
+- 1 We are able to recognise certain words used by people in other cultures.
+
+- 2 Regardless of what happens in the world, there appear to be fixed rules that govern the way words alter over time.
+
+- 3 Words that don’t follow a standard pattern will remain that way if they are used often.
+
+- 4 Certain words have kept a similar sound across many years and many countries.
+
+- 5 We focused on the historical changes that have occurred in one particular language.
+
+### 3.3 Put Questions 1-5 in the order they appear in the passage.
+
+- 3.4 Remember that some of the questions are based on comments made about the researchers. 1 For which question in 3.2 did you need to match a person to the study that they carried out?
+
+- 2 Which verbs in the text are used to show that a person other than the writer expressed a particular theory or idea?
+
+- 3.5 For further practice in matching sentence endings, complete sentences 1-3 with endings A-E. 1 Fora long time, language experts have asked why 2 The English verb ‘help’ proves that 3 While cultures vary a great deal around the world,
+
+Test Tip For matching features tasks, the questions will not be in the same order as in the aaialeni The:people penance a Speen in several different sections. You need to scan the whole passage carefully. Some of the people in the list may be distractors, and you ee NOL ned taluse all ope eHers.
+
+- A regular and irregular verbs change at different rates. B_ there are surprising similarities in the way different languages evolve.
+
+- C_ eventually, some irregular verbs become regular.
+
+- D some words stay the same over hundreds of years while others change quite quickly.
+
+- E some verbs gradually become irregular over time.
+
+68
+
+---
+
+## PDF page 70
+
+<!-- source-pdf-page: 70 -->
+
+In a finding that parallels the evolution of genes, researchers have shown that the more frequently a word is used, the less likely it is to change over long periods of time.
+
+The question of why some words evolve rapidly through time while others are preserved - often with the same meaning in multiple languages - has long plagued linguists. Two independent teams of researchers have tackled this question from different angles, each arriving at a remarkably similar conclusion.
+
+“The frequency with which specific words are used in everyday language exerts a general and law-like influence on their rates of evolution,” writes Mark Pagel, author of one of two studies published this week.
+
+Anyone who has tried to learn English will have been struck by its excess of stubbornly irregular verbs, which render grammatical rules unreliable. The past tense of regular verbs is formed by adding the suffix ‘-ed’, but this luxury is not afforded to their irregular kin. Over time, however, some irregular verbs ‘regularise’. For instance, the past tense of ‘help’ used to be ‘holp’, but now it is ‘helped’.
+
+Mathematician Erez Lieberman, from Harvard University in Massachusetts, US, performed a quantitative study of the rate at which English verbs such as ‘help’ have become more regular with time. Of the list of 177 irregular verbs they took from Old English, only 98 are still irregular today. Amazingly, the changes they observed obey a very precise mathematical description: the half-life of an irregular verb is proportional to the square root of its frequency. In other words, they found that the more an irregular verb is used, the longer it will remain irregular.
+
+A separate group of academics, led by evolutionary biologist Mark Pagel from the University of Reading, in the UK, used a statistical modelling technique to study the evolution of words from 87 different Indo-European languages. “Throughout its 8,000-year history, all Indo-European-language speakers have used a related sound to communicate the idea of ‘two’ objects - duo, due, deux, dos, etc.” Pagel commented. “But,” he adds, ‘’there are many different and unrelated sounds for the idea of, for example, a bird - uccello, oiseau, pouli, pajaro, vogel, etc.”
+
+Before now, however, nobody had proposed a mechanism for why some words should evolve more quickly than others. According to Pagel, “our research helps us to understand why we can still understand bits of Chaucer [a medieval poet]” and points out that this likely explains “why we can instinctively recognise words in other Indo-European languages, just from their sounds”.
+
+Psychologist and language expert Russell Gray, from the University of Auckland in New Zealand, was impressed by both findings.
+
+“Despite all the vagaries and contingencies of human history, it seems that there are remarkable regularities in the processes of language change,” he commented.
+
+69
+
+---
+
+## PDF page 71
+
+<!-- source-pdf-page: 71 -->
+
+:
+
+——_—— _ ° s =e |! wl Peas ys
+
+ya a _ ' fi - ie -
+
+ws OO
+
+
+<!-- Start of picture text -->
+;<br><!-- End of picture text -->
+
+
+<!-- Start of picture text -->
+:<br><!-- End of picture text -->
+
+. ae=" = = =
+
+### 6 Multiple-choice questions
+
+In this unit you will practise:
+
+- understanding longer pieces of text
+
+- ° different types of multiple-choice questions
+
+- answering multiple-choice questions
+
+- identifying a writer’s purpose
+
+1 Understanding longer pieces of text To answer multiple choice questions, you often need to carefully read two or more connected sentences or several connected sentences.
+
+- 1.1 Look at this extract from an IELTS Reading passage. Read it quickly to find out the main points and then re-read it more carefully to get a more detailed understanding.
+
+Linguists agree that language is needed during reading, but at which stage language becomes a necessity has come under debate. Past research has shown that animals have the ability to discriminate letters from one another, but previously, experts thought the ability to recognise written words was dependent on an ability to understand language. Findings recently published in the journal Science challenge this long-held notion, showing that despite having no linguistic skills, monkeys are able to tell the difference between sequences of letters that form real English words, and those that do not.
+
+1.2 Without looking back at the extract, try to explain what it is about, in your own words.
+
+Some multiple-choice questions begin with a direct question and then have four possible answers. Some begin with an incomplete sentence and then have four possible endings.
+
+1.3 Look at the question below and choose the best answer, A-D.
+
+- 1 According to the paragraph, what point do linguists have different views on?
+
+   - A animals are intelligent enough to learn how to read B_ our ability to read words is linked to our writing ability C_ when our language ability begins to affect reading ability D_ when early humans developed the ability to read and write
+
+70
+
+---
+
+## PDF page 72
+
+<!-- source-pdf-page: 72 -->
+
+Reading skills
+
+#### 2 Different types of multiple choice
+
+Sometimes you may be asked to choose two correct answers from five options. You will need to read and consider even more text.
+
+- 2.1 Spend 45 seconds skim reading this Reading passage to find out
+
+the main points.
+
+### What do hurricanes mean for dolphins?
+
+Hurricanes are typically associated with loss of life, loss of property and economic devastation. Hurricane Katrina, which blew through the gulf coast of North America in 2005, brought all those things and more. It also brought lots of baby dolphins. Hurricanes tend to be related to increased strandings of marine mammals, so why might a hurricane be associated with more dolphins, rather than fewer?
+
+Scientist Lance J. Miller reasoned that there were probably several related phenomena that, combined, could explain the apparent increase. Firstly, after a female dolphin loses her calf, she can give birth again much sooner than if her calf had matured to adulthood. “If a large number of calves perished as a result of Hurricane Katrina, this would allow for a greater percentage of females to become reproductively active the following year.” By itself, this didn’t seem to adequately explain the increase in dolphin calves. Something else was going on. That something was distinctively human.
+
+When Hurricane Katrina blew through the gulf, the local shrimping, crabbing and fishing industries were ravaged. In Mississippi, according to one estimate, 87% of commercial fishing vessels were damaged or destroyed. This meant a decrease in the amount of seafood brought into shore, of nearly 15%. Despite the common notion that dolphins enjoy playing in the wakes created by boats, there is plenty of evidence that dolphins actually avoid them. Miller deduced that, with a reduction in the number of boats in the water, both commercial and recreational, dolphins may have been able to spend more time eating, and less time travelling or diving in an effort to avoid boats.
+
+- 2.2 Look at this task. What information do you need to find in the passage?
+
+Which TWO possible issues did Miller believe may have caused the rise in dolphin numbers?
+
+   - A More female dolphins survived the hurricane than males. B Female dolphins were able to breed earlier than usual. C The dolphins had access to greater numbers of shrimp and fish. D There was a decrease in the number of dolphins being caught for sport or food. E The dolphins had less contact with humans after the hurricane.
+
+- 2.3 Read the passage again and highlight the parts that introduce the idea of a first and second issue. Read the options A-E in 2.2 carefully and decide which two options are correct.
+
+71
+
+---
+
+## PDF page 73
+
+<!-- source-pdf-page: 73 -->
+
+3 Identifying a writer's purpose Sometimes, multiple-choice questions ask you to consider the writer’s
+
+purpose or aim. You may be asked to identify:
+
+- ¢ why the writer made a particular reference ¢ what the purposeof a part of the text is
+
+¢ the opinion or attitude of the writer.
+
+### 3.1 Look at this extract froma Reading passage to get the main idea and then re-read it more carefully to understand it in detail.
+
+One of the reasons Jurassic Park was so successful — as a novel and a blockbuster film — is that it presented a plausible way to bring dinosaurs back to life. The idea that viable dinosaur DNA might be retrieved from bloodsucking prehistoric insects seemed like a project that could actually succeed. Even though the actual methodology is hopelessly awed and would never work, the premise was science-ish enough to let us suspend our disbeliefand revel in the return of<sup>thedinosaurs.</sup>
+
+3.2 Read these questions and consider how you would answer them.
+
+- 1 What is the writer’s purpose in this paragraph? 2 What is the writer’s opinion of Jurassic Park?
+
+To answer these questions, you need to consider more than the surface meaning of the words in the Reading passage. You need to consider the writer’s tone or attitude.
+
+- 3.3 Scan the extract in 3.1 and find the following words or phrases: blockbuster, hopelesslyflawed, revel in. Do they suggest a positive or a negative tone?
+
+- 3.4 Answer the questions by choosing the correct letter (A, B, C or D).
+
+   - 1 What is the writer’s purpose in this paragraph?
+
+      - A to suggest that scientists should look to science fiction for inspiration
+
+      - B_ to argue that people may choose to believe the improbable in order to be entertained
+
+      - C to persuade us that art and science can be skilfully linked D to demonstrate that scientific research can provide a source of entertainment
+
+   - 2 What is the writer’s opinion of Jurassic Park?
+
+      - A the film was not a faithful rendition of the original book B_ it shows how important thorough research is for successful writers
+
+      - C_ in spite of its inaccuracies, it was a successful novel and film D itis a good example of the importance of science fact in science fiction novels
+
+72
+
+---
+
+## PDF page 74
+
+<!-- source-pdf-page: 74 -->
+
+=
+
+z oy
+
+ral
+
+
+<!-- Start of picture text -->
+_=<br><!-- End of picture text -->
+
+### 7 Opinions. . and attitudes. a
+
+In this unit you will practise:
+
+- ¢ dealing with argumentative texts
+
+- e identifying a writer's views/claims
+
+- ¢ identifying grammatical features
+
+- Yes/No/ Not Given questions
+
+- summary completion with a box
+
+- summary completion without a box
+
+#### 1 Argumentative texts
+
+The most difficult and complex texts are in Reading Section 3. These passages may feature arguments for or against a specific idea or theory. Or, they may present a discussion ofdifferent arguments. In texts like this, it is important to be aware of the writer’s overall tone. A writer’s choice of words often indicates their attitude towards a topic.
+
+1.1 Put the adjectives into the correct column, to show whether they suggest a positive or negative tone.
+
+
+<!-- Start of picture text -->
+diverse disastrous unspoilt biased<br>accomplished vulnerable productive realistic<br>confusing irrelevant sophisticated harsh<br>catastrophic efficient monotonous distorted<br>thorough influential prominent dated<br><!-- End of picture text -->
+
+73
+
+---
+
+## PDF page 75
+
+<!-- source-pdf-page: 75 -->
+
+##### » Reading skills
+
+#### 1.2 Spend two minutes skim reading the following passage to get
+
+the main ideas. Then read it again and underline any adjectives that you think might indicate a personal opinion or attitude.
+
+### Living with Mies
+
+Lafayette Park is a group ofmodernist townhouses in the US designed by the architect Mies van der Rohe.
+
+A few blocks east of downtown Detroit sits Lafayette Park, an enclave of single- and two-storey modernist townhouses set amid a forest of locust trees. Like hundreds of developments nationwide, they were the result of postwar urban renewal; unlike almost all of them, it had a trio of world-class designers behind it: Ludwig Hilbersheimer as urban planner; Alfred Caldwell as landscape designer; and Mies van der Rohe as architect.
+
+The townhouses were built between 1958 and 1962 on land previously occupied by a working-class neighbourhood. While much of Detroit began a steep decline soon after, Lafayette Park stayed afloat, its residents bucking the trend of suburban flight. Lafayette Park today is one of the most racially integrated neighbourhoods in the city. It is economically stable, despite the fact that Detroit has suffered enormous population loss.
+
+We wanted to know what residents think about this unique modernist environment created by a famous architect, and how they confront and adapt it to meet their needs. During our research, we were struck by the casual attitude that many residents have toward the architecture. Then again, Detroit has an abundance of beautiful housing options: one can live in a huge Victorian mansion, a beautiful arts and crafts house or a cavernous loft-conversion space in a former factory. Living in a townhouse built by a renowned architect isn’t as noteworthy as one might think. At the same time, such nonchalance is a mark of success: the homes are great because they work, not because they come affixed with a famous name.
+
+Indeed, their beauty isn’t always obvious. There is a kind of austere uniformity to the Lafayette Park townhouses when viewed from the outside. Some visitors find them unappealing; one contractor described them as ‘bunkers’. The interior layouts are nearly identical. The units are compact in size and some people find them too small, though the floor-to-ceiling windows on the front and back of each building open the living spaces to the outside.
+
+While they may have strong aesthetic preferences, the residents we spoke with do not necessarily favour mid-century modernism in their interiors or architecture. But they make it work: several people remarked on the way the interiors in the Lafayette Park townhouses can function as blank canvases for a variety of decorating styles. Indeed, the best design doesn’t force a personality on its residents. Instead, it helps them bring out their own.
+
+74
+
+---
+
+## PDF page 76
+
+<!-- source-pdf-page: 76 -->
+
+Reading skills
+
+### 2 Identifying the writer's views/claims
+
+In Yes / No / Not Given tasks, you will be asked whether the statements in the questions match the views or claims of the writer. A view is a personal opinion. A claim is a statement made by the writer and presented asa fact.
+
+- 2.1 Look at these extracts and decide whether you think they are views or claims.
+
+   - 1 Like hundreds of developments nationwide, they were the result of post-war urban renewal.
+
+   - 2 While much of Detroit began a steep decline soon after, Lafayette Park stayed afloat.
+
+   - 3 Detroit has an abundance of beautiful housing options. 4 There is a kind of austere uniformity to the Lafayette Park townhouses when viewed from the outside.
+
+   - 5 Indeed, the best design doesn’t force a personality on its residents.
+
+There are a lot of similarities between True / False / Not Given questions and Yes / No / Not Given questions. But the main difference is that True / False / Not Given questions are based on factual information in the Reading passage. Yes / No / Not Given questions ask you to interpret the views or claims of the writer.
+
+#### 2.2 Look at the statements below and write
+
+YES if the statement agrees with the views or claims in the Reading passage,
+
+NO if the statement contradicts the views of the writer, NOT GIVENit it is impossible to say what the writer thinks.
+
+- 1 It is the era in which Lafayette Park was developed that makes it special.
+
+- 2 Since 1962, many people have moved away from Detroit. 3 Mies van der Rohe’s designs influenced other architects in Detroit.
+
+- 4 The exterior of each building in Lafayette Park has a distinct style.
+
+- Good architecture allows its occupants to reveal their identity.
+
+#### 2.3 For each question in 2.2, if you wrote
+
+YES — give supporting evidence from the passage
+
+NO — correct the statements so that they match the views of the writer
+
+NOT GIVEN - say what you do know from the passage and say which part of the passage gave you your answer.
+
+75
+
+---
+
+## PDF page 77
+
+<!-- source-pdf-page: 77 -->
+
+### ttt. Reading skills
+
+
+<!-- Start of picture text -->
+3 Identifying grammatical features<br>There are two types of summary completion tasks: one with a box of<br>possible answers, and one without a box, where you need to choose<br>word/s from the passage to complete the summary.<br>With a box of possible answers, the options may be actual words from<br>the passage, or synonyms of words in the passage.<br>3.1 Look at the box of possible answers (A-F) and decide what type<br>of word each one is (noun, verb, etc.). There may be more than<br>one possible answer.<br>SS<br>A settled<br>B adapt<br>C neutral<br>D poor<br>E afford<br>F strongly |<br>3.2 Read the summary below and decide what type of word (noun,<br>verb, etc.) you need for gaps 1-4.<br>.<br>The residents of Lafayette Park<br><!-- End of picture text -->
+
+Lafayette Park was originally QUite 2.1 occ GCA of Detroit. Nowadays, the area is unusual because its residents AVE MOLE 2 oon. cccsssesssssmsssssssseesnee than those in other areas of the city. In general, the residents of Lafayette Park feel quite B oooccsssssssssssssenmnsereeensneneeee ADOUt the famous architecture they live in. But the residents do appreciate the fact that they can 4 ooocccssussssmsneeensene the townhouses and make them their own.
+
+feat Tie Asummnary is different from a set of notes, because it consists of complete ene CORTES. ie grammatically. You need to * carefully read and understand the summary. e decide what type of word is needed to complete each gap in the summary. e locate and carefully read the relevant part of the passage. ° oe sinter kon P a box of answers or fromthat theaccurately passage)fills each gap. ;
+
+- 3.3 Read the relevant part of the passage in 1.2 and complete the summary using the list of words (A-F) in 3.1.
+
+76
+
+---
+
+## PDF page 78
+
+<!-- source-pdf-page: 78 -->
+
+For summary completion tasks without a box of answers Test Tip Use the title ¢ consider the grammatical features of the summary. of the summary to help ¢ choose words from the text that accurately complete you find the part of the the summary. passage you need to read in detail to find Skim read this passage passage to understand the main points. OE BEOVENS:
+
+3.4 Skim read this passage passage to understand the main points.
+
+### Meerkat study
+
+Dr Alex Thornton from the University of Cambridge recently led a study into meerkat society. Meerkats are highly social mongooses that live in large social groups and take turns foraging for food and standing guard to look out for predators. Research has shown that the animals have their own traditions within their group. For example, while members of one meerkat troop will consistently rise very early, those of another will emerge from their burrows much later in the morning.
+
+In an attempt to assess whether meerkats simply copy these behavior patterns or are taught them, Thornton and his team travelled to the Kalahari Desert and set a series of tests for a group in the wild. One test involved putting a scorpion (the meerkats’ favourite food) into a transparent container. The meerkats had to work out how to open the opaque lid of the container in order to reach the scorpion inside. The tests showed that the more subordinate juvenile members of meerkat troops are the most innovative when it comes to foraging - these low-ranking males were best at solving problems and obtaining the treat. However, Dr Thornton conceded that the meerkats didn't ever appear to work out that it was the opaque surface of the box that they should attack in preference to the transparent ones. So, this may simply be evidence of persistence rather than actual intelligence.
+
+#### 3.5 Look at this summary completion task.
+
+- 1 What types of word will you need to fill in the gaps in the summary?
+
+A recent study at Cambridge University discovered that different meerkat groups
+
+WV voocsssusssutusun at different times of the day. This demonstrates that each group has distinct customs. They also learned that young, Male Meerkats WErE MOTE 2 o.com than other members of their social groups when it came to problem solving. The researchers conducted an experiment where the meerkats had to try to open a container. If they did, they Were FeWarded With A 3 ooccmcsmmsnmennnnnnrnnee However, they also found that the meerkats never learned that it WaS the 4 oo... Part of the container that they needed to open.
+
+- 3.6 Read the text in 3.5 carefully and choose ONE WORD ONLY from the text to complete each answer in the summary.
+
+Test Tip For any questions where you need to write words from the passage, a hyphenated word (e.g. long-term) counts as one word.
+
+fFf
+
+---
+
+## PDF page 79
+
+<!-- source-pdf-page: 79 -->
+
+Faun vo| alemn~’d4
+
+{| Je oa
+
+eee
+
+=
+
+### 8 General Training Reading
+
+In this unit you will practise:
+
+- understanding the different sections of the test
+
+- scanning a passage for specific details
+
+- ® recognising paraphrase
+
+- ¢ dealing with multiple passages
+
+- understanding work-related passages
+
+- matching questions to parts of a text
+
+#### 1 The General Training Reading paper
+
+The paper is divided into three sections, each with a different theme or focus.
+
+- 1.1 Look at the table and the list of example texts below. Match the examples (A-H) with the correct section of the Reading paper.
+
+Write your answers in the final column of the table.
+
+|—||—Fl|
+|---|---|---|
+||Workplace survival|| two work-related texts<br>that are descriptive and<br>informational|
+||General reading|one longer text that is<br>descriptive and instructive,<br>ratherthanargumentative|
+
+
+Examples of texts A staff-training manual E shop advertisements B train timetable F job application procedures C magazine article about modern travel G an extract from a novel D job description H travel brochures
+
+78
+
+---
+
+## PDF page 80
+
+<!-- source-pdf-page: 80 -->
+
+### SSSO'S IF ee Reading skills « The Reading passages in each section gradually become more < difficult. Section 1 is the easiest and Section 3 is the most difficult. BeBe Tip Thy to'spend
+
+< BeBe Tip Thy to'spend no more than 15-20 minutes on Section 1, so that you have co gfuben os ° an <u ¢ = = > questions in Sections and 3. Remember you only have 60 minutes to complete 40 questions, and you need to transfer your answers onto a separate sheet in that time. Aim to spend less than 20 minutes on each section so you have time to check your answers at the end.
+
+
+<!-- Start of picture text -->
+1.2<br>Read extracts 1-8 and match them to texts A-H.<br>1 This position involves communicating effectively with patients<br>and health care personnel. The chosen applicant will have proven<br>skills in problem solving and assisting in the smooth running of<br>a hospital admissions department.<br>2<br>The airport is planning a digital revolution over the<br>next decade. Among the ideas under consideration<br>are talking holograms. These virtual staff would greet<br>passengers on arrival and direct them to the relevant<br>areas of the terminal.<br>$<br>Passengers travelling into the city should change trains at<br>Bardon.<br>4 When we finally arrived at the hotel we were too exhausted<br>to notice just how run-down it was. It wasn’t until the next<br>morning. as the sun shone brightly through the gaps in the<br>broken shutters, that | took a good look around me.<br>. Sick leave: any member of staff who is ill and unable to<br>come to work should immediately contact their department<br>Supervisor so that any necessary arrangements can be made.<br>6 Your application form will be processed by the Human<br>Resources team, who will contact you to arrange an<br>interview if you meet our criteria.<br>: We're passionate about travel and because we're travellers too<br>we have loads of experience and knowledge we'd love to share<br>with you.<br><!-- End of picture text -->
+
+8 ; Opening Times Weekdays 9:00 — 17:00 Weekends 10:00 — 19:00 Public holidays 10:00 - 16:00
+
+79
+
+---
+
+## PDF page 81
+
+<!-- source-pdf-page: 81 -->
+
+Reading skills
+
+There are 40 questions to complete in 60 minutes. The question types are the same as in the Academic Reading paper. Study the information in units 1-7 for more tips and advice on how to answer the different questions.
+
+#### General Training Reading — Section 1
+
+- 1.3 Read the Section 1 passage about recycling.
+
+   - 1 Who is the text written by?
+
+   - 2 Who is likely to read this?
+
+### Recyclinga
+
+###### Recycling tips and hints
+
+- e Use separate bins or bags for waste and recyclables in the kitchen — it makes recycling easy.
+
+- e Remember to recycle items from other rooms in your house. Try placing a separate bin in the bathroom, laundry or study.
+
+- ¢ Your normal household waste is collected every week and should go in the bin with the black lid. Place all recyclable items in your bin with a yellow lid. This will be emptied every two weeks. Make sure you do not include plastic shopping bags in with your recyclables.
+
+- e You can find out your collection day by contacting the council on 3403 8888. You can also get a free reusable bag and use it to collect recyclables around the house or take it shopping and cut down on plastic bags.
+
+- e You do not need to remove staples or the plastic window from envelopes, as this is done in the recycling process.
+
+- ¢ Tree trimmings, grass clippings and flowers are not recyclable, even though paper is made from woodchip. These items should either be turned into compost or placed in your general waste bin.
+
+##### Why recycle?
+
+For every tonne of waste paper that gets recycled, 13 trees are saved. One job is created for every 500 tonnes of paper collected for recycling. Every year in Australia, we use about 3.5 million tonnes of paper and cardboard — enough to fill 160,000 semi-trailers. Paper can be recycled six times before it needs new fibres added.
+
+Want to know more about recycling?
+
+Visit our website or call 3467 9809 to talk to our experts at the recycling centre.
+
+80
+
+---
+
+## PDF page 82
+
+<!-- source-pdf-page: 82 -->
+
+Reading skills
+
+There are several types of questions that ask you to write words and/or numbers from the Reading passage. For these questions:
+
+- ¢ you will be told the maximum number of words to write. * you must only write words that are in the text (make sure you copy the spelling correctly).
+
+- * you do not need to change the words in the text and you do not need to join the words together.
+
+#### Scanning for detail
+
+- 1.4 Scanning a text involves searching it quickly for specific information. The information may appear only once or several times (e.g. the name of a hotel). Scan the passage in 1.3 to find seven different numbers.
+
+- 1.5 Answer these short-answer questions. Choose NO MORE THAN ONE WORD AND/OR A NUMBER from the passage for each answer. 1 What will you help to protect if you recycle one tonne of waste? 2 How many tonnes of paper products do Australians use each 3 year? What is the telephone number of the recycling centre?
+
+You might also be asked to complete sentences using words from the Reading passage.
+
+### Recognising paraphrase
+
+There may be key words in each question that you can locate in the Reading passage. However, some parts of the question will paraphrase (use another word that has the same meaning) the words in the passage. This tests how much you understand.
+
+Test Tip When answering short-answer questions, you do not need to write full sentences or join words together. Look at this example. Answer the question with NO MORE THAN TWO WORDS from the reading passage.
+
+What TWO colours did the painter use? Answer: black, white (not black and white)
+
+- 1.6 Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage.
+
+- 1 You should put special bins for collecting recyclables in different 2 Plastic shopping bags should be put in the bin with the top.
+
+- 3 The council will collect your recyclables every , 4 If you call the council, they will tell you your
+
+- 1.7 Which words in the Reading passage in 1.3 are paraphrases of the underlined words in 1.6?
+
+81
+
+---
+
+## PDF page 83
+
+<!-- source-pdf-page: 83 -->
+
+Reading skills
+
+For identifying information tasks, you need to look at several
+
+sentences or statements and decide whether they are:
+
+True (the statement agrees with the information in the passage) False (the statement is incorrect and does not agree with the
+
+information in the passage) or
+
+Not Given (you cannot say whether the statement is true or false because there is no information about this in the passage)
+
+1.8 Look at the identifying information task below.
+
+#### Questions 1-5
+
+- Do the following statements agree with the information given in the reading passage? In boxes 1—5 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN__ if there is no information on this
+
+- 1 Envelopes with a plastic window are unsuitable for your recycling bin. 2 Staples often damage the recycling machinery.
+
+- 3 Garden waste should be thrown away with food waste. 4 Recycling can help to reduce unemployment. 5 Paper that has already been recycled is unsuitable for recycling. 6 ‘The fibres that are added to recycled paper are environmentally friendly.
+
+### Not given is not the same as False.
+
+In Question 1, unsuitablefor your recycling bin means ‘you cannot put it in the recycling bin’. The passage says You do not need to remove staples or the plastic windowfrom envelopes as this is done in the recycling process. This means you can put envelopes with a plastic window in your recycling bin. So the statement in the question is False.
+
+In Question 2, you need to find out from the passageifstaples often damage the recycling machinery. The passage tells us that staples will be removed in the recycling process, but there is no information about staples causing damage to the machinery. We cannot check this fact in the text, so this is Not Given.
+
+? Test Tip Remember that you are being tested on your ability to understand the information you read in the passage. So, you should ignore anything oaou topicalready. know about
+
+- 1.9 Decide if the statements in Questions 3-6 are True, False or Not Given. For each question, justify your answer using the relevant parts of the passage.
+
+82
+
+---
+
+## PDF page 84
+
+<!-- source-pdf-page: 84 -->
+
+Reading skills
+
+### 2 Dealing with multiple texts
+
+In Section 1 of the General Training Reading paper, you may be given three or more short texts. The texts will all be based on a similar topic. The questions will focus on what is different about the information in each text. You need to scan all of the texts to locate the answers to the questions.
+
+|2.<br>|1<br>Look at these four texts. What are they all ab<br>|out?<br>||
+|---|---|---|---|
+|A|Hampshire UniversityOpen Day<br>10:00 till 21:00<br>Interested in film? Check out our visual effects studio<br>with all the latest software.<br>Watch studentsand staffdemonstrate theirown games<br>in theAnimation andGamesstudio.(15:00-16:00)<br>Food and drink stalls.<br>Free balloons and children’s play area.<br>All finished offwith our popular fireworks display!|-|Lexington College Open Day<br>11:00-16:00<br>Creative arts market - crafted by our third-year<br>students —- all reasonably priced.<br>International food fair.<br>Digital photography - workshops on<br>photographing animals in the wild!<br>Entertainment, prizes and giveaways!<br>You'll feel like you're flying on our trapeze!|
+|Cc|4<br>Comeand join thefun atour|D|Open Day!|
+||OpenDay!<br>Bellingham HouseCollege<br>Interested inbecomingavet?Visitourworking<br>farmandchat toourlecturersandstudents.<br>Afundayoutforallthefamilly<br>Marine biology exhibit -comeand find out<br>Sag<br>about our fascinatingsea creatures.<br>Openfrom8:00to 16:00.<br>Parkingavailableatdiscountedprices.||South Bank University<br>| 1:00—18:00<br>Come along and testyour skills in our flight<br>a ee<br>Enterthedrawtowina free flying lesson!<br>.<br>.<br>.<br>Meettutorsfrom eight differentcountries!<br>Hotdog stand and barbecue from<br>|2:00.<br>Freeparkingavailable.|
+
+
+#### 2.2 Read questions 1-6 and choose the correct text (A-D).
+
+At which open day can you
+
+- 1 eat food from around the world? 2. see live animals?
+
+- 3 learn about becoming a pilot?
+
+- 4 learn how to use a camera?
+
+- 5 buy work created by students?
+
+- 6 watch evening entertainment?
+
+2.3 Underline the parts of the texts that gave you your answer.
+
+83
+
+---
+
+## PDF page 85
+
+<!-- source-pdf-page: 85 -->
+
+#### Reading skills
+
+- 2.4 Match the words/phrases 1-5 from the text with paraphrases
+
+   - A-E used in the questions.
+
+   - 1 fireworks display A from around the world 2 international B animals 3 digital photography C learn how 4 creatures D evening entertainment 5 workshop E use a camera
+
+grammar and building your reading, writing, listening and speaking skills as a part of your preparation. Don’t just focus on test-taking strategies.
+
+### 3 Understanding work-related texts
+
+Section 2 of the General Training Reading paper contains two separate passages related to work situations. Make sure that you study vocabulary related to work.
+
+3.1
+
+- Match the work-related words 1-12 with definitions A-L.
+
+- 1 hospitality A to stop working — usually because of age 2 retail B_ the type of work done with your hands 3 redundancy C_ to hire or employ a person for a job 4 retire D the industry related to shops 5 consumer E_ the person who provides you with work 6 customer F the industry related to hotels and restaurants 7 manual G the loss of a job due to a business closing 8 shift H a person who uses goods 9 employee’ I. a staff member
+
+- 10 employer J the time by which work must be completed 11 deadline K a person who buys goods 12 recruit L_ a person's scheduled period of work
+
+84
+
+---
+
+## PDF page 86
+
+<!-- source-pdf-page: 86 -->
+
+Reading skills
+
+- 3.2 Spend 40 seconds reading the passage below to understand the main points. Who do you think would read a text like this?
+
+   - A a person wanting to apply to become an inspector B_ the owner of a business C anew temporary employee at a company D an experienced inspector
+
+### Workplace health and safety
+
+Workplace health and safety is the legal responsibility of all employers. There are rules and regulations governing workplace health and safety to help ensure the safety of workers in all industries. Workplace Health and Safety inspectors are employed by the government to carry out regular workplace inspections and ensure current safety standards are being met.
+
+the workplace. When a workplace health and safety inspector arrives at your workplace, he or she will introduce themselves and ask to speak with either the workplace health and safety representative or the most senior member of management available. If the staff concerned are not available, the inspector may continue with a limited inspection based on available information and/or arrange a follow-up visit later that day or on the following day. When all relevant staff have been assembled, the inspector will check that all of the required documentation is in place. This includes the employer's written occupational health and safety policy, and the health and safetyawareness poster. These must be displayed in an area accessible to all employees. Any other documentation that shows workers have been provided with instructions on how to carry out specific tasks may also be requested. Finally, the inspector may ask to see where the documents %¢ posted, and verify that a copy of the law and "@9ulations is also displayed.
+
+Inspector training All inspectors complete a rigorous ninemonth program of classroom training and field experience with a qualified inspector. New inspectors also receive training on the regulations specific to their respective programs (i.e. construction, mining, healthcare, industrial and diving). Each inspector is issued a comprehensive manual of policies and procedures to be used when carrying out workplace inspections.
+
+Powers of an inspector Inspectors are employed to monitor employers and workers and ensure that they comply with the laws concerning Workplace Health and Safety, Inspectors’ powers include the ability to enter any workplace without giving notice. Once an inspector has begun a workplace inspection, he or she is permitted to:
+
+Following the documentation review, the inspector will inspect the workplace to determine if staff are maintaining a safe work environment. Short videos describing the specific hazards that inspectors look for during an inspection can be obtained from the Department of Labour.
+
+¢ question any employee
+
+- e handle, use or test any equipment, machinery _ inspectors look for during an inspection can be and materials and take away any samples obtained from the Department of Labour.
+
+- ¢ look at any documents or records and take them from the workplace in order to make copies, and
+
+- © take photographs. What to expect from a workplace health and safety visit
+
+If the inspector finds any fault within the workplace, then they may issue what is known as a compliance order. Compliance orders describe actions the employer is obliged to take in order to meet the current regulations. If the inspector believes there is immediate risk of injury to a worker, a ‘stop work’ order will be issued to prevent work from continuing until the problem is solved.
+
+Workplace visits by an inspector are typically unannounced and, by law an inspector must be granted access to enter and access all areas of
+
+85
+
+---
+
+## PDF page 87
+
+<!-- source-pdf-page: 87 -->
+
+### Reading skills
+
+- 3.3 Read these questions based on the passage. For each question: e read the ‘stem’ (the first line of the question) and use it to locate the relevant part of the passage.
+
+   - e read each of the options and carefully read the relevant part of the passage.
+
+   - ¢ choose the best answer (A-D).
+
+   - 1 ‘ ‘ ‘ When a new inspector is trained, they
+
+      - A_ spend a year learning all of the rules and regulations. B_ need to learn about rules concerning several different industries.
+
+      - C spend some time working with an experienced inspector. D can carry out inspections as soon as they have completed theoretical training.
+
+      - Test Tip Quickly read the whole passage to get the general idea before you begin answering questions. This will help to give you an overall understanding of the passage and will help you to locate relevant parts of the text more quickly.
+
+- 2 According to the passage, a workplace health and safety inspector has the power to
+
+   - A take away all faulty equipment they find. B_ photocopy paperwork they find in the workplace.
+
+   - C ask employees about the company’s recruitment process. D warn employees that they are going to carry out an inspection.
+
+- 3 If the company’s workplace health and safety representative is not present
+
+   - A the inspection must be postponed.
+
+   - B_ the inspector may issue a complaint to management.
+
+   - C_ the inspector might simply collect the information they need.
+
+   - D the inspector may partially inspect the premises and return later.
+
+86
+
+---
+
+## PDF page 88
+
+<!-- source-pdf-page: 88 -->
+
+Reading skills
+
+Summary, Flow-chart or Note completion questions all have spaces that you need to fill using words from the text. Because these types of questions are organised into a summary, a set of notes or a flow chart rather than separate sentences, the information may not be organised in the same order as the information in the passage.
+
+- 3.4 Look at the flow-chart completion task below. Which part of the passage will you need to read to complete it?
+
+- 3.5 Complete the flow chart using ONE WORD ONLY from the passage in each gap.
+
+### What happens during an inspection?
+
+The workplace health and safety inspector arrives and identifies themselves.
+
+
+<!-- Start of picture text -->
+The inspector asks to meet the Company’s relevant 1 oon...ecccccecccssssccsssseeesnnee<br>(if they are absent, the inspection may be postponed for up to a<br>The inspector asks to see the following documents:<br>© BRS COMPAS Ss cssiisiccssinisisescacscsssevseissnics GUNG As scccscsoccnsstsnnisssscsescdsissie<br>concerning workplace health and safety<br>© ANY 5 occcccssssseusseseensnnsenneeee GIVEN to workers to help do a job.<br>The inspector will inspect the premises — (you can get<br>GB ocececcccccsssssstssessssssssessseeeee tO HEP prepare your staff for this).<br><!-- End of picture text -->
+
+
+<!-- Start of picture text -->
+If there are any problems, the staff will be given a written warning.<br>If the problems May lead tO 7 ccconnsnnnnunnean , the Company will be<br>forced to stop work.<br><!-- End of picture text -->
+
+
+<!-- Start of picture text -->
+. .<br>3.6<br>Which words in the passage mean the same as the words that<br>are underlined in the flow chart?<br><!-- End of picture text -->
+
+Test Tip If you are asked to choose ONE WORD ONLY from the passage, make sure a ae BES add xi information such as adjectives or adverbs (e.g. short videos). If you write more than one word, your answer wine warked as wrong.
+
+87
+
+---
+
+## PDF page 89
+
+<!-- source-pdf-page: 89 -->
+
+EEOOOOOOOOOOEEEEeeeEeeeeeeeeeeeEEE
+
+##### Reading skills
+
+### General Training Reading — Section 3
+
+Section 3 contains one long passage that is more difficult than the previous ones. Timing is an important part of the IELTS test, so make sure you leave at least 20 minutes for this section.
+
+- 3.7 Spend three minutes reading the passage on the following page to understand the main points.
+
+For some tasks, you need to match the information in the question to specific parts of the text. This is similar to the task in 2.2. Instead of separate short texts, you will need to scan separate paragraphs or sections of one passage.
+
+For matching headings tasks, you need to match the headings to the correct paragraph or section. The correct heading will accurately summarise all of the ideas within the section or paragraph.
+
+- 3.8 Look at the headings in the box below. In the IELTS Reading paper, you will need to consider every paragraph. For this exercise, the headings only relate to paragraphs A-C in the passage.
+
+   - 1 Read paragraph A carefully, then read each of the headings in the box.
+
+   - 2 Choose the heading that correctly summarises the ideas in the paragraph.
+
+   - 3 Do the same for paragraphs B and C.
+
+###### Headings
+
+- i Industry insiders welcome the change
+
+- ii The city votes for major change iii Advertisements are more than marketing tools
+
+- iv How one man changeda city v_ Professionals warn of the consequences of change
+
+#### 3.9 Explain why you chose each answer.
+
+- For matching information tasks, you need to match individual ideas to the correct paragraph.
+
+88
+
+---
+
+## PDF page 90
+
+<!-- source-pdf-page: 90 -->
+
+Reading skills ©
+
+### Banned Brandinge Has Sao Paulo’s advertising experiment worked?
+
+- A When you think of Sao Paulo, Brazil, a city of 12 million residents and the 7th largest in the world, you probably picture a gritty, sprawling metropolis, with skyscrapers rising like islands in a sea of giant billboards and neon signs. But all of that changed in 2007 when Sao Paulo became the first major city in the world to ban all outdoor advertising. The ‘Clean City Law’ was the brainchild of Mayor Gilberto Kassab who, in a bid to combat all forms of pollution in the city, decided to begin by tackling the most obvious — the ‘visual pollution’ created by billboards and signs advertising brands of all kinds. The move was hailed move was hailed was hailed hailed by writer Roberto Pompeu Pompeu de Toledo as “a Toledo as “a as “a rare victory victory of the public the public public interest over private’.
+
+- B However, reactions in Sao Sao Paulo were were not all positive. Marketing executives were convinced convinced that the new new law would would proveaa terrible blow blow to the advertising industry and representatives drove their cars cars up and and down in front of city city hall to protest against against the ruling. Border, the Brazilian Association of Advertisers, Advertisers, was incensed over the move, pointing out out that tens of thousands thousands of small small businesses would have to bear bear the cost cost of altering altering their shop shop fronts under the new new regulations. In the press, a US$133m loss in advertising revenue was forecast, while the Sao Sao Paulo outdoor media outdoor media media association, Sepex, predicted job losses of up up to 20,000.
+
+   - E 15,000 billboards — some the size of the buildings they adorned — huge outdoor video screens, and even posters and ads on the side of buses and taxis, were all quickly removed across the city. To help police, Kassab set up telephone hotlines so that citizens could report instances of advertisers breaking the law. ‘Some days we had 3,000 calls on those lines,’ he said proudly. Even giving out pamphlets in public spaces was made illegal. Extraordinarily, six years later, it is extremely difficult to find outdoor advertising anywhere in the city.
+
+- The move was hailed move was hailed was hailed hailed by writer Roberto Pompeu Pompeu F Equally remarkable is the speed with which big de Toledo as “a Toledo as “a as “a rare victory victory of the public the public public interest advertisers adapted to this new environment. ‘It over private’. was really dramatic ... Big companies had to change
+
+- B However, reactions in Sao Sao Paulo were were not all their focus and strategies,’ says Marcello Queiroz, positive. Marketing executives were convinced convinced editor of the newspaper Propaganda and Marketing. that the new new law would would proveaa terrible blow blow Marketing directors soon found new areas to spend to the advertising industry and representatives their advertising budgets on. The move forced them drove their cars cars up and and down in front of city city hall to be more creative and find innovative methods to protest against against the ruling. Border, the Brazilian of indoor advertising such as inside elevators and Association of Advertisers, Advertisers, was incensed over the bathrooms. Other businesses were even more move, pointing out out that tens of thousands thousands of small small creative. Big banks and stores began painting businesses would have to bear bear the cost cost of altering altering their buildings in eye-catching colours, creating a their shop shop fronts under the new new regulations. In visual pattern that consumers could associate their the press, a US$133m loss in advertising revenue brand with, even from a distance. But, according to was forecast, while the Sao Sao Paulo outdoor media outdoor media media advertising executive Marcio Oliveira, ‘The internet association, Sepex, predicted job losses of up up was the really big winner.’ Although, at the time, to 20,000. there was already a worldwide move towards social
+
+- C Others were concerned with the aesthetic impact media, the new law gave Brazilian ad agencies an of the move and that, rather than cleaning up the extra incentive. city, it would look even worse. Would removing the G For now then, the scheme has worked, and surveys colourful, though chaotic, billboards turn it into a conducted by local newspapers indicate it is bland concrete jungle? Dalton Silvano, the only city extremely popular, with more than 70% of residents councillor to vote against the law, believed it would: showing their approval. It has also brought some ‘Advertising is both an art form and, when you're unforeseen advantages. When the hoardings in your car or on foot, a form of entertainment that were removed, many locals were shocked at the helps relieve solitude and boredom,’ he claimed. state of the buildings and houses beneath. As a Adding, ‘I think this city will become a sadder, result, renovation work in the city has increased duller place.’ considerably and its cultural heritage is now more
+
+- D ofplans.Nevertheless,‘What wethe are council aimingpressedfor is aheada completewith changeits aboutvisible.findingAs journalist hisway Vincenze around the Galvao city, commented ‘My old culture,’ spokesman Roberto Tripoli said. ‘Yes, reference was a big Panasonic billboard, but now
+
+- some people are going to have to pay a price, but my reference is an art deco building that had been things were out of hand and the population has covered by at. The city’s now got new language, a made it clear that it wants this.’ Eventually, the new identity. law was passed and businesses were given 90 days to take down any signs that did not meet the new regulations or pay a fine of up to $4,500 per day. Throughout that period, the city’s workmen dismantled around 100 sites per day, occasionally supervised personally by Kassab.
+
+89
+
+---
+
+## PDF page 91
+
+<!-- source-pdf-page: 91 -->
+
+Reading skills
+
+- 3.10 Look at the following statements. In the first question, the type of information you need to find in the text has been underlined. Do the same for questions 2-6.
+
+Which paragraph, A-G, contains the following information? You can use any of the letters more than once.
+
+   - 1 some unexpected benefits of banning outdoor advertising 2 the deadline businesses were given to clear away their advertising material
+
+   - 3 the public’s reaction to the new proposal
+
+   - 4 advertising techniques that emerged as a result of the ban
+
+   - 5 an action carried out to try to stop the law being passed
+
+   - 6 examples showing the wide range of advertising material that was banned
+
+- 3.11 Scan the text for the following names and highlight them each time they appear in the text.
+
+   - _ People A_ Gilberto Kassab B Roberto Pompeu C Dalton Silvano D Roberto Tripoli
+
+   - CE Marcello Queiroz | F Marcio Oliveira | G Vincenze Galvao |
+
+      - B Roberto Pompeu de Toledo C Dalton Silvano
+
+
+<!-- Start of picture text -->
+|<br>|<br><!-- End of picture text -->
+
+- 3.12 Match the people (A-G) with the following statements. You
+
+   - can use any of the letters more than once.
+
+   - 1 Removing the billboards has made us more aware of local architecture.
+
+   - 2 The changes led to more people advertising their business online.
+
+   - 3 Billboards can be interesting to look at.
+
+   - 4 Businesses quickly adjusted after the law change.
+
+   - 5 The public was very keen to report businesses that ignored the new rules.
+
+   - 6 Although it might hurt certain businesses, this is a necessary change.
+
+90
+
+---

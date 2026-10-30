@@ -1,0 +1,26 @@
+# Machine state and credentials
+.env
+.env.*
+!.env.example
+.aws/
+.codex/config.toml
+.codex/auth.json
+
+# Python and editor state
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Scratch and backup data; canonical exports remain tracked
+/tmp/
+/dist/
+cards/vocabulary/data/backups/
+*.anki2
+*.anki21
+*.anki21b
+*.apkg
+*.colpkg

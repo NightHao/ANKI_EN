@@ -1,0 +1,1157 @@
+[
+  {
+    "term": "crude",
+    "observed_forms": ["crude"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["adjective", "noun"],
+    "pronunciation": "/krud/",
+    "tts_text": "crude",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A broadly useful adjective for unprocessed materials, rough estimates or methods, and offensive language, with a common petroleum noun sense.",
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Still in a natural state; not yet processed or refined.",
+            "example": "The refinery processes crude oil into gasoline and other fuels.",
+            "synonyms": [
+              {
+                "term": "unrefined",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more explicit about the lack of processing"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "Simple, rough, or inexact because it has not been carefully developed.",
+            "example": "A crude estimate suggested that the migration would take several weeks.",
+            "synonyms": [
+              {
+                "term": "rough",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader and often describes texture or quality"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "Rude, offensive, or sexually explicit.",
+            "example": "He apologized for making a crude joke during the meeting.",
+            "synonyms": [
+              {
+                "term": "vulgar",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "strongly emphasizes offensive language or behavior"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "Crude oil.",
+            "example": "Rising demand pushed the price of crude above $80 a barrel.",
+            "usage_note": "Used mainly in petroleum, commodity-market, and financial contexts.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "montage",
+    "observed_forms": ["montage"],
+    "priority": "RECEPTIVE",
+    "parts_of_speech": ["noun"],
+    "pronunciation": "/mɑnˈtɑʒ/",
+    "tts_text": "montage",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "LOW",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A recognizable media and visual-composition term, but less important for broad spontaneous production.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A film sequence made from short shots that shows many events in a brief period.",
+            "example": "The training montage compresses several months into two minutes.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A composition made by combining several pictures, sounds, or other elements.",
+            "example": "The exhibit opens with a montage of family photographs and newspaper clippings.",
+            "synonyms": [
+              {
+                "term": "collage",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "usually emphasizes combined visual materials rather than film editing"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "chimney",
+    "observed_forms": ["chimney"],
+    "priority": "RECEPTIVE",
+    "parts_of_speech": ["noun"],
+    "pronunciation": "/ˈtʃɪmni/",
+    "tts_text": "chimney",
+    "frequency_band": "COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "LOW",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A common concrete noun worth recognizing, but it has limited productive value outside housing and descriptive contexts.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A vertical structure containing a passage through which smoke or gases leave a fireplace, furnace, or building.",
+            "example": "Smoke rose from the cabin's stone chimney.",
+            "usage_note": "A chimney is the complete structure; a flue is the passage inside it.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "petition",
+    "observed_forms": ["petition"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["noun", "verb"],
+    "pronunciation": "/pəˈtɪʃən/",
+    "tts_text": "petition",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A useful civic and legal word for formal requests to governments, courts, institutions, and other authorities.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A formal written request to an authority, often signed by many people.",
+            "example": "More than 10,000 residents signed a petition to protect the park.",
+            "synonyms": [
+              {
+                "term": "request",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "much broader and not necessarily formal or written"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To formally ask an authority or organization for something.",
+            "example": "The lawyers petitioned the court for a new hearing.",
+            "usage_note": "Common structures are petition someone for something and petition someone to do something.",
+            "synonyms": [
+              {
+                "term": "appeal to",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "may be formal or emotional and has a broader range of uses"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "probation",
+    "observed_forms": ["probation"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["noun"],
+    "pronunciation": "/proʊˈbeɪʃən/",
+    "tts_text": "probation",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A useful term in legal, academic, and employment contexts, including the professional expression probationary period.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A period during which someone convicted of a crime remains in the community under official supervision.",
+            "example": "The judge sentenced him to two years of probation.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A period or status during which someone's work, conduct, or academic performance is closely evaluated.",
+            "example": "After his grades fell, he was placed on academic probation.",
+            "usage_note": "Common structures are be on probation and put someone on probation. In employment, American English commonly uses probationary period.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "parade",
+    "observed_forms": ["parade"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["noun", "verb"],
+    "pronunciation": "/pəˈreɪd/",
+    "tts_text": "parade",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A common word for public celebrations and deliberate displays, useful in conversation, news, and descriptive writing.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A public procession celebrating or honoring a special event.",
+            "example": "Thousands of people watched the championship parade downtown.",
+            "synonyms": [
+              {
+                "term": "procession",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader and may be ceremonial, religious, or solemn"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To walk or travel publicly as part of a celebration or display.",
+            "example": "The players paraded through downtown with the trophy.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To deliberately display someone or something to impress people or attract attention.",
+            "example": "The company paraded its latest prototype before potential investors.",
+            "usage_note": "This meaning is often slightly disapproving.",
+            "synonyms": [
+              {
+                "term": "display",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "more neutral and does not imply showmanship"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "upheaval",
+    "observed_forms": ["upheaval"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["noun"],
+    "pronunciation": "/ʌpˈhivəl/",
+    "tts_text": "upheaval",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A high-value abstract noun for major disruptive change in social, political, economic, and organizational contexts.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A major and often sudden change that causes disruption, confusion, or difficulty.",
+            "example": "The merger caused months of upheaval throughout the company.",
+            "usage_note": "It can be countable or uncountable: a political upheaval; years of economic upheaval.",
+            "synonyms": [
+              {
+                "term": "turmoil",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "emphasizes confusion and disorder rather than the disruptive change itself"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "stability",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "a condition without major disruptive change"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "monarch",
+    "observed_forms": ["monarch"],
+    "priority": "RECEPTIVE",
+    "parts_of_speech": ["noun"],
+    "pronunciation": "/ˈmɑnərk/",
+    "tts_text": "monarch",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "LOW",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "Useful for recognizing political, historical, fantasy, and nature-related texts, but less important for everyday production.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A king or queen who serves as the head of a monarchy.",
+            "example": "The monarch has a largely ceremonial role in the modern government.",
+            "usage_note": "A monarch is the person; a monarchy is the political system.",
+            "synonyms": [
+              {
+                "term": "sovereign",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more formal"
+              },
+              {
+                "term": "ruler",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "broader because not every ruler is a monarch"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "A large orange-and-black North American butterfly.",
+            "example": "A monarch butterfly rested on a milkweed plant.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "apprehend",
+    "observed_forms": ["apprehend"],
+    "priority": "RECEPTIVE",
+    "parts_of_speech": ["verb"],
+    "pronunciation": "/ˌæprɪˈhɛnd/",
+    "tts_text": "apprehend",
+    "frequency_band": "UNCOMMON",
+    "daily_relevance": "LOW",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A formal verb common in law-enforcement reports and literary writing, but everyday English usually uses catch, arrest, or understand.",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To catch and take a suspected criminal into custody.",
+            "example": "Officers apprehended the suspect near the border.",
+            "synonyms": [
+              {
+                "term": "arrest",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "emphasizes the formal legal act, while apprehend often emphasizes catching the person"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "To understand something fully.",
+            "example": "Few people initially apprehended the seriousness of the threat.",
+            "usage_note": "This meaning is formal. Apprehend does not normally mean feel worried; that meaning belongs to apprehensive.",
+            "synonyms": [
+              {
+                "term": "understand",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "much more common and neutral"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "subdue",
+    "observed_forms": ["subdue"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["verb"],
+    "pronunciation": "/səbˈdu/",
+    "tts_text": "subdue",
+    "frequency_band": "UNCOMMON",
+    "daily_relevance": "LOW",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A reusable advanced verb for bringing people under control, controlling emotions, and reducing intensity.",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To bring a person or group under control, often by using force.",
+            "example": "Security guards subdued the attacker before anyone was seriously hurt.",
+            "synonyms": [
+              {
+                "term": "overpower",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "emphasizes superior physical force"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "To control or suppress a strong feeling or reaction.",
+            "example": "She took a slow breath to subdue her anger.",
+            "synonyms": [
+              {
+                "term": "suppress",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "also used for information, symptoms, and political opposition"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "To make something less intense or noticeable.",
+            "example": "Thick curtains helped subdue the noise from the street.",
+            "synonyms": [
+              {
+                "term": "reduce",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader and more neutral"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "lust",
+    "observed_forms": ["lust"],
+    "priority": "RECEPTIVE",
+    "parts_of_speech": ["noun", "verb"],
+    "pronunciation": "/lʌst/",
+    "tts_text": "lust",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "LOW",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A recognizable word in relationship, literary, political, and fantasy contexts, but its strong sexual or negative tone limits routine production.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "Strong sexual desire.",
+            "example": "The novel explores the tension between love and lust.",
+            "synonyms": [
+              {
+                "term": "sexual desire",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more neutral and explicit"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "A powerful and often excessive desire for something.",
+            "example": "His lust for power eventually destroyed his closest relationships.",
+            "synonyms": [
+              {
+                "term": "desire",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "much broader and usually less intense or negative"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To feel an intense sexual or excessive desire for someone or something.",
+            "example": "The villain lusted after wealth and absolute power.",
+            "usage_note": "Common structures are lust for something and lust after someone or something. Lust is much stronger and often more negative or sexual than desire.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "fervently",
+    "observed_forms": ["fervently"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["adverb"],
+    "pronunciation": "/ˈfɝvəntli/",
+    "tts_text": "fervently",
+    "frequency_band": "UNCOMMON",
+    "daily_relevance": "LOW",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A useful expressive adverb for deeply held beliefs, hopes, wishes, support, and opposition in educated speech and writing.",
+    "senses": [
+      {
+        "part_of_speech": "adverb",
+        "senses": [
+          {
+            "definition": "With strong, sincere, and deeply felt emotion or belief.",
+            "example": "She fervently believes that education should be accessible to everyone.",
+            "usage_note": "Often modifies verbs such as believe, hope, pray, wish, support, and oppose; it is stronger and somewhat more formal than strongly.",
+            "synonyms": [
+              {
+                "term": "passionately",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader and sometimes more emotional"
+              },
+              {
+                "term": "earnestly",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "emphasizes sincerity more than intensity"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "halfheartedly",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "without much enthusiasm or commitment"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "adorn",
+    "observed_forms": ["adorn"],
+    "priority": "RECEPTIVE",
+    "parts_of_speech": ["verb"],
+    "pronunciation": "/əˈdɔrn/",
+    "tts_text": "adorn",
+    "frequency_band": "UNCOMMON",
+    "daily_relevance": "LOW",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A useful descriptive verb, especially in passive constructions, but decorate is considerably more common in everyday production.",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To make something more attractive by adding decorations.",
+            "example": "The entrance was adorned with flowers and colorful ribbons.",
+            "usage_note": "Common structures are adorn something with something, be adorned with something, and something adorns a place or object.",
+            "synonyms": [
+              {
+                "term": "decorate",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more common and neutral"
+              },
+              {
+                "term": "embellish",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "often suggests adding decorative details"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "adore",
+    "observed_forms": ["adore"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["verb"],
+    "pronunciation": "/əˈdɔr/",
+    "tts_text": "adore",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A common conversational verb for strong affection and enthusiastic enjoyment, useful for active production.",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To love and admire someone very much.",
+            "example": "He adores his granddaughter and calls her every day.",
+            "synonyms": [
+              {
+                "term": "love",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader and less consistently emphatic"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "To like something or an activity very much.",
+            "example": "She adores working with young children.",
+            "usage_note": "Common structures are adore someone or something and adore doing something.",
+            "synonyms": [
+              {
+                "term": "be fond of",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "usually gentler and less enthusiastic"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "inferior",
+    "observed_forms": ["inferioir", "inferoir"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["adjective", "noun"],
+    "pronunciation": "/ɪnˈfɪriər/",
+    "tts_text": "inferior",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A high-value comparison word for quality, performance, ability, and status; the submitted misspellings were normalized to inferior.",
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Lower in quality, ability, importance, or value than someone or something else.",
+            "example": "The replacement component proved inferior to the original.",
+            "usage_note": "Use inferior to, not inferior than. Worse instead takes than.",
+            "synonyms": [
+              {
+                "term": "worse",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "more common and used with than"
+              },
+              {
+                "term": "substandard",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "means failing to meet an expected standard"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "superior",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "higher in quality, ability, importance, or value"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A person considered lower in rank or status.",
+            "example": "The manager treated junior employees as inferiors.",
+            "usage_note": "This noun use can sound condescending or insulting.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "indifferent",
+    "observed_forms": ["indifferent"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["adjective"],
+    "pronunciation": "/ɪnˈdɪfərənt/",
+    "tts_text": "indifferent",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A useful adjective for lack of concern or preference, with important contrasts against apathetic and the conversational phrase I don't mind.",
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Not interested in or concerned about someone or something.",
+            "example": "The company seemed indifferent to customer complaints.",
+            "usage_note": "Common structures are indifferent to something and indifferent toward someone.",
+            "synonyms": [
+              {
+                "term": "unconcerned",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "often focuses on the absence of worry"
+              },
+              {
+                "term": "apathetic",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "suggests a broader lack of interest, feeling, or motivation"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "concerned",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "interested in or worried about the matter"
+              }
+            ]
+          },
+          {
+            "definition": "Having no preference between different choices.",
+            "example": "She was indifferent as to which restaurant they chose.",
+            "usage_note": "For an ordinary choice, I don't mind usually sounds warmer and more conversational than I'm indifferent.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "swift",
+    "observed_forms": ["swift"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["adjective", "noun"],
+    "pronunciation": "/swɪft/",
+    "tts_text": "swift",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A useful adjective for rapid movement and prompt action, with a recognizable bird sense; the lowercase submission does not target the programming language.",
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Moving very quickly.",
+            "example": "A swift current carried the kayak downstream.",
+            "synonyms": [
+              {
+                "term": "fast",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more common in everyday conversation"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "slow",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "moving at a low speed"
+              }
+            ]
+          },
+          {
+            "definition": "Happening or being done quickly and without delay.",
+            "example": "The security team took swift action to contain the breach.",
+            "synonyms": [
+              {
+                "term": "rapid",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "common for changes and processes"
+              },
+              {
+                "term": "prompt",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "emphasizes the absence of delay"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A small bird with long, narrow wings that spends much of its life flying.",
+            "example": "Swifts circled above the old church at sunset.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "complacent",
+    "observed_forms": ["complacent"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["adjective"],
+    "pronunciation": "/kəmˈpleɪsənt/",
+    "tts_text": "complacent",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A high-value negative adjective for risk, performance, and self-evaluation in professional and IELTS discussion.",
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Too satisfied with yourself or a situation, causing you to ignore possible problems, risks, or the need to improve.",
+            "example": "After several successful releases, the team became complacent about security testing.",
+            "usage_note": "Common structures are complacent about something and become or grow complacent. Unlike satisfied or content, complacent is always negative.",
+            "synonyms": [
+              {
+                "term": "self-satisfied",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "also negative but does not always imply ignored risk"
+              },
+              {
+                "term": "overconfident",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "emphasizes excessive confidence rather than satisfaction"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "vigilant",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "alert to possible problems or danger"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "penitent",
+    "observed_forms": ["penitent"],
+    "priority": "RECEPTIVE",
+    "parts_of_speech": ["adjective", "noun"],
+    "pronunciation": "/ˈpɛnɪtənt/",
+    "tts_text": "penitent",
+    "frequency_band": "UNCOMMON",
+    "daily_relevance": "LOW",
+    "ielts_relevance": "LOW",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A formal, literary, and religious word worth recognizing, while sorry, remorseful, and repentant are more useful in everyday production.",
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Feeling or showing sincere regret for having done something wrong.",
+            "example": "He sounded genuinely penitent as he apologized for betraying their trust.",
+            "usage_note": "Penitent concerns regret for wrongdoing, not ordinary disappointment.",
+            "synonyms": [
+              {
+                "term": "repentant",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "often used in moral or religious contexts"
+              },
+              {
+                "term": "remorseful",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "emphasizes painful feelings of guilt"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "unrepentant",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "not sorry for wrongdoing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A person who regrets their wrongdoing and seeks forgiveness, especially in a religious context.",
+            "example": "The priest listened as the penitent confessed.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "ruffian",
+    "observed_forms": ["ruffinian", "ruffiman"],
+    "priority": "RECEPTIVE",
+    "parts_of_speech": ["noun"],
+    "pronunciation": "/ˈrʌfiən/",
+    "tts_text": "ruffian",
+    "frequency_band": "UNCOMMON",
+    "daily_relevance": "LOW",
+    "ielts_relevance": "LOW",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "An old-fashioned word commonly recognized in historical, literary, fantasy, and humorous descriptions; the submitted spelling attempts were normalized to ruffian.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A violent, dishonest, or threatening person who causes trouble.",
+            "example": "A group of ruffians attacked the travelers outside the city gates.",
+            "usage_note": "Old-fashioned and most common in historical, literary, fantasy, or humorous descriptions.",
+            "synonyms": [
+              {
+                "term": "thug",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more common in modern English"
+              },
+              {
+                "term": "hooligan",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "emphasizes noisy, destructive public behavior"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "grin",
+    "observed_forms": ["grin"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["verb", "noun"],
+    "pronunciation": "/ɡrɪn/",
+    "tts_text": "grin",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A common, useful word for a wide smile in conversation and descriptive writing, with productive verb and noun patterns.",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To smile widely, often showing your teeth.",
+            "example": "She grinned at me when she heard the good news.",
+            "usage_note": "A grin may express happiness, amusement, embarrassment, nervousness, or mischief. Common expressions include grin at someone and grin from ear to ear.",
+            "synonyms": [
+              {
+                "term": "smile",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader and may be much less noticeable"
+              },
+              {
+                "term": "beam",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "emphasizes obvious happiness or pride"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A wide smile.",
+            "example": "A broad grin spread across his face when the test passed.",
+            "synonyms": [],
+            "antonyms": [
+              {
+                "term": "frown",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "an expression made by drawing the eyebrows together"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "sly",
+    "observed_forms": ["sly"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["adjective"],
+    "pronunciation": "/slaɪ/",
+    "tts_text": "sly",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-24",
+    "classification_reason": "A useful descriptive adjective for concealed intentions and quietly knowing expressions, plus the common phrase on the sly.",
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Clever at hiding your real intentions or getting what you want, often by deceiving people.",
+            "example": "He was too sly to reveal what he was really planning.",
+            "usage_note": "The expression on the sly means secretly, often because an action is dishonest or prohibited.",
+            "synonyms": [
+              {
+                "term": "cunning",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "also emphasizes cleverness used to achieve a goal"
+              },
+              {
+                "term": "sneaky",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "more informal and openly disapproving"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "straightforward",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "open and honest about intentions"
+              }
+            ]
+          },
+          {
+            "definition": "Suggesting that you know a secret or are quietly amused.",
+            "example": "She gave him a sly grin but refused to explain the joke.",
+            "synonyms": [
+              {
+                "term": "knowing",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "suggests awareness of information that others may not have"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  }
+]

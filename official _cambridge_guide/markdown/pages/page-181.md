@@ -1,0 +1,44 @@
+## PDF page 181
+
+<!-- source-pdf-page: 181 -->
+
+Test 2
+
+### READING PASSAGE 2
+
+You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 on the following pages.
+
+#### Questions 14-19
+
+The text on the following pages has six paragraphs, A-F.
+
+Choose the correct heading for each paragraph from the list of headings (i-ix) below.
+
+Write the correct number, i-ix, in boxes 14-19 on your answer sheet.
+
+|List|of Headings|
+|---|---|
+|i|Tackling the issue using a different approach|
+|ii|Asignificant improvement on last time|
+|iii|How robots can save human lives|
+|iv|Examples of robots at work|
+|v___|Not what it seemed to be|
+|vi|Why timescales are impossible to predict|
+|vii|The reason why robots rarely move|
+|viii|Following the pattern ofan earlierdevelopment|
+|ix|Theethicalissuesofrobotics|
+
+
+- 14 ParagraphA
+
+- 15 Paragraph B
+
+- 16 Paragraph C
+
+- 17 Paragraph D
+
+- 18 Paragraph E
+
+- 19 Paragraph F
+
+180

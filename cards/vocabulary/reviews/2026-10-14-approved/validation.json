@@ -1,0 +1,25 @@
+{
+  "reviewed_notes": 21,
+  "new_notes": 20,
+  "updated_notes": [
+    "turnout"
+  ],
+  "merged_members": [
+    "drive",
+    "turn out",
+    "stave off",
+    "condemn"
+  ],
+  "unchanged_export_rows": 242,
+  "validation": {
+    "master": 265,
+    "active": 190,
+    "receptive": 73,
+    "skip": 2,
+    "exported": 263
+  },
+  "comparisons": 15,
+  "normal_notes": 6,
+  "html_balanced": true,
+  "source_definitions_preserved": true
+}

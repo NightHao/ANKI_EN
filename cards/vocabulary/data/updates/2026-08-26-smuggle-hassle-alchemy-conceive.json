@@ -1,0 +1,206 @@
+[
+  {
+    "term": "smuggle",
+    "observed_forms": ["smuggling"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["verb"],
+    "pronunciation": "/ˈsmʌɡəl/",
+    "tts_text": "smuggle",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-08-26",
+    "sources": ["direct user submission"],
+    "classification_reason": "A useful verb for crime, border control, and the common less-serious idea of secretly bringing a prohibited item somewhere; productive in news, IELTS, and conversation.",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To secretly and illegally take goods or people into or out of a country or place.",
+            "example": "They were arrested for trying to smuggle drugs across the border.",
+            "usage_note": "Common patterns include smuggle something or someone into, out of, or across a place. The -ing form smuggling can name the illegal activity.",
+            "synonyms": [
+              {
+                "term": "traffic",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "usually refers to organized illegal trade rather than one act of secret transport"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "To secretly take something into or out of a place where it is prohibited.",
+            "example": "She smuggled some snacks into the movie theater.",
+            "synonyms": [
+              {
+                "term": "sneak",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader and often less serious; it does not necessarily involve prohibited transport"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "hassle",
+    "observed_forms": ["hassle"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["noun", "verb"],
+    "pronunciation": "/ˈhæsəl/",
+    "tts_text": "hassle",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-08-26",
+    "sources": ["direct user submission"],
+    "classification_reason": "A common, productive word for inconvenience and repeated unwanted pressure, especially in conversation and informal professional communication.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "An annoying problem or process that requires unnecessary time or effort.",
+            "example": "Getting the incorrect charge removed was a hassle.",
+            "synonyms": [
+              {
+                "term": "inconvenience",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more neutral and slightly more formal"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To repeatedly bother or pressure someone.",
+            "example": "The salesperson kept hassling me to sign up.",
+            "usage_note": "Common patterns include hassle someone about something and hassle someone to do something.",
+            "synonyms": [
+              {
+                "term": "bother",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader and usually less forceful"
+              },
+              {
+                "term": "harass",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "considerably stronger and potentially more serious"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "alchemy",
+    "observed_forms": ["alchemy"],
+    "priority": "RECEPTIVE",
+    "parts_of_speech": ["noun"],
+    "pronunciation": "/ˈælkəmi/",
+    "tts_text": "alchemy",
+    "frequency_band": "UNCOMMON",
+    "daily_relevance": "LOW",
+    "ielts_relevance": "LOW",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "HIGH",
+    "seen_date": "2026-08-26",
+    "sources": ["direct user submission"],
+    "classification_reason": "A recognizable historical, fantasy, and literary noun with useful figurative use, but limited productive value in everyday or professional English.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "An early practice combining philosophy, experimentation, and mysticism, especially in attempts to transform ordinary metals into gold.",
+            "example": "Alchemy was practiced for centuries before the development of modern chemistry.",
+            "usage_note": "Alchemy is not another name for modern chemistry; its historical meaning involves mystical beliefs.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A seemingly magical process that transforms ordinary things into something special or valuable.",
+            "example": "The chef's alchemy transformed a few simple ingredients into an unforgettable meal.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "conceive",
+    "observed_forms": ["conceive"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["verb"],
+    "pronunciation": "/kənˈsiv/",
+    "tts_text": "conceive",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-08-26",
+    "sources": ["direct user submission"],
+    "classification_reason": "A productive verb in professional and academic English for imagining possibilities and developing ideas, with an additional common reproductive meaning.",
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To imagine or understand a possible situation or idea.",
+            "example": "I cannot conceive of managing such a large project without a clear plan.",
+            "usage_note": "Conceive of is more formal than imagine and is followed by a noun or an -ing form.",
+            "synonyms": [
+              {
+                "term": "imagine",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more common and less formal"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "To develop or create an idea, plan, or project.",
+            "example": "The program was originally conceived as a temporary solution.",
+            "usage_note": "Often used in the passive pattern be conceived as something.",
+            "synonyms": [
+              {
+                "term": "devise",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "emphasizes carefully developing a plan or method"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "To become pregnant with a child.",
+            "example": "The couple had difficulty conceiving.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  }
+]

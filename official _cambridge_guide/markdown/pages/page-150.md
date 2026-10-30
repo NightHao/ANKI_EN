@@ -1,0 +1,43 @@
+## PDF page 150
+
+<!-- source-pdf-page: 150 -->
+
+|
+
+### 4 Checking, correcting and assessing
+
+In this unit you will practise:
+
+- dealing with problems
+
+- pronunciation and intonation
+
+- running words together (chunking)
+
+- assessing your level
+
+#### 1 Dealing with problems
+
+- 1.1 | PPVideo14 Watch five extracts from different interviews and decide which of the problems (A—D) each candidate is experiencing. There may be more than one possible answer and you may use any letter more than once. Problems = A_ B_ the candidate doesn’t understand the question the candidate hasn't heard the question properly
+
+- C the candidate has made a mistake D the candidate isn't sure how to answer
+
+Test Tip Listen carefully to the examiner's questions to make sure that you answer them fully and appropriately. Don’t be too shy to ask for help in the interview if you need it
+
+   - 1 Emanuele: 4 Saida: 2 Saida: 5 Melanie: 3 Melanie:
+
+- 1.2 Watch again and notice how the candidate responds to the problem. Choose the correct letter (A—D).
+
+##### Candidate’s response to the problem
+
+   - A the candidate stays silent
+
+   - B_ the candidate attempts an answer but is hesitant
+
+   - C the candidate asks a question to check D_ the candidate corrects him/herself
+
+- 1.3 Which of these ways of dealing with problems do you think could give you a lower mark? Why?
+
+- 1.4 What did the examiner do in extracts 1 and 2 to help keep the candidate talking?
+
+149

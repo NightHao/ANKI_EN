@@ -1,0 +1,3786 @@
+[
+  {
+    "term": "at a loss",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ət ə ˈlɔs/",
+    "tts_text": "at a loss",
+    "observed_forms": [
+      "at a loss",
+      "at a loss as to + how/what/why",
+      "at a loss for words"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Unsure what to say or do.",
+            "example": "I was at a loss as to how to explain the unexpected result.",
+            "synonyms": [
+              {
+                "term": "unsure",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "about what to do or say"
+              },
+              {
+                "term": "bewildered",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "can imply stronger confusion"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "certain",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "about the next action"
+              }
+            ],
+            "usage_note": "Common patterns: be at a loss; be at a loss for words; be at a loss as to + what/how/why-clause. At a loss for words specifically means unable to think of something to say: I was at a loss for words when I heard the news."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "One idiom: be at a loss; be at a loss for words; be at a loss as to what/how/why. The X-marked variants are supporting content, not additional notes."
+  },
+  {
+    "term": "catch someone off guard",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ˌkætʃ ˌsʌmwʌn ɔf ˈɡɑrd/",
+    "tts_text": "catch someone off guard",
+    "observed_forms": [
+      "catch someone off guard",
+      "be caught off guard"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Surprise someone when they are unprepared.",
+            "example": "The follow-up question caught me off guard.",
+            "synonyms": [
+              {
+                "term": "take someone by surprise",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: catch + person + off guard; be caught off guard. Passive: We were caught off guard by the sudden change. Being put on the spot emphasizes pressure to respond, which need not involve surprise."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Be surprised and unprepared; keep distinct from being required to answer publicly."
+  },
+  {
+    "term": "put someone on the spot",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ˌpʊt ˌsʌmwʌn ɑn ðə ˈspɑt/",
+    "tts_text": "put someone on the spot",
+    "observed_forms": [
+      "put someone on the spot",
+      "be put on the spot"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Make someone answer or act immediately in a difficult or embarrassing situation.",
+            "example": "Asking her to defend the estimate without warning put her on the spot.",
+            "synonyms": [
+              {
+                "term": "pressure",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader; does not specifically require an immediate response"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: put + person + on the spot; be put on the spot. Passive: I was put on the spot during the meeting. This emphasizes pressure to respond; catch someone off guard emphasizes surprise and lack of preparation."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Require an immediate answer or decision, often under social pressure. This can happen without surprise; it is not the same meaning as catch off guard."
+  },
+  {
+    "term": "pile up",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "phrasal verb"
+    ],
+    "pronunciation": "/ˌpaɪl ˈʌp/",
+    "tts_text": "pile up",
+    "observed_forms": [
+      "pile up",
+      "has/have piled up",
+      "has/have been piling up"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Accumulate into a growing amount.",
+            "example": "My unfinished tasks have piled up.",
+            "synonyms": [
+              {
+                "term": "accumulate",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "build up",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: tasks/emails pile up; have piled up; have been piling up; pile up + things. Different forms, same expression: When tasks pile up, I get overwhelmed. / My work has been piling up all week."
+          },
+          {
+            "definition": "Put things together in a pile.",
+            "example": "We piled up the empty boxes by the door.",
+            "synonyms": [
+              {
+                "term": "stack",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "usually suggests a more orderly arrangement"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "One phrasal verb: accumulate; include Tasks pile up / have piled up / have been piling up. The later X-marked repetition is not a veto on the explicitly retained earlier entry."
+  },
+  {
+    "term": "all along",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adverbial phrase"
+    ],
+    "pronunciation": "/ˌɔl əˈlɔŋ/",
+    "tts_text": "all along",
+    "observed_forms": [
+      "all along",
+      "I've been + V-ing + all along"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adverbial phrase",
+        "senses": [
+          {
+            "definition": "Throughout the relevant period, often understood or revealed later.",
+            "example": "The answer was in the documentation all along.",
+            "synonyms": [
+              {
+                "term": "the whole time",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: know/suspect something all along; be there all along; usually placed near the end of the clause. Not restricted to one tense: I knew something was wrong all along. It often appears near the end of the clause."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Throughout the relevant period, often with a later realization. It works with different tenses; it is not a present-perfect-continuous-only grammar frame."
+  },
+  {
+    "term": "off the top of one's head",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ɔf ðə ˌtɑp əv wʌnz ˈhɛd/",
+    "tts_text": "off the top of my head",
+    "observed_forms": [
+      "off the top of one's head",
+      "off the top of my head"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "From memory, without checking or preparing.",
+            "example": "Off the top of my head, there are three options.",
+            "synonyms": [
+              {
+                "term": "from memory",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "does not always imply an unprepared answer"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: off the top of my/your head; off the top of my head, + clause. Change the possessive: Can you name a few examples off the top of your head?"
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "put something into words",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ˌpʊt ˌsʌmθɪŋ ˌɪntu ˈwɝdz/",
+    "tts_text": "put something into words",
+    "observed_forms": [
+      "put something into words",
+      "I can't find the right words"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Express a thought or feeling in spoken or written language.",
+            "example": "It's hard to put that feeling into words.",
+            "synonyms": [
+              {
+                "term": "express",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "when the sentence is restructured"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: put + thought/feeling/idea + into words; find the right words is a related expression. Related expression: I know what I mean, but I cannot find the right words. This describes difficulty expressing an idea, not another meaning of put."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Express a thought or feeling verbally. Keep I cannot find the right words as a related example/near paraphrase, not a second target or a purported literal instance of put."
+  },
+  {
+    "term": "wriggle",
+    "priority": "RECEPTIVE",
+    "parts_of_speech": [
+      "verb"
+    ],
+    "pronunciation": "/ˈrɪɡəl/",
+    "tts_text": "wriggle",
+    "observed_forms": [
+      "wriggle"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Move with small, repeated twists of the body or a body part.",
+            "example": "The child wriggled out of the chair.",
+            "synonyms": [
+              {
+                "term": "wiggle",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "squirm",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "often suggests discomfort or embarrassment"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: wriggle out of + place/clothing; wriggle free. Writhe often describes twisting because of pain or distress; wriggle does not require pain."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Small repeated twisting movements; distinct from existing writhe, which commonly describes pain or distress. Lower priority for production."
+  },
+  {
+    "term": "contort",
+    "priority": "RECEPTIVE",
+    "parts_of_speech": [
+      "verb"
+    ],
+    "pronunciation": "/kənˈtɔrt/",
+    "tts_text": "contort",
+    "observed_forms": [
+      "contort"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Twist, or cause something to twist, into an unusual or strained shape.",
+            "example": "The dancer contorted her body to fit through the opening.",
+            "synonyms": [
+              {
+                "term": "twist",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "distort",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "broader; can describe nonphysical changes"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: contort your body/face; be contorted with pain. The shape or strain matters; movement need not be repeated. Her face was contorted with pain."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "UNCOMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Twist into a strained or unusual shape; not a duplicate of writhe. Recognition is sufficient for now."
+  },
+  {
+    "term": "rinse",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "verb",
+      "noun"
+    ],
+    "pronunciation": "/rɪns/",
+    "tts_text": "rinse",
+    "observed_forms": [
+      "rinse",
+      "rinse one's mouth with + liquid"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Wash something briefly with liquid, often to remove soap or small particles.",
+            "example": "I rinsed my mouth with water.",
+            "synonyms": [
+              {
+                "term": "wash",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader; may involve soap or a more thorough cleaning"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: rinse your mouth with + liquid; rinse + object; rinse something out/off. Also: Rinse the cup out. / Rinse the soap off your hands. Gargling moves liquid around the back of the throat; rinsing your mouth does not require that."
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A brief wash with liquid.",
+            "example": "Give the cup a quick rinse before using it.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Wash something briefly with liquid; include rinse your mouth with water, rinse a cup, rinse something out. Not the same action as gargling."
+  },
+  {
+    "term": "gargle",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "verb"
+    ],
+    "pronunciation": "/ˈɡɑrɡəl/",
+    "tts_text": "gargle",
+    "observed_forms": [
+      "gargle",
+      "gargle with + liquid"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Move liquid around the back of your throat while breathing out, making a bubbling sound.",
+            "example": "She gargled with warm salt water.",
+            "synonyms": [],
+            "antonyms": [],
+            "usage_note": "Common patterns: gargle with + liquid; gargle with warm salt water. Rinsing your mouth washes the mouth; gargling specifically involves the back of the throat."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Move liquid around the back of the throat, often making a sound; gargle with warm salt water. Keep separate from rinse unless a full two-term contrast is later chosen."
+  },
+  {
+    "term": "covers",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "plural noun"
+    ],
+    "pronunciation": "/ˈkʌvərz/",
+    "tts_text": "covers",
+    "observed_forms": [
+      "covers",
+      "pull up the covers",
+      "kick off the covers"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "plural noun",
+        "senses": [
+          {
+            "definition": "Sheets, blankets, or other bedding used to cover a person in bed.",
+            "example": "I pulled up the covers because I was cold.",
+            "synonyms": [
+              {
+                "term": "bedcovers",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: pull up the covers; kick off the covers; get under the covers. Also: I kicked off the covers in my sleep. Keep the plural in this bedding expression."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Plural noun for bedding over a person; demonstrate pull up the covers and kick off the covers. Existing bed linens does not teach these actions or this headword."
+  },
+  {
+    "term": "take up",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "phrasal verb"
+    ],
+    "pronunciation": "/ˌteɪk ˈʌp/",
+    "tts_text": "take up",
+    "observed_forms": [
+      "take up",
+      "take up + space/time"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Use an amount of space or time.",
+            "example": "This monitor takes up half the desk.",
+            "synonyms": [
+              {
+                "term": "occupy",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "often overlaps for space or time"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "free up",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "make space or time available"
+              }
+            ],
+            "usage_note": "Common patterns: take up + space/time; take up half the desk; take up too much time. Also: Meetings take up too much of my time. Take up space and occupy space are both natural."
+          },
+          {
+            "definition": "Begin doing an activity, especially regularly.",
+            "example": "She took up swimming after moving to the coast.",
+            "synonyms": [
+              {
+                "term": "start",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "give up",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "stop an activity"
+              }
+            ]
+          },
+          {
+            "definition": "Accept an offer or opportunity.",
+            "example": "I decided to take up the offer of extra training.",
+            "synonyms": [
+              {
+                "term": "accept",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "decline",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "an offer"
+              }
+            ]
+          },
+          {
+            "definition": "Begin discussing or dealing with an issue.",
+            "example": "I will take the billing issue up with support.",
+            "synonyms": [
+              {
+                "term": "raise",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "an issue for discussion"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "For an issue: take something up with someone. Keep the pronoun between take and up: take it up with support."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Use space or time; take up half the desk / too much time. Separate from occupy by default: same broad situation is not identical lexical identity."
+  },
+  {
+    "term": "occupy",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "verb"
+    ],
+    "pronunciation": "/ˈɑkjəˌpaɪ/",
+    "tts_text": "occupy",
+    "observed_forms": [
+      "occupy",
+      "occupy + space/position"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Fill or use a space, or hold a position.",
+            "example": "The cabinet occupies most of the room.",
+            "synonyms": [
+              {
+                "term": "take up",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for space; not a substitute in every role context"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "vacate",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "a space or position"
+              }
+            ],
+            "usage_note": "Common patterns: occupy + space/position; occupy most of the room; occupy a senior role. Also: She occupies a senior position at the company."
+          },
+          {
+            "definition": "Keep someone busy or use their time or attention.",
+            "example": "The migration occupied most of our time that week.",
+            "synonyms": [
+              {
+                "term": "take up",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for time"
+              },
+              {
+                "term": "keep busy",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for a person; requires a different construction"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "Take or maintain control of a place, especially with armed forces.",
+            "example": "Foreign troops occupied the city.",
+            "synonyms": [
+              {
+                "term": "take control of",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "also has broader nonmilitary uses"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "withdraw from",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "a territory"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Fill or use space/time or hold a role/position. Can overlap with take up for space/time; do not invent an absolute distinction."
+  },
+  {
+    "term": "clutter",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "verb",
+      "noun"
+    ],
+    "pronunciation": "/ˈklʌtər/",
+    "tts_text": "clutter",
+    "observed_forms": [
+      "clutter",
+      "clutter + space/screen",
+      "be cluttered with + things"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Fill a space with too many things, making it untidy or difficult to use.",
+            "example": "Too many notifications clutter the screen.",
+            "synonyms": [
+              {
+                "term": "crowd",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "does not always imply untidiness"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: clutter + desk/screen/space; be cluttered with + things; reduce clutter. Passive/adjectival form: The desk is cluttered with papers."
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A collection of things that makes a place untidy or difficult to use.",
+            "example": "We removed the clutter from the dashboard.",
+            "synonyms": [
+              {
+                "term": "mess",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "One noun/verb entry: clutter the screen; a screen cluttered with notifications. The passive/adjectival form is supporting usage, not another card."
+  },
+  {
+    "term": "scrape by",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "phrasal verb"
+    ],
+    "pronunciation": "/ˌskreɪp ˈbaɪ/",
+    "tts_text": "scrape by",
+    "observed_forms": [
+      "scrape by"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Manage to live or continue with barely enough money or resources.",
+            "example": "He can barely scrape by on his salary.",
+            "synonyms": [
+              {
+                "term": "get by",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "does not always emphasize severe shortage"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "live comfortably",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for having enough money"
+              }
+            ],
+            "usage_note": "Common patterns: scrape by on + income; barely scrape by. A distinct phrasal verb; scrape by on + income or resources."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Manage with barely enough money/resources: scrape by on a low salary. A distinct phrasal verb, not just an inflected form of scrape."
+  },
+  {
+    "term": "detail-oriented",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˈditeɪlˌɔriɛntɪd/",
+    "tts_text": "detail-oriented",
+    "observed_forms": [
+      "detail-oriented"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Careful about small details.",
+            "example": "She's a detail-oriented engineer.",
+            "synonyms": [
+              {
+                "term": "meticulous",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "often emphasizes especially thorough, precise work"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "careless",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "in attention to detail"
+              }
+            ],
+            "usage_note": "Common patterns: a detail-oriented + person/professional; be detail-oriented. Meticulous and detail-oriented overlap; do not force a distinction when either naturally describes careful work."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27.",
+      "American pronunciation checked: https://dictionary.cambridge.org/pronunciation/english/detail-oriented"
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "meticulous",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/məˈtɪkjələs/",
+    "tts_text": "meticulous",
+    "observed_forms": [
+      "meticulous"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Very careful and thorough, with close attention to detail.",
+            "example": "He's meticulous about documentation.",
+            "synonyms": [
+              {
+                "term": "thorough",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "detail-oriented",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for a person or approach"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "sloppy",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for work"
+              },
+              {
+                "term": "careless",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ],
+            "usage_note": "Common patterns: meticulous about + noun/V-ing; meticulous planning/documentation. Meticulous about + noun/V-ing; meticulous planning. Detail-oriented and meticulous overlap in describing careful work."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Very careful and thorough: meticulous about documentation / meticulous planning. Related to detail-oriented, but not just a grammar variation."
+  },
+  {
+    "term": "absent-minded",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˌæbsəntˈmaɪndɪd/",
+    "tts_text": "absent-minded",
+    "observed_forms": [
+      "absent-minded"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Forgetful or inattentive because your thoughts are elsewhere.",
+            "example": "I've been so absent-minded lately.",
+            "synonyms": [
+              {
+                "term": "forgetful",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader; does not identify distraction as the cause"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "attentive",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "paying attention to what is happening"
+              }
+            ],
+            "usage_note": "Common patterns: an absent-minded + person; be/seem absent-minded."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "sloppy",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˈslɑpi/",
+    "tts_text": "sloppy",
+    "observed_forms": [
+      "sloppy"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Careless or insufficiently thorough in work or execution.",
+            "example": "The implementation is sloppy.",
+            "synonyms": [
+              {
+                "term": "careless",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "slipshod",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more critical and less conversational"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "meticulous",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              },
+              {
+                "term": "careful",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ],
+            "usage_note": "Common patterns: sloppy work/code; a sloppy implementation; be sloppy about + task."
+          },
+          {
+            "definition": "Messy or untidy in appearance.",
+            "example": "He arrived in a sloppy, oversized sweatshirt.",
+            "synonyms": [
+              {
+                "term": "messy",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "untidy",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "neat",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "negligent",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˈnɛɡlɪdʒənt/",
+    "tts_text": "negligent",
+    "observed_forms": [
+      "negligent"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Failing to give the care or attention that a duty or situation requires.",
+            "example": "The contractor was negligent in maintaining the equipment.",
+            "synonyms": [
+              {
+                "term": "careless",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader and often less serious"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "diligent",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "in carrying out a duty"
+              }
+            ],
+            "usage_note": "Common patterns: be negligent in + duty/V-ing; negligent conduct; a negligent contractor. Stronger than simply messy or sloppy; it suggests a failure of required care."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Failing to exercise required care; useful for serious professional criticism, with stronger implications than merely messy/sloppy work."
+  },
+  {
+    "term": "reckless",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˈrɛkləs/",
+    "tts_text": "reckless",
+    "observed_forms": [
+      "reckless"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Taking risks without enough concern for possible harm or consequences.",
+            "example": "Releasing the change without a backup was reckless.",
+            "synonyms": [
+              {
+                "term": "rash",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "often emphasizes acting without enough thought"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "cautious",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ],
+            "usage_note": "Common patterns: reckless behavior/driving; a reckless decision; be reckless with + resource/safety. Reckless behavior involves disregard for risk; careless behavior need not involve a dangerous risk."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "cynical",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˈsɪnɪkəl/",
+    "tts_text": "cynical",
+    "observed_forms": [
+      "cynical"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Distrustful of people’s sincerity, honesty, or motives.",
+            "example": "He's cynical about the company's promises.",
+            "synonyms": [
+              {
+                "term": "distrustful",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader; not limited to beliefs about motives"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "trusting",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "of people’s motives"
+              }
+            ],
+            "usage_note": "Common patterns: be cynical about + promise/politics/motives; a cynical attitude. Skeptical doubts a claim; cynical often questions whether people mean what they say. Both can fit a promise, with different emphasis."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Distrustful of sincerity or motives. Contrast briefly with skeptical, which doubts a claim; grammar similarity is no reason to merge them automatically."
+  },
+  {
+    "term": "skeptical",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˈskɛptɪkəl/",
+    "tts_text": "skeptical",
+    "observed_forms": [
+      "skeptical"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Having doubts about whether a claim or idea is true or convincing.",
+            "example": "I'm skeptical of that benchmark claim.",
+            "synonyms": [
+              {
+                "term": "doubtful",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "convinced",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "by a particular claim"
+              }
+            ],
+            "usage_note": "Common patterns: be skeptical of/about + claim/idea; remain skeptical. Skeptical of/about a claim. This need not imply distrust of the speaker’s motives; cynical more often does."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "apprehensive",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˌæprɪˈhɛnsɪv/",
+    "tts_text": "apprehensive",
+    "observed_forms": [
+      "apprehensive"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Worried or uneasy about something that may happen.",
+            "example": "I'm apprehensive about the interview.",
+            "synonyms": [
+              {
+                "term": "anxious",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "overlaps for worry about a future event"
+              },
+              {
+                "term": "uneasy",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "confident",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "about an upcoming event"
+              }
+            ],
+            "usage_note": "Common patterns: be apprehensive about + noun/V-ing; feel apprehensive."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "modest / humble",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "modest: adjective",
+      "humble: adjective · verb"
+    ],
+    "pronunciation": "modest: /ˈmɑdəst/<br>humble: /ˈhʌmbəl/",
+    "tts_text": "modest. humble.",
+    "observed_forms": [
+      "modest / humble"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Not boasting about your achievements or abilities.",
+            "example": "She remained modest about her achievements.",
+            "synonyms": [
+              {
+                "term": "humble",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "overlaps in not boasting"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "boastful",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          },
+          {
+            "definition": "Not very large, expensive, or ambitious.",
+            "example": "We made a modest improvement in response time.",
+            "synonyms": [
+              {
+                "term": "limited",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for size or extent"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "substantial",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for an amount or improvement"
+              }
+            ]
+          }
+        ],
+        "entry_term": "modest",
+        "common_patterns": "be modest about + achievements; a modest budget/improvement",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "Someone has achieved something without boasting.",
+              "examples": "“She is modest about her success.” / “She remains humble despite her success.”",
+              "guidance": "Both are natural. Modest often highlights how someone presents achievements; humble can emphasize their attitude toward themselves."
+            },
+            {
+              "situation": "You describe a small amount or limited change.",
+              "examples": "“We made a modest improvement.”",
+              "guidance": "Modest is the ordinary choice for a limited amount; humble does not usually describe the size of an improvement."
+            },
+            {
+              "situation": "You describe simple circumstances.",
+              "examples": "“They lived in a modest home.” / “They lived in a humble home.”",
+              "guidance": "Both can describe simplicity. Humble can draw more attention to low status or lack of luxury."
+            }
+          ],
+          "note": "Modest and humble overlap when describing someone who does not boast. Neither word automatically means lacking confidence. Keep their other senses distinct: a modest increase; humble beginnings; an experience that humbled someone."
+        }
+      },
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Not treating yourself as more important than other people.",
+            "example": "He stayed humble despite his success.",
+            "synonyms": [
+              {
+                "term": "modest",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "overlaps in not boasting"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "arrogant",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          },
+          {
+            "definition": "Simple or low in social status.",
+            "example": "She came from humble beginnings.",
+            "synonyms": [
+              {
+                "term": "modest",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for simple circumstances"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "humble",
+        "common_patterns": "remain/stay humble; humble beginnings; a humble home; be humbled by + experience"
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Make someone feel less proud or more aware of their limits.",
+            "example": "The defeat humbled the team.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "humble"
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Preserve the learner-facing source grouping as one proposed contrast note. Lead with overlap about not boasting; include modest about achievements and humble despite success."
+  },
+  {
+    "term": "get the upper hand",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ɡɛt ði ˌʌpər ˈhænd/",
+    "tts_text": "get the upper hand",
+    "observed_forms": [
+      "get the upper hand"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Gain an advantage or control over an opponent.",
+            "example": "We got the upper hand during negotiations.",
+            "synonyms": [
+              {
+                "term": "gain an advantage",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "lose the advantage",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ],
+            "usage_note": "Common patterns: get/gain/have the upper hand; get the upper hand in + situation; have the upper hand over + opponent. Get/gain the upper hand describes gaining it; have the upper hand describes the resulting advantage."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "capitalize on",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "phrasal verb"
+    ],
+    "pronunciation": "/ˈkæpɪtəˌlaɪz ɑn/",
+    "tts_text": "capitalize on",
+    "observed_forms": [
+      "capitalize on",
+      "capitalize on + opportunity"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Use an opportunity or favorable development to your advantage.",
+            "example": "We capitalized on the surge in demand.",
+            "synonyms": [
+              {
+                "term": "take advantage of",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for a favorable situation"
+              },
+              {
+                "term": "exploit",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "can sound more calculating"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: capitalize on + opportunity/success/trend; capitalize on a surge in demand. Take advantage of often works in the same opportunity context. Capitalize on is especially common in business or strategic discussion."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Use an opportunity or favorable development to advantage. Related to existing take advantage of, but no dedicated capitalize on entry; do not confuse shared meaning with learned lexical form."
+  },
+  {
+    "term": "leverage",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "verb",
+      "noun"
+    ],
+    "pronunciation": "/ˈlɛvərɪdʒ/",
+    "tts_text": "leverage",
+    "observed_forms": [
+      "leverage",
+      "leverage + resource + to + verb"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Use a resource, strength, or advantage to achieve a result.",
+            "example": "We leveraged existing tests to speed up development.",
+            "synonyms": [
+              {
+                "term": "make use of",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "use",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader and less focused on gaining an advantage"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: leverage + resource + to + verb; leverage existing tests/experience/data."
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "An advantage or influence that can help someone obtain a result.",
+            "example": "The competing offer gave her leverage in the negotiation.",
+            "synonyms": [
+              {
+                "term": "influence",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for affecting a decision"
+              },
+              {
+                "term": "bargaining power",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27.",
+      "American pronunciation checked: https://dictionary.cambridge.org/us/pronunciation/english/leverage"
+    ],
+    "classification_reason": "Use a resource to achieve something: leverage existing tests to speed up delivery. Its meaning is not supplied by the generic purpose infinitive."
+  },
+  {
+    "term": "make use of",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ˌmeɪk ˈjus əv/",
+    "tts_text": "make use of",
+    "observed_forms": [
+      "make use of",
+      "make use of + resource",
+      "make good use of + resource"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Use something that is available.",
+            "example": "Make use of the existing helper library.",
+            "synonyms": [
+              {
+                "term": "use",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: make use of + resource; make good use of + time/opportunity. Make good use of emphasizes effective use: Make good use of your speaking opportunities."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Use something available; make good use of is the effective-use variant. One expression family, not one note per inserted adjective."
+  },
+  {
+    "term": "place emphasis on",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "phrase"
+    ],
+    "pronunciation": "/ˌpleɪs ˈɛmfəsɪs ɑn/",
+    "tts_text": "place emphasis on",
+    "observed_forms": [
+      "place emphasis on",
+      "place emphasis on + noun"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "phrase",
+        "senses": [
+          {
+            "definition": "Give something particular importance or attention.",
+            "example": "We place emphasis on reliability.",
+            "synonyms": [
+              {
+                "term": "emphasize",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "with the construction adjusted"
+              },
+              {
+                "term": "stress",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "as a verb"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "downplay",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "give something less importance"
+              }
+            ],
+            "usage_note": "Common patterns: place/put emphasis on + noun/V-ing; place greater emphasis on + priority. Put emphasis on is also natural. Place greater emphasis on + noun/V-ing."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Give something particular importance; place/put emphasis on reliability. Incidental example occurrences do not count as a dedicated existing target."
+  },
+  {
+    "term": "broaden one's horizons",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ˌbrɔdən wʌnz həˈraɪzənz/",
+    "tts_text": "broaden my horizons",
+    "observed_forms": [
+      "broaden one's horizons",
+      "broaden my horizons"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Expand your knowledge, experience, or understanding of the world.",
+            "example": "Traveling abroad broadened my horizons.",
+            "synonyms": [
+              {
+                "term": "expand one's perspective",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "emphasizes outlook rather than all kinds of experience"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "narrow one's outlook",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for reducing openness to other experiences or ideas"
+              }
+            ],
+            "usage_note": "Common patterns: broaden my/your/their horizons; travel/work/study can broaden someone’s horizons."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "fall short of",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ˌfɔl ˈʃɔrt əv/",
+    "tts_text": "fall short of",
+    "observed_forms": [
+      "fall short of",
+      "fall short of + standard"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Fail to reach a target, standard, or expectation.",
+            "example": "The results fell short of expectations.",
+            "synonyms": [
+              {
+                "term": "fail to meet",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "a target or standard"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "exceed",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "a target or standard"
+              }
+            ],
+            "usage_note": "Common patterns: fall short of + expectations/target/standard; fall well short of + goal. Can describe a small or large gap: fall just/well short of the target."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "work toward",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "phrase"
+    ],
+    "pronunciation": "/ˌwɝk təˈwɔrd/",
+    "tts_text": "work toward",
+    "observed_forms": [
+      "work toward",
+      "work toward + goal"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "phrase",
+        "senses": [
+          {
+            "definition": "Make an effort or progress in the direction of a goal.",
+            "example": "We are working toward a more reliable release process.",
+            "synonyms": [
+              {
+                "term": "pursue",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for a goal; change the construction"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: work toward + goal/outcome; work toward + V-ing. Toward is usual in American English; towards is also accepted. Work toward reducing failures."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "alongside",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "preposition",
+      "adverb"
+    ],
+    "pronunciation": "/əˌlɔŋˈsaɪd/",
+    "tts_text": "alongside",
+    "observed_forms": [
+      "alongside",
+      "alongside + person/thing"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "preposition",
+        "senses": [
+          {
+            "definition": "Beside someone or something.",
+            "example": "A narrow path runs alongside the canal.",
+            "synonyms": [
+              {
+                "term": "beside",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "next to",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: alongside + person/thing; work alongside + colleague/team; alongside + another activity."
+          },
+          {
+            "definition": "Together with someone, often while working or cooperating.",
+            "example": "I worked alongside engineers overseas.",
+            "synonyms": [
+              {
+                "term": "with",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader"
+              },
+              {
+                "term": "together with",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "At the same time as, or in addition to, another activity or thing.",
+            "example": "She studied English alongside her full-time job.",
+            "synonyms": [
+              {
+                "term": "in addition to",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "does not always emphasize simultaneous activity"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "senses": [
+          {
+            "definition": "Beside someone or something, with the reference understood.",
+            "example": "A small boat pulled up alongside.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Spatial alongside is already an accepted alternative in the connection deck; collaborative work alongside engineers is a useful additional sense. Give the word a compact entry covering both rather than enlarge the already long position overview."
+  },
+  {
+    "term": "evergreen",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective",
+      "noun"
+    ],
+    "pronunciation": "/ˈɛvərˌɡrin/",
+    "tts_text": "evergreen",
+    "observed_forms": [
+      "evergreen",
+      "evergreen (content)"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Remaining useful or relevant over time, especially for content or information.",
+            "example": "We need more evergreen documentation.",
+            "synonyms": [
+              {
+                "term": "timeless",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "can emphasize lasting appeal rather than practical relevance"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "dated",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for content that no longer feels current"
+              }
+            ],
+            "usage_note": "Common patterns: evergreen content/documentation/advice; keep content evergreen."
+          },
+          {
+            "definition": "Keeping green leaves throughout the year.",
+            "example": "Evergreen trees line the path.",
+            "synonyms": [],
+            "antonyms": [
+              {
+                "term": "deciduous",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for trees that lose their leaves seasonally"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A tree or plant that keeps green leaves throughout the year.",
+            "example": "We planted an evergreen near the entrance.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "For content, remaining useful/relevant over time; include evergreen documentation. Normalize the submitted content-specific wording to the adjective."
+  },
+  {
+    "term": "gig",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "noun"
+    ],
+    "pronunciation": "/ɡɪɡ/",
+    "tts_text": "gig",
+    "observed_forms": [
+      "gig",
+      "a gig"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A paid job or engagement, often temporary; informal.",
+            "example": "I got a freelance gig last month.",
+            "synonyms": [
+              {
+                "term": "job",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader"
+              },
+              {
+                "term": "engagement",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for a particular paid assignment or performance"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: a freelance gig; get/land a gig; a gig as + role."
+          },
+          {
+            "definition": "A performance by a musician or other entertainer; informal.",
+            "example": "The band has a gig downtown on Friday.",
+            "synonyms": [
+              {
+                "term": "performance",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "show",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A casual term for a paid job/engagement, often temporary: a freelance gig. Normalize away the article."
+  },
+  {
+    "term": "defect",
+    "priority": "RECEPTIVE",
+    "parts_of_speech": [
+      "noun",
+      "verb"
+    ],
+    "pronunciation": "noun: /ˈdifɛkt/<br>verb: /dɪˈfɛkt/",
+    "tts_text": "a defect. to defect.",
+    "observed_forms": [
+      "defect",
+      "defect to + organization"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A fault or flaw that makes something imperfect or prevents it from working properly.",
+            "example": "The team found a defect in the authentication code.",
+            "synonyms": [
+              {
+                "term": "flaw",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "fault",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: defect from + organization/country; defect to + rival/competitor. Noun patterns: a defect in + product/system; a manufacturing defect."
+          }
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Leave one side or organization to join a rival.",
+            "example": "Several engineers defected to a competitor.",
+            "synonyms": [
+              {
+                "term": "switch sides",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader and often less judgmental"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Can imply disloyalty; changed employers is a more neutral description."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27.",
+      "American pronunciation checked: https://dictionary.cambridge.org/pronunciation/english/defect"
+    ],
+    "classification_reason": "Leave a side or organization for a rival: defect to a competitor / defect from a party. Its disloyalty implication makes it a marked choice rather than the neutral term for changing jobs."
+  },
+  {
+    "term": "gauge",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "verb",
+      "noun"
+    ],
+    "pronunciation": "/ɡeɪdʒ/",
+    "tts_text": "gauge",
+    "observed_forms": [
+      "gauge",
+      "gauge + reaction/performance"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Estimate or assess the amount, strength, or nature of something.",
+            "example": "It's difficult to gauge customer satisfaction.",
+            "synonyms": [
+              {
+                "term": "assess",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "estimate",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: gauge + reaction/interest/performance; gauge how + clause."
+          },
+          {
+            "definition": "Measure something, especially with an instrument.",
+            "example": "The sensor gauges the pressure inside the tank.",
+            "synonyms": [
+              {
+                "term": "measure",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "An instrument that measures and displays an amount or level.",
+            "example": "The fuel gauge showed that the tank was nearly empty.",
+            "synonyms": [
+              {
+                "term": "meter",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for some measuring instruments"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "chronic",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˈkrɑnɪk/",
+    "tts_text": "chronic",
+    "observed_forms": [
+      "chronic",
+      "chronic + problem"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Continuing or repeatedly occurring over a long period.",
+            "example": "Chronic sleep loss can impair concentration.",
+            "synonyms": [
+              {
+                "term": "persistent",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "long-term",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "does not necessarily imply recurring difficulty"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "short-term",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for duration"
+              }
+            ],
+            "usage_note": "Common patterns: a chronic problem; chronic sleep loss; chronic stress. Used for illnesses and continuing problems: chronic pain; a chronic staffing shortage."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "impair",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "verb"
+    ],
+    "pronunciation": "/ɪmˈpɛr/",
+    "tts_text": "impair",
+    "observed_forms": [
+      "impair",
+      "impair + ability/function"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Make an ability, function, or condition less effective.",
+            "example": "A lack of sleep can impair judgment.",
+            "synonyms": [
+              {
+                "term": "weaken",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "damage",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader; can imply lasting harm"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "improve",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "a function or ability"
+              }
+            ],
+            "usage_note": "Common patterns: impair + judgment/concentration/ability/function; be impaired by + cause."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "obsession",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "noun"
+    ],
+    "pronunciation": "/əbˈsɛʃən/",
+    "tts_text": "obsession",
+    "observed_forms": [
+      "obsession",
+      "obsession with + noun"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "An idea, person, or activity that occupies someone’s attention excessively.",
+            "example": "His obsession with productivity is exhausting.",
+            "synonyms": [
+              {
+                "term": "fixation",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "preoccupation",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "can be less intense"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: an obsession with + noun/V-ing; develop an obsession with + subject."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "hazy",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˈheɪzi/",
+    "tts_text": "hazy",
+    "observed_forms": [
+      "hazy"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Unclear or difficult to remember or understand.",
+            "example": "My memory of that day is a little hazy.",
+            "synonyms": [
+              {
+                "term": "vague",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "unclear",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "clear",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ],
+            "usage_note": "Common patterns: a hazy memory; be hazy about/on + details; hazy skies."
+          },
+          {
+            "definition": "Not clear to see through because of mist, smoke, or similar particles.",
+            "example": "The mountains looked hazy in the distance.",
+            "synonyms": [
+              {
+                "term": "misty",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for moisture in the air"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "clear",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "dizzy",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˈdɪzi/",
+    "tts_text": "dizzy",
+    "observed_forms": [
+      "dizzy"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Feeling as though you or your surroundings are spinning, often with a loss of balance.",
+            "example": "I felt dizzy after standing up too quickly.",
+            "synonyms": [
+              {
+                "term": "lightheaded",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "overlaps but often emphasizes feeling faint rather than spinning"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: feel/get dizzy; make someone dizzy. Feel/get dizzy; make someone dizzy."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "scrape / scrap",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "scrape: verb · noun",
+      "scrap: noun · verb"
+    ],
+    "pronunciation": "scrape: /skreɪp/<br>scrap: /skræp/",
+    "tts_text": "scrape. scrap.",
+    "observed_forms": [
+      "scrape / scrap",
+      "scrape vs. scrap"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Rub a surface against something rough, or remove material by rubbing it with a hard edge.",
+            "example": "Scrape the old paint off before repainting the door.",
+            "synonyms": [
+              {
+                "term": "scrub",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "usually repeated rubbing to clean, not necessarily with a hard edge"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "Damage skin or another surface by rubbing it against something rough or sharp.",
+            "example": "I scraped my knee on the pavement.",
+            "synonyms": [
+              {
+                "term": "graze",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for a shallow skin injury"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "scrape",
+        "common_patterns": "scrape your knee; scrape paint off a surface; scrape something against a wall. Scrape by is a separate phrasal verb meaning manage with barely enough.",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "A rough surface damages your skin.",
+              "examples": "“I scraped my knee.”",
+              "guidance": "Use scrape for the rubbing action or shallow injury. Scrap does not describe this injury."
+            },
+            {
+              "situation": "You remove material from a surface.",
+              "examples": "“Scrape the paint off the door.”",
+              "guidance": "Scrape describes how the material is removed."
+            },
+            {
+              "situation": "You decide not to continue a plan.",
+              "examples": "“We scrapped the plan.”",
+              "guidance": "Scrap means abandon or discard; it does not involve rubbing."
+            },
+            {
+              "situation": "You describe a leftover piece.",
+              "examples": "“Write it on a scrap of paper.” / “There is a scrape on my elbow.”",
+              "guidance": "Scrap names a leftover piece; scrape can name a shallow injury."
+            }
+          ],
+          "note": "Scrape /skreɪp/ and scrap /skræp/ have different vowels and meanings. Scrape commonly concerns rubbing, removing, or shallow damage. Scrap commonly concerns leftover/discarded material or abandoning a plan. Scrape by remains a separate phrasal verb."
+        }
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A shallow injury or mark caused by rubbing against something rough.",
+            "example": "She had a small scrape on her elbow.",
+            "synonyms": [
+              {
+                "term": "graze",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for a shallow skin injury"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "scrape"
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A small leftover piece of something.",
+            "example": "Save that scrap of paper.",
+            "synonyms": [
+              {
+                "term": "fragment",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "piece",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "Discarded material that can be reused or recycled.",
+            "example": "The old pipes were sold as scrap.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "scrap",
+        "common_patterns": "a scrap of paper/fabric; scrap metal; food scraps; scrap a plan/proposal"
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Abandon a plan or discard something that is no longer wanted.",
+            "example": "We scrapped the proposal because it was too expensive.",
+            "synonyms": [
+              {
+                "term": "abandon",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for a plan"
+              },
+              {
+                "term": "discard",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "scrap"
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Preserve the source contrast as one note: scrape your knee / scrape paint off; scrap a plan / scrap metal. Scrape by remains its own lexical expression, not merely another tense."
+  },
+  {
+    "term": "it's on me",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ɪts ɑn ˈmi/",
+    "tts_text": "it's on me",
+    "observed_forms": [
+      "it's on me"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "I will pay for the thing just mentioned; conversational.",
+            "example": "Dinner is on me tonight.",
+            "synonyms": [
+              {
+                "term": "I'll pay",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for the payment meaning"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: Dinner/This round is on me; that mistake is on me."
+          },
+          {
+            "definition": "I accept responsibility for what happened; conversational.",
+            "example": "That mistake is on me; I missed the warning.",
+            "synonyms": [
+              {
+                "term": "it's my fault",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for accepting blame"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Context distinguishes paying from responsibility. This one is on me can have either meaning."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Retain the paying meaning: I will pay. The same wording can accept responsibility in context; separate the meanings inside the same expression note, not as duplicate cards."
+  },
+  {
+    "term": "ensure",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "verb"
+    ],
+    "pronunciation": "/ɪnˈʃʊr/",
+    "tts_text": "ensure",
+    "observed_forms": [
+      "ensure",
+      "ensure + outcome/that-clause"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Make certain that something happens or that a condition holds.",
+            "example": "Automated checks help ensure that every change is tested.",
+            "synonyms": [
+              {
+                "term": "make sure",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "guarantee",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "can overlap in making certain, but can also mean making a promise"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: ensure + outcome/condition; ensure that + clause; ensure consistency. Ensure consistency / ensure that tests run. Assure someone that ... addresses a person with a confident statement; ensure that ... concerns making the outcome certain."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Make certain an outcome happens: ensure that tests run / ensure consistency. Existing guarantee note mentions ensure only as a related synonym; that is partial coverage, not a learned entry."
+  },
+  {
+    "term": "go through",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "phrasal verb"
+    ],
+    "pronunciation": "/ˌɡoʊ ˈθru/",
+    "tts_text": "go through",
+    "observed_forms": [
+      "go through",
+      "go through + experience"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Experience or undergo a situation or process, especially a difficult one.",
+            "example": "We went through several interview rounds.",
+            "synonyms": [
+              {
+                "term": "undergo",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: go through + experience/process; go through a difficult time; go through several interview rounds. Also: She went through a difficult time after moving."
+          },
+          {
+            "definition": "Examine, check, or explain something carefully, often step by step.",
+            "example": "Let’s go through the requirements before we start.",
+            "synonyms": [
+              {
+                "term": "review",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "examine",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "Use up a supply, often quickly.",
+            "example": "The printer goes through a lot of ink.",
+            "synonyms": [
+              {
+                "term": "use up",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "Be officially approved or successfully completed.",
+            "example": "The payment went through this morning.",
+            "synonyms": [
+              {
+                "term": "be processed",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for a payment"
+              },
+              {
+                "term": "be approved",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for a proposal"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Experience or undergo a process, especially a difficult one. Other source examples of go through a door or go through an example do not teach this exact lexical sense."
+  },
+  {
+    "term": "overwhelmed",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˌoʊvərˈwɛlmd/",
+    "tts_text": "overwhelmed",
+    "observed_forms": [
+      "overwhelmed",
+      "be overwhelmed by/with + noun"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Feeling unable to cope because there is too much to handle.",
+            "example": "I'm overwhelmed by the number of tasks.",
+            "synonyms": [
+              {
+                "term": "overloaded",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "can describe workload without specifying the feeling"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: be/feel overwhelmed by/with + workload/emotion; overwhelmed by the number of + items. Be/feel overwhelmed by or with work. Both prepositions occur; do not force a distinction in an overlapping context."
+          },
+          {
+            "definition": "Very strongly affected by an emotion or experience.",
+            "example": "She was overwhelmed with gratitude.",
+            "synonyms": [
+              {
+                "term": "overcome",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "by emotion; use the corresponding construction"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Unable to cope because of too much: overwhelmed by/with work. A synonym or an adjective slot alone does not teach the meaning. Also allow strongly affected by positive emotion if useful."
+  },
+  {
+    "term": "the first of its kind",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "phrase"
+    ],
+    "pronunciation": "/ðə ˌfɝst əv ɪts ˈkaɪnd/",
+    "tts_text": "the first of its kind",
+    "observed_forms": [
+      "the first of its kind"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "phrase",
+        "senses": [
+          {
+            "definition": "The first example of a particular type or category.",
+            "example": "The device was the first of its kind in the industry.",
+            "synonyms": [
+              {
+                "term": "pioneering",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "describes innovation but does not guarantee literal firstness"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: be the first of its kind; the first + noun + of its kind. Also: the first device of its kind. Change the possessive for the referent: the first of their kind."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "come as a shock",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ˌkʌm əz ə ˈʃɑk/",
+    "tts_text": "come as a shock",
+    "observed_forms": [
+      "come as a shock"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Be surprising and often upsetting to someone.",
+            "example": "The sudden layoff came as a shock.",
+            "synonyms": [
+              {
+                "term": "come as a surprise",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "does not necessarily imply distress or the same intensity"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: come as a shock to + person; come as a complete shock. Come as a shock to someone; come as a complete shock."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "spontaneous",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/spɑnˈteɪniəs/",
+    "tts_text": "spontaneous",
+    "observed_forms": [
+      "spontaneous",
+      "spontaneous + action/reaction"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Happening or done naturally without advance planning or prompting.",
+            "example": "It was a spontaneous decision to spend the weekend at the coast.",
+            "synonyms": [
+              {
+                "term": "unplanned",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "impromptu",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "especially for something arranged or performed without preparation"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "planned",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              },
+              {
+                "term": "rehearsed",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for a response or performance"
+              }
+            ],
+            "usage_note": "Common patterns: a spontaneous decision/reaction; spontaneous applause; be spontaneous."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "go the extra mile",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ˌɡoʊ ði ˌɛkstrə ˈmaɪl/",
+    "tts_text": "go the extra mile",
+    "observed_forms": [
+      "go the extra mile"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Make more effort than expected or required.",
+            "example": "She went the extra mile to help the team.",
+            "synonyms": [
+              {
+                "term": "go above and beyond",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "often takes a different complement"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "do the bare minimum",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for limiting effort"
+              }
+            ],
+            "usage_note": "Common patterns: go the extra mile for + person; go the extra mile to + verb."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "A useful lexical meaning or fixed expression with no equivalent dedicated note found in the current sources."
+  },
+  {
+    "term": "good-natured",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˌɡʊdˈneɪtʃərd/",
+    "tts_text": "good-natured",
+    "observed_forms": [
+      "good-natured",
+      "good-natured rivalry",
+      "good-natured teasing"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Friendly and pleasant; for joking or competition, without hostile intent.",
+            "example": "There is a good-natured rivalry between our teams.",
+            "synonyms": [
+              {
+                "term": "friendly",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": ""
+              },
+              {
+                "term": "amiable",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "especially for a person’s manner"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "hostile",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              },
+              {
+                "term": "ill-natured",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ],
+            "usage_note": "Common patterns: good-natured rivalry/teasing; a good-natured exchange. Also: There was some good-natured teasing during lunch."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "One adjective demonstrated by good-natured rivalry and good-natured teasing. The X-marked person example need not be retained. Rivalry remains a separate noun, not another sense of good-natured."
+  },
+  {
+    "term": "rivalry",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "noun"
+    ],
+    "pronunciation": "/ˈraɪvəlri/",
+    "tts_text": "rivalry",
+    "observed_forms": [
+      "rivalry",
+      "rivalry between A and B"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "An ongoing competitive relationship between people, groups, or organizations.",
+            "example": "There is a long-standing rivalry between the two clubs.",
+            "synonyms": [
+              {
+                "term": "competition",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader; need not describe an ongoing relationship"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: a rivalry between A and B; rivalry with + competitor; a friendly/long-standing rivalry. A rivalry can be friendly or hostile. Rivalry between A and B; rivalry with a competitor."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Ongoing competition: a rivalry between A and B; rivalry with a competitor. Good-natured is one possible modifier, not part of the noun's fixed identity."
+  },
+  {
+    "term": "foolproof",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adjective"
+    ],
+    "pronunciation": "/ˈfulˌpruf/",
+    "tts_text": "foolproof",
+    "observed_forms": [
+      "foolproof",
+      "a foolproof + method/plan/system",
+      "make something foolproof"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Designed to be very hard to misuse or get wrong.",
+            "example": "We need a foolproof way to avoid accidental deployments.",
+            "synonyms": [
+              {
+                "term": "reliable",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "broader; does not specifically emphasize resistance to mistakes"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: a foolproof method/plan/system; make + process/instructions + foolproof. Also: We should make the installation process foolproof. It often expresses strong confidence, not a literal guarantee that failure is impossible."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "One adjective: a foolproof method; make the process foolproof. The make + object + adjective grammar already exists; the new learning is the adjective."
+  },
+  {
+    "term": "drill something into someone",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "idiom"
+    ],
+    "pronunciation": "/ˌdrɪl ˌsʌmθɪŋ ˌɪntu ˈsʌmwʌn/",
+    "tts_text": "drill something into someone",
+    "observed_forms": [
+      "drill something into someone"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Make someone learn or remember something through repeated, insistent instruction.",
+            "example": "My teacher drilled that rule into us.",
+            "synonyms": [
+              {
+                "term": "instill",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "can describe a slower or less repetitive process"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: drill + rule/idea/lesson + into + person. Can sound forceful. A pronunciation drill is a practice exercise, not this instruction idiom."
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-27",
+    "sources": [
+      "Learner-approved personal chunks consolidation, 2026-10-27."
+    ],
+    "classification_reason": "Teach something through insistent repetition; can sound forceful. Not the same sense as pronunciation drill, which the learner crossed out."
+  },
+  {
+    "term": "substitute",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "verb",
+      "noun"
+    ],
+    "pronunciation": "/ˈsʌbstɪtut/",
+    "tts_text": "substitute",
+    "observed_forms": [
+      "substitute"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "use one thing instead of another.",
+            "example": "You can substitute oat milk for regular milk.",
+            "synonyms": [
+              {
+                "term": "replace",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "when the construction is adjusted"
+              }
+            ],
+            "antonyms": [],
+            "usage_note": "Common patterns: substitute NEW for OLD; replace OLD with NEW; substitute for someone; a substitute for + noun. Same replacement, opposite order: We substituted a local database for the cloud service. / We replaced the cloud service with a local database. NEW is what you use; OLD is what it replaces."
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "someone or something used instead of another.",
+            "example": "Oat milk is a substitute for regular milk.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_value": "",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-14",
+    "sources": [
+      "Learner-approved usage revision, 2026-10-27."
+    ],
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  },
+  {
+    "term": "compromise / meet halfway / concede / give in / back down",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "compromise: noun",
+      "verb",
+      "meet halfway: idiom",
+      "concede: verb",
+      "give in: phrasal verb",
+      "back down: phrasal verb"
+    ],
+    "pronunciation": "compromise: /ˈkɑmprəmaɪz/<br>meet halfway: /mit ˌhæfˈweɪ/<br>concede: /kənˈsid/<br>give in: /ɡɪv ˈɪn/<br>back down: /bæk ˈdaʊn/",
+    "tts_text": "compromise. meet halfway. concede. give in. back down",
+    "observed_forms": [
+      "compromise",
+      "meet halfway",
+      "concede",
+      "give in",
+      "back down",
+      "compromise / meet halfway / concede / give in / back down"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "an agreement reached by accepting less than originally wanted.",
+            "example": "We reached a compromise on the deadline.",
+            "synonyms": [
+              {
+                "term": "agreement",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "for the noun"
+              },
+              {
+                "term": "meet halfway",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for mutual adjustment"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "compromise",
+        "common_patterns": "reach a compromise; compromise with someone on something; compromise security",
+        "comparison": {
+          "situations": [
+            {
+              "situation": "Two sides adjust their demands.",
+              "examples": "“We compromised on the deadline.” / “We met each other halfway on the deadline.”",
+              "guidance": "Both work for mutual adjustment."
+            },
+            {
+              "situation": "Someone yields in a negotiation.",
+              "examples": "“They conceded on the deadline.”",
+              "guidance": "Concede can mean yield something after resisting."
+            },
+            {
+              "situation": "You acknowledge a point.",
+              "examples": "“I concede that your approach is simpler.”",
+              "guidance": "Concede that + clause means admit a point; it need not mean accept a demand."
+            },
+            {
+              "situation": "Someone stops resisting.",
+              "examples": "“She finally gave in.” / “She finally backed down.”",
+              "guidance": "Often overlapping; neither requires a mutual compromise."
+            },
+            {
+              "situation": "An action puts something at risk.",
+              "examples": "“Sharing passwords compromises security.”",
+              "guidance": "Compromise also means weaken or endanger."
+            }
+          ],
+          "note": "Compromise and meet someone halfway often describe the same mutual adjustment. Concede can mean admit a point or yield something. Give in and back down often overlap for stopping resistance; neither requires both sides to adjust. Compromise security means put security at risk, not negotiate."
+        }
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "accept less than originally wanted to reach agreement.",
+            "example": "We compromised on the deadline.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "weaken or put something at risk.",
+            "example": "Sharing passwords can compromise security.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "compromise"
+      },
+      {
+        "part_of_speech": "idiom",
+        "senses": [
+          {
+            "definition": "Accept part of another person's wishes so both sides can agree.",
+            "example": "If you can extend the deadline, I'll meet you halfway on the scope.",
+            "synonyms": [
+              {
+                "term": "compromise",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in negotiation"
+              }
+            ],
+            "antonyms": []
+          }
+        ],
+        "entry_term": "meet halfway",
+        "common_patterns": "meet someone halfway; meet each other halfway"
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "Admit that something is true, or yield something after resisting.",
+            "example": "I concede that your approach is simpler.",
+            "synonyms": [
+              {
+                "term": "admit",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for acknowledging a fact"
+              },
+              {
+                "term": "yield",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for giving way"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "deny",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "of admitting a claim"
+              }
+            ]
+          }
+        ],
+        "entry_term": "concede",
+        "common_patterns": "concede that + clause; concede a point; concede defeat; make a concession (the related noun phrase). We made a concession on the deadline to reach an agreement. A concession is something you agree to give up or allow; it need not mean that both sides compromise."
+      },
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Stop resisting and agree to a demand or temptation.",
+            "example": "I finally gave in and agreed to help.",
+            "synonyms": [
+              {
+                "term": "yield",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more formal"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "hold out",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "when continuing to resist"
+              }
+            ]
+          }
+        ],
+        "entry_term": "give in",
+        "common_patterns": "give in to + pressure/demand/temptation"
+      },
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "Withdraw a position or demand after opposition.",
+            "example": "She refused to back down on the deadline.",
+            "synonyms": [
+              {
+                "term": "give in",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in many disputes"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "stand firm",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "entry_term": "back down",
+        "common_patterns": "back down on/from + position/demand; refuse to back down"
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_value": "",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-14",
+    "sources": [
+      "Learner-approved usage revision, 2026-10-27."
+    ],
+    "classification_reason": "Explicitly approved for productive everyday American English and professional communication; grouped as reviewed.",
+    "replace_senses": true
+  }
+]

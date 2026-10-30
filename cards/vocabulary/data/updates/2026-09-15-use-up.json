@@ -1,0 +1,63 @@
+[
+  {
+    "term": "use up",
+    "observed_forms": ["use up"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["phrasal verb"],
+    "pronunciation": "/ˌjuːz ˈʌp/",
+    "tts_text": "use up",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-09-15",
+    "sources": ["direct user submission"],
+    "classification_reason": "A common, productive phrasal verb for completely consuming a supply or resource in everyday and professional contexts.",
+    "senses": [
+      {
+        "part_of_speech": "phrasal verb",
+        "senses": [
+          {
+            "definition": "To use all of a supply or resource so that none remains.",
+            "example": "The background process used up all the available memory.",
+            "synonyms": [
+              {
+                "term": "exhaust",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more formal and commonly used with supplies or resources"
+              },
+              {
+                "term": "consume",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "means to use a resource but does not necessarily mean using all of it"
+              },
+              {
+                "term": "deplete",
+                "rank": 3,
+                "relationship": "RELATED",
+                "note": "means to greatly reduce a supply, possibly without using all of it"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "conserve",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "means to use something carefully to prevent waste"
+              },
+              {
+                "term": "save",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "means to keep something for later"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

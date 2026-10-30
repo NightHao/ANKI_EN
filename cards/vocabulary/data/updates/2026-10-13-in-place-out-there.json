@@ -1,0 +1,185 @@
+[
+  {
+    "term": "in place",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "phrase"
+    ],
+    "pronunciation": "/ɪn ˈpleɪs/",
+    "tts_text": "in place",
+    "observed_forms": [
+      "in place"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "phrase",
+        "senses": [
+          {
+            "definition": "Established and ready to use, or already operating.",
+            "example": "We have a backup plan in place. We put a review process in place to catch errors earlier. Everything is in place for the launch.",
+            "usage_note": "Common patterns: have something in place; put something in place; something is in place.",
+            "synonyms": [
+              {
+                "term": "established",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "emphasizes being set up"
+              },
+              {
+                "term": "operational",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "emphasizes functioning"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "In the correct or intended position.",
+            "example": "This clip holds the cable in place.",
+            "usage_note": "Common patterns: keep/hold something in place.",
+            "synonyms": [
+              {
+                "term": "in position",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "may need the correct position for clarity"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "out of place",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": "for this physical-position meaning"
+              }
+            ]
+          },
+          {
+            "definition": "Without changing location while moving your body.",
+            "example": "I jogged in place to warm up.",
+            "usage_note": "Common patterns: run/jog/march in place.",
+            "synonyms": [
+              {
+                "term": "on the spot",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "in this exercise context"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-13",
+    "sources": [
+      "Direct user request: two cards, in place and out there",
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/place_1",
+      "Learner example: I have a system in place to help me ship required features faster."
+    ],
+    "classification_reason": "Learner explicitly requested this card after explanation; common AmE patterns are included on the Back at the learner’s request."
+  },
+  {
+    "term": "out there",
+    "priority": "ACTIVE",
+    "parts_of_speech": [
+      "adverbial phrase",
+      "adjective"
+    ],
+    "pronunciation": "/ˌaʊt ˈðɛr/",
+    "tts_text": "out there",
+    "observed_forms": [
+      "out there",
+      "out-there"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adverbial phrase",
+        "senses": [
+          {
+            "definition": "Existing or available in the wider world, without specifying a particular location.",
+            "example": "There are lots of useful AI tools out there.",
+            "usage_note": "Common patterns: there is/are + something + out there; one of the best + plural noun + out there.",
+            "synonyms": [
+              {
+                "term": "available",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "for availability; does not capture every existence use"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "At a place away from here, often outdoors.",
+            "example": "It’s freezing out there.",
+            "usage_note": "Common patterns: be out there; go out there.",
+            "synonyms": [
+              {
+                "term": "over there",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "usually points to a more specific location"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "Shared with or visible to other people.",
+            "example": "I want to put my work out there and get feedback.",
+            "usage_note": "Common patterns: put/get something out there; put yourself out there (make yourself visible or take a social risk).",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Unusual or unconventional; informal.",
+            "example": "That idea is a little out there.",
+            "usage_note": "Common patterns: be a little/pretty/really out there; an out-there idea (hyphenated before a noun).",
+            "synonyms": [
+              {
+                "term": "unconventional",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more neutral and less conversational"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "conventional",
+                "rank": 1,
+                "relationship": "DIRECT OPPOSITE",
+                "note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "frequency_source": "qualitative estimate",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-10-13",
+    "sources": [
+      "Direct user request: two cards, in place and out there",
+      "https://www.collinsdictionary.com/dictionary/english/out-there",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/out_1",
+      "https://www.merriam-webster.com/dictionary/out-there"
+    ],
+    "classification_reason": "Learner explicitly requested this card after explanation; common AmE patterns are included on the Back at the learner’s request."
+  }
+]

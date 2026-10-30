@@ -1,0 +1,35 @@
+## PDF page 105
+
+<!-- source-pdf-page: 105 -->
+
+ee
+
+Writing skills
+
+### 3 Grammatical Accuracy — describing numbers and figures accurately
+
+Another criterion the examiner will use to assess your writing is Grammatical Range and Accuracy.
+
+After your introductory sentence and your overview sentence, you need to select relevant data to report on. To do this, you need to be able to accurately describe numbers and figures.
+
+- 3.1 Read this extract from a description of the bar chart in 2.1 and the underlined information.
+
+The chart shows that the maximum net worth of all UK households reached a little over £7000 billion. In six of the ten years represented in the chart, UK households were worth approximately 5% to 10% more than the UK total. For just under a third of this period, in the years 2002 to 2004, the UK total was equal to or greater than the total worth oj UK households.
+
+   - 1 Which information is written as numerals (1, 2, 3, etc.)? 2 Which information is written in words?
+
+- 3.2 © Replace the relevant numerals in the following sentences with the correct word from the box.
+
+three and a half billion a quarter half a third one million dollars
+
+- 1 '% of the people who attended in 1961 had never attended a concert before.
+
+- 2 They reduced the budget by $1m 40 years later.
+
+- 3 60% of students report using the library in term time only and 4 of those use the library at night.
+
+- 4 The population rose by 3% billion in the next 15 years.
+
+- 5 Over 15 million planes landed at the airport in the last seven months; this is an increase of '4.
+
+104

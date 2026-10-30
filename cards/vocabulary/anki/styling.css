@@ -1,0 +1,241 @@
+.card {
+  box-sizing: border-box;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 24px;
+  background: #ffffff;
+  color: #1f2937;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.vocab-header {
+  padding-bottom: 2px;
+}
+
+.term {
+  color: #111827;
+  font-size: 44px;
+  font-weight: 750;
+  letter-spacing: -0.025em;
+  line-height: 1.1;
+}
+
+.pos {
+  margin-top: 6px;
+  color: #7c3aed;
+  font-size: 15px;
+  font-style: italic;
+}
+
+.pronunciation-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.ipa {
+  color: #2563eb;
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.audio {
+  display: inline-flex;
+  align-items: center;
+  color: #2563eb;
+}
+
+.replay-button svg {
+  width: 22px;
+  height: 22px;
+  fill: currentColor;
+}
+
+.priority {
+  display: inline-block;
+  margin-top: 14px;
+  padding: 4px 9px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+.priority.ACTIVE {
+  background: #d97706;
+  color: #ffffff;
+}
+
+.priority.RECEPTIVE {
+  background: #64748b;
+  color: #ffffff;
+}
+
+.answer {
+  margin-top: 28px;
+  border-top: 1px solid #e5e7eb;
+  padding-top: 2px;
+}
+
+.pos-heading {
+  margin-top: 28px;
+  margin-bottom: 12px;
+  color: #6b7280;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+.sense {
+  margin-bottom: 22px;
+}
+
+.definition {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.example {
+  margin-top: 8px;
+  margin-left: 12px;
+  color: #4b5563;
+  font-size: 16px;
+  font-style: italic;
+}
+
+.usage-note {
+  margin-top: 8px;
+  margin-left: 12px;
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.semantic-heading {
+  margin-top: 10px;
+  color: #6b7280;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.semantic-item {
+  margin-top: 4px;
+  font-size: 15px;
+}
+
+.relation {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.lexical-entry h3,
+.comparison h3 {
+  margin-top: 24px;
+}
+
+.contrast-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.contrast-table th,
+.contrast-table td {
+  padding: 10px;
+  border: 1px solid #d1d5db;
+  vertical-align: top;
+  overflow-wrap: anywhere;
+}
+
+.nightMode .contrast-table th,
+.nightMode .contrast-table td {
+  border-color: #374151;
+}
+
+@media (max-width: 600px) {
+  .contrast-table,
+  .contrast-table tbody,
+  .contrast-table tr,
+  .contrast-table td {
+    display: block;
+    width: auto;
+  }
+
+  .contrast-table thead {
+    display: none;
+  }
+
+  .contrast-table tr {
+    margin-bottom: 14px;
+    border: 1px solid #d1d5db;
+  }
+
+  .contrast-table td {
+    border: 0;
+  }
+
+  .contrast-table td:nth-child(1)::before {
+    content: "Situation: ";
+    font-weight: bold;
+  }
+
+  .contrast-table td:nth-child(2)::before {
+    content: "Natural sentences: ";
+    font-weight: bold;
+  }
+
+  .contrast-table td:nth-child(3)::before {
+    content: "What to notice: ";
+    font-weight: bold;
+  }
+
+  .nightMode .contrast-table tr {
+    border-color: #374151;
+  }
+}
+
+.nightMode.card {
+  background: #111827;
+  color: #e5e7eb;
+}
+
+.nightMode .term {
+  color: #f8fafc;
+}
+
+.nightMode .pos {
+  color: #c4b5fd;
+}
+
+.nightMode .ipa,
+.nightMode .audio {
+  color: #93c5fd;
+}
+
+.nightMode .answer {
+  border-top-color: #374151;
+}
+
+.nightMode .pos-heading,
+.nightMode .semantic-heading,
+.nightMode .usage-note {
+  color: #9ca3af;
+}
+
+.nightMode .example {
+  color: #d1d5db;
+}
+
+@media (max-width: 480px) {
+  .card {
+    padding: 20px;
+  }
+
+  .term {
+    font-size: 38px;
+  }
+}

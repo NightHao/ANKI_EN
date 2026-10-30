@@ -1,0 +1,396 @@
+[
+  {
+    "term": "winder",
+    "observed_forms": ["winder"],
+    "priority": "RECEPTIVE",
+    "parts_of_speech": ["noun"],
+    "pronunciation": "/ˈwaɪndər/",
+    "tts_text": "winder",
+    "frequency_band": "UNCOMMON",
+    "daily_relevance": "LOW",
+    "ielts_relevance": "LOW",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-09-17",
+    "sources": ["direct user submission"],
+    "classification_reason": "A specialized but transparent noun for a person or device that winds cable, thread, film, watches, or similar materials; recognition is sufficient.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A person or device that winds cable, thread, film, or another material around something.",
+            "example": "The cable winder keeps the extension cord neat and easy to store.",
+            "synonyms": [
+              {
+                "term": "winding device",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "descriptive and does not normally refer to a person"
+              },
+              {
+                "term": "reel",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "holds wound material but is not necessarily the mechanism that winds it"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "cog",
+    "observed_forms": ["cog"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["noun"],
+    "pronunciation": "/kɑɡ/",
+    "tts_text": "cog",
+    "frequency_band": "MODERATELY_COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-09-17",
+    "sources": ["direct user submission"],
+    "classification_reason": "A useful mechanical noun whose figurative expression a cog in the machine has broad conversational and professional value.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "One of the teeth around the edge of a gear, or informally, a small toothed wheel in a machine.",
+            "example": "A damaged cog prevented the gears from turning smoothly.",
+            "synonyms": [
+              {
+                "term": "gear tooth",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "the precise mechanical term for one tooth on a gear"
+              },
+              {
+                "term": "gear",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "refers to the complete toothed wheel"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "A person or part that performs a small but necessary role in a large organization or system.",
+            "example": "He felt like a small cog in a huge corporation.",
+            "usage_note": "Common expression: a cog in the machine.",
+            "synonyms": [
+              {
+                "term": "component",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "a general term for one part of a larger system"
+              },
+              {
+                "term": "functionary",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "refers to a person performing a limited organizational role and is often negative"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "key player",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "a person with substantial influence or importance"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "fond",
+    "observed_forms": ["fond"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["adjective"],
+    "pronunciation": "/fɑnd/",
+    "tts_text": "fond",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-09-17",
+    "sources": ["direct user submission"],
+    "classification_reason": "A common adjective for warm affection and positive memories, with the productive pattern be fond of + noun or -ing form.",
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "senses": [
+          {
+            "definition": "Feeling warm affection or liking for someone or something.",
+            "example": "I have grown fond of my teammates since joining the project.",
+            "usage_note": "Common pattern: be or grow fond of + noun, pronoun, or -ing form.",
+            "synonyms": [
+              {
+                "term": "affectionate toward",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "emphasizes emotional warmth"
+              },
+              {
+                "term": "attached to",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "suggests a stronger emotional connection"
+              },
+              {
+                "term": "partial to",
+                "rank": 3,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "slightly formal and often used for things or activities"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "indifferent to",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "having no particular interest or affection"
+              },
+              {
+                "term": "hostile toward",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "feeling active dislike"
+              }
+            ]
+          },
+          {
+            "definition": "Filled with or expressing affection and pleasant feelings.",
+            "example": "I have fond memories of working with that team.",
+            "synonyms": [
+              {
+                "term": "affectionate",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "particularly natural with looks, gestures, and farewells"
+              },
+              {
+                "term": "warm",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "expresses friendliness or positive emotion"
+              },
+              {
+                "term": "cherished",
+                "rank": 3,
+                "relationship": "RELATED",
+                "note": "emphasizes that a memory is deeply valued"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "painful",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "for memories, associated with distress rather than affection"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "thermometer",
+    "observed_forms": ["thermometer"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["noun"],
+    "pronunciation": "/θərˈmɑmətər/",
+    "tts_text": "thermometer",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "MEDIUM",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-09-17",
+    "sources": ["direct user submission"],
+    "classification_reason": "A common everyday noun used in health, cooking, weather, science, and technical measurement.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "An instrument used to measure and display temperature.",
+            "example": "I used a digital thermometer to check whether I had a fever.",
+            "synonyms": [
+              {
+                "term": "temperature gauge",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "a broader term, often used for a temperature display built into a machine or vehicle"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "probe",
+    "observed_forms": ["probe"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["noun", "verb"],
+    "pronunciation": "/proʊb/",
+    "tts_text": "probe",
+    "frequency_band": "COMMON",
+    "daily_relevance": "MEDIUM",
+    "ielts_relevance": "HIGH",
+    "professional_relevance": "HIGH",
+    "fantasy_literary_relevance": "MEDIUM",
+    "seen_date": "2026-09-17",
+    "sources": ["direct user submission"],
+    "classification_reason": "A broadly useful noun and verb for technical instruments, spacecraft, close examination, and formal investigations.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "A thin instrument used to examine or measure something, often inside a body, machine, or material.",
+            "example": "The technician inserted a temperature probe into the pipe.",
+            "synonyms": [
+              {
+                "term": "instrument",
+                "rank": 1,
+                "relationship": "RELATED",
+                "note": "a much broader term for a specialized tool"
+              },
+              {
+                "term": "sensor",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "detects or measures a condition and may be contained inside a probe"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "An unmanned spacecraft sent to collect information.",
+            "example": "The probe transmitted detailed images of the planet's surface.",
+            "synonyms": [
+              {
+                "term": "unmanned spacecraft",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader and more descriptive"
+              }
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "A careful investigation into a problem or possible wrongdoing.",
+            "example": "The agency launched a probe into the data breach.",
+            "synonyms": [
+              {
+                "term": "investigation",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "more common and neutral"
+              },
+              {
+                "term": "inquiry",
+                "rank": 2,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "often refers to a formal investigation"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "senses": [
+          {
+            "definition": "To investigate or examine something closely in order to discover information.",
+            "example": "Engineers are probing the cause of the repeated network failures.",
+            "synonyms": [
+              {
+                "term": "investigate",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "broader and more neutral"
+              },
+              {
+                "term": "examine",
+                "rank": 2,
+                "relationship": "RELATED",
+                "note": "focuses on careful inspection"
+              },
+              {
+                "term": "question",
+                "rank": 3,
+                "relationship": "RELATED",
+                "note": "fits when seeking information from a person"
+              }
+            ],
+            "antonyms": [
+              {
+                "term": "ignore",
+                "rank": 1,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "deliberately give something no attention"
+              },
+              {
+                "term": "overlook",
+                "rank": 2,
+                "relationship": "CONTEXTUAL OPPOSITE",
+                "note": "fail to notice or investigate something"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "speedometer",
+    "observed_forms": ["speedometer"],
+    "priority": "ACTIVE",
+    "parts_of_speech": ["noun"],
+    "pronunciation": "/spiˈdɑmətər/",
+    "tts_text": "speedometer",
+    "frequency_band": "COMMON",
+    "daily_relevance": "HIGH",
+    "ielts_relevance": "MEDIUM",
+    "professional_relevance": "LOW",
+    "fantasy_literary_relevance": "LOW",
+    "seen_date": "2026-09-17",
+    "sources": ["direct user submission"],
+    "classification_reason": "A common everyday noun for the vehicle instrument that displays current speed.",
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "senses": [
+          {
+            "definition": "An instrument in a vehicle that shows how fast the vehicle is moving.",
+            "example": "I glanced at the speedometer and realized that I was exceeding the speed limit.",
+            "synonyms": [
+              {
+                "term": "speed gauge",
+                "rank": 1,
+                "relationship": "NEAR-INTERCHANGEABLE",
+                "note": "less common and more descriptive"
+              }
+            ],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  }
+]

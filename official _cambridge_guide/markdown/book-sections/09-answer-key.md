@@ -1,0 +1,908 @@
+# Answer Key
+
+_Physical PDF pages 363–393_
+
+> OCR-derived reading copy. Page markers refer to physical PDF pages. Check tables, diagrams, unusual typography, and answer blanks against the source PDF when exact layout matters.
+
+## PDF page 363
+
+<!-- source-pdf-page: 363 -->
+
+ead “~E ED x eo sal | => Pe Ras a Ste . Ve i ee
+
+f “are 455 B$5529th July29th July July / 29 July 29 July July / 29,7 29,7 / 7.29 7.29
+
+- Listenry H| Ng ski' | Is 455 B$5529th July29th July July / 29 July 29 July July / 29,7 29,7 / 7.29 7.29 1 Getting ready to listen 3.4 1 Understanding the context Suggested answers 1.1 other reason incorrect 1c 2 E 3 B 4 D numbers (Contexts1.2 A and F are not needed.) te£105 | **this is the** amountfull price she paid last time 1 two speakers (a man and his daughter) $10 this is what regular students pay 2 one speaker (a woman) $5 this is the extra fee charged for 3. three speakers (two students and their lecturer) equipment 4 one speaker (a student) 1.5 (metres) this is the width of his car 2 Using the correct spelling 1 (metre) thisbetweenis howcars much space you need my | 3 (metres) this is the height he would prefer ; = ' ne 2: Ryne $25 this is a child’s fare , $45 this is an adult's fare
+
+- 2.2 1 Browne 3 kickers; 5 HLP 528 14thist AugustJuly thisthis isis theher firstfather’savailablebirthdaydate 2 Beeton 4 Rose 2.3 3.5 Conversation 1 1 8B 2c 3 B 4A a Is that spelt the same as the colour? b Yes, but with an E at the end. 2 Following a conversation Conversation 2 mare é soe Hat inst letter Wor? 1 Identifying the speakers Conversation 3 p d_ConversationThat's right, 4all one word and all lower case. | people —_| description — information wanted ,
+
+- - Ob. tti "s— —2 Hotel,E , l ke **i** LC ul thec fle flov ver. travel agent older female | The customer would 'e
+
+- eeIt’sIt's justs threeona, > we letters and "threea numbers> S. customer younger male | like(good informationoffers on) about skiing4 HLP 528. tri ps.
+
+- 3 Writing numbers hotel younger The receptionist needs 3.1 receptionist female to find out the guest's ersonal details.
+
+- b $10.50 e 19 h £110 like to know about
+
+- 3.3. job applicant | younger male | travel and working 1 £95 hours. 2 $15 3 width: 3.5 / three and a half / 3% 1.2 height: 2% / two and a half / 2.5 Conversation | Conversation 2 Conversation 3 1 coach 1c 1 America 2 insurance 2 B 2 marketing
+
+366
+
+## PDF page 364
+
+<!-- source-pdf-page: 364 -->
+
+Answer key @
+
+#### 1.3
+
+#### 3.3
+
+- Conversation | 1 travel agent 2 customer Conversation 2 1 both people give the answer 2 hotel receptionist Conversation 3 1 interviewer 2 job applicant = ;
+
+- 2 7 EyIdentifying function
+
+   - two hundred and fivety computer X (the number is spelt incorrectly)
+
+   - ¢ 250 computer4 ¢ two hundred and fifty computers X (there should be no ‘s’ on computer — it’s an adjective here)
+
+   - over 250 computer X (this is two words not one; over is not necessary because more than is already in the sentence.)
+
+   - ¢ 250 computer experts X (this is two words not one; experts is not necessary because it is already in the sentence)
+
+   - ¢ over 250 experts X (this is two words not one; the words ¢ overtwo andhundred expertsand are not necessary)fifty computer / ° 2507
+
+- 1 What about getting her a new bike?
+
+- 2 That’s right. We arrive on 22nd July. 3 That sounds great. Let’s do that. 3 Recognising paraphrase 4 I don’t think I'd enjoy that one. f identifvina dkwactor 5 You said you'd prefer to have the party outside, is that ying right? 1.1
+
+- 6 Actually, it’s just gone up to $250. 1 18th July 3 recycling 7 Now, what about accommodation? Where would you 2 Wednesday 4 funds like to stay? 1.2
+
+- 2.2 The distractors are: 1D 2E£5E 3A 4C€C 5 G 6B 7F 1 19th, 20th, 21st 3 2.3 2 Tuesday, Thursday, Friday 4 1A 2C 3B 4€C 2 Recognising paraphrase 2.4 2.1 a l e 1 i 2 m | ld 2e 3a 4f 5h 6b b 2 f 2 j 2 n | @] g 1 k 2 o 2 2.2
+
+   - 1 19th, 20th, 21st 3 environment, pollution 2 Tuesday, Thursday, Friday 4 equipment, volunteers
+
+
+<!-- Start of picture text -->
+2 Recognising paraphrase<br>2.1<br>ld 2e 3a 4f 5h 6b 7F7e Bg<br>2.2<br><!-- End of picture text -->
+
+### 3 Understanding categories
+
+- 3.1
+
+
+<!-- Start of picture text -->
+tent _cabin flat<br>5<br>entertainment theatre cinema concert<br>=<br>ain juice lemonade coffee<br>32<br>250 computer/two hundred and fifty computer<br><!-- End of picture text -->
+
+
+<!-- Start of picture text -->
+2.3<br>a place to stay accommodation |<br>/hotel<br>fe |eras| th Theyil doin<br>car hire transport They'll borrow<br>a car.<br>= |=<br>shade<br>remove plants take out Theywant don'tto do this.<br>add a water They already<br>feature have one.<br>do more research | (find) They have<br>information plenty.<br>make some cuts reduce any of it | They don't want<br>to do this at all.<br>add some visual | include graphics | W<br>effects<br><!-- End of picture text -->
+
+367
+
+## PDF page 365
+
+<!-- source-pdf-page: 365 -->
+
+|
+
+### @ Answer key
+
+
+<!-- Start of picture text -->
+how snow forms | process; is They already 1.5<br>in different created know this.<br>conditions 1 lifts,: entrance, toilets e The entrance is over there on<br>the your left<br> effect that influences v * Then go straight ahead<br>snow has on our | weather ¢ The shop you want is opposite<br>climate patterns the toilets<br>the effect impact They want to ¢ Next to the lifts<br>different clouds do the opposite<br>have on snow -seeifsnowaffects clouds. | | 2 creularcourtyard,‘ J «tn ane miagle of the resort<br>* To the right of the courtyard,<br>3 . ; you'll find a<br> Selecting from a list e It’s just behind the tree<br>3.1<br>—- ion ie underiined 3 river, motorway ¢ | was thinking of putting it<br>(The key information is underlined.) right in the middle<br>What TWO disadvantages of the new mobile phone does the e | think it would be better if<br>speaker mention? it’s at the eastern end of the<br>A it isn’t very user-friendly D it has a short battery life motorway<br>B it is very expensive E itis quite big a a<br>C it can’t take photographs 4 bushes, pond, tree e ... itis unable to live in the<br>area of a pond<br>3.2 e ... it does need to live in fairly<br>A itisn’t very user-friendly 4 close proximity to water<br>B itis very expensive 5 e ... ina tiny burrow surrounded<br>C it can’t take photographs 2 by bushes<br>D it has a short battery life 3 F : ‘<br>E itis quite big 1 2 Following directions<br>3.3 a<br>A itisn’t very user-friendly<br>X (it is easy to use) 2.2<br>B itis very expensive Some useful phrases are underlined in the script below.<br>C v A: Can you tell me how to get to the supermarket?<br>it can’t take photographs B: Sure, let me have a think. We're in Bridge Street now and<br>X (it can take very good photos) it's in Queens Road.<br>D it has a short battery life A: Oh, the only street I know is Riverside Street, I know my<br>E v — hotel’s on the corner there.<br>itis quite big B: That's right. You need to go up Bridge Street as far as the<br>X (it has a big screen but this is not a disadvantage — it still traffic lights, then turn right. That's Riverside Street.<br>fits in your pocket) A: Lsee.<br>(B and D are the two correct options.) B: Then you walk along there to the next set of traffic lights<br>and you'll be at Queens Road. You turn left there and it’s<br>4 Places and directions the second shop on_yourJett,<br>1 Describing“= a place A: Thanks very much!<br>1.1 3 Labelling a map<br>A an escalator D apond 3.1<br>B a fountain E traffic lights Useful landmarks: information, the entrance, the toilets, the<br>C ahill F a roundabout barbecue, the tree and the playground.<br>1.3 3.2<br>1 a market 1F 2B3D 44,<br>2 atree, a fountain, a play area (swings) The following are incorrect:<br>3 at the bottom on the left C ticket booth (it is complimentary now so there is no need<br>4 altree to pay; complimentary = free)<br>1.4 E_ second-hand book stall (there are no books or second-hand<br>1A 2B 3 C€C 44 goods for sale)<br><!-- End of picture text -->
+
+368
+
+## PDF page 366
+
+<!-- source-pdf-page: 366 -->
+
+Answer key @
+
+5 Listening for actions and processes 3 Describing a process 1 Understanding mechanical parts 3.2 1.1 Here’s: how to wrap a present.: First, 8gather together all of the 1 ape 4 aigpengicen things you meee wrapping paper, sticky tape, scissors, sonnet 2 a wheel 5 (storage) tank/s ribbon and, of course,: a present. Then, 1 place: your present 3 a pump (handle) 6 agrill. / grille. / filter. on‘ the openedBywrapping paper and 2 cut a suitable amount; using the scissors. Next, 3 wrap the paper around the present 12 and 4 stick it down with sticky tape. Then, neatly 5 fold AS5 B4 C1 D3 E66 F2 up each of the ends of the paper and 6 stick them down. 1.3 Finally, 7 tie the ribbon around your present. It’s now ready to present! 1 two 1.4 6 Attitude and opinion 1D 2E 3B 4€C 1 Identifying attitudes and opinions
+
+6 Attitude and opinion 1 Identifying attitudes and opinions 1.1 lb 2a 3b 4a 5b 6c 7b BeE 1.2 agree. up oon inal; 5 hard to believe; 2. really valid point 6 highly unlikely 3 notso sure 7 doubtful 4 absolutely right 8 sound of that at all 1.3 : ld 2g 3e 4f 56¢ 6b 7a 1.4 @ surprising: astonishing; amazing; alarming unsurprising:1 i1 i i to be expected; typical
+
+1.5
+
+- The incorrect answers are: F (he wanted to put one on but he couldn’t find a way to attach it);
+
+- A (a cooling fan is not necessary because it is elevated andso doesn’t overheat).
+
+### 1.6
+
+turn, pop, hold, wind, generate, wrap, pull, explode, push, rotate, activate
+
+
+<!-- Start of picture text -->
+2 Describing an action or process 1.4<br>pe | @<br>_—<br>.<br>v surprising: astonishing; amazing; alarming<br>= unsurprising:1 i1 i i to be expected; typical<br>21 i} 6 around<br>wHouss 2 Persuading and suggesting<br>ae QF 2.1<br>ts , = 3 The presentation sections will be in order. The decisions in<br>the box will not be in order.<br>7 upwards<br>3 upside down 2.2<br>2 = 1D 2 A 3 B 4 F<br>= = 8 diagonally reduce the length = cut (something); leave (something) out<br>4 method = way<br>along write some more = include something else<br>interesting = grab (someone’s) attention; enjoyable; exciting<br>check = verify<br>=> current data = the very latest information<br>advantages = benefits<br>5 beneath disadvantages = negatives<br><!-- End of picture text -->
+
+#### 2.2
+
+A thermometer (it is used to measure temperature) B calculator (it is used to calculate / work out figures) C scales (they are used to weigh things) D speedometer (it is used to measure / calculate speed)
+
+369
+
+## PDF page 367
+
+<!-- source-pdf-page: 367 -->
+
+### @ Answer key
+
+##### 2.4
+
+- These Ipoints 8give additional information that is not directly connected to the main purpose of the talk: ¢ an old professor studying dried-up dinosaur bones (this is how many people picture palaeontologists)
+
+- © It’s an ancestor of the modern Australian wombat (an explanation of what a Diprotodon is)
+
+- ¢ the very first field trip | went on (nothing happened on this trip)
+
+- 1.4 (Suggested answers)
+
+5 vet axiom) Latigpeste owe make a suggestion: /et’s ... shall we?; Why don't we ...; maybe we should ...; perhaps we could ...; I'd like to propose ...; 1 think we should ...; Should we ...? agree with an idea: Of course; Great idea; I agree; Agreed; that would be better; let’s give it a try; Absolutely disagree: ] don’t think we should ...
+
+#### 3 Reaching a decision 3.1
+
+- 3.1 1 Whyinteresteddid Paulin? take an ecology course? / What was Paul (Suggested answers) 2 What did the course include? Section 1: distance, cost, convenience, availability 3 What are the conditions usually like when working in Section 3: to get help, to find out more, to make it presentable palacontology?» 1? . . , 4 What did Paul find/discover? / How did Paul know he had
+
+- 3.2 made the right choice? Section 1: C 1.5= Section 3: C 1 environment 3 extreme
+
+- 3.3 2 extinction 4 tooth Section(Suggested...(Suggested...... but theI: fareanswers)isanswers)isis so expensive. expensive. 1.61 ‘ Yes, the .information; willE always be .in the same order .in the That's tue questions and the recording. It might be cheaper but cheaper but but ... 2 2 As a part of my degree course, | had to do a compulsory That would would be great unit on 3 an interesting lecture Vas Fie che che 41immediately changed courses 5 the discovery of a Section.. 3: 6 a tooth from a giant kangaroo I don’t think we need to ... 2 Understanding how ideas are connected You're right. 2.1 But I'd rather do that after ... - I don’t want to show show him that. 1c 2A 3 E 4D OK. Let's ... p Ti J 7 Following. a lecture or talk 21 aa grant//fundsdate 43 climatehumans,changenature 1 Identifyingntifyin maininiideas 3 Understanding. an explanation. ¢¢ TheIt’s; anveryancestorfirst fieldof thetripmodern1 went onAustralian(5) . wombat (3) 1 mice: 5 , 4 new ro ps . . 2 cells, diet, exercise 5 Earth’s magnetic field
+
+- ¢ I found a funny-looking piece of rock (6) ; ¢ : . . 3 pigeons 6 beak(s), ears an old professor studying dried-up dinosaur bones (1)
+
+- ¢ | immediately changed courses (4) 3.2 ¢ | had to do a compulsory unit on extinction (2) 1A2c 1.2 3.3 b 1 Bis incorrect because in both types of mice, cells showed 1.3 some change — their cells either deteriorated or showed less " change.
+
+- These points are directly related to the main purpose of the C is incorrect because there is no information about diet. talk: 2 Ais incorrect because this has been known for decades, so ¢ | had to do a compulsory unit on extinction (this was how is not new. he first became interested in palaeontology) B is incorrect because this has been proven to be false.
+
+- ¢ Limmediately changed courses (this is when he first began to study palaeontology)
+
+- ¢ I found a funny-looking piece of rock (this was what encouraged him to continue his palaeontology studies)
+
+- 370
+
+###### 3.2
+
+Section 1: C Section 3: C 3.3 I: Section(Suggested...(Suggested...... but theI: fareanswers)isanswers)isis so expensive. expensive. That's tue It might be cheaper but cheaper but but ... That would would be great Vas Fie che che Section.. 3: I don’t think we need to ... You're right. But I'd rather do that after ... I don’t want to show show him that. OK. Let's ...
+
+## PDF page 368
+
+<!-- source-pdf-page: 368 -->
+
+Answer key @
+
+### 8 Contrasting ideas
+
+#### 1 Signposting words
+
+1.1
+
+- 1 OK, let’s move on to the late 19th century, when 2 aNow,greatfirstdealofofall, changes| wanted weretotakinggive youplace.some background information.
+
+- 3 So, let’s have a look at some possible reasons for this. 4 And finally, I'd like to talk about some future projects. 5 So, what conclusions did we reach? 6 I'll begin by explaining what this machine can do. 1.2 1B 2A 3B 4C 5C 6A 13 1 D 3 4H 5 B 7 ¢ 2 F 4A 6 G 8 E
+
+- 2 Comparing and contrasting ideas 2.1 paring g 1c 4 the last column 2 aplace 5 the name ofa plant 3. the third column 2.2 1 Europe 5 starvation 9 tax(es) 2 diet(s) 6 cash 10 trade 3 lives 7 war 4 poor 8 tea
+
+- 3 Using notes to followa talk 3.1
+
+- 1 It’s organised chronologically (by year) and it takes a historical view.
+
+- 2 You can listen for the dates to help you follow the talk. 3 prehistory 4 Question 6
+
+- 3.2 1 food 4 religions 7 vitamins 2. silver 5 gunpowder 8 disease 3 silk 6 Spanish 9 emigration Read i | Ng ski | Is
+
+- 1 Reading strategies 1 ; eae f di Using the features of a Reading passage
+
+- 1.1 1E 2B 3G 4D 5F 6A A2 B5 C€C 1 D 3
+
+- 13 1C 2A 3 C 4A 5 B 6 D 1.4 1B 2A 3 D 4 F 5 € 1.5: 1 B (Tea leaves contain tannins, a loose collection ofchemicals that give tea... its flavour)
+
+- 2B (that astringent puckering effect in the mouth) 3 A (footnote 1) 4 A (footnote 2) 5 C (All tannins are soluble in water, but how much ofthem can_ dissolve in a given amount of water)
+
+- 2 Skimminga a passage and speed reading 2.21B 20; 3A ack 1BC 2D 3A
+
+- 3 Global understanding 3.1. " 3.2 .
+
+- * 2 Descriptive passages 1 Scanning for detail 1.1 B .
+
+- 2 Using words from the passage 2.1 1 (ochre) engravings / (the) engravings 2 100,000 years ago 3 earth, rock (in either order but you must have both) 2:2 (The words that will help you locate the information in the passage are underlined here.) 4 What did the ancient people use to keep their ochre mixture in?
+
+- 5 Nowadays, who makes use of ochre? 6 Apart from painting, what else might ancient humans have ined ochre for?
+
+- (The details you need to find in the passage are underlined here.) 4 What did the ancient people use to keep their ochre” 5 Nowadays, who makes use of ochre? 6 Apart from painting, what else might ancient humans have
+
+371
+
+## PDF page 369
+
+<!-- source-pdf-page: 369 -->
+
+### @ Answer key
+
+(Answer Questions 4-6.) 4 (two) shells / (abalone) shells 5 indigenous communities 6 skin protection
+
+- 5 ochre 6 materials 7 chemistry
+
+#### 3.11
+
+- 3 Notes/flow-chart/diagram completion Most hydropower plants rely on a dam that holds back water, 3.1 creating a large reservoir behind it. Often, this reservoir is used as a recreational lake and is also known as the intake. Gates
+
+- 1 stored in 2 modern 3 functioned as on the dam open and gravity pulls the water through the 3.3 penstock, a line of pipe that leads to the turbine. Water builds 1 ingredients = (raw) materials up pressure as it {lows through this pipe. The water strikes 2. tools = equipment; make = produce: paint = pigment and turns the large blades of a turbine, which is attached 3 scientists = Henshilwood and his team; work out how to a generator above it oy way of a shaft. As the lurbine ree blades turn, so do a series of magnets inside the generator, producing alternating current (AC) by moving electrons. The
+
+- 3.4 transformer, located inside the powerhouse, takes the AC and (The words in brackets in the answer are allowed but not converts it to higher-voltage current. necessary.)1 (mammal) bone (samples / pieces); charcoal 3.12 2. grindstones: hammerstones 1 intake 3 powerhouse 5 penstock 3 signs of wear 2 magnets 4 shaft 3.5 3.13 (Suggested answers) 1 helps contain = holds back; produces = creates 1 anoun-—something colourful that is created by rubbing 2 moves = flows; increases in = builds up ochre against quartzite 3 rotates = turns; connected = attached
+
+- 2 a verb— something that was done to animal bones before 4 changes into = converts to they were crushed and added to ochre
+
+- 3 anoun-something that researchers believe was added to 3 Understanding the main ideas P aemisnoun — something the mixturea was poured_into 1 Identifying the main idea 5 anoun—a way of using the mixture on walls 1.1 6 anoun-—a way of using the mixture on the body The topic they all have in common is urban planning — this is
+
+1.1 The topic they all have in common is urban planning — this is the overall topic of the Reading passage. i The future of urban planning Americain ii Conflicting ideas through the history of urban planning iii Urban planning has a long and varied history iv Financial problems helped spread an urban planning concept v_ The background to one particular planned community vi Political change obstructs progress in urban planning vii An urban plan to reduce traffic
+
+- 36 1 colourful = red; created = produced; pieces; of = slabs 2 crushed = ground up 3 other solids = charcoal, stone chips, quartz grains; the researchers 4 = Henshilwood and his team 5 poured into = transferred; mixed = stirred the body = skin
+
+- 3.7 1 powder 3 liquid / water 5 decoration 2 heated 4 shells 6 sunscreen 3.8 (Suggested answers)
+
+- 1.3
+
+##### S
+
+- 1.4 1 Headings iv, vi and vii feature money, politics and traffic (none of these are mentioned in Paragraph A, so they can be crossed off the list). . ;
+
+- 2 iil (the whole paragraph provides sa asia of the long and varied history of urban planning)
+
+- 1.5 shortlists Paragraph B: ii, iii, iv, v Paragraph D: i, ii, iv, v, vi Paragraph C: i, ii, iii, v, vii
+
+2, 3,4 nouns — types of ancient objects found in the area
+
+- 5 anoun-—the name of a substance used to provide colour 6 aplural noun — something recently found in the area, something linked to animal bone and charcoal
+
+- 7 anoun-—something the researchers have concluded about early humans and what they knew about
+
+- 3.9 1 1992 2, 3, 4 (in any order) beads; tools; engravings (N.B. Because of the word limit, if you write ‘bone tools’ or ‘ochre engravings’, your answer will be marked as wrong.)
+
+372
+
+## PDF page 370
+
+<!-- source-pdf-page: 370 -->
+
+- Answer key @
+
+- final answers D in 1935 President Roosevelt created the Resettlement Paragraph B: v — the main topic is to explain what led to (the Administration background) Letchworth, the first garden city (one particular answers planned community) 2d 3 B 4C Paragraph C: vii — the main topic is the design of the city of ee , ‘ F Radburn, America (An urban plan) which was built with the 3 Identifying information in a Passage aim of creating a safe environment for children (to reduce traffic) 3.2 Paragraph D: iv — the main topic is the impact the stock 1 False — he was the first to identify the phenomenon but it is market crash, unemployment anda lack of affordable housing only ‘now’ that we use this term. (financial problems) had in America and how the president 2 True —it occurs in winter and summer. dealt with these by creating more garden cities (helped spread 3 Not Given — there is no information in the text about an urban planning concept) experts attempting to create heat-reflecting materials. 1.6 a2 i — Although Paragraphs A, C andD all refer to America (or (the corresponding parts of the text are in brackets) places in America), none of these paragraphs mention the 4 Not Given. We know the weather there has been affected future of urban planning. but the text does not compare Atlanta with other cities. ii— Although Paragraphs A, B, C and D all contain historical 5 False (Officials there are advising builders to use light-coloured references, none of the paragraphs mention ‘conflicting ideas’. roofs in a bid to reduce the problem.) vi — Paragraphs A andD refer to political places or people, but 6 False (These metal constructions asf . . neither of these mentions progress being stopped because of 7 Not Given. We are not given any information about politics. alternative plans that the designers had (These ... are made to resemble very tall trees ... Their structure allowed the designers to
+
+- 2 Understanding the main points create an immediate rainforest canopy without having to wait for 2.2 trees to reach such heights) . 8 False (They contain ... containers to collect rainwater, making
+
+- B (Ais incorrect because the passage makes no comparison them truly self-sufficient) between theoretical and actual designs; C is incorrect because no advice is given about who should carry out 3.4 the planning, though several professionals are mentioned; 5 Light-coloured roofs help address the issue. // DarkD is incorrect because there is no comparison between coloured roofs create the problem / issue. ancient and modern planned cities. Although A, C and 7 They are manufactured from metal. D all mention ideas that are in the passage, they do not 9 They are self-sufficient. // They don’t need any accurately reflect the information in the text.) maintenance.
+
+- 2.3 2 4 Locating and matching information A arose in the latter part of the 19th century as a reaction to the 1 Identifying types of information B pollution and crowding ofthe Industrial Revolution 1.1 After the First World War, the second town built following Howard's . ideas, Welwyn Garden City, was constructed B
+
+- C Howard believed that these towns should be limited in size and 1.2 D density . 1 a whole idea arose in the latter part of the 19th century asa reaction to the 2 Meerkats devote a significant part of their day to foraging for food pollution and crowding of the Industrial Revolution .
+
+- 3 1.3 A inspired by Howard's ideas and the success ofLetchworth and 1F 2D 3G6G4£E5C 6A 78 84H Welwyn, created the city of Radburn
+
+- B_ Conceived as a community which would be safe for children, 2 Locating and matching information C_ designed so that the residents would not require automobiles ... 2.1 including the separation ofpedestrians and vehicles
+
+- D ‘superblocks’, each of which shared 23 acres ofcommonly held z parkland
+
+- 4
+
+- A In America, following the stock market crash of 1929
+
+- B_ employment for workers who had lost their jobs
+
+- C These towns contained ... a ‘green belt’ of undeveloped land surrounding the community.
+
+373
+
+## PDF page 371
+
+<!-- source-pdf-page: 371 -->
+
+- @ Answer key 2.2 5 Discursive passages 3 the method 1 Discursive passages 4 the researcher's opinion 1.1 5 amention of the different environments ‘ 6 the contrast between to add more | to show togivean | todrawa 7 the definition of / clarify a contrast/ | example conclusion / 2.3 point present the introduce a 1B opposite result 2c view 3 Paragraph D (The toes are super-hydrophobic, (i.e. water moreover although such as therefore repellent) explains Stark, who could see a silvery bubble of air furthermore though for instance | consequently around their toes) indeed despite to illustrate thus
+
+- 2.4 in addition in spite of this as a result similarly nonetheless hence
+
+- 2E 3 C 4C€C 5 A 6 B FD in fact whilst 2.5 2 the team is keen to understand how long it takes geckos to recover 1.2 from a drenching in fact; although; whilst;
+
+- 3 Fittinga tiny harness around the lizard’s pelvis and gently in addition; furthermore; though; thus; therefore; despite lowering the animal onto a plate ofsmooth glass, Stark and Sullivan allowed the animal to become well attached before 1.3 connecting the harness to a tiny motor and gently pulling the 1d 2F 3 A 4C€C 5 B 6H
+
+- 4 lizard‘In my untilview,itthe came gecko unstuck.attachment system is over-designed,’ says 1.4ah . . Stark 1 in fact 3 whilst 5 despite
+
+- 5 they appear to be equally happy scampering through tropical 2 although 4 thus 6 therefore rainforest canopies as they are in urban settings oe . its
+
+- 6 she and her colleagues Timothy Sullivan and Peter Niewiarowski 2 Identifyng theories and i ld were curious about how the lizards cope on surfaces in their 2.1 natural habitat. Explaining that previous studies had focusedon_ _ believes
+
+- 7 the‘The reptilestoes are clinging super-hydrophobic, to artificial dry* (i.e. surfaceswater repellent) 22: verbs: speculate, remarked, noted
+
+- 3 How ideas are connected preposition: according to 3.1 2.3 1c 2F 3 A 4E 5 B D Rooks are as intelligent as the most intelligent of animals. 3.2 (Corvids are remarkably intelligent, and in many ways rival the 1 ; great apes in their physical intelligence and ability to solve problems) The text says: A lot ofgecko studies look at the very small F The ability of rooks is surprising, given the lack of adhesive structures on their toes to understand how the system Te ae tad ao es ; Be works j Wane, similarities between the brains of birds and animals. (T/is is at the most basic level. So, the best sentence ending is B. remarkable considering their brain is so different to the great apes)
+
+- 2 D (she and her colleagues Timothy Sullivan and Peter A We imagine that the rooks were soon able to appreciate Niewiarowski were curious about how the lizards cope on surfaces the advantage of using different-sized tools. (The scientists in their natural habitat. Explaining that previous studies had speculate that the birds quickly realised that the larger stones
+
+- focused on the reptiles clinging to artificial dry surfaces) displaced more water and they were thus able to obtain the reward
+
+- 3 F (Therefore geckos can walk on wet surfaces, as long as their feet more quickly than by using small stones.) are reasonably dry) C._ Using tools in their natural habitat is simply not necessary for
+
+- 4 E (the team is keen to understand how long it takes geckos to rooks. (Rooks do not use tools in the wild because they do not need to) recover from a drenching) E_ In their natural setting, rooks can obtain food without using tools. (Rooks do not use tools in the wild because ... They have access to other food that can be acquired without using tools)
+
+- B_ Tool use in rooks demonstrates a common English saying. (As Bird noted, that fits nicely with Aesop's maxim, demonstrated by the crow: ‘Necessity is the mother of invention.’)
+
+374
+
+## PDF page 372
+
+<!-- source-pdf-page: 372 -->
+
+- Answer key @
+
+- 3 Matching features 2.3 3.2 there were probably several related phenomena ... Firstly, ... 1 A (Pagel ... points out that this likely explains “why we can Something else was going on. That something was instinctively recognise words in other Indo-European languages, distinctively human. just from their sounds”) The correct options are: B and E
+
+- 2 C (Russell Gray ... was impressed by both findings. “Despite all sy ne ai the vagaries and contingencies of human history, it seems that 3 Identi tying a writer's purpose there are remarkable regularities in the processes of language 3.3 change,” he commented) blockbuster: positive, the word is used to describe a film that is
+
+- 3 B (Lieberman ... found that the more an irregular verb is used, very popular; /opelessly flawed: negative, this phrase is used to the longer it will remain irregular) criticise the science portrayed in the film; revel in: positive, this
+
+- 4 A (“Throughout its 8,000-year history, all Indo-Europeangives us a positive image of people enjoying the film language speakers have used a related sound to communicate the idea of ‘two’ objects — duo, due, deux, dos, etc.,” Pagel commented) 3.4
+
+- 5 B (Lieberman... performed a quantitative study of the rate at 1 B (the writer says that we are happy to ‘suspend our which English verbs such as ‘help’ have become more regular with disbelief’ so that we can ‘revel in’ the story) time. Of the list of 177 irregular verbs they took from Old English, 2 C (the writer tells us the science is ‘hopelessly flawed’ but only 98 are still irregular today) that the film was a ‘successful’ book and a ‘blockbuster’ film)
+
+- 3.31-5 We focused on the historical changes that have occurred 7 Opinionstw and attitudes. in one particular language. 7 Argumentative texts
+
+- 2 -—3 Words that don’t follow a standard pattern will remain 1.1 that way if they are used often.
+
+- 3 - 4 Certain words have kept a similar sound across many years and many countries.
+
+- 4-1 We are able to recognise certain words used by people in diverse disastrous other cultures. unspoilt biased
+
+- 5 — 2 Regardless of what happens in the world, there appear to accomplished vulnerable be fixed rules that govern the way words alter over time. productive dated
+
+- 3.4 realistic confusing sophisticated irrelevant
+
+- 1 Question 5 efficient harsh 2 writes, commented, adds, proposed, according to, points out thorough catastrophic 3.5 influential monotonous prominent distorted
+
+- 1 D (The question of why some words evolve rapidly through time witile others are preserved ... has long plagued linguists.) 1.2
+
+- 2 C (Over time, however, some irregular verbs ‘regularise’, For Some adjectives you might have underlined: modernist; instance, the past tense of ‘help’ used to be ‘holp’, but now it is world-class; steep (decline); (racially) integrated: ‘helped’.) (economically) stable; enormous; unique; casual; beautiful;
+
+- 3B (Despite all the vagaries and contingencies of human history, huge; cavernous; renowned; great; famous; austere; it seems that there are remarkable regularities in the processes of unappealing; strong aesthetic (preferences) language change) 2 Identifying the writer's views/claims
+
+- 6 Multiple-choice questions 2.1 1 Understanding longer pieces of text 1 claim 2 claim 3 view 4 view 5 view 1.3 2.2 C (at which stage language becomes a necessity has come under 1 No 2 Yes 3 NotGiven 4 No 5 Yes debate) 2.3
+
+- 2 Different types of multiple choice 1 Hundreds were built then, it’s the fact that it was designed 45 by three famous people that made it unique. . 2 built ... 1962 ... While much of Detroit began a steep decline soon
+
+- You need to find two issues that may have caused the rise in after, Lafayette Park ... bucking the trend of suburban flight ... dolphin numbers. despite the fact that Detroit has suffered enormous population loss
+
+375
+
+## PDF page 373
+
+<!-- source-pdf-page: 373 -->
+
+### @ Answer key
+
+- 3 We are only told that Mies designed Lafayette Park, there is 44.4 no mention of Mies and any other part of Detroit. : ays ne
+
+- 4 The buildings have a kind ofaustere uniformity. se aie meion toners 5 . ; . . . 3403 8888 160,000 Indeed, the best design doesn t force a personality on its residents. 13 six Instead, it helps them bring out their own. Sid sennwes 3467 9809
+
+- 3 Identifying grammatical features 1.5 3.1 1 (13) trees A settled = verb or adjective 2 3.5 million (tonnes) (N.B. 3.5 million counts as ‘a number’ B_ adapt = verb even though it is written in words) C_ neutral = adjective 3 3467 9809 D poor = adjective or noun 1.6 E afford = verb : : i F: strongly = adverb 1 rooms (Remember to recycle items from other rooms in your house. =~ Try placing a separate bin in the bathroom, laundry or study)
+
+- 32 2. black ( Your normal household waste is collected every week and (Suggested answers) should go in the bin with the black lid) 1 an adjective 3 an adjective or adverb 3 two weeks (N.B. You must use words from the text — if you 2 an adjective 4 averb write fortnight your answer will be marked wrong because 3.3 it is not in the text.) (Place all recyclable items in your bin with a yellow lid, This will be emptied every two weeks)
+
+- 1b 2A 3 C 4 B 4 collection day (You can find out your collection day by contacting 3.5 the council on 3403 8888) 1 averb 3 anoun 1.7 2 an adjective 4 an adjective 1 put = place; different = separate a5 2 top=lid ; : :
+
+- si 3 will collect = will be emptied iy. siete ofan meerkat troop will 4 call =contact; they will tell you = you can find out
+
+- consistently rise very early, those of another will emerge from their burrows much later in the morning) 1.9
+
+- 2 innovative (The tests showed that the more subordinate juvenile 3 True — (Jree trimmings, grass clippings and flowers are not members of meerkat troops are the most innovative ... these lowrecyclable) ranking males were best at solving problems) 4 True (One job is created for every 500 tonnes)
+
+- 3 treat / scorpion (The meerkats had to work out how to open ... 5 False (Paper can be recycled six times) in order to reach the scorpion inside ... these low-ranking males 6 Not Given —- we are told that fibres are added but there is were best at solving problems and obtaining the treat) no information given about these fibres and where they
+
+- 4 opaque (The meerkats had to work out how to open the opaque come from. lid of the container ... the meerkats didn’t ever appear to work out that it was the opaque surface of the box that they should attack) 2 Dealing with multiple texts 2.1
+
+- 8 General Training Reading They are all advertising open days at colleges or universities. 1 The General Training Reading paper ?Uy} 1.1 1B2cC30D 4B 5B 64 Section 1: B, E, H 2.3 cecien . “ 7 R 1 International food fair a 7 2 Visit our working farm; Marine biology exhibit — come and find
+
+- 1.2 out about our fascinating sea creatures 1D 3 B 5 A 7 4H 3 test your skills in our flight simulator; win a free flying lesson 2c “4G 6 oR 8 E 4 Digital photography — workshops 5 Creative arts market — crafted by our third-year students — all
+
+- 1.3 reasonably priced 6 10:00 till 21:00; All finished off with our popular fireworks display
+
+- (Suggested answers) 1 It’s written by a local council. 2.4 2 residents of the area 1D2A3 E4B5 C€
+
+376
+
+## PDF page 374
+
+<!-- source-pdf-page: 374 -->
+
+### Answer key @
+
+- 3 Understanding work-related texts B The paragraph is about the reaction of people in the 3.1 advertising and marketing business (professionals) and their iF warning of what would happen (warn of the consequences); 2D 4:4 7B 10 E i is incorrect because the industry insiders did not welcome 3 5 H 8 L ll J the change. G 6K 91 12 C C The paragraph gives the views of a person who liked the
+
+- 3.2 advertisements; he argues that advertisements are also B_ someone who would like to know about what happens an.art form anda form of CAFETLALREDS iv. ds EROTEESE when their workplace is inspected because, although he is one man, he did not change the city; although he gives a warning, only one man is
+
+- 3.3 mentioned here, so heading v is incorrect. 1 C (All inspectors complete a rigorous nine-month programme of 3.10 classroom training andfield experience with a qualified inspector) . (A is incorrect because they spend 9 months doing this; B is 2% the ceactine . incorrect because they only learn about one industry; D is 3. the public 5 RCAENGH incorrect because they have to do practical work after their 4 advertising techniques theoretical training (classroom training)) 3 .an.action . .
+
+- 2 B (look at any documents or records and take themfrom at any documents or records and take themfrom any documents or records and take themfrom documents or records and take themfrom or records and take themfrom records and take themfrom and take themfrom take themfrom themfrom the 6 examples showing the wide range workplace in order to make copies) make copies) copies) (A is incorrect because 1 G (Ithas also brought some unforeseen advantages. When the they don’t take away away equipment; C is incorrect because hoardings were removed, many locals were shocked at the state of they don’t concern themselves with how employees the buildings and houses beneath. As a result, renovation work in are recruited; D is incorrect because they do not warn the city has increased considerably)
+
+- 2 B (look at any documents or records and take themfrom at any documents or records and take themfrom any documents or records and take themfrom documents or records and take themfrom or records and take themfrom records and take themfrom and take themfrom take themfrom themfrom the workplace in order to make copies) make copies) copies) (A is incorrect because they don’t take away away equipment; C is incorrect because they don’t concern themselves with how employees are recruited; D is incorrect because they do not warn employees about inspections (Workplace visits by an inspector are typically unannounced) )
+
+   - 2 D (businesses were given 90 days to take down any signs that did not meet the new regulations)
+
+- 3 D (If the staff concerned are not available, the inspector may continue with a limited inspection ... and/or arrange a followup visit later) (A is incorrect because it does not have to be postponed; B is incorrect because there is no need for a complaint to be made; C is incorrect because they will not leave without talking to some staff or completing the inspection)
+
+   - 3 G (the scheme has worked, and surveys conducted by local newspapers indicate it is extremely popular, with more than 70% of residents showing their approval)
+
+   - 4 F (innovative methods ofindoor advertising such as inside elevators and bathrooms ... Big banks and stores began painting their buildings in eye-catching colours)
+
+   - 5 B (representatives drove their cars up and down in front of city hall to protest against the ruling) to protest against the ruling) protest against the ruling) against the ruling) the ruling) ruling)
+
+   - 6 E (15,000 billboards billboards ... huge outdoor outdoor video screens, screens, and even even posters and ads on and ads on ads on on the side side of buses and taxis, buses and taxis, and taxis, taxis, were all quickly all quickly quickly removed across across the city ... Even giving giving out pamphlets pamphlets in public public spaces was made illegal) was made illegal) made illegal) illegal)
+
+- 3.4 hall to protest against the ruling) to protest against the ruling) protest against the ruling) against the ruling) the ruling) ruling) 6 E (15,000 billboards billboards ... huge outdoor outdoor video screens, screens, and even even
+
+- The last section, under the heading: What to expect expect from a posters and ads on and ads on ads on on the side side of buses and taxis, buses and taxis, and taxis, taxis, were all quickly all quickly quickly workplace health and safety and safety safety visit removed across across the city ... Even giving giving out pamphlets pamphlets in public public 3.5 spaces was made illegal) was made illegal) made illegal) illegal) 1 representative 5 instructions 3.12 2 day 6 videos 1 G (As journalist Vincenze Galvao commented ... ‘My old reference 3, 4 policy, poster (in any 7 injury was a big Panasonic billboard, but now my reference is an art deco order) building that had been covered by it.’)
+
+- 3.6 2 F (But, according to advertising executive Marcio Oliveira, ‘The internet was the really big winner.’)
+
+- identifies themselves = will introduce themselves 3 C (Advertising is both an art form and, when you're in your car to meet = meet = = to speak with or on foot, a form of entertainment that helps relieve solitude and absent = not available boredom) do a job = job = = carry out out specific tasks 4 E (‘It was really dramatic ... Big companies had to change their the premises premises = the workplace focus and strategies,‘ says Marcello Queiroz) you can get = get = = can be obtained 5 A (Kassab set up telephone hotlines so that citizens could report 3.8 instances of advertisers breaking the law. ‘Some days we had 3,000 calls on those lines,’ he said proudly)
+
+- Aiv Bv_ C iii 6 D (spokesman Roberto Tripoli said. ‘Yes, some people are going 3.9 to have to pay a price, but things were out ofhand and the A population has made it clear that it wants this.’)
+
+The last section, under the heading: What to expect expect from a workplace health and safety and safety safety visit
+
+identifies themselves = will introduce themselves to meet = meet = = to speak with absent = not available do a job = job = = carry out out specific tasks the premises premises = the workplace you can get = get = = can be obtained 3.8 Aiv Bv_ C iii 3.9
+
+- A The whole paragraph talks about how the mayor (one person) decided to ban all outdoor advertising because he thought it looked ugly (changed a city); ii is incorrect because the city did not vote, only the mayor decided.
+
+377
+
+## PDF page 375
+
+<!-- source-pdf-page: 375 -->
+
+- @ Answer key Writi ng ski | Is 3 Improving your Task Achievement score 3:2
+
+- 1 Academic Writing Task 1 - CP Be ERITREA NET: | A (this is inaccurate as the results were not mixed)
+
+- Describing a chart, table or graph B (this is inaccurate as we are given no information about
+
+- 1 Understanding graphs, tables and charts how peny Repel Memmi 1.1 C (this is inaccurate, as we do not know traffic figures, and it is also an isolated fact about two roads only and not a main
+
+- 1E 2D 3C 48 5A 6F trend) 5<sup>P|</sup> D new(this summariseslanes had ontheall impactroads) that the introduction of the (These are examples of the types of information you should E (this is an opinion rather than a main trend) have highlighted in 1.2.) 3.3 1 traffic growth in the Netherlands measured/shown as a : percentage 1A 2B3B 4A 5A 6A
+
+- 2 Yes, ten-year gaps from 1950 to 2000, Sentences 2 and 3 do not focus on main features or significant 3 Yes, four types of transport are compared: cars, trains, changes so it is not necessary to report these. bicycles, and other types of public transport. Sentences 1, 4, 5, 6 all give support for the main trend that
+
+- 1.4 was identified in the overview sentence and so are important details to include.
+
+- The graph shows the increases in traffic in Engtnd the Netherlands from +960 1950 to 2640 2000. During this 3.4 time, car traffic increased by jtstover +56 140%, while 1 From their responses, it is clear that swimming is the most popular train traffic increased by 48 20%, bicycle traffic increased sport among all groups, and that from these three groups, boys by approximately 26 15%, and other public transport traffic participated in the most sports. acttraly-tdeereased increased by about 26 10%. 2 Main features 1.5 ¢ for three out of the four sports, boys were the major (Statements B and C are both examples of the type of participants.
+
+- 1B (itinformationtells us whatthatproportionis inaccurate)of journeys was made by car ¢° The only sport not enjoyed by the boys surveyed was hockey ... ... a sport that the vast majority of the girls who were
+
+- etc. and not how many vehicles were used) interviewed participated in.
+
+- 2A ¢ only a very small number, approximately 10 of the 100, 3 B (more people travelled by train than bicycle in 2000) participated in football. 4A 3 The word count is only 143 words, so it will lose marks for 5 C (we are not told any information about car ownership, being too short. only about how journeys were made)
+
+- 6A 3.5 2 1 The final sentence needs to be deleted (leaving only 123 More complex charts words): We can conclude from this that girls in Manchester enjoy
+
+- y AE | hockey a lot and that they don't particularly like football. 1c 2B 3C 4B You should not try to draw conclusions like this about the 2.2 2 Thedata;datayou forwilltheloseadults markshasif younot beendo. mentioned at all. It is telling us the actual records of sea level changes from Missing out key details will lose marks. 1870 to 2008, as well as past and future estimates. 3 Deleting the final line and adding details about the adults 2.3 will mean a higher score for Task Achievement. For example, When it comes to the adults surveyed, the two most
+
+- 1 It is predicted that sea levels will continue to rise. popular sports were swimming and tennis, with hockey being 2 It is estimated that sea levels will have increased by 200 the least popular. In fact, the team sports offootball, hockey and mm by the year 2050. basketball are all played less frequently by the adults who took
+
+- 3 Sea levels are forecast(ed) to rise more rapidly between part, (43 words)
+
+- 3 Sea levels are forecast(ed) to rise more rapidly between 2050 and 2100.
+
+- 4 By 2100, sea levels are estimated to be 500 mm higher than they are at present.
+
+378
+
+## PDF page 376
+
+<!-- source-pdf-page: 376 -->
+
+- Answer key @
+
+- 2 Academic Writing Task 1— Comparing 3 60% of students report using the library in term time only and . and a quarter of those use the library at night. contrasting graphs and tables 4 The population rose by three anda half billion in the
+
+- 1 Avoiding repetition next 15 years. 1.1 5 Over 15 million planes landed at the airport in the last . seven months; this is an increase of a third.
+
+- 1F 2D 3 E 4A 5 B 6C 3.3 1.2 1 thousand cars 3 Millions 5 students 1D 2FB 3 AEC 4 G 2 million 4 hundred beds 1.3 3.4 The other differences are the words and phrases used to 1 in 3 of; of 5 from; to replace ‘show(s)’ in the question: 2 of 4 for indicates; tells us; we can see; reveal 2 Comparing and contrasting: data 3 Academica Writing; g Task 1 - 2.1 Describing diagrams 1 the net worth of three different sectors in the UK in billions 17 Understanding a diagram of British pounds (£) 1.2
+
+- 2 One has a ee teers (above the line) and one has a -_ & aide 3 eae Lag (below the line). 2 pour / add / soak / leave 7 #ilift / drain the UK tota 3 beat / mix 8 place / put / press
+
+- 22 4 pour / add 9 leave / dry 1 2000-2008 5 Government, UK Total and > BX 2 2009-2010 Households 1.3 3 2002, 2008, 2010 6 Businesses 1 bowl: jug 3 tray 5 rolling pin 4 2002 and 2008 2 electric mixer 4 mesh 2.3 oa ‘ 1 remained;; began to ;increase; had risen. 2 Describing a process — coherence and cohesion 2 showed; increased 2.1 3 dropped; fell; went 1 D 4B 6 F 8 G 4 followed 2E Ss: I 7A 9 Cc 5 improved; did not last; began to worsen 3 H 6 experienced / was experiencing; returned 2.2 7 revealed / reveals; was growing; was declining / declined - 2.4 (Suggested answer) i The diagram explains how recycled paper is made from old
+
+- A sentences | and 5 newspapers. First, some newspaper is torn into small pieces B sentences 2 and 4 and put into a bowl. Then, 250 ml of water is added and it is C sentences 3, 6 and 7 left to soak for up to an hour. Next, using an electric mixer, the 3 . spied mixture is beaten for about 45 seconds until a pulp is formed. Grammatical Accuracy — describing numbers / an electric mixer is used to beat the mixture for about 45 and figures accurately seconds until a pulp is formed. When it is ready, the pulp is
+
+- 3.1 poured into a shallow tray and a further 100 ml of water is 1 Percentages, years and high‘ or complex numbers (e.g. added.; It is mixed together: by hand.: After this, a piece of mesh; 305,678) can be left as numerals. We often simplifyfescuys is used to carefully; lift the pulp mixture; < out of the :tray, allowing , ;
+
+- complex numbers by rounding‘ them up or down (e.g.aejust the water to: drain.: / the pulp mixture is carefully; lifted out of P under four million;ra a little‘ over five. million,oye etc.). the tray using a piece of meshF and the water is allowed‘ to drain.
+
+- 2 You should write. fractionsoe and simple. numbers (1-10) .in Next,; an oldRo newspaper is openedf up: and theps pulp mixture <eitile_ is placed inside. / the pulp mixture is placed inside an old newspaper. Then, a rolling pin is used to press the paper down
+
+- 3:2 and force out any excess water. / the paper is pressed down with 1 Half of the people who attended in 1961 had never a rolling pin and any excess water is forced out. Finally, the new attended a concert before. paper is left to dry in a warm place for at least 24 hours.
+
+- 2 They reduced the budget by one million dollars 40 years later. 379
+
+## PDF page 377
+
+<!-- source-pdf-page: 377 -->
+
+### @ Answer key
+
+
+<!-- Start of picture text -->
+2.3 2 Describing changes in a place<br>First; Then; Next; When; After this; Finally PA|<br>, ;<br>3 1 extend or expand 6 reduce<br>Lexical Resource — being accurate 2 renovate/modernise 7 develop<br>3.1 3 modernise/renovate 8 add<br>1 government 5 countries 4 replace 9 remove<br>2 percentage 6 between 5 improve 10 reconstruct<br>3. different 7 decreased 2:2<br>4 until 8 increased 1 replaced<br>3.2 2 expanded / extended / developed<br>1 amount 3 number 5 percentage 3 have been modernised / improved<br>2 method 4 means 6 factors 4 have now been added; have been improved / modernised<br>3.3 5 have been removed<br>1 difference 4 increase 7 sport/s 3 Grammatical Accuracy<br>2 work 5 attendance 8 educational 3.1<br>2 lives 6 ‘slight 1 allow 6 have been added<br>2 consisted 7 has now replaced<br>4 Academic Writing Task 1 - 3 was restricted 8 are located<br>D ibi 4 has changed 9 have been made<br>escribing maps 5 have been improved 10 has been extended<br>; res.  a map There3.2 are two clear paragraphs. The first describes the town in<br>it has been expanded / extended. 1700 and the second describes modern-day changes that have<br>taken place.<br>Steggle Farm It’s been replaced by a road.<br>the roads Have been modernised and traffic lights| 5 General Training Writing Task 1—-<br>abeenroundaboutadded.  and zebra crossing have A | letter<br>the shops There are more shops / they have been 1 Understan ding the task<br>extended. 1.1<br>smaller.<br>Replaced with; a car park. greeting Hi Mum Dear Mike DearMadamSir or<br>the house in Replaced with a supermarket. opening | Thanks for | I'm afraid | I'm writing<br>St Peter's Lane statement | the parcel, it] won't be able | in response<br>the stables Replaced with a block of flats. just arrived! | to attend the | to your<br>meeting next | advertisement.<br>ed week.<br>1 market square 3° church closing | can't wait | I'm looking | look forward<br>2 house 4 shops statement | tosee you | forward to to your reply.<br>1.3 next week, | gettingto work. back<br>2.1 thein thl e ft b o fttom left-hand corner ending Lots of love | Kind regards<br>3 top left-hand corner of 1.2<br>4 tothe right of / on the right-hand side of 1F 2A3D 4E 5B 6C<br>1.4<br>1 formal (You do not know the person and it is a business<br>letter.)<br><!-- End of picture text -->
+
+380
+
+## PDF page 378
+
+<!-- source-pdf-page: 378 -->
+
+Answer key @ 2 no (You should use the information in the question.) 6 Writing Task 2 - Getting ready to write 3 no (You should not write any address.) . 1 Understanding the task 2 Improving your score 1.1 2.2 1 £ 3 H 5 F 7D 1 Dis not relevant to the situation. 2G 4c 6 B 8 A 2A4 B5 C4 E 6 F 2 1.2 2.3 1 D/E 2 B 3 DIE 4 BIE 5 A 6C Parts 3 and 7 still need ideas. ; a , 2.4 2 Planning g and organisinggyyour ideas 2.4 The writer has copied has copied several words and and phrases from the The following ideas should be cut because they are not question. ; ; relevant to the topic (whether the internet helps people 25 stay connected or isolates them): 2, 3, 6, 8. 1 renting / living in has (got) 3 repairs 2.6 2 afford (The paragraph fits into part 3 of the plan.) For: the internet helps | Against: the internet 2.6 us to stay connected isolates us The writer has has used their imagination imagination and filled in some some extra 7 My cousin travelled for | 1 Instant communication (e.g. details (e.g. the rent was increased recently; the house suits a year but kept in touch emails/text messages) means them perfectly). with his family every day. that it is difficult to escape 2.7 9 Through the internet, from work. work. we can share memories | 4 A friend of mine uses a socialIdea B. with people who who are far networking site a great deal 2.8CC . faithfull away. 5 virtualbut wefriendsrarelybut wefriendsrarely wefriendsrarelyfriendsrarely madeseeher.onon madeseeher.onon her.onon the Yours faithfully Internet cannot be compared compared 3 . . to our our actual friends and Checking and correcting correcting farnlly
+
+The writer has copied has copied several words and and phrases from the question. 25 1 renting / living in has (got) 3 repairs 2 afford (The paragraph fits into part 3 of the plan.) 2.6 The writer has has used their imagination imagination and filled in some some extra details (e.g. the rent was increased recently; the house suits them perfectly).
+
+2.7 9 Through the internet, from work. work. we can share memories | 4 A friend of mine uses a socialIdea B. with people who who are far networking site a great deal . away. rarely see 2.8CC faithfull 5 virtualbut wefriendsrarelybut wefriendsrarely wefriendsrarelyfriendsrarely madeseeher.onon the Yours faithfully Internet cannot be compared compared 3 . . to our our actual friends and Checking and correcting correcting farnlly 3.1 1 will 4 spent 7 needs 2.7 2 would 5 would like 8 helps / will help | We need to add more to For: the Internet helps us to stay connected. 3 are 6 looking/hearing 9 am writing 2.8 3.2 A (This idea relates directly to the topic: immediate contact 1 on 4 for 6 on:on 8 of provided by the internet. It is a further argument ‘for’.) 2 of 5 to; to 7 in 9 in . . . . 3 in 3 Getting started — writing an introduction oe 3.1 1 because 6 business A5 B3 C1 D2 2 advertisement 7 restaurant 3.2 3 society 8 necessary (Suggested answer) = ® sticerely The internet is a wonderful tool that helps us to keep in touch send anywhere in the world. However, some websites can become 3.4 an obsession and may encourage people to stay at home 1 I noticed... instead of going out to<sup>see</sup> their friends. 2 However, 3.3 3 Yours sincerely, 1C 2B 3D 4A, 4 toask you about the party. 5 don't 3.4 © rea 7 Dear Sir,; Sentence 2 (Sentences ; | and 3 only deal with. one; side of the argument. Sentence 4 is not relevant to this question.)
+
+381
+
+## PDF page 379
+
+<!-- source-pdf-page: 379 -->
+
+- 2 EEOOOOOeeoworee @ Answer key 7 Writing Task 2 - Expressing yourideas 3.3 clearly 1A 3 B 5 A 7 A 2B 4c 6 ¢ 8 C
+
+- 1 Linking— ideas — cohesion 1.1 3.4 . P ei imilarséatlar Weass dentlary, ferthenners. in 1 In conclusion, I completely disagree with this view. Cvineion, ; atnotonly . oi..: **.** .. iBait als¢e166,: similarly,‘ Al so . Y furthermore,. . 2. Aswithout: far as any| amreal eoneernsolution. concerned,: thismrsis a problem
+
+- * Connecting different ideas: but, in spite of, however, y . : :
+
+- although, 3 To summarise, even though there is a clear downside to Clarify sivason the Statin other hand,olor **w** urdhil **e** :, whereas,daatts, tn-baesdespite our dependence on technology, | honestly feel we have to
+
+- " waane mee : forfor example,iple: ; suchsuchas as, , forfor inetaninstance findhereato waystay. to cope with it, because the internet is definitely ¢ Giving a reason or conclusion: therefore, because of, <4 4 Inconclusion, there are both negatives and positives to
+
+- “ 4 result:— BOaRaCeeY.4 am6 this system, but the negatives seem to far outweigh the
+
+- 1.2 positives. 1 Consequently 3 However 5 For example 5 In my point of view, education is a vital part of every 2 In fact 4 Furthermore child’s life. 1 , Asa result 4 In addition.. 8 Writriting Task 2 ~- Checki ng and 2 In other words 5 For instance correcting 3 On the other hand . F . 1 Developing your ideas clearly
+
+- 2 Lexical Resource — avoiding repetition 2 . 1 The writer uses these words to avoid repetition.I They y refer
+
+- 1 these natural resources back sosinl = 2 these (types / kinds of) facilities 1 the internet 6 progress/the ability to 3 funding is 2. benefits keep in touch 4 this (type of / kind of) method 3 the internet 7 some sisers 5 This system; 4 companies 8 some users 5 my cousins 9 some users
+
+- 2.2 10 risks 1 gonna > going to 4 OK ~» acceptable 2 a First e Undoubtedly 2 & >and 5 Kids - Children b However f Consequently 3 e.g. > for example 6 etc. » and so on. c¢ Inaddition g To summarise 2.3 d For example 3
+
+- 1 learn 5 solve (Possible7 plan) 23 understandfind out about 67 employeesmoney Introduction:. . 4 skills 8 advertising agree with both points Ideas for:
+
+- 3 Expressing a personal view benefits of the internet 3.1 businesses use the internet every day — they can’t meet 1C 2A3D 4B customers’ needs without it 3.2 in our personal lives it helps us keep in touch - e.g. my cousins backpacking
+
+- (Suggested answers) Ideas against: 2 In my view, I don’t think this is a good idea. the other side of the coin 3 Personally, I wouldn't like to have to doa job I didn’t enjoy. it’s too convenient — we can’t escape work 4 This is probably a bad idea. social networking sites can make us anti-social (ironic) 5 Life can be much more complicated for young people feeling§ connected may} be an illusion — it’s virtual not real nowadays.d
+
+- 6 ae ; ee Conclusion In my opinion, every situation is different. * . my opinion -1agr
+
+- 7 Nowadays, young people generally use their mobile phones yop; € - ae ee ‘ foranultiple tasks we can help with education
+
+- 8 Schools seem to be more crowded than in the past Henelits quiwermtt Grawbacksedisepied people teotatey 9 My cityaeis less crowded now and people appear to enjoy at home walking through the streets.
+
+## PDF page 380
+
+<!-- source-pdf-page: 380 -->
+
+### Answer key @
+
+- 2 Grammatical Accuracy C&D_ You are not allowed to take a mobile phone into the 2.1 exam room. ; ; ; ; ; ; E You do not need to dress very formally for the exam. wichbelieve~ which; Nowdays — Nowadays; thier - their; belive - F The examiner cannot tell you your score, and you should
+
+- 2 not ask. there are many who is are concemed; the Intemet ; G Shrugging your shoulders instead of speaking can appear has brought; to ever escaping escape; can be minimise rude and shows a lack of language. Always use words to
+
+- 3 minimised; As far as ia Sone concerned answer a question, even if it is to say ‘I’m sorry, I'm not Progress comes at a price (You could cut either one: sure what you mean.’ However, I do think that some people can find it quite H You are not allowed to leave the room during the test, addictive and there are many who are concerned about ... / However, there is always another side to the coin) 2 Part 1 - talking about familiar topics
+
+- 2.3 2.2 1 According to the survey, the population will grow more If you give only a short answer and do not answer fully. and more. It is predicted that by 2050 the population will 2.3 have increased by 30%. 7
+
+- 2 Many famous film stars are American. C (by including reasons for his opinions) 3 membersMy conclusion, of societytherefore,is the jobis that of bothteaching seinschildren and theto satelbe good 3 Using. the right- tense — Grammatical‘ Range 4 The pie chart gives us information about the causes of land and Accuracy 5 degradationMany childrenworldwide.spend hours playing video games, which 3.17 can lead to health problems. 1 of writing do you do, for example letters, emails, reports
+
+- 6 However, we can see that the rate of both national and or essays? international calls increased from 1995 to 2010. 2 writing with a pen or using a computer?
+
+- 7 Nowadays, in many universities around the world, 3 more now or less than you did a few years ago? university students can study any subject they like. 4 write stories or poems?
+
+- 3 ; 5 music. How often do you listen to music? Assessing your language 39
+
+- 3.2 A 1 simple present (/ usually / generally, etc.) =band8 B=band4 C =band6 2 simple present . .
+
+- Speaking skills 43 **simple present** and simple past, present continuous .
+
+- 1 5 simple present The Speaking Test — Part 1 Saida only uses the simple present and repeats / prefer to rather
+
+- 7 Getting ready to speak than showing a range. 1.1 33 1 fullname 1 correct 2. shall I call you 2 Ifyou senda letter by yourself, it means you are very really 3 where you're from appreciate this person / you are very appreciative of this 4 identification person, (Saida may mean: /fyou write a letter by hand ...) 5 some questions about yourself 3 correct 6 where you live 4 [think less, because technology nowadays areteaty-getast 1.2.. 5 isNotreallyaettatydevelopingreally. quickly. some form of identification (e.g. a passport) 6 correct
+
+- 1.1 1 fullname 2. shall I call you 3 where you're from 4 identification 5 some questions about yourself 6 where you live 1.2.. some form of identification (e.g. a passport)
+
+#### 1.3
+
+   - 3.6 1 Yes, I do / Not really 2 No, I didn’t / Not really / Yes, I did 3 Yes, | would / No, I wouldn't / Not really 4 Not really / Yes, [do / No, I don’t 5 No, I haven't / Yes, I have / Not really
+
+- 1 friendly, calm, confident 2 B She makes good eye contact with the examiner. C Her body language shows she is listening carefully,
+
+- 1.4
+
+Only E should be ticked.
+
+- A&B_ You should not chew gum - it can be seen as impolite and the examiner will have trouble hearing you. You should not take any food or drink into the exam room.
+
+383
+
+## PDF page 381
+
+<!-- source-pdf-page: 381 -->
+
+- _ @Answer key 3.7 1.5 1 He answers the question (almost every day) then expands on — gne minute and 40 seconds it by giving more detail: J used to listen for one hour at least. — Mistakes : , ¢ added more about his friend (to describe him). K seven seed m ty used to talk about pes habits: ¢ described the girlfriend and said if he knew her. 2 word order: he should say J usually listen to music for at « explained more about the advice and help he gave.
+
+- 2. Heseitexplains ied aewhy by explaining‘ig how it; makes himP feel. ¢ added more about his feelings. Mistakes 1.6 1_verb agreement: he should say it relaxes me / it makes He prompts her by asking ‘Can you tell me any more about that?’. me feel
+
+- 2 he needs to connect his ideas so the words are not a list: 1.7 it makes mefeel at ease (and more) comfortable 1 As I said earlier ...
+
+- 3 He answers by saying which he prefers and why. 2 Atthe beginning | mentioned / said / described ... Mistakes 3 I don’t think I've mentioned / described / said ... 1 it would be more natural to say: you can find the song you 4 Now, what else can I say? are lookingfor much faster 5 I'd just like to add something about ...
+
+- 2 tense: that existed in the world — should be the present 6 One thing | forgot to mention ... tense: that exists
+
+- 4 He answers (No) and then explains about how his tastes 1.8 have changed and comments on this fact. She didn’t mention how she felt about helping this person. Mistakes He uses a good range of tenses accurately here: When I was 1.9 younger I loved ... Now I have changed my mind andI<sup>prefer...</sup> 1 Do you like helping other people? It’s completely different, | know. 2 So, do your friends help you when you have a problem?
+
+- 5 He talks about two instruments he learned as a child and 1.10 an instrument he would like to play and also comments . on‘that: 1 Sanem keeps talking by giving examples (/ike charities / old Mistakes people) and explaining why (because they always need help). He uses a variety of tenses accurately: When Iwasa child...1 ? Emanuele keeps talking by giving an explanation (it’s used to play ... I studied ... | would like to play. I think it will be ... important to have someone to help you ...) and specific examples The only mistake is: / studied two years drums. He should say: 1 (for example, when I was worried ... [about] university, the same studied the drums for two years. friend ... helped me and gave me some advice ...). 2 Improving Fluency and Coherence
+
+- 2 Part 2 - Giving a talk 2.1 1 Understanding the task 1 She begins by repeating the examiner’s question and 1.1 stating who she has decided to talk about. 1 one or two minutes — but you should try to talk for at least 2 You asked me to describe a time when I helped someone. two minutes To that aim, I've chosen to talk about Aniseto.
+
+- 2 onheminute 3 She uses the different points in the question to organise her 3 No, the examiner will give it to you. talk and link her ideas and signal a change in topic. E.g. 4, #6 Why I wanted to do that... 5 The examiner will tell you when to stop. How I helped this person ... What was the result ...
+
+131 ; Why 2 (The) Result 3 felt, 2.21H 3 D 5 B 7 BE 1.4 2A 4c 6 G 8 F Who - my friend 2.4 Why — he wanted — he wanted he wanted wanted to get a girlfriend She uses a good a good good variety.
+
+- Who - my friend 2.4 Why — he wanted — he wanted he wanted wanted to get a girlfriend She uses a good a good good variety. How - gave him advice Result — they are now a couple 2.5 HowI felt - good, useful, helpful B Lhelped him. E it wasn’t just for him, it C Icould help hima little. was also for me, D he couldn't speak English Fit wasn'ta good thing. at all. G he was very friendly.
+
+384
+
+## PDF page 382
+
+<!-- source-pdf-page: 382 -->
+
+- Answer key @
+
+- 2.6 1.2 1 She only uses simple connectors: so, and, because. A Can you tell me some of the practical things that people 2 She could have improved her score by using a variety of can do to help their neighbours/neighbors? connectors. Some other connectors she could have used are: ~=B_> Why should neighbours/neighbors help each other? 1 also had to ..., as well as that ..., because of that ..., and as a C Do you think that people in small towns help each other result ..., consequently ... . more than people in cities?
+
+- 3 Yes, she says for her and me, she, etc. D So why don’t they do the same in cities? 4 She is quite hesitant and says er... a lot. E Let's go on and think about attitudes towards helping other 3 people. Some people don’t want to help other people — Organising your notes and your talk why do you think that is?
+
+- 3.3 F Do you think that the governments have a responsibility to My(Suggestedbrotherideas) G helpBut doesn’tpeople?that sometimes. mean that people thinkait’s * I've decided to talk about my older brother. I've known him all only the government’s responsibility? of my life. He’s 36 years old and he’s a lawyer. Unfortunately, H So, Emanuele, do you think that some people deserve he lives in America so I don’t see him very often. more help than others?
+
+- ¢ I chose him because, when he was young, he had a lot 1.3 of problems al school because he had a lot of learning A 4 C7 E 8 G 6 difficulties. But, it was always his dream to be a lawyer and B 3 D5 FE | H 2 he didn’t let his learning difficulties get in his way. He failed his exams many times but he kept trying and he finally i succeeded. 1B 3 A $<
+
+- ¢ [think he has influenced my life by teaching me to keep 2 E/D 4 F 6E going. He also taught me that it’s important to have a clear goal and to never give up. Last year, I failed an important 1.6 test at school and I was very disappointed. But I thought of 1A 3 E/B > A 7 A/B my brother and I decided not to give up, so I’m goingtotry 2 F 4B 6 A 8 A/D again soon. - A
+
+- ¢ When I think of my brother, I feel really grateful that I have 2 Agreeing and disagreeing him in my life. I also feel a lot of admiration for him andI'm 2,14 very proud of what he has achieved.
+
+- My grandmother Strongly Disagree | Neither agree} Agree Strongly ¢ I’ve decided to talk about my grandmother. I’ve known her disagree to some nor disagree | to some | agree all of my life and she’s an amazing person. extent extent
+
+- ¢ I chose her because, when I was young, she looked after me Oh no, not | | think | Well, | think Toa | totally a lot when my parents were busy at work. So I have a lot of at all. would there are valid | certain | agree with strong memories of her when I was growing up. | completely | probably points for extent, | that.
+
+- ¢ I think she has influenced my life by being such a calm disagree. have to say | both. yes. Yes, | think person. She also taught me how to read and write. And I no. Actually, | think that's think it’s because of her that I work so hard now. She also | can see it depends on absolutely taught me a lot about my culture. For example, she taught your point, | the situation right. me how to cook some traditional dishes from my country. but ... (etc.)
+
+- ¢ WhenI think of my grandmother, I feel very happy. I love It seems to me her very much and I feel a lot of respect and admiration for that there are her. But I also sometimes feel worried about her because she two sides to is quite old now and still lives alone. consider.
+
+- 3 Part 3 —- Talking about abstract topics 3 Improving your Lexical Resource score 1 3.1 Talking about abstract topics 1C¢C 2H 3A 4B SF 6D
+
+- 1.1 2.1 atimediscuss; withwhen youyou helped someone 3:2A My boss was a bit; ofa slave driver.; 3 general questions related to this B My sister and 1 are like two peas in a pod. 4 helping neighbours/neighbors C You can’t judge a book by its cover. D | felt as though I didn’t have a care in the world. 385
+
+## PDF page 383
+
+<!-- source-pdf-page: 383 -->
+
+@ Answer key E Actions speak louder than words. 2 Pronunciation, intonation and ‘chunking’ F I couldn't keep a straight face. 2.1 3.3 1 it 11 heart 21 breeze 2 look 12 near 22 defend holiday 4 bad 14 cruel 24 sort ale ait dep **e** nds on 65 workmanfar **1** 5 6 **co** inuld **2** 56 close shave(v) children base (something) on 7 rd ty og ara bad create the structure = Son - bike ae Yet house personal responsibility 9 uncle 1? can't act in the right way 10' stars 20:day allow people to 2.4 a /t/ based, laughed, chased, increased, hoped, washed /d/ played, changed, arrived, learned, poured 3.4 /id/ waited, acted, wanted, decided He has a wide range of vocabulary and uses higher-level 2.7 vocabulary. There are some inaccuracies that prevent him Saida: She has problems with th /d/, which she pronounces from being awarded a higher score: Ja): Fake-wtook-at his house — take care of / look after Melanie: She pronounces ¢/1 /0/ as /d/ and pronounces uicle to take-ttp a mindset — develop / create a mindset as ankle. mainly it’s a featttre-efa-persen — private issue / our individual 2.8 responsibility . but bythesvay you should always try to be helpful — anyway contact depend expert /in any case respect develop difficult equal environment expensive 4 Checking, correcting and assessing Sao, recht 1 Dealing with problems “10 1.1 Over the years I’ve interviewed hundreds of candidates for 1dD2AID jobs at many different levels. The point of every job interview 3 C4C 5 € is to make sure a candidate has the skills necessary to do the 4:2 work. Hiring the wrong person can be an expensive mistake. 1B 2A3¢C 4¢€C 5€C But, apart from references, how can you determine if the 1.3 effectivecandidateway actuallyto sort knowsout the whatgoodhe sayscandidates he knows?from Athevery bad is A (It shows a lack of language. Keep talking and ask a by asking ‘How did you do that?’ and ‘Why did you do that?’ question if you are not sure what to say.) at appropriate stages in the interview. 1.4 2.11 Extract 1: the examiner gives an example to help Emanuele. The point of every job interview // is to make sure a candidate Extract 2: the examiner rephrases the question. has the skills necessary to do the work. // Hiring the wrong 1.5 person // can be an expensive mistake. But, // apart from references, // how can you determine if the candidate actually A I’m not really sure what you mean. / I'm sorry, could you repeat knows // what he says he knows? A very effective way to the question? sort out the good candidates from the bad // is by asking // B I'm sorry, could you repeat the question?/ I'm not really sure ‘How did you do that?’ // and // ‘Why did you do that?’ // at what you mean. appropriate stages in the interview. C Sorry, | meant to say ... 2.12 D I've never really thought about that before. / 1 honestly have no iden . : (Suggested answers)
+
+Every day./I love music/yeah/I'm a fan of music/every type of music/especially rock music and classical music/and I like to search from the Internet, new groups,/new bands,/new type of genres./Yeah, every day.
+
+386
+
+## PDF page 384
+
+<!-- source-pdf-page: 384 -->
+
+<!-- Start of picture text -->
+Answer key @<br><!-- End of picture text -->
+
+#### 2.13 1 No, she doesn’t pause naturally between words or phrases and there are no examples of stress. 2 Her speech pattern is monotonous, 3 Assessing yourself and improving your score 3.2 ¢ Fluency and Cohesion: try to improve her fluency so she hesitates less * Lexical Resource: try to improve her accuracy accuracy * Grammatical Range and and Accuracy: try to use a wider of grammatical structures * Pronunciation: work on individual sounds Practice Test 1 Listening Section 1 1 café
+
+- Lexical Resource: try to improve her accuracy accuracy
+
+- * Grammatical Range and and Accuracy: try to use a wider range of grammatical structures
+
+- * Pronunciation: work on individual sounds
+
+2 9/nine am/9/nine o’clock
+
+- 3 5/five km/kilometres/kilometers
+
+- 4 (a) bar(-)code/(a) barcode/bar code 5 website/web site
+
+6 1.50
+
+- 7 M-A-U-G-H-A-N 8 01444 732900 9 guiding/guide
+
+- 10 taking/take photos/photographs F : =
+
+- Listening Section 2 11 sharks 16 fifty/50 minutes/mins 12 old fishing village/Old 17 museum Fishing Village 18 tourist office
+
+- 13 shopping 19 rain(-)wear/rainwear 14 (water) fountain 20 e(-)ticket/e ticket 15 student card
+
+Listening Section 3 21C 27 (senior) management/ 22 A managers 23 B 28 project request 24A 29 meeting 25C 30 conference call 26 B Listening Section 4 31 29,000 years 36 china stone 32 southern/south Europe 37 cooling (down) 33 water 38 windows 34 minerals 39 volcanic ash 35 white gold 40 harbours ss Reading Passage 1 1 road (/t was 1992. In England, workmen were building a new road ...)
+
+- 2 conference (Ji 2002, ... the Dover Bronze-Age Boat Trust hosted a conference ... Many speakers camefrom overseas, and debate about sind ROCCE wer renew.)
+
+- 3 proposals (Detailed proposals to reconstruct the boat were drawn up in 2004.)
+
+- 4 launch (... an official launch of the project was held at an international seminar in France in 2007.)
+
+- 5 exhibition (Meanwhile, the exhibition was being prepared ready for opening in July 2012 ...)
+
+- 6 TRUE (The boat was not a wreck, but had been deliberately discarded, dismantled and broken. Perhaps it had been ‘ritually killed’ at the endof its life ...)
+
+- 7 FALSE (With hindsight, it was significant that the boat was found and studied by mainstream archaeologists who naturally focused on its cultural context. At the time, ancient boats were often considered only from a narrower technological perspective, but news about the Dover boat reached a broad audience.)
+
+- 8 FALSE (The possibility of returning to Dover to search for the boat’s unexcavated northern end was explored, but practical and financial difficulties were insurmountable — and there was no guarantee that the timbers had survived the previous decade in the changed environment.)
+
+- 9 NOT GIVEN (Archaeological evidence was beginning to suggest a Bronze-Age community straddling the Channel, brought together by the sea, rather than separated by it.) (Although the text implies that trade existed at the time across the Channel, there is nothing in the text to say what this particular boat was used for.)
+
+- 10 six/6 metres/meters/m (Ar the base of a deep shaft six metres below the modern streets a wooden structure was revealed.)
+
+- 11 (pads of) moss (The seams had been made watertight by pads of moss, fixed by wedges and yew stitches.)
+
+- 12 (the) hull (shape) (J 2012, however, the hull shape was at the centre of the work, ...)
+
+- 13 cost and time/cost time/time cost (both needed for a mark) (It was decided to make the replica half-scale for reasons ofcost and time, ...)
+
+### Reading Passage 2
+
+- 14 E (In total, there were responses from staffat 154 airports and 68% of these answered ‘yes’ to the question: Does your airport own and have meetings facilities available for hire?)
+
+- 15 B (Some of the more obvious solutions to growing commercial revenues, such as extending the merchandising space or expanding the variety ofshopping opportunities, have already been tried to their limit at many airports.)
+
+- 16 G (Average revenue per airport was just $12,959. Meeting facilities are effectively a non-aeronautical source ofairport revenue. Only 1% of respondents generated more than 20% nonaeronautical revenue from their meetings facilities; none generated more than 40%.)
+
+- 17 A (Meanwhile, the pressures to control the level of aeronautical revenues are as strong as ever due to the poor financial health of many airlines and the rapid rise of the low-cost carrier sector.)
+
+- 18 C (Within this context, Jarach (2001) discusses how dedicated meetings facilities located within the terminal and managed directly by the airport operator may be regarded as an expansion
+
+387
+
+## PDF page 385
+
+<!-- source-pdf-page: 385 -->
+
+### @ Answer key
+
+#### of the concept of airline lounges or as a way to reconvert abandoned or underused areas of terminal buildings.)
+
+   - 33 A (The second widely held view, ... was that photographs would be useful to art but should not be considered equal in creativeness to drawing and painting.)
+
+- 19 security procedures (... new security procedures that have had an impact on the dwell time ofpassengers.)
+
+   - 34 C (Lastly, ... a fair number ofindividuals realized that camera images were or could be as significant as handmade works of art and that they might have a positive influence on the arts and on culture in general.)
+
+- 20 final destination (Af this stage of facilities provision, the airport also has the possibility of taking on the role of the final destination rather than merely a facilitator of access.)
+
+- 21 airlines (When an airport location can be promoted as a business venue, this may increase the overall appeal of the airport and help it become more competitive in both attracting and retaining airlines and their passengers.)
+
+   - 35 B (... Lacan and Francis Wey. The latter, ... suggested that they would lead to greater naturalness in the graphic depiction of anatomy, clothing, likeness, expression, and landscape.)
+
+   - 36 E (... a more stringent viewpoint led critic Philip Gilbert Hamerton to dismiss camera images as ‘narrow in range, emphatic in assertion, telling one truth for ten falsehoods’.)
+
+- 22 competitive advantage (.., but clearly this will be dependent on the competitive advantage that the airport is able to achieve in comparison with other venues.)
+
+- 23 economic downturn/climate (These are fairly high proportions considering the recent economic climate. Also: Moreover, the global economic downturn has caused a reduction in passenger numbers while those that are travelling generally have less money to spend.)
+
+   - 37 A (Still other painters, the most prominent among them the French painter, Jean-Auguste-Dominique Ingres, began almost inmediately to use photography to make a record of their own output ...)
+
+   - 38 D (Delacroix’s enthusiasm for the medium can be sensed in a journal entry noting that ifphotographs were used as they should be, an artist might ‘raise himself to heights that we do not yet know’.)
+
+   - 39 A (... Jean-Auguste-Dominique Ingres, began almost immediately to use photography to ... provide ... source material for poses and backgrounds ...)
+
+- 24 five years (Jn addition, 28% of respondents that did not have meeting facilities stated that they were likely to invest in them during the next five years.)
+
+- 25 local (people) (Their findings show that meeting facilities provided by the majority ofrespondents tend to serve local versus non-local or foreign needs. 63% of respondents estimated that over 60% ofusers are from the local area.)
+
+- 40 C (Baudelaire regarded photography as ‘a very humble servant of art and science’; a medium largely unable to transcend ‘external reality’. For this critic, photography was linked with ‘the great industrial madness‘ madness‘ of the the time ...)
+
+26 flights (16% of respondents estimated that none of the users of industrial madness‘ madness‘ of the the time ...) their meeting facilities use flights ...) ; Writing Task 1 Reading Passage 3 Sanpieanswer 27 C (Is Photography: Art? This may seem a pointless question today : ‘ ee ra ian if The chart examines the levels of donation among people of ... But in the decades following the discovery ofphotography, this <a ; rar . Ry scl icgy different ages in Britain. question reflected the search for ways to fit the mechanical medium into the traditional schemes of artistic expression.) Overall, a greater percentage of British people gave money to 28 D (In both countries, public interest in this topic was a reflection of Charity in 1990 than in 2010. However, across the two years, the the belief that national stature and achievement in the arts were pattern differs before and after the age of 50. related.) In 1990, 42% of the 36-50 age-group made charitable 29 D (Many portrait painters ... who realized that photography donations, and this figure is the highest on the chart. The represented the ‘handwriting on the wall’ became involved with 18-25s contributed the least at only 17%. By 2010, these daguerreotyping or paper photography in an effort to save their figures had fallen significantly to 35% and 7% respectively. careers) (The phrase ‘writing on the wall’ or ‘handwriting The level of donations from the 26-35 age-group also on the wall’ means that there are clear signs that experienced a decrease in 2010 from 31% to 24%. something will fail or no longer exist.) While donations up to the age of 50 declined across the two 30 A (These writers reflected the opposition of a section of the cultural years, they rose among the 51-65 age-group from 35% to elite in England and France to the ‘cheapening of art’ which the nearly 40%, which was the highest percentage for 2010. The growing acceptance and purchase ofcamera pictures by the middle figure for the over 65s was lower than this, at 35%, but it was class represented ,.. This appeal to the middle class convinced the still a little higher than the 1990 figure of 32%. elite that photographs would foster a desire for realism instead of (157 words) idealism ...) 31 E (From the maze of conflicting statements and heated articles on the subject ...) Writing Task 2 32 G (The simplest, entertained by many painters and a section of Sample answer the public, was that photographs should not be considered ‘art’ Co, . because they were made withre a mechanical= deviceAt and by physicalml — For most people, when they‘ get their—first job they haveoelittle and chemicales phenomena instead; of by human hand and spirit;iti to idea whether or. not theystoreswill remain in the. same organisation . ; . some, camera images seemed to have more in; common withq fabricthroughout their. working+ life.oeIf they decide .to change, they ; produced by machinery; in; a millj than with‘ handmade creations‘ need to consider how this will impact on their career overall. fired by inspiration.) People who stay with the same organisation have the advantage of thoroughly understanding how it works and
+
+388
+
+## PDF page 386
+
+<!-- source-pdf-page: 386 -->
+
+Answer key @
+
+also becoming familiar with the staff and processes. If they Reading Passage 1 work hard, their promotion prospects are good and there is 1 (retronasal) smell 8 (air) molecules likely to be greater job security, with the promise of a good 2 ‘imam 9 flavors/flavours pension when they retire. Employers value loyalty and may 3 toxins 10 ‘memories offer additional incentives to long-term employees, including 4 intemal scents/smells 11 prey bonuses and reward schemes. 5 disciplines i chocolate However, one of the drawbacks of staying with the same 6 spatial map 13 appetites organisation is that the person may get stuck doing the same 7 social life job year after year. In some cases, this can lead to boredom and disillusionment. Moving from one organisation to another . can be a strategic decision in order to have variety and acquire Reading Passage 2 a range of skills and experience. A friend of my father started ‘ ¥ 19 ty 23. C out as a sociology teacher, he then joined the Social Services 15 me 20 ¢ 24 on(-)board COM PAEE and is currently managing a care home in Western Australia. 46 bcs a1 8B 25 ultrasound signals This has made him incredibly knowledgeable in a range of L7 ve 22 A 26 touch(-)screen related fields and, in my view, has provided him with a much 431 more interesting working life. Although there are benefits to working for one organisation, Reading Passage 3 I feel that it is also valuable for an employee to be able to 27 NOT GIVEN 34 a/the door offer a wide range of experience having worked for different 28 NO 35 identification companies. As long as it is planned carefully, I feel that change is 29 NO 36 (the/some) valuables good and will ultimately benefit the employee and the employer. 30 YES 37&38 IN EITHER ORDER (281 words) 31 NO AC 32 visual disturbance 39&40 IN EITHER ORDER Practice Test 2 33 (some) directions BE
+
+|ListeningSection1||WritingTask1|
+|---|---|---|
+|<br>1 3000/3,000/three thousand<br>|6 post|<br>Sampleanswer|
+|words<br>2|7famousauthors|Thedataprovidesinformationonaveragetemperaturesand|
+|;<br><br>surprise/surprisingending<br>3|<br>—8online|<br>annualhoursofsunshineinLondon,NewYorkandSydney.|
+|<br> 16/sixteen<br>|<br>9public<br>|<br>a<br>|
+|<br>4August<br><br><br>|<br>10Spain|ThetemperaturepatternsforLondonandNewYorkaresimilar,<br>|
+|<br>:<br>=2<br>5 COMP4SS/comp4ss||<br>although New York haswarmersummers and colder winters.<br>a<br>.<br>.<br>In both cities, peaks occur in July/August, at 23° in London and|
+|,<br>.<br>.<br>Listening Section 2||29° inNewYork. Incontrast, Sydney’s hottestweather isin<br>December/January when temperatures average 25°. During this|
+|11 world of water/World|15 (a) birthday party|period, New York’s temperatures dip to an average ofaround|
+|of Water|16 (the) government|5°, compared with 8° in London. On the other hand, Sydney’s|
+|12 (the) splash ride|17 (the/a) quiz|lowest average temperatures in July are just over 15°.|
+|13 (at) noon/midday/|ISE|As far as hours of sunshine are concerned, New York and|
+|12o’clock/12pm<br>14|19C|Sydneyhavesimilaraveragesof2,535and2,473hours|
+|<br> feed (the) sharks|<br>208|<br>respectively. London, however, has a much loweraverage<br>of 1,180 hours.|
+|Listening Section 3||Clearly, London is the coldest city and has the fewest hours|
+|21&22 IN EITHER ORDER<br>DB|26 seminars<br>27A|of sunshine, New York has the hottest summers, but Sydney<br>enjoys the warmest overall climate.|
+|23mathematics/math(s)|28B|(156words)|
+|<br>24 theory/theoretical|<br>29C||
+|25 jet engines|30 C||
+|Listening Section 4|||
+|31 supportive|36 tone||
+|32 pay attention|37 (a) silence/silences||
+|33 next steps|38 weak verbs||
+|34 consistent|39 repeat it||
+|35graphics|40predicting||
+
+
+389
+
+## PDF page 387
+
+<!-- source-pdf-page: 387 -->
+
+—CCCC(‘(C.O#:#t#(N((t#(tét#(.Owté#t#NN(#(#é#éiéw#w#(#(wdeeeeeeeeee @ Answer key Writing Task 2 Listening Section 4 Sample answer 31 protection 36 cap Over *r tt the pas 50 years, peoplele havehave tbecomeusedused toto thethe ideidea mena soli . Ae.did. seat wemasta waum; elements.> is : sechactie'ttdesirable if youver-earsitaokcan look 34 100 000/100,000 39 skin : after yourselfHowever, anda longerbe independent,life is only desirableotherwiseif thereyou cancan beloc $5 products 40 bluete)beriies disadvantages for everyone. . If you walk into a hospital in my country, you are likely to see Reading Passage 1 a lot more elderly people than you did in the past. In fact, this 1 FALSE 8A is causing significant problems as there is a shortage of beds. 2 FALSE 9E Medical treatment is keeping the elderly alive, but at what cost. 3 NOT GIVEN 10 scouts to others? 4 TRUE 11 waggle dance On top of this,; one of the biggestF medical‘ problems these days“ 5 NOT GIVEN 12 volume : P : ; sie: (20 6 TRUE 13 democratic is dementia. Even if old people are still fit, they may not be able to look after themselves. They may have to live‘ withx their‘ FC children or be cared for in a home, which can be expensive. Elderly people do not like to be a burden, but their children Reading Passage 2 can feel obliged to care for them. 14 iv 21 column(s) Obviously, not all old people become ill. Those who remain 15 viii 22 concrete healthy can enjoy a happy old age as long as they have saved 16 ii 23 structural revolution enough money. People are much more active in their sixties 17 vi 24 (non-pressurized) boilers and seventies than they used to be and this can only be a good 18 iii 25 power shortages thing. They have time to enjoy their retirement and doa range 19 factory 26 climate control of activities that they could not do when they were at work. 20 flooring/floor They can also help look after their grandchildren, which is a great benefit for working parents. Reading Passage 3 To sum up, I believe that we should aim to keep people 27 YES 34 turn-taking as healthy as possible so that they can enjoy their old age 28 YES 35 interruptions without having to rely on others. A longer life expectancy is 29 NO 36 belong obviously advantageous, but no one wants to live to be 100 if 30 NOT GIVEN 37 distress levels they only cause problems for their family and society. 31 NOT GIVEN 38 rejection (308 words) 32 NO 39 agreement - 33 (their) behavio(u)r/ 40 content Practice Test 3 ssarniaen Listening Section 1 Writing Task 1 1 S-Y-M-O-N-D-S/S-y-m-o-n-d-s 6 (go/do) jogging Sample answer 2 1996 7 bad ankle . . 3 fulli-)time 8 ‘iness level The diagrams show West Park School at three different stages 4 swimming‘ 9 charity7 worker inin) itsits development:deve ant: 1950,16 1980C .and 2010.> 5 monthly 10 (on) (the) radio In 1950, the school was built close to a main road and next to a number of houses. A large area behind the school was turned into : P . a playground, while the area behind the houses was farmland. Listening Section 2 ogee ELC By 1980, the houses had been demolished in order to make 12B I5C16 E 2019 speeches/lounge wey fOr a smallsmall carc perk andand an adc{ditional One schoolschool bulbuildisi shed 1A I7A speakers which became the science block. In addition to the existing 14B 18 ring. a bell playground,: Siegthe school also= gained the farmland and converted it into a sports field. Li a S ~ ‘ In 2010, the school building remained unchanged but the car istening ection ; ; park was extended to cover the entire sports field. As a result 21 pine forests 26 (the) introduction of this, the original playground was divided into two so that it 22 water 27 (the) council provided a smaller playground and a small sports field, 23 print 28 (some) data , ‘ ; ‘ ae : 24 sort 29 first; draft During this period, the school has increased5 in size and; a car park 25 remove .ink 30 (their/the); tutor has been created: and enlarged. The combined recreationalsae areas, however, first expanded and were then reduced in size. (174 words)
+
+## PDF page 388
+
+<!-- source-pdf-page: 388 -->
+
+Answer key @ Writing Task 2 Listening Section 4 Sample answer 31 food 36 shark Most people would agree that car ownership has increased in 32 hero 37 teeth recent years and is causing a range of problems, particularly 33 feathers 38 messages in built-up areas. I think there are a number of ways that 34 shells 39 meeting governments can aim to deal with this. 35 diamond 40 escape Many big cities in the world have traffic problems but these problems vary. For example, it is reasonably easy to drive Reading Passage 1 around my city after 10 am and before 5 pm. However, outside 1 FALSE 8 NOT GIVEN these hours, you have to allow double the usual time to reach 2 FALSE 9A your destination. In some other cities, traffic is congested at all 3 TRUE 10 B times, and there is the continual sound of car horns as people 4 TRUE 1i:¢ try to get wherever they want to go. 5 NOT GIVEN 12'C One of the best approaches governments can take in busy 6 FALSE 3A cities is to encourage the use of public transport. This means 7 NOT GIVEN the transport facilities have to be well run and people must be able to afford “ne ‘sa ay and nee oe seen ways of Reading Passage 2 ce around, and if they are cheap and reliable, people will 14 NOT GIVEN 21 Communication use them. 15 YES 22¢ Another approach is to discourage people from actually 16 NO 23F entering the city by building car parks and shopping centres 17 NOT GIVEN 24H on the outskirts. Many cities around the world do this quite 18 fertiliser / fertilizer 25A successfully and offer passengers bus transport into the centre, 19 lasers 26D if they need it. 20 cereals At peak travel periods, governments can also run campaigns to encourage people to be less dependent on their cars. Reading Passage 3 fhe 4 ie of at - involve wey ‘hor— te Say, a7 5 33634 IN EITHER ORDER CD nea)ut supermarwee automaticallyet ““a ocaget‘4 ed school.in our carsa rescore3 without() “thinking eet. 2. 2829 D 3553637 generationIN EITHER. ORDER BC Clearly we all have a responsibility to look after our cities. 30 F 38° citizen Governments can do a Jot to improve the situation and part 31A 39 abstract of what they do should involve encouraging individuals to 32 B 40 music consider alternatives to driving. haere 299 wordsNORE) Writingtas Task 1 Practice5 Test 4 Samplej answer This bar chart illustrates the performance of Southland’s Listening Section 1 primary exports in 2000 and 2013. It also indicates future 1 7.30/seven thirty 6 55/filty-five Aetieien for spi oe to the cone seems asa ; 2 pencils 7 beginners that internationa tourism will become the dominant industry, , 3 top 8 Kahui although dairy exports will remain strong. In 2000, we can 4 August 9 battery = ne ane was the arestast ss a earner cae three S iusrrucdons 1echow in justrles, wit revenue stanc ing at just over £ i ion. This figure has increased slightly, so that now, in 2013, it has reached almost £9 billion. It is estimated that international Listening. : Section, 2 tourism will continue to grow, so that by 2025, it will be 11&12 IN EITHER ORDER B E 17 B earning around £10 billion for the country. In 2000, dairy 13614 IN EITHER ORDER BC 18 E exports were worth around €7 billion, but since then there 15G 19 C has been a dramatic increase, and sales for this year are 16 | 20 A approximately £10 billion. Experts are predicting that exports in this area may fall slightly, so a figure of £9.5 billion is Listening. . Section. 3 expected>xpected fofor2025.02 Meateat productsproducts areare thethe thirdhird keykey iindustry. y in 21C 24 27 A 30 E Southland, but sales have dropped since 2000 and now stand 22 A 25A 28D “ So tion It is expected that sales will continue to decrease 238 26 G 29 ¢ oom (187 words) 391
+
+## PDF page 389
+
+<!-- source-pdf-page: 389 -->
+
+@ Answer key Writing Task 2 Listening Section 4 Sample answer 31 migration The , F 32 eyes growth of the fast food industry has, without doubt, 33 tizard impacted on the eating habits and the health of many societies = around the world. Diabetes, high cholesterol, heart and = trade respiratory problems are all on the rise due to fatty and sugara io Shidae rich food*. However, the question is whether higher tax would a6 political improve thissituation or not. 37&38 IN EITHER ORDER ships; horses From an economic point of view, higher tax might seem 39&40 IN EITHER ORDER industry; tourism sensible. In countries such as the USA, Australia and Britain’, . the healthcare system spends a large part of its budget on Reading Passage 1 people with diet-related health problems. It could be argued Lvi 2x 3ii 4ix Siv 6i 7 vii that these people have caused their own illnesses because of 8 North America 9 (super-hot) fires 10 (stored) carbon their choice of food. In this case, why should they expect the 11 winds 12 Drought 13 beetle state to pay for their treatment? The tax could help fund the healthcare system. Reading Passage 2 However, we also need to consider which socio-economic 14 skin/skin samples 21 blood group consumes fast food as the main part of their diet. 15 noise/noise pollution 22 NOT GIVEN Statistics indicate* that lower income groups eat more of 16 (around) Tasmania 23 TRUE this food than wealthier people. One possible reason for this 17 sperm/sperm whale(s) 24 NOT GIVEN is that fast food is far cheaper than fresh produce. This is 18 sound waves 25 TRUE because many governments offer large subsidies to farmers 19 nutrients 26 FALSE who provide products for the fast food industry, such as corn, 20 microbubbles wheat and beef. Fruit and vegetables, on the other hand, are not subsidised. Research suggests* that many families simply * cannot afford to buy healthy food or pay higher taxes on fast Reading Passage 3 food. For them, fast food is not a choice but a necessity. 278 31€ 35 A 39G In . ; ; : 28 A 32D 36H 40 B to conclusion, imposing a higher tax on fast food does not seem 29 B 33B 37D be the answer. If the government chose to do this, it would 30D 34 38 F only lead to greater poverty and families facing further hardship. re eres) Writing Task 1 Practice Test 5 Sample answer Listening Section 1 Theacross twodifferent pie chartsretail comparesectorsthein pN **e** rcentagesw Zealand ofin onlinethe yearssales 2003 1 white 6 airport and 2013. For three of the sectors, it is evident that over this 2 office 7 taxi time frame there was significant change in their proportion of 3 camera 8 Docherty online transactions. 4 umbrella 9 River At 36% we can see that the travel sector accounted for the 5 13th May/13 May/ 10 07979605437 majority of online sales in 2003, but this percentage had thirteenth May/May 13/ dropped to 29% by 2013. Across the same ten-year period, as May 13th/May thirteenth an increasing number of people chose to purchase films and music online, we can see that transactions went from just 21% to 33%, making it the retail sector with the highest overall Listening Section 2 share of the online market. 11G 14E I7A 20A In 2003, the clothing industry boasted an impressive 24% of 12D 15C 18s Cc total online sales in New Zealand. However, by 2013, the figure BA 16B 19C had fallen considerably to 16%. Interestingly, online sales of books eventually overtook sales of clothes, although books still represented only 22% of the market. Listening Section 3 Ge wapESs) 218B 24C 27 8B 30 F 22 A 25 8B 28G 23 A 26E 29 A
+
+392
+
+## PDF page 390
+
+<!-- source-pdf-page: 390 -->
+
+Answer key @ Writing Task 2 Listening Section 3 Sample answer 218 26 C In recent, years, advancesigin technology have allowed 22C 27 (global)i hunger. governments, the police553 and privately‘ owned companies: —_ 23B 28 pollution to keep the public under constant surveillance. In many aoe a2 vee ; sae se : ' 25C 30 grass(es) major cities and towns, security cameras are recording the movements of ordinary citizens. Whenever a cellphone is used, the call is logged, so the service provider knows exactly Listening Section 4 when and where the user made the call. Invisible satellites 31 marketing 35&36 IN EITHER ORDER CE orbit the Earth, watching us whether we like it or not. Is this, 32 interests 37&38 IN EITHER ORDER A D however, a development we should welcome? 33 jobs 39&40 IN EITHER ORDER A C Certainly there are benefits. In areas where there is a high 34 health crime rate, the use of security cameras may act as a deterrent to criminals: if they can see a camera, they may think twice Reading Passage 1 about breaking into a building or stealing a car. ia crime is l vi 8 economy carried out, then a camera may provide useful evidence, The 2 vii 9 guidelines same is true for a cellphone; the police sometimes rely on call 3 i 10 language logs to help them trace the whereabouts of suspects or victims. 4 jy 11 equipment/resources On the other hand, there are a number of concerns, In 5 viii 12 Master’s degree/Masters countries where human rights are ignored, the use of security 6 ii degree cameras or listening devices may be harmful to society. People —7—s science 13 respect/status should be able to hold meetings and express their opinions without their privacy being invaded. There is also a very A different issue we should consider. Nowadays, many people Reading Passage 2 upload personal information and photographs onto social 14F 19620 A/C networking sites; they often do not realise how easy it is for IE 21622 IN EITHER ORDER AD other people to view this information or for the site owners to 16 A 23 TRUE use the data or photographs for their own financial gain. I7E 24 NOT GIVEN It seems ainevitable that there will be more and more ways to 18 B 2526 NOTFALSEGIVEN monitor society in the future. However, it is our responsibility to evaluate new technology and decide whether it will do . more harm than good. Surely our freedom is more valuable Reading Passage 3 than technological progress? 27D 32:¢ 37 conversations (307 words) 28 B 33D 38 Internet 29 A 34A 39 cities . 30C 35 workplace 40 A Practice Test 6 318 36 acquaintances Listening Section 1 1 208 613 2978 6 fridge Writing Task 1 2 visiontech 7 school Sample answer 3 doctor 8 950/£950 This graph illustrates how crime rates altered in Newport inner 4 garage ? s city during the period 2003-2012. We can see immediately 5 furniture 10 friend that the greatest change occurred in the number of burglaries, while incidents of theft remained low but steady. Listening Section 2 In 2003, we can see that burglary was the most common crime, 11 contact details 16 C with approximately 3,400 reported cases. The figure rose to 12 (an) emergency 17 D around 3,700 in 2004, but then there was a downward trend 13 radio 18 F until 2008. At this point the figure stood at just over 1,000 14 (spare/extra) keys 19 G incidents. This rose slightly in 2009, then continued to fluctuate 15 (window) locks 20 E for the remaining period.
+
+In 2003, the number of cars being stolen stood at around 2,800 and followed a similar trend to burglary until 2006, At this point the number rose, standing at around 2,200 in 2007. There was a marginal decrease in the following year, but from then on, the trend was generally upwards.
+
+393
+
+## PDF page 391
+
+<!-- source-pdf-page: 391 -->
+
+7 EOOEEvocccoOeaaeoreeeeeeee___ @ Answer key Finally, robbery has always been a fairly minor problem for Listening Section 3 Newport. The number of offences committed changed little 21A 25A 29 cost(s) over nine years. It is interesting to note that the figure of 22 B 26A 30 time approximately 700 in 2003 is the same figure for 2012. 23A 27 background (187 words) 24 8B 28 theory Writing Task 2 Listening Section 4 Sample answer 31 religion(s) 36 education The pursuit of knowledge is a concept that is valued by most =a enpiats a7 ting ‘ cultures, In the 21st century,: we now have many more oe ene 26 entertalament a . options regarding how and where to find; that knowledge.a If 34 stars . 39 operaE ‘ you are a French national, you can: apply to do an economics: an 35 practical 40 electricity degree in the USA, and likewise an American citizen can take a course in linguistics in France. Indeed, most universities Reading Passage 1 across the world now have a good proportion of foreign 1 TRUE 8 D students enrolled in their programmes. 2 FALSE 9 B Certainly, there are numerous advantages of studying in a 3 NOT GIVEN 10G different country. Many students choose to do this because 4 NOTGIVEN 1c they know that a particular university, for instance Stanford 5 TRUE IZE Business School, has an excellent reputation. Graduating from 6 FALSE 13 F here, they believe, will increase their chances of securing a 7 TRUE decent position in a company back home. Students studying abroad also have the opportunity to form friendships with Reading Passage 2 people of various nationalities: in time, these may develop into 14 (the) hairs 218 useful professional networks. Furthermore, living far from 15 (electric) charge 22¢ family and friends can enable young people to become more 16 pores 235 independent and self-sufficient. 17 water 24 | Unfortunately, the experience of studying abroad is not always 1g concave 25F a positive one. Research suggests that a small percentage of 19E 26 H young people struggle to adapt to their new environment 20D and suffer from severe culture shock. The situation can become worse if the student is not mature enough to cope : by themselves. Different approaches to teaching and learning Reading Passage 3 may also come as an unwelcome surprise to some students. 27 i 33 F In . . 28 x 34 E essence, the key to a good experience at a foreign 29 ii 35 university is an open mind, If a student is presented with this ss . i A ae 30 vii 36D opportunity, they should certainly seize it. 31 iii 376-38 (in any order) B E (267 words) 32 v 39&40 (in any order) A E Practice Test 7 General Training Reading Section 1 . . . 1 E 8B Listening Section 1 a —— 1 unfriendly 7 S-H-A-D-F-O-R-T-H/ 3A 10 NOT GIVEN 2 noisy $-h-a-d-f-o-1-t-h 4 F 11 NOT GIVEN 3 23.50/twenty-three fifty 8 towel 5 C 12 TRUE 4 insects 9 breakfast 6 A 13 FALSE 5 bathrooms 10 kitchen 7 14 FALSE 6 party Listening Section 2 — Training Reading Section 2 ae volunteers 22 range es HE ava 16 consultants 23 selection 12 se ISA Isc 17 decisions 24 details 1a tO aR E 18 efficiency 25 evaluation 19 confidence 26 implementation 20 involvement 27 lessons 21 aim
+
+394
+
+## PDF page 392
+
+<!-- source-pdf-page: 392 -->
+
+Answer key @
+
+General Training Reading Section 3 Reading Passage 2 28C 35 Treasury 14 iv 21 TRUE 29 A 36 (commemorative) coin 15 ii 22 NOT GIVEN 30 C 37 (ornamental) stars 16 vii 23 TRUE 31C 38 (word) Britain 17 i 24 vertical integration 32 A 39 (red) ink 18 v 25 movie moguls 33 A 40 colour/color 19 vi 26 divestiture 34 8B 20 FALSE Practice Test 8 Reading Passage 3 . . . 27D 34 food Listening Section 1 28 C 35 predator 1 (simple) documents 29 36 E 2 keyboard 30B 37H 3 flowers 31 environmental 38 B 4 tools 32 light 39 B 5 Saturday 33 multi tasking 40 A 6 Mairead 7 Bridge ba 8 (the) 14(th)/fourteen(th) (of) May/May (the) 14(th)/ Writing Task 1 fourteen(th)/14.(0)5/(0)5.14 Sample answer 9 park The number of rentals and sales in various formats of films, 10 newspaper between 2002 and 2011 in a particular store has changed a lot. Sometimes it has been very low and sometimes very high. Listening Section 2 The number of rental since 2002 has been decreasing every 11C 16 films/movies year. Comparing the number of rentals in 2002 with 2011, 2B 17 reports it’s possible noticing that in 2002 it was about 180,000 rentals BA 18 region against aproximadly 55,000 in 2011. In regarding the number 14H 19 job of VHS sales, comparing the period between 2002 and 2005, ISG 20 housing it has happened as well. In 2002 the number of VHS sales was about 85,000 sales, against 65,000 in 2003, 40,000 in 2004 and . " about 10,000 sales in 2005, After that time, this store stopped Listening Section 3 to sale VHS. By another side, the number of DVD sales growed 21E 26D up between 2002 and 2007, from aproximadly 45,000 in 2002, 221 274A more than 100,000 in 2003, to more than 200,000 in 2007. 23C 28 aims/objectives/goals However, since 2008, it has been going down slightly. In 2011 24G 29 staff this number was less than 180,000. 25 B 30 feedback The number of Blu-Ray sales has started since 2007 and it has growing up slowly. In 2007 it was nowhere near as significant as DVD sales but I guess it will grow up drastcaly in a few years. Listening Section 4 Actually the number of DVD sales is still very higher than 31 hook 36 intelligence another products in that place. 32 string 37 tail(s) (222 words) 33 danger 38 energy 34 rubber 39 chemical ies 35 light 40 diet Writing Task 2 Sample answer Reading Passage 1 Nowadays we are living in a society based on consuming. As a 1 seafaring 9 TRUE result, some people have problems in dealing with this budget 2 merchant 10 FALSE and they get into debt by buying things they don’t need and 3 temple 11 TRUE can’t afford. 4 craftsmen 12 TRUE This kind of behavior is encountered quite often in our present 5 timber/wood/cedar 13 NOT GIVEN days, mainly because of the possibility of buying goods in 6 partnership leasing. Hence, people buy most of the goods using the credit 7 ivory card without having a clear idea on how much money they 8 commission possess or they owe.
+
+395
+
+## PDF page 393
+
+<!-- source-pdf-page: 393 -->
+
+® Answer key
+
+Also, another cause for this behavior could be psychological. The advertisment and the subliminal messages one encounters in a regular day in a big city has an enormous impact on one’s brain. The main problem is the lack of awareness of the serious effects that advertisment can have on people. In order to prevent people from adopting this dangerous behavior, measures should be taken so as to raise awareness among people. Also, one must learn how to manage his budget in order to get a balance between necessiting and pleasure. Keeping a record on income and monthly spendings would be very helpful and would give to the consumer an overall image on how his budget should be spent. All summed up, the chances of becoming a victim of the consumer's society are high nowadays due to the surrounding temtations but this problem could be easily avoid by being aware of this dangers and having a rational attitude when dealing with money. (244 words) General Training Reading Section 1 1 FF 8 FALSE 2 C 9 TRUE 3 B 10 TRUE 4 A 11 TRUE 5: ¢ 12 FALSE 6 F 13 TRUE 7 EB 14 NOT GIVEN
+
+General Training Reading Section 2 15 duties 22 15 (days)/fifteen (days) 16 objective 23 demolition 17 negotiate 24 5 years/five years 18 relevant 25 hazards 19 connection 26 practical 20 modest 27 tuition 21 supervisor(s) General Training Reading Section 3 28 viii 35 horses (galloping) 29 vi 36 swords 30 iii 37 conductor 31 vii 38 machinery 32 i 39 miners 33x 40 poverty 34 iv
+
+396
