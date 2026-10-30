@@ -20,9 +20,7 @@ organized into nine numeric subdecks. It carries exactly one retrieval decision
 per card across four defined card types (`chunk`, `context`, `contrast`,
 `repair`), rather than a single visible pattern. Read
 [`CONNECTION_DECK_PLAN.md`](CONNECTION_DECK_PLAN.md) before any connection-deck
-review or implementation. The older
-[`PREPOSITION_DECK_PLAN.md`](PREPOSITION_DECK_PLAN.md) is a module-level
-migration input. Do not force the master deck into the source format or
+review or implementation. Do not force the master deck into the source format or
 2–3-example constraint below.
 
 ## The two-field card
@@ -249,7 +247,9 @@ marker and example-coverage rule defined above.
 
 Before adding a card, search `patterns/cards.md` for the same idea under nearby
 wording. If the same production pattern is already present, update it rather
-than adding a duplicate.
+than adding a duplicate. Changing a Front changes the note's identity; record
+it in `cards/anki_changes.json` (see `AGENTS.md`) so Anki renames the existing
+note in place.
 
 ## Build the Anki import
 
@@ -257,7 +257,7 @@ than adding a duplicate.
 `patterns/anki-import.tsv` is the final file delivered to the user for Anki
 import.
 
-After every card change, run from `EN/`:
+After every card change, run from the repository root:
 
 ```bash
 python3 cards/tools/build_import.py
@@ -276,6 +276,6 @@ The builder validates that:
 - no unexpected level-two headings are present;
 - every output row has Deck, Front, and Back columns.
 
-Import `patterns/anki-import.tsv` with Anki's Basic note type. The first TSV
-column is an Anki Deck directive column; the note itself has only Front and
-Back.
+The EN Cards Sync add-on delivers the import to Anki (Basic note type). The
+first TSV column is an Anki Deck directive column; the note itself has only
+Front and Back.

@@ -6,13 +6,12 @@ system.
 - [`CARD_AUTHORING.md`](CARD_AUTHORING.md) is the complete source of truth for
   classification, card content, master data, Anki templates, export, and
   validation.
-- `data/vocabulary_master.csv` is created on the first vocabulary update and
-  becomes the canonical vocabulary data source.
+- `data/vocabulary_master.csv` is the canonical vocabulary data source.
 - `exports/anki_import.csv` is generated from the master data and is never
   edited manually.
-- `anki/` contains the note templates and styling after initialization.
-- `scripts/update_vocabulary.py` owns repeatable updates and export generation
-  after initialization.
+- `anki/` contains the note templates and styling; the add-on copies them into
+  the `EN_Vocabulary` note type.
+- `scripts/update_vocabulary.py` owns updates and export generation.
 
 The repository-level `AGENTS.md` routes every vocabulary-maintenance request to
 the authoring specification. General pattern-card and connection-card rules do
@@ -20,12 +19,13 @@ not govern this card family.
 
 ## Update workflow
 
-Create a JSON update file in `data/updates/` using the existing batch as a
-model, then run:
+Write a JSON update file to `tmp/` (ignored by git; the commit records the
+result), using the structure in `CARD_AUTHORING.md` section 21 and the
+fields read by `row_from_record` in the updater, then run:
 
 ```bash
 python3 cards/vocabulary/scripts/update_vocabulary.py upsert \
-  --input cards/vocabulary/data/updates/UPDATE_FILE.json
+  --input tmp/vocabulary-update.json
 ```
 
 The command normalizes and merges headwords, increments existing encounters,
@@ -63,7 +63,10 @@ For an explicitly approved consolidation, an update may list exact existing
 headwords in `merge_from`. Prepare the grouped sense data with every retained
 source sense under its correct `entry_term` before running the update. The
 command refuses merges that would lose an old definition, combines source
-metadata, and removes the superseded master rows. Preserve a before-update
-snapshot and a migration manifest. The CSV import updates matching Terms but
-does not automatically remove already-imported notes with old Terms; the
-manifest must identify any required Anki cleanup.
+metadata, and removes the superseded master rows.
+
+A merge changes card identities in Anki. In the same commit, record in
+`cards/anki_changes.json` a rename from the member whose review history should
+carry over (usually the most-studied one) to the new grouped Term, and a
+removal for each other merged member. The add-on then edits and deletes the
+Anki notes accordingly; see `AGENTS.md`.

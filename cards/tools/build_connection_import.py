@@ -2,13 +2,13 @@
 """Validate Connection Patterns Markdown and build one Anki TSV.
 
 Canonical inputs:
-  EN/cards/connections/01-prepositions.md
+  cards/connections/01-prepositions.md
   ...
-  EN/cards/connections/09-comparison-degree-result.md
-  EN/cards/connections/coverage.tsv
+  cards/connections/09-comparison-degree-result.md
+  cards/connections/coverage.tsv
 
 Output:
-  EN/cards/connections/anki-import.tsv
+  cards/connections/anki-import.tsv
 """
 
 from __future__ import annotations

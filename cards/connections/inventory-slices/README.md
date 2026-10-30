@@ -1,7 +1,7 @@
 # Connection Patterns Inventory Slice Contract
 
 These TSV files are parallel authoring inputs for
-`EN/cards/connections/coverage.tsv`.
+`cards/connections/coverage.tsv`.
 
 ## Files and ownership
 
@@ -88,22 +88,21 @@ required. All other statuses keep `card_id` blank.
 
 ## Authoring requirements
 
-1. Read `EN/cards/CONNECTION_DECK_PLAN.md` completely.
-2. Read `EN/cards/prepositions/PILOT.md` as the visible style baseline.
-3. Migrate relevant rows from `EN/cards/prepositions/coverage.tsv`; do not
-   silently discard reviewed items.
-4. Add missing families required by the master plan.
-5. Give every atomic decision exactly one home.
-6. Keep one coherent contrast in one row.
-7. Record the anchor, marker, and exact complement shape.
-8. Use contemporary natural AmE.
-9. Preserve accepted alternatives in `confusables` or `notes`; do not create a
+1. Read `cards/CONNECTION_DECK_PLAN.md` completely.
+2. Use the existing validated cards in the nine sources as the visible style
+   baseline.
+3. Add missing families required by the master plan.
+4. Give every atomic decision exactly one home.
+5. Keep one coherent contrast in one row.
+6. Record the anchor, marker, and exact complement shape.
+7. Use contemporary natural AmE.
+8. Preserve accepted alternatives in `confusables` or `notes`; do not create a
    false exclusive rule.
-10. Leave `card_id` blank during inventory authoring.
-11. Keep all viable rows `proposed` until their cards pass independent audit.
-12. Exclude dictionary-like, rare, duplicated, or untestable rows visibly.
-13. Do not add tags, batches, frequency fields, or suspension state.
-14. You are not alone in the workspace. Do not revert or rewrite files owned
+9. Leave `card_id` blank during inventory authoring.
+10. Keep all viable rows `proposed` until their cards pass independent audit.
+11. Exclude dictionary-like, rare, duplicated, or untestable rows visibly.
+12. Do not add tags, batches, frequency fields, or suspension state.
+13. You are not alone in the workspace. Do not revert or rewrite files owned
     by another agent.
 
 ## ID prefixes

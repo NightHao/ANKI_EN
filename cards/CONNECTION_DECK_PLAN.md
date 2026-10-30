@@ -1,5 +1,9 @@
 # English Connection Patterns Deck — Master Execution Specification
 
+> **Note (2026-10-30):** the preposition plan, pilot, inventory, and audit this
+> plan migrated from were retired after the migration; they remain in git
+> history. References to them below are historical.
+
 **Status:** Accepted by the learner on 2026-07-30. Inventory migration,
 master inventory completion, source authoring, audit, builder, and final TSV
 work may proceed. Do not generate the old standalone preposition deck.
@@ -7,7 +11,7 @@ work may proceed. Do not generate the old standalone preposition deck.
 **Version:** 0.1 — 2026-07-30
 
 **Authority:** After learner approval, this document becomes the top-level
-authority for the large connection-pattern deck under `EN/cards/`. The
+authority for the large connection-pattern deck under `cards/`. The
 existing `PREPOSITION_DECK_PLAN.md`, preposition inventory, audit, and pilot
 remain evidence and module-level inputs; they no longer define the whole
 learning resource.
@@ -492,7 +496,7 @@ duplicate card.
 Create:
 
 ```text
-EN/cards/connections/coverage.tsv
+cards/connections/coverage.tsv
 ```
 
 Canonical fields:
@@ -720,7 +724,7 @@ retrieval.
 After plan approval, create:
 
 ```text
-EN/cards/connections/
+cards/connections/
 ├── 01-prepositions.md
 ├── 02-verb-patterns.md
 ├── 03-adjective-participle-patterns.md
@@ -734,7 +738,7 @@ EN/cards/connections/
 ├── AUDIT.md
 └── anki-import.tsv
 
-EN/cards/tools/
+cards/tools/
 └── build_connection_import.py
 ```
 
@@ -829,7 +833,7 @@ Do not discard the existing 599 reviewed rows or 24-card approved pilot.
 Treat:
 
 ```text
-EN/cards/prepositions/coverage.tsv
+cards/prepositions/coverage.tsv
 ```
 
 as migration input, not the final master manifest.
@@ -992,7 +996,7 @@ Use unseen examples covering every subdeck:
 Generate:
 
 ```text
-EN/cards/connections/anki-import.tsv
+cards/connections/anki-import.tsv
 ```
 
 Then confirm:

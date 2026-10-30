@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Build a directly importable Anki TSV from English pattern cards.
 
-Source: EN/cards/patterns/cards.md
-Output: EN/cards/patterns/anki-import.tsv
+Source: cards/patterns/cards.md
+Output: cards/patterns/anki-import.tsv
 
 The TSV contains a special Deck column followed by the two Basic-note fields:
 Front and Back.

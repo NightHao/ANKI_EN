@@ -1,33 +1,11 @@
-# `EN::Patterns` — complete replacement for review
+# `EN::Patterns`
 
-Prepared 2026-10-20 at the learner’s request. Every card below includes its complete Front and Back. The level-two heading is the Front; the explanation and examples below it are the Back. This is a full replacement draft for review, not a claim that the learner has accepted every example.
-
-The scope is broadly reusable contemporary American English for everyday life, travel, relationships, work, technical discussion, and extended explanations, assuming the needed vocabulary is already known. No measured “100%” coverage claim is made. Memorizing these cards does not establish that the patterns can be used spontaneously.
-
-Related alternatives share cards when matched examples clarify a useful choice. Pure vocabulary listings do not become extra cards merely by adding “+ noun.” The nine previously reviewed omission/shortening cards are preserved in full. The separate Connection Patterns resource continues to teach individual connection decisions.
-
-**329 complete cards.** Audited against the explanations in all 145 local Grammar in Use units and the eight Writing and four Speaking chapters of the local Official Cambridge Guide. The [catalog](american_english_production_patterns_catalog.md#local-reference-audit-2026-10-20) records the checked scope, additions, group decisions, and exclusions. This is broad reference-based coverage, not a measured percentage of American English.
-
-- [Opinions, certainty, and evidence](#i-thinkbelievefeel-that--clause--i-do-not-thinkbelieve--clause) — 18 cards
-- [Reasons, results, purpose, and contrast](#the-main-reason--clause--is-that--clause--one-reason-for--nounv-ing--is-that--clause) — 14 cards
-- [Explanation, organization, and clarification](#in-terms-of--noun--v-ing--clause) — 15 cards
-- [Time, habits, experiences, and stories](#simple-present--amisare--v-ing--dodoes--subject--base-verb--amisare--subject--v-ing) — 27 cards
-- [Conditions, alternatives, hopes, and regrets](#if--present--presentwillcanmay--as-long-asprovided-that--clause--only-if--clause) — 11 cards
-- [Plans, choices, obligations, and getting things done](#plandecidehopeagreepromise--to--verb--decide-against--nounv-ing--think-about--v-ing) — 23 cards
-- [Requests, cooperation, boundaries, and social interaction](#could-you--verb--i-was-wondering-if-you-could--verb--would-it-be-possible-to--verb--could-i-ask-you-a-favor--i-would-be-grateful-if-you-could--verb) — 19 cards
-- [Work, problem solving, and professional explanations](#i-work-asforon--noun--i-have--duration--of-experience-inwith--noun--my-role-involvesinvolved--v-ing) — 15 cards
-- [Comparison, degree, quantity, and change](#compared-withto--noun--clause--in-terms-of--aspect--be-about-the-same--differ-in--aspect--what-makes-x-better-than-y) — 24 cards
-- [Questions, reference, and building complete sentences](#dodoesdid--subject--base-verb--beauxiliarymodal--subject---whowhat--verb-) — 54 cards
-- [Clarification and learning conversations](#could-you-sayrepeat--noun--again--could-you-slow-down--what-do-you-mean-by--noun--could-you-clarify--wh-clause) — 4 cards
-- [Travel, services, locations, and practical needs](#cancould-i-get--noun--i-would-like--noun-please--without--ingredient--what-does-x-come-with) — 22 cards
-- [Omission and shortening: previously reviewed operations](#--thatwhowhomwhichwhenwherewhy--subject--verb) — 9 cards
-- [Further reusable sentence shapes](#it-is--focused-personthing--thatwho--clause--what--subject--did--was--to--verb) — 13 cards
-- [Results, change, and functional relationships](#result-in--outcome--result-from--cause) — 12 cards
-- [Conversation glue: responses, reactions, and casual storytelling](#me-too--me-neither--so-do-iso-am-i--neither-do-ineither-am-i) — 12 cards
-- [Topic framing and reference](#when-it-comes-to--nounv-ing--clause--as-for--noun--clause--as-far-as--noun--is-concerned--clause) — 2 cards
-- [Everyday spoken frames from published-material comparison](#by-the-way--clause--oh-before-i-forget--clause--that-reminds-me--clause) — 15 cards
-- [Discussion, storytelling, and work frames from published-material comparison](#these-days--present--latelyrecently--present-perfect--the-other-day--past--at-the-time--past) — 14 cards
-- [Approved personal production frames](#feel-the-same-way-about--noun--as--person) — 6 cards
+Production-frame cards for natural American English. Each level-two heading is
+a card Front (exactly as shown in Anki); the text below it is the Back.
+Related alternatives that do the same job share one card, separated by ` · `.
+Rules: [`../CARD_AUTHORING.md`](../CARD_AUTHORING.md) and
+[`PATTERN_FRAME_SELECTION.md`](PATTERN_FRAME_SELECTION.md). After editing, run
+`python3 cards/tools/build_import.py`.
 
 ## `I think/believe/feel (that) + clause · I do not think/believe + clause`
 

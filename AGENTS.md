@@ -1,8 +1,251 @@
-# Agent Instructions for `EN`
+# EN: instructions for agents
 
-These instructions apply to every file and task under `EN/`.
+This private repository is the source of truth for the learner's English Anki
+decks, plus the rules for teaching and correcting the learner's English. Read
+this whole file before doing anything; it applies to every task here. The
+learner is a Mandarin speaker improving active American English for
+conversation, IELTS, and professional/technical work.
 
-## Language-learning responses
+| Deck | Note type | Edit this source | Generated import (never hand-edit) | Rules |
+| --- | --- | --- | --- | --- |
+| `EN::Vocabulary` | `EN_Vocabulary` | `cards/vocabulary/data/vocabulary_master.csv` via the updater | `cards/vocabulary/exports/anki_import.csv` | `cards/vocabulary/CARD_AUTHORING.md`, `cards/vocabulary/README.md` |
+| `EN::Patterns` | `Basic` | `cards/patterns/cards.md` (+ `PATTERN_FRAME_SELECTION.md`) | `cards/patterns/anki-import.tsv` | `cards/CARD_AUTHORING.md` |
+| `EN::Connection Patterns` | `Basic` | `cards/connections/0*-*.md` + `inventory-slices/*.tsv` | `cards/connections/anki-import.tsv`, `coverage.tsv` | `cards/CONNECTION_DECK_PLAN.md`, `cards/connections/README.md` |
+
+Also here: `cards/corrections/` (the learner's tracked English mistakes, not a
+deck), `cards/anki_sync.json` (deck/note-type identity), `cards/anki_changes.json`
+(this commit's renames and removals), `anki_addon/` (the Anki add-on that
+delivers changes), and `scripts/` (checks and tools).
+
+## 1. Every session
+
+1. `git pull` before reading or changing anything.
+2. Do the work. Answer English questions using sections 5–7.
+3. Before committing card changes, run `python3 scripts/check_cards.py`; it
+   must end with `All card checks passed`. Correction-registry updates are
+   validated by their own script.
+4. Commit with a message that says what changed and why, then `git push`.
+   GitHub Actions reruns the checks.
+5. If cards changed, tell the learner to choose **Tools > Update EN cards from
+   GitHub** in Anki (Anki must be open on a computer with this repo and the
+   add-on). That is the only way cards reach Anki.
+
+Never connect to AnkiWeb from a script, CI job, or agent; AnkiWeb's terms allow
+only official Anki clients. Never commit credentials.
+
+## 2. Adding or changing cards: check, propose, then write
+
+The learner often pastes words, chunks, or several near-identical expressions
+(for example `regard`, `with regard to`, `regarding`). Do not turn each line
+into a card. For every request:
+
+**a. Explain first; write nothing yet.** A bare list or pasted text is a request
+for analysis, not permission to edit. Answer what each item means and how it is
+used, following section 5.
+
+**b. Search the existing decks by meaning, not only spelling.**
+
+```bash
+python3 scripts/find_cards.py regard "with respect to" concerning
+```
+
+This lists cards whose Term/Front contains the expression or its inflections,
+then cards that mention it. Also search synonyms and related forms you would
+expect to share a card, and read the matching cards in full before deciding.
+
+**c. Decide one action per item:**
+
+| Action | When |
+| --- | --- |
+| Already covered | An existing card already teaches this use. Say which; change nothing. |
+| Merge into an existing card | It does the same job as an existing card: add a sense to the word's vocabulary card, add an alternative to a pattern's ` · ` group, or add a member to a ` / ` vocabulary contrast group. |
+| New card | A genuinely new item or job with no owner. |
+| Not worth a card | Too rare, too basic for this learner, or not reusable. |
+
+**d. Group by job, not by spelling.** Expressions that do the same job share
+one card; members of a word family that do different jobs belong to the card
+for each job. The existing `regard` family shows the pattern:
+
+| Expression | Card | Job |
+| --- | --- | --- |
+| `regard` (respect, consideration, `regards`, `regard A as B`) | vocabulary `regard` | meanings of one word |
+| `regarding · concerning · with/in regard to · with respect to · in the case of` | one pattern card | naming the topic |
+| `in this/that regard` | pattern `In terms of + noun/V-ing · in this/that regard/respect` | limiting to one aspect |
+| `regardless of` | pattern `Even though … · regardless of …` | outcome independent of a condition |
+| `regard for` vs `in regard to` | one connection contrast card | which preposition |
+
+Choose the deck by job: a word's meanings → vocabulary; a reusable sentence
+frame → patterns; a preposition, complement, or linker choice that a learner
+gets wrong → connections. Do not split near-synonyms into separate cards, and
+do not duplicate an existing card in another deck.
+
+**e. Propose, then wait.** Show a table (item → existing card found → action →
+target card, with the new Front/Term if it changes) plus each new or changed
+card in full. Say explicitly that nothing has been written yet. A short
+approval such as `add them` authorizes the whole proposal, including any
+renames and removals in it; do not ask again.
+
+**f. Apply.** Follow the family's rules (section 4) and its builder. Then
+record identity changes (section 3), run the checks, commit, and push.
+
+## 3. Card identity: renames, merges, removals
+
+Anki identifies a note by note type + first field (Term or Front). Editing any
+other field keeps the note and its review history. Changing the first field,
+merging cards, or dropping a card must be recorded in `cards/anki_changes.json`
+in the same commit, or Anki gets a duplicate and keeps the old note:
+
+```json
+{
+  "renames": [
+    {"family": "patterns", "from": "old Front, exactly as in the old export",
+     "to": "new Front, exactly as in the new export", "reason": "added with respect to"}
+  ],
+  "removals": [
+    {"family": "vocabulary", "key": "occupy", "reason": "merged into conquer / occupy / annex / colonize"}
+  ]
+}
+```
+
+- `family` is `vocabulary`, `patterns`, or `connections`. Keys are the
+  first-field text exactly as it appears in the generated import (HTML
+  escaped), so copy them from `git show HEAD:<import file>` and the new import.
+- The file holds **only this commit's changes**: overwrite it, never append. If
+  a commit has no identity changes, leave it as it is. Git history keeps
+  earlier records, and the add-on replays every record committed since it last
+  ran, so nothing is lost if several commits arrive before the learner updates
+  Anki.
+- A rename edits the existing note in place, keeping its review history. A
+  removal deletes that note. For a merge, rename the member whose history
+  should continue (usually the most-studied one) to the merged card, and
+  remove the others.
+- `scripts/check_cards.py` rejects records that rename to a missing card or
+  remove a card that still exists.
+
+## 4. Card family rules
+
+
+- Create or edit a card only when the user explicitly asks to build, add, or
+  update a card.
+- Vocabulary-card work is a separate card family. When the user asks to add,
+  update, or process words or expressions as vocabulary, read
+  `cards/vocabulary/CARD_AUTHORING.md` in full before acting. That specification
+  owns vocabulary classification, master data, card fields, templates, export,
+  and validation. A bare vocabulary list never authorizes a data or export
+  change. First explain and classify every submitted item, then wait for the
+  user's explicit approval before adding or updating anything. Approval may be
+  concise, such as `add them`; do not ask for a second confirmation after that.
+- Use the canonical dictionary or base form as a vocabulary card's `Term`.
+  Verbs use the base form, countable nouns normally use the singular, and
+  adjectives use the base degree. Example sentences may use any tense or
+  inflected form that is natural in context.
+- Vocabulary contrast cards use the normal vocabulary-card layout, with an
+  additional concise **Difference** note on the Back. Preserve each term's
+  pronunciation, parts of speech, useful meanings, examples, and synonym and
+  antonym information. Do not replace this layout with a comparison quiz.
+  When the learner explicitly groups terms in parentheses for one card, keep
+  that group together; see the grouped-card exception in
+  `cards/vocabulary/CARD_AUTHORING.md`.
+- In vocabulary contrast notes, lead with overlap when terms are close
+  alternatives. Do not manufacture distinctions or imply that natural
+  alternatives are wrong. Prioritize everyday American English usage and
+  practical patterns; explain differences only where they affect meaning,
+  grammar, collocation, or an actual choice in context.
+- Organize vocabulary contrast-card Backs around everyday situations: retain
+  definitions, then show matched natural sentences with a short explanation
+  of what the learner should notice. Make shared valid choices explicit.
+  Follow with concise usage boundaries, Common patterns, and the usual
+  synonym/antonym information. The situation-based comparison should be easy
+  to scan rather than buried in a long distinction paragraph.
+- Include short, visible **Common patterns** notes on vocabulary-card Backs
+  whenever they help the learner produce everyday American English or useful
+  professional English. Teach practical complement shapes, prepositions,
+  collocations, and sentence frames through natural examples. Apply this to
+  both normal and contrast cards; do not force a pattern section when it adds
+  no useful guidance. These notes are part of the vocabulary card, not a
+  request to create a duplicate general-pattern card.
+- Do not apply the general-pattern two-field format or build workflow to
+  vocabulary cards. Vocabulary notes use the separate schema and generated CSV
+  defined in `cards/vocabulary/CARD_AUTHORING.md`.
+- Before editing a general pattern card, read `cards/CARD_AUTHORING.md` and
+  search `cards/patterns/cards.md` for the same or an equivalent pattern.
+- Before adding or revising a high-value production frame selected from the
+  connection deck, also read
+  `cards/patterns/PATTERN_FRAME_SELECTION.md`. Treat it as a compact activation
+  layer, not permission to duplicate the 600-card resource.
+- Connection-pattern work is a separate card family. Before reviewing,
+  planning, or implementing it, read `cards/CONNECTION_DECK_PLAN.md`. The
+  learner accepted version 0.1 on 2026-07-30; full implementation may proceed.
+- Read `cards/connections/README.md` for the canonical source, inventory,
+  review, promotion, build, and future-extension workflow. The nine numbered
+  Markdown files under `cards/connections/` are the learner-facing sources;
+  `cards/connections/anki-import.tsv` and `coverage.tsv` are generated files.
+- The master deck teaches how anchors connect to prepositions, complement
+  shapes, clauses, reductions, coordination, comparison, and related markers.
+- Spontaneous-speech, pronunciation, delivery, recording, timed practice, and
+  unrelated grammar systems are outside the connection deck.
+- Do not add curriculum batches, activation stages, tags, frequency bands,
+  exposure quotas, suspended output rows, or card duplicates created only to
+  increase repetition. The numeric subdecks organize the knowledge; Anki
+  controls review frequency.
+- The existing validated connection cards are the visible style baseline.
+  Preserve the four card types and retrieval-oriented Fronts.
+  The learner especially values genuine contrast cards with clear minimal
+  pairs and explicit `Also OK:` alternatives.
+- Every connection-pattern Front must pass the plan's closed-answer test. Check
+  competing vocabulary and constructions, not only other prepositions. If
+  several common answers make self-grading subjective, rewrite or exclude the
+  card rather than forcing a preference or revealing the answer on the Front.
+- Choose `chunk` for lexical or fixed combinations and `context` for applying
+  productive semantic rules in a new situation. Do not create both merely for
+  repetition, and do not target a numerical ratio of card types.
+- Store every general English pattern card in `cards/patterns/cards.md`. Do not
+  distribute cards among the grammar chapter folders. Future master
+  connection-deck cards instead use the separate paths defined in
+  `cards/CONNECTION_DECK_PLAN.md`.
+- English cards do **not** use the LeetCode card schema. Do not add fields such
+  as Card Type, Quick Answer, Supplement, Common Trap, Notes, or Your Turn.
+- A visible general pattern card has exactly two fields:
+  - Front: the reusable English pattern itself.
+  - Back: a short meaning/usage explanation and two or three natural examples.
+- A user-reviewed operation-based grammar card is the only exception to that
+  visible shape. Mark it with `<!-- grammar-card -->` in
+  `cards/patterns/cards.md`.
+  It still has exactly two Anki fields, but its Front may name the editing
+  operation and ask for its boundary, and its Back may use numbered rules,
+  complete transformations, and matched `→` / `≠` examples. Do not apply this
+  exception to ordinary pattern cards or to unreviewed grammar content.
+- Before reviewing, editing, or adding any omission/shortening grammar card,
+  read `cards/patterns/OMISSION_GRAMMAR_CARD_SPEC.md` in full. Its
+  completeness-first audit and canonical ownership table are mandatory; do
+  not infer coverage from the current card alone.
+- For general pattern cards, write examples at an IELTS Speaking 7 target level
+  by default. Prefer natural, high-value topic vocabulary and collocations over
+  unnecessarily elementary examples, while keeping the target pattern easy to
+  notice. Do not force rare or overly formal words merely to make an example
+  look advanced.
+- If the same pattern already exists, improve that card instead of creating a
+  duplicate.
+- `cards/patterns/cards.md` is the editable source for general pattern cards,
+  not the final deliverable. After every general pattern-card change, run:
+
+  ```bash
+  python3 cards/tools/build_import.py
+  ```
+
+- The command must successfully regenerate
+  `cards/patterns/anki-import.tsv`, the file the add-on delivers for the
+  general pattern deck. Do not report a general pattern-card task as complete while
+  that TSV is missing, stale, or fails validation. For the separate
+  connection-pattern deck, rebuild its inventory, independently audit proposed
+  content, promote it, and run the final builder as documented in
+  `cards/connections/README.md`.
+- The TSV may contain a special Deck column for Anki routing, but the imported
+  note itself still has exactly two fields: Front and Back.
+- After changing cards, show the user the complete resulting card and identify
+  the regenerated import, not only a diff or summary.
+
+## 5. Language-learning responses
 
 Respond in English unless the user explicitly asks for another language.
 
@@ -18,7 +261,7 @@ The user's goal is to improve active English production, especially natural
 conversational English and professional English for technical discussions,
 interviews, remote work, and international collaboration.
 
-## Exercise pacing
+### Exercise pacing
 
 - For textbook and IELTS study, show one complete numbered exercise at a time,
   including all of its questions or items. Do not split an exercise into
@@ -29,6 +272,8 @@ interviews, remote work, and international collaboration.
 - Interpret `one exercise at a time` or `one section at a time` as a boundary
   between complete exercises or sections, never as a requirement to show only
   one question per message.
+
+## 6. Correcting the learner's English
 
 Whenever the user writes in English:
 
@@ -240,7 +485,7 @@ Before sending any correction, verify:
 If any change fails this check, remove it or label it **Optional alternative
 wording**.
 
-## Deep review of learner-produced writing
+## 7. Deep review of learner-produced writing
 
 Use this workflow when the user submits an extended piece of writing for
 correction, such as an IELTS letter or essay, a speaking transcript, an email,
@@ -295,7 +540,7 @@ changes to natural wording.
    original from any corrected version, and state that the result is an
    estimate rather than an official examiner score.
 
-## Persistent correction tracking
+## 8. Persistent correction tracking
 
 - The learner approved automatic persistent correction tracking on 2026-09-15.
   Before recording or reviewing a correction, read
@@ -334,129 +579,3 @@ changes to natural wording.
 - If automatic recording fails, do not hide the failure or manually bypass the
   validator. Answer the learner's question, explain the correction normally,
   and report the tracking failure briefly.
-
-## Creating Anki cards
-
-- Create or edit a card only when the user explicitly asks to build, add, or
-  update a card.
-- Vocabulary-card work is a separate card family. When the user asks to add,
-  update, or process words or expressions as vocabulary, read
-  `cards/vocabulary/CARD_AUTHORING.md` in full before acting. That specification
-  owns vocabulary classification, master data, card fields, templates, export,
-  and validation. A bare vocabulary list never authorizes a data or export
-  change. First explain and classify every submitted item, then wait for the
-  user's explicit approval before adding or updating anything. Approval may be
-  concise, such as `add them`; do not ask for a second confirmation after that.
-- Use the canonical dictionary or base form as a vocabulary card's `Term`.
-  Verbs use the base form, countable nouns normally use the singular, and
-  adjectives use the base degree. Example sentences may use any tense or
-  inflected form that is natural in context.
-- Vocabulary contrast cards use the normal vocabulary-card layout, with an
-  additional concise **Difference** note on the Back. Preserve each term's
-  pronunciation, parts of speech, useful meanings, examples, and synonym and
-  antonym information. Do not replace this layout with a comparison quiz.
-  When the learner explicitly groups terms in parentheses for one card, keep
-  that group together; see the grouped-card exception in
-  `cards/vocabulary/CARD_AUTHORING.md`.
-- In vocabulary contrast notes, lead with overlap when terms are close
-  alternatives. Do not manufacture distinctions or imply that natural
-  alternatives are wrong. Prioritize everyday American English usage and
-  practical patterns; explain differences only where they affect meaning,
-  grammar, collocation, or an actual choice in context.
-- Organize vocabulary contrast-card Backs around everyday situations: retain
-  definitions, then show matched natural sentences with a short explanation
-  of what the learner should notice. Make shared valid choices explicit.
-  Follow with concise usage boundaries, Common patterns, and the usual
-  synonym/antonym information. The situation-based comparison should be easy
-  to scan rather than buried in a long distinction paragraph.
-- Include short, visible **Common patterns** notes on vocabulary-card Backs
-  whenever they help the learner produce everyday American English or useful
-  professional English. Teach practical complement shapes, prepositions,
-  collocations, and sentence frames through natural examples. Apply this to
-  both normal and contrast cards; do not force a pattern section when it adds
-  no useful guidance. These notes are part of the vocabulary card, not a
-  request to create a duplicate general-pattern card.
-- Do not apply the general-pattern two-field format or build workflow to
-  vocabulary cards. Vocabulary notes use the separate schema and generated CSV
-  defined in `cards/vocabulary/CARD_AUTHORING.md`.
-- Before editing a general pattern card, read `cards/CARD_AUTHORING.md` and
-  search `cards/patterns/cards.md` for the same or an equivalent pattern.
-- Before adding or revising a high-value production frame selected from the
-  connection deck, also read
-  `cards/patterns/PATTERN_FRAME_SELECTION.md`. Treat it as a compact activation
-  layer, not permission to duplicate the 600-card resource.
-- Connection-pattern work is a separate card family. Before reviewing,
-  planning, or implementing it, read `cards/CONNECTION_DECK_PLAN.md`. The
-  learner accepted version 0.1 on 2026-07-30; full implementation may proceed.
-- Read `cards/connections/README.md` for the canonical source, inventory,
-  review, promotion, build, and future-extension workflow. The nine numbered
-  Markdown files under `cards/connections/` are the learner-facing sources;
-  `cards/connections/anki-import.tsv` and `coverage.tsv` are generated files.
-- The master deck teaches how anchors connect to prepositions, complement
-  shapes, clauses, reductions, coordination, comparison, and related markers.
-  The older `cards/PREPOSITION_DECK_PLAN.md` and
-  `cards/prepositions/coverage.tsv` are reviewed migration inputs, not an
-  independently exportable final deck.
-- Spontaneous-speech, pronunciation, delivery, recording, timed practice, and
-  unrelated grammar systems are outside the connection deck.
-- Do not add curriculum batches, activation stages, tags, frequency bands,
-  exposure quotas, suspended output rows, or card duplicates created only to
-  increase repetition. The numeric subdecks organize the knowledge; Anki
-  controls review frequency.
-- The user accepted the revised preposition pilot on 2026-07-30 as the visible
-  style baseline, then expanded the learning target into the draft master
-  connection deck. Preserve the four card types and retrieval-oriented Fronts.
-  The learner especially values genuine contrast cards with clear minimal
-  pairs and explicit `Also OK:` alternatives.
-- Every connection-pattern Front must pass the plan's closed-answer test. Check
-  competing vocabulary and constructions, not only other prepositions. If
-  several common answers make self-grading subjective, rewrite or exclude the
-  card rather than forcing a preference or revealing the answer on the Front.
-- Choose `chunk` for lexical or fixed combinations and `context` for applying
-  productive semantic rules in a new situation. Do not create both merely for
-  repetition, and do not target a numerical ratio of card types.
-- Store every general English pattern card in `cards/patterns/cards.md`. Do not
-  distribute cards among the grammar chapter folders. Future master
-  connection-deck cards instead use the separate paths defined in
-  `cards/CONNECTION_DECK_PLAN.md`.
-- English cards do **not** use the LeetCode card schema. Do not add fields such
-  as Card Type, Quick Answer, Supplement, Common Trap, Notes, or Your Turn.
-- A visible general pattern card has exactly two fields:
-  - Front: the reusable English pattern itself.
-  - Back: a short meaning/usage explanation and two or three natural examples.
-- A user-reviewed operation-based grammar card is the only exception to that
-  visible shape. Mark it with `<!-- grammar-card -->` in
-  `cards/patterns/cards.md`.
-  It still has exactly two Anki fields, but its Front may name the editing
-  operation and ask for its boundary, and its Back may use numbered rules,
-  complete transformations, and matched `→` / `≠` examples. Do not apply this
-  exception to ordinary pattern cards or to unreviewed grammar content.
-- Before reviewing, editing, or adding any omission/shortening grammar card,
-  read `cards/patterns/OMISSION_GRAMMAR_CARD_SPEC.md` in full. Its
-  completeness-first audit and canonical ownership table are mandatory; do
-  not infer coverage from the current card alone.
-- For general pattern cards, write examples at an IELTS Speaking 7 target level
-  by default. Prefer natural, high-value topic vocabulary and collocations over
-  unnecessarily elementary examples, while keeping the target pattern easy to
-  notice. Do not force rare or overly formal words merely to make an example
-  look advanced.
-- If the same pattern already exists, improve that card instead of creating a
-  duplicate.
-- `cards/patterns/cards.md` is the editable source for general pattern cards,
-  not the final deliverable. After every general pattern-card change, run:
-
-  ```bash
-  python3 cards/tools/build_import.py
-  ```
-
-- The command must successfully regenerate
-  `cards/patterns/anki-import.tsv`, the file the user imports for the general
-  pattern deck. Do not report a general pattern-card task as complete while
-  that TSV is missing, stale, or fails validation. For the separate
-  connection-pattern deck, rebuild its inventory, independently audit proposed
-  content, promote it, and run the final builder as documented in
-  `cards/connections/README.md`.
-- The TSV may contain a special Deck column for Anki routing, but the imported
-  note itself still has exactly two fields: Front and Back.
-- After changing cards, show the user the complete resulting card and identify
-  the regenerated TSV, not only a diff or summary.

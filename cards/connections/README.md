@@ -33,23 +33,22 @@ The nine numbered Markdown files contain the actual Fronts and Backs:
   Markdown card ID to the inventory row and changes both statuses to
   `validated`.
 
-The review reports under `inventory-reviews/` and `card-reviews/` preserve the
-reasoning behind coverage and content decisions. They are evidence, not Anki
-fields.
+Record review reasoning in the commit message or the conversation; it is not
+part of the Anki fields.
 
 ## Edit and validation workflow
 
 After changing inventory rows, rebuild and check the merged inventory:
 
 ```bash
-python3 EN/cards/tools/build_connection_coverage.py
-python3 EN/cards/tools/build_connection_coverage.py --check
+python3 cards/tools/build_connection_coverage.py
+python3 cards/tools/build_connection_coverage.py --check
 ```
 
 After changing one Markdown source, run its strict lint:
 
 ```bash
-python3 EN/cards/tools/build_connection_import.py \
+python3 cards/tools/build_connection_import.py \
   --lint-source 03-adjective-participle-patterns.md
 ```
 
@@ -65,15 +64,15 @@ Before promotion, independently review every proposed card for:
 Promote only after those checks and fixes:
 
 ```bash
-python3 EN/cards/tools/promote_connection_cards.py --apply
-python3 EN/cards/tools/promote_connection_cards.py --check
+python3 cards/tools/promote_connection_cards.py --apply
+python3 cards/tools/promote_connection_cards.py --check
 ```
 
 Then build and verify the import file:
 
 ```bash
-python3 EN/cards/tools/build_connection_import.py --final
-python3 EN/cards/tools/build_connection_import.py --final --check
+python3 cards/tools/build_connection_import.py --final
+python3 cards/tools/build_connection_import.py --final --check
 ```
 
 The TSV has three columns: Deck, Front, and Back. It deliberately has no tag
@@ -92,6 +91,9 @@ Deck directive.
 5. Rebuild coverage, run strict lint, and independently review the exact
    Front/Back.
 6. Promote, rebuild the final TSV, and rerun both final checks.
+
+Changing an existing Front changes the note's identity; record it in
+`cards/anki_changes.json` (see `AGENTS.md`) so Anki renames the note in place.
 
 Do not add tags, activation batches, duplicate practice cards, or scheduling
 metadata. Anki owns review frequency; this directory owns the knowledge.

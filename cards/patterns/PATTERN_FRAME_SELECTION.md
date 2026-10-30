@@ -103,7 +103,7 @@ Do not add:
 
 The current selection contains 321 production frames. This inventory includes grouped overviews; the separate nine operation-based grammar cards bring the full source to 330 cards. The twelve conversation-glue frames, two topic-framing frames, and twenty-nine published-material gap frames were added at the learner’s request on 2026-10-21. Six personal production frames were approved and added on 2026-10-27. One further frame and seven expanded grouped Fronts, approved in an Oct 28–29 session whose source edits were not preserved, were reconciled from AnkiWeb on 2026-10-30.
 
-The learner explicitly authorized a complete consolidated replacement for review on 2026-10-20. The entries below identify that authored replacement, **not a claim that the learner has already accepted every new card**. The full Fronts and Backs are in [cards.md](cards.md). Historical P-identifiers and catalog decisions are mapped in the [coverage catalog](american_english_production_patterns_catalog.md).
+The learner explicitly authorized a complete consolidated replacement for review on 2026-10-20. The entries below identify that authored replacement, **not a claim that the learner has already accepted every new card**. The full Fronts and Backs are in [cards.md](cards.md). Historical P-identifiers and catalog IDs refer to the retired coverage catalog, which remains in git history ([former path](american_english_production_patterns_catalog.md).
 
 | Function | Production Front | Connection evidence / selection basis |
 | --- | --- | --- |
