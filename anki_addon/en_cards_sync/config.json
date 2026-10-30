@@ -1,0 +1,6 @@
+{
+  "check_on_startup": false,
+  "git_path": "",
+  "sync_after_update": true,
+  "sync_before_update": true
+}

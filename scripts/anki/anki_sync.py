@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Push the repo's generated card imports into AnkiWeb (dry run by default).
+"""Plan and apply the repo's generated card imports to an Anki collection.
 
-Flow: full-download the AnkiWeb collection into a temporary file, plan the
-changes, and with --apply write them and run a normal (incremental) sync.
+The EN Cards Sync add-on calls build_plan/apply_plan on the Anki app's open
+collection; Anki itself then syncs. Run from the command line, this module only
+previews the plan against a closed collection file. Nothing here contacts
+AnkiWeb, whose terms allow only official Anki clients.
 
 Notes are matched the way Anki's text importer matches them: same note type and
 same first field, restricted to the family's deck tree (cards/anki_sync.json).
@@ -15,7 +17,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import os
 import shutil
 import sys
 import tempfile
@@ -25,7 +26,6 @@ from pathlib import Path
 from anki.collection import Collection
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from ankiweb_download import download, load_auth  # noqa: E402
 from inspect_collection import read_export  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -207,46 +207,22 @@ def render_report(plan: Plan, applied: bool) -> str:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument('--apply', action='store_true', help='write changes and sync to AnkiWeb')
-    parser.add_argument('--allow-large', action='store_true', help='bypass the configured change limits')
-    parser.add_argument('--backup-dir', type=Path, help='keep a copy of the downloaded collection here')
+    parser.add_argument('collection', type=Path,
+                        help='a closed .anki2 file to preview against (a temporary copy is opened)')
     args = parser.parse_args()
 
-    config = load_config()
-    if args.allow_large:
-        config['limits'] = {}
-    auth = load_auth()
     with tempfile.TemporaryDirectory() as scratch:
-        path = Path(scratch) / 'collection.anki2'
-        col = download(path, auth)
-        if args.backup_dir:
-            col.close()
-            args.backup_dir.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(path, args.backup_dir / 'ankiweb-before-sync.anki2')
-            col = Collection(str(path))
+        copy = Path(scratch) / 'collection.anki2'
+        shutil.copy2(args.collection, copy)
+        col = Collection(str(copy))
         try:
-            plan = build_plan(col, config)
-            if args.apply and not plan.empty:
-                apply_plan(col, plan, config)
-                # A completed normal sync reports NO_CHANGES; anything else means
-                # AnkiWeb wants a full sync, which this tool never performs.
-                result = col.sync_collection(auth, sync_media=False)
-                if result.required != result.NO_CHANGES:
-                    raise SyncAbort(f'AnkiWeb requested a full sync (code {result.required}); nothing was uploaded')
-                status = col.sync_status(auth)
-                if status.required != status.NO_CHANGES:
-                    raise SyncAbort(f'AnkiWeb still reports pending changes after sync (code {status.required})')
+            plan = build_plan(col, load_config())
         except SyncAbort as error:
             print(f'ABORTED: {error}', file=sys.stderr)
             return 1
         finally:
             col.close()
-
-    report = render_report(plan, applied=args.apply and not plan.empty)
-    print(report)
-    if os.environ.get('GITHUB_STEP_SUMMARY'):
-        with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as handle:
-            handle.write(report)
+    print(render_report(plan, applied=False))
     return 0
 
 

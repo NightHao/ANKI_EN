@@ -1,5 +1,9 @@
 # EN cloud authoring and Anki handoff
 
+> **Status, 2026-10-30:** the GitHub repo, CI checks, and the EN Cards Sync
+> Anki add-on now exist; see README.md. Direct GitHub-to-AnkiWeb sync was
+> rejected because AnkiWeb's terms allow only official Anki clients.
+
 Prepared October 27, 2026. Read this file with `AGENTS.md` after extracting the
 handoff ZIP. It records the working card system and the cloud design discussed
 with the learner; it does not imply that the cloud system has been deployed.

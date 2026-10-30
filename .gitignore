@@ -24,3 +24,6 @@ cards/vocabulary/data/backups/
 *.anki21b
 *.apkg
 *.colpkg
+
+# Anki writes these into installed add-on folders
+anki_addon/*/meta.json

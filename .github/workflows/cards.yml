@@ -1,0 +1,32 @@
+name: Card checks
+
+# Validates sources and generated Anki imports. This workflow never contacts
+# AnkiWeb; cards reach Anki through the EN Cards Sync add-on in the Anki app.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Card builders agree with sources
+        run: python scripts/verify_handoff.py
+      - name: Generated imports are committed and current
+        run: |
+          python scripts/verify_handoff.py --rebuild > /dev/null
+          git diff --exit-code -- cards/vocabulary/exports cards/patterns/anki-import.tsv \
+            cards/connections/anki-import.tsv cards/connections/coverage.tsv
+      - name: Anki sync planner tests
+        run: |
+          pip install anki==26.9.3
+          python scripts/anki/test_anki_sync.py
