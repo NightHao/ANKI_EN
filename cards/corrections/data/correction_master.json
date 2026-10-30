@@ -2528,11 +2528,11 @@
       "target": "PATTERN",
       "summary": "A singular count noun such as deck normally needs a determiner.",
       "rule": "Use the + singular count noun for an identified item: in the existing deck.",
-      "classification_reason": "Another spontaneous occurrence of the already tracked determiner problem; preserve its existing classification and preview state.",
-      "encounter_count": 25,
+      "classification_reason": "Recurring article omission before a singular count noun.",
+      "encounter_count": 26,
       "successful_use_count": 3,
       "first_seen": "2026-09-15",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-30",
       "last_success": "2026-09-22",
       "sources": [
         "direct user conversation",
@@ -2561,12 +2561,6 @@
       ],
       "examples": [
         {
-          "date": "2026-10-20",
-          "original": "there're bunch of materail",
-          "corrected": "there’s a bunch of material",
-          "source": "Direct user conversation: local reference and pattern grouping audit"
-        },
-        {
           "date": "2026-10-21",
           "original": "could u complete it by fixing contraction / no need to fix contraction",
           "corrected": "could u complete it by fixing the contractions / no need to fix the contractions",
@@ -2577,6 +2571,12 @@
           "original": "in existing deck",
           "corrected": "in the existing deck",
           "source": "Personal chunks proposed-note count clarification, 2026-10-27"
+        },
+        {
+          "date": "2026-10-30",
+          "original": "I do remember that agent can run program on github",
+          "corrected": "I do remember that an agent can run a program on GitHub",
+          "source": "direct user conversation"
         }
       ],
       "successful_examples": [
