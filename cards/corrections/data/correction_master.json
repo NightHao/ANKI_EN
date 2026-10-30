@@ -3227,35 +3227,6 @@
       "card_ref": ""
     },
     {
-      "pattern_key": "will vs would for a real future situation",
-      "normalized_key": "will vs would for a real future situation",
-      "category": "TRACK",
-      "error_type": "VERB_FORM",
-      "target": "PATTERN",
-      "summary": "Use will (or 'll) for something that is certain to happen in a real future situation; would marks a hypothetical, polite, or past-future meaning.",
-      "rule": "real future: I'll know / I will know; hypothetical: I would know if ...",
-      "classification_reason": "Common Mandarin-transfer modal choice; first meaningful occurrence.",
-      "encounter_count": 1,
-      "successful_use_count": 0,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "last_success": "",
-      "sources": [
-        "direct user conversation"
-      ],
-      "examples": [
-        {
-          "date": "2026-10-30",
-          "original": "I would know which cards are going to be removed when I interact with AI agent",
-          "corrected": "I'll know which cards are going to be removed when I interact with an AI agent",
-          "source": "direct user conversation"
-        }
-      ],
-      "successful_examples": [],
-      "card_status": "NONE",
-      "card_ref": ""
-    },
-    {
       "pattern_key": "will vs would for expected vs hypothetical results",
       "normalized_key": "will vs would for expected vs hypothetical results",
       "category": "TRACK",
