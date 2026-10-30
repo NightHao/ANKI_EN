@@ -258,14 +258,23 @@ Examples:
 - The supplier closed its factory. Consequently, production stopped.
 - The buses stop running at ten. That is why I booked a taxi.
 
-## `Given + noun/that-clause, + clause`
+## `Given/Considering + noun/that-clause · Based on + evidence · In light of + facts · On that basis, + conclusion`
 
-Treat an existing fact as the basis for a judgment. Given takes a noun phrase; given that takes a full clause. This introduces your reasoning, not necessarily a direct physical cause.
+<!-- overview-card -->
+
+Present the grounds for a judgment or recommendation. Given/considering + noun or that-clause brings relevant facts or circumstances into consideration; these are often alternatives. Based on/on the basis of introduces evidence or criteria used to reach a judgment and can take a noun phrase or a what-clause. In light of highlights relevant information or circumstances, often prompting reassessment; it does not require the information to be new. On that basis refers back to grounds already stated. These uses overlap, but they organize the reasoning differently rather than necessarily expressing a direct physical cause.
+
+According to attributes information to a source; it does not itself present your inference from that information. Keep that source-reporting distinction.
 
 Examples:
 
 - Given our budget, we should start small.
-- Given that we have only two weeks, we should reduce the scope.
+- Given that we have only two weeks, we should reduce the scope. / Considering that we have only two weeks, we should reduce the scope.
+- Considering our budget, we should start small.
+- Based on the benchmarks, I would choose Model A. / On the basis of the benchmarks, I would choose Model A.
+- Based on what you have told me, the smaller team sounds like a better fit.
+- In light of the recent failures, we should reconsider the design.
+- The model failed our security tests. On that basis, we rejected it.
 
 ## `One possible explanation is that + clause · It might have something to do with + noun · X has nothing to do with Y`
 
@@ -313,16 +322,16 @@ Examples:
 - I was tired. However, I finished the review.
 - I was tired. I finished the review, though.
 
-## `That said/Still/Even so, + clause · While it is true that + clause, main clause · X may be true, but Y`
+## `That said/Still/Even so/Nevertheless, + clause · While it is true that + clause, main clause · X may be true, but Y`
 
 <!-- overview-card -->
 
-Acknowledge a point before limiting its implications. That said signals a qualification; still and even so stress what remains true despite the previous point. While it is true and may ... but explicitly concede a point. These choices often overlap, rather than expressing mutually exclusive meanings.
+Acknowledge a point before limiting its implications. That said signals a qualification; still, even so, and nevertheless stress what remains true despite the previous point. Nevertheless is more formal than still. While it is true and may ... but explicitly concede a point. These choices often overlap rather than expressing mutually exclusive meanings.
 
 Examples:
 
 - The tool saves time. That said, we still need to check its output.
-- The tool sometimes misses errors. Still, it saves time. / The tool sometimes misses errors. Even so, it saves time.
+- The tool sometimes misses errors. Still, it saves time. / The tool sometimes misses errors. Even so, it saves time. / The tool sometimes misses errors. Nevertheless, it saves time.
 - While it is true that the tool saves time, it still needs supervision.
 - The tool may be useful, but it cannot replace a careful review.
 
@@ -336,15 +345,15 @@ Examples:
 - On the one hand, the job pays well; on the other hand, the hours are unpredictable.
 - The apartment is close to work. On the other hand, it has very little natural light.
 
-## `I agree/disagree with + noun · I agree to some extent, but + clause · I see your point, but + clause · That is a valid concern · To be fair, + clause · I have a different take on + noun`
+## `I agree/disagree with + noun · I agree to some extent/up to a point, but + clause · I see your point, but + clause · That is a valid concern · To be fair, + clause · I have a different take on + noun`
 
 <!-- overview-card -->
 
-Acknowledge another viewpoint before responding. Partial agreement accepts some of the claim; seeing someone’s point or recognizing a concern does not require agreement. To be fair introduces a consideration you think deserves recognition.
+Acknowledge another viewpoint before responding. I agree to some extent and I agree up to a point express partial agreement and often lead into a reservation with but. Seeing someone's point or recognizing a concern does not require agreement. To be fair introduces a consideration you think deserves recognition. A different take offers another interpretation.
 
 Examples:
 
-- I agree to some extent, but a higher salary is not the only priority.
+- I agree to some extent, but a higher salary is not the only priority. / I agree up to a point, but a higher salary is not the only priority.
 - I see your point, but I would still prefer to test it first.
 - That is a valid concern. We should check who can access the recordings.
 - To be fair, the team had only two days to prepare.
@@ -384,13 +393,19 @@ Use this to suggest that the opposite interpretation, or a stronger version of y
 - I don’t think remote work has reduced my productivity. If anything, I get more done.
 - The trip didn’t make me less interested in living abroad. If anything, it strengthened that interest.
 
-## `In terms of + noun / V-ing, + clause`
+## `In terms of + noun/V-ing · in this/that regard/respect`
 
-Use this to limit an evaluation to one particular aspect, measure, or activity.
+<!-- overview-card -->
+
+Limit an evaluation to one aspect, measure, or activity. In terms of names the aspect; in this/that regard/respect refers back to an aspect already clear from the context. These expressions organize the same kind of evaluation without requiring a separate card for this versus that. In that sense instead refers to a particular interpretation; it belongs with in a way/in a sense.
+
+Examples:
 
 - In terms of cost, the second proposal is more practical.
 - In terms of reducing emissions, improving public transportation may have the greatest impact.
 - In terms of long-term health, regular exercise matters more than short-term weight loss.
+- Model A uses less memory. In this regard, it has an advantage. / In that regard, it has an advantage.
+- The revised interface is easier to navigate. In this respect, it is an improvement. / In that respect, it is an improvement.
 
 ## `What I need/value/like most is + noun/clause · What matters most is + noun/clause · What I struggle with most is + noun/V-ing`
 
@@ -870,15 +885,20 @@ Examples:
 - The venue is unavailable? In that case, we should meet online. / If that’s the case, we should meet online.
 - A: I heard the office is closing. B: That’s not the case; it’s just moving to the fourth floor.
 
-## `Even though + fact, + clause · Even if + possible case, + clause · whether or not/no matter what/how + clause · It doesn’t matter + wh-/if-clause`
+## `Even though + fact, + clause · Even if + possible case, + clause · whether or not/no matter what/how + clause · It doesn’t matter + wh-/if-clause · regardless of + noun/V-ing/whether-clause`
 
-Even though presents a fact. Even if says the outcome holds under a possible condition. Whether or not covers both alternatives; no matter what/how makes the outcome independent of the named variation. It doesn’t matter + wh-/if-clause expresses the same independence as a complete sentence. Do not erase the fact-versus-possibility difference simply because all these forms can express determination.
+<!-- overview-card -->
+
+Even though presents a fact; even if describes a possible condition. Whether or not covers both alternatives, and no matter what/how makes the outcome independent of the named variation. It does not matter expresses that independence as a complete sentence. Regardless of also makes the result independent of a circumstance and takes a noun phrase, an -ing clause, or whether + clause. Do not put a bare subject-verb statement directly after regardless of; use whether for the yes-or-no alternative. Preserve the fact-versus-possibility distinction rather than treating every expression as interchangeable.
 
 Examples:
 
 - Even though the task is difficult, I will try it. / Even if the task is difficult, I will try it.
-- Whether or not they approve the proposal, we need to document the risks. / It doesn’t matter whether they approve it; we still need to document the risks.
-- No matter what happens, I will keep you informed. / No matter how busy I am, I make time for a short walk. / It doesn’t matter which framework you use, as long as the tests pass.
+- Whether or not they approve the proposal, we need to document the risks. / It doesn't matter whether they approve it; we still need to document the risks.
+- No matter what happens, I will keep you informed. / No matter how busy I am, I make time for a short walk. / It doesn't matter which framework you use, as long as the tests pass.
+- We need to document the risks regardless of their decision.
+- All participants need a ticket, regardless of attending online or in person.
+- We will publish the results regardless of whether the findings support our hypothesis.
 
 ## `in case + clause · just in case · in case of + noun`
 
@@ -1655,6 +1675,16 @@ Examples:
 
 - Only Maya reviewed the draft. / Maya reviewed only the draft. — Who reviewed versus what she reviewed.
 - Not all the changes were useful. / None of the changes were useful. — Some exceptions versus zero useful changes.
+
+## `There’s only so much … / There are only so many …`
+
+Emphasize that resources, capacity, or tolerance have a limit. Use much with uncountable nouns or without a stated noun; use many with plural countable nouns.
+
+Examples:
+
+- There’s only so much we can do without access to the source code.
+- There’s only so much time we can spend investigating this issue.
+- There are only so many tasks we can handle at once.
 
 ## `The more/less + clause, the more/less + clause · As + quantity + changes, + clause`
 
@@ -3526,13 +3556,18 @@ Examples:
 - With the budget approved, we could book the venue.
 - With the office empty and the lights off, the building felt unfamiliar.
 
-## `result in + outcome / result from + cause`
+## `lead to/result in + outcome · result from/stem from + cause`
 
-Use **result in** before the effect produced and **result from** before the cause that produced it.
+<!-- overview-card -->
 
-- Poor maintenance can result in costly repairs.
-- Many workplace conflicts result from unclear expectations.
+Connect a cause with an outcome in either direction. Lead to and result in introduce the effect produced; result from and stem from introduce its cause or origin. The alternatives often overlap: do not invent a certainty difference between lead to and result in. Both to in lead to and in in result in are prepositions and can take a noun or an -ing action. Stem from / boil down to has its own vocabulary contrast: origin versus the essential issue.
+
+Examples:
+
+- Poor maintenance can result in costly repairs. / Poor maintenance can lead to costly repairs.
+- Many workplace conflicts result from unclear expectations. / Many workplace conflicts stem from unclear expectations.
 - The new scheduling system resulted in shorter waiting times.
+- Skipping tests can lead to shipping avoidable bugs.
 
 ## `come to a conclusion/decision/agreement`
 
@@ -3769,14 +3804,18 @@ Examples:
 - The design is finished. As for the backend, we’re still waiting on the security review.
 - As far as cost is concerned, both options are about the same.
 
-## `regarding/concerning/with regard to + noun · in the case of + noun`
+## `regarding/concerning + noun · with/in regard to + noun · with respect to + noun · in the case of + noun`
 
-Name the topic in professional or written English. Regarding and concerning mean about and often follow nouns such as questions, information, or concerns. With regard to is more formal and often begins a sentence. In casual conversation, about is usually more natural. In the case of introduces the particular case a statement applies to, often in contrast with other cases.
+<!-- overview-card -->
+
+Name the topic in professional or written English. Regarding and concerning take a noun directly, without to. With/in regard to and with respect to also mean about; they are generally more formal than about. In casual conversation, about is usually a good default. As regards is another formal alternative. In the case of introduces a particular case, often contrasted with other cases, rather than simply meaning about.
 
 Examples:
 
 - Do you have any questions regarding the new schedule? / Do you have any questions concerning the new schedule?
-- With regard to your refund request, we have forwarded it to our billing team.
+- With regard to your refund request, we have forwarded it to our billing team. / In regard to your refund request, we have forwarded it to our billing team.
+- With respect to latency, both models meet our requirements.
+- As regards the budget, we still need approval.
 - In the case of small teams, a lightweight review process usually works better.
 
 ## `By the way, + clause · Oh, before I forget, + clause · That reminds me, + clause`

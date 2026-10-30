@@ -101,7 +101,7 @@ Do not add:
 
 ## Current reviewed selection
 
-The current selection contains 320 production frames. This inventory includes grouped overviews; the separate nine operation-based grammar cards bring the full source to 329 cards. The twelve conversation-glue frames, two topic-framing frames, and twenty-nine published-material gap frames were added at the learner’s request on 2026-10-21. Six personal production frames were approved and added on 2026-10-27.
+The current selection contains 321 production frames. This inventory includes grouped overviews; the separate nine operation-based grammar cards bring the full source to 330 cards. The twelve conversation-glue frames, two topic-framing frames, and twenty-nine published-material gap frames were added at the learner’s request on 2026-10-21. Six personal production frames were approved and added on 2026-10-27. One further frame and seven expanded grouped Fronts, approved in an Oct 28–29 session whose source edits were not preserved, were reconciled from AnkiWeb on 2026-10-30.
 
 The learner explicitly authorized a complete consolidated replacement for review on 2026-10-20. The entries below identify that authored replacement, **not a claim that the learner has already accepted every new card**. The full Fronts and Backs are in [cards.md](cards.md). Historical P-identifiers and catalog decisions are mapped in the [coverage catalog](american_english_production_patterns_catalog.md).
 
@@ -128,18 +128,18 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Reasons, results, purpose, and contrast | `The main reason + clause + is that + clause · One reason for + noun/V-ing + is that + clause` | Catalog CAUSE07; prior P005, P006 |
 | Reasons, results, purpose, and contrast | `because/since/as + clause · because of/due to + noun/V-ing` | Catalog CAUSE03; prior P007 |
 | Reasons, results, purpose, and contrast | `clause, so + result · As a result/Therefore/Consequently, + clause · That is why + clause` | Catalog CAUSE05; prior P010 |
-| Reasons, results, purpose, and contrast | `Given + noun/that-clause, + clause` | Catalog CAUSE15, CAUSE17; prior P059; boundaries revised in local reference audit |
+| Reasons, results, purpose, and contrast | `Given/Considering + noun/that-clause · Based on + evidence · In light of + facts · On that basis, + conclusion` | Catalog CAUSE15, CAUSE17; prior P059; boundaries revised in local reference audit |
 | Reasons, results, purpose, and contrast | `One possible explanation is that + clause · It might have something to do with + noun · X has nothing to do with Y` | Catalog CAUSE15, CAUSE17; prior P059; boundaries revised in local reference audit |
 | Reasons, results, purpose, and contrast | `The cause of X is Y · What is causing + noun?` | Catalog CAUSE15, CAUSE17; prior P059; boundaries revised in local reference audit |
 | Reasons, results, purpose, and contrast | `(in order) to + verb · so that + subject + can/could + verb · The goal is to + verb · be designed to + verb` | Catalog CAUSE16, PLAN02, PLAN10; prior P045 |
 | Reasons, results, purpose, and contrast | `clause, but + clause · Although/Though/Even though + clause, main clause · Despite/In spite of + noun/V-ing, main clause · statement. However, statement. · clause, though` | Catalog CONTRAST03; prior P042 |
-| Reasons, results, purpose, and contrast | `That said/Still/Even so, + clause · While it is true that + clause, main clause · X may be true, but Y` | Catalog CONTRAST01, CONTRAST14; prior P067, P068 |
+| Reasons, results, purpose, and contrast | `That said/Still/Even so/Nevertheless, + clause · While it is true that + clause, main clause · X may be true, but Y` | Catalog CONTRAST01, CONTRAST14; prior P067, P068 |
 | Reasons, results, purpose, and contrast | `clause, whereas/while + clause · On the one hand, + clause; on the other hand, + clause` | Catalog CONTRAST02, CONTRAST06; prior P004 |
-| Reasons, results, purpose, and contrast | `I agree/disagree with + noun · I agree to some extent, but + clause · I see your point, but + clause · That is a valid concern · To be fair, + clause · I have a different take on + noun` | Catalog CONTRAST16, VIEW17; prior P069, P139; boundaries revised in local reference audit |
+| Reasons, results, purpose, and contrast | `I agree/disagree with + noun · I agree to some extent/up to a point, but + clause · I see your point, but + clause · That is a valid concern · To be fair, + clause · I have a different take on + noun` | Catalog CONTRAST16, VIEW17; prior P069, P139; boundaries revised in local reference audit |
 | Reasons, results, purpose, and contrast | `X does not necessarily mean Y · Just because + clause + does not mean + clause · X does not guarantee Y` | Catalog CONTRAST15, TECH12; prior P066 |
 | Reasons, results, purpose, and contrast | `It is not that X; it is (just) that Y · It’s not like + clause · It’s not like + person + to + verb · I am not saying X; I am saying Y · The problem is not X; it is Y` | Catalog CONTRAST09; prior P140 |
 | Reasons, results, purpose, and contrast | `If anything, + clause` | prior P142 |
-| Explanation, organization, and clarification | `In terms of + noun / V-ing, + clause` | prior P003 |
+| Explanation, organization, and clarification | `In terms of + noun/V-ing · in this/that regard/respect` | prior P003 |
 | Explanation, organization, and clarification | `What I need/value/like most is + noun/clause · What matters most is + noun/clause · What I struggle with most is + noun/V-ing` | Catalog LEARN02, PLAN15; prior P060 |
 | Explanation, organization, and clarification | `The thing is, + clause` | Catalog FLOW02; prior P061 |
 | Explanation, organization, and clarification | `What I mean is + clause · What I am trying to say is + clause · That is not what I meant · In other words/To put it simply, + clause · Sorry, I meant to say + correction` | Catalog FLOW01, FLOW03, FLOW05; prior P062, P065; boundaries revised in local reference audit |
@@ -183,7 +183,7 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Time, habits, experiences, and stories | `almost/nearly + verb · almost/nearly all/every + noun` | Catalog CONTRAST11, STORY07, STORY08, STORY09, STORY18; boundaries revised in local reference audit |
 | Conditions, alternatives, hopes, and regrets | `If + present, + present/will/can/may · as long as/provided that + clause · only if + clause` | Catalog ADD18, COND01, COND08; prior P044, P084 |
 | Conditions, alternatives, hopes, and regrets | `unless + clause · if not, + clause · otherwise, + clause · in that case/if that’s the case, + clause · That’s not the case` | Catalog COND02, COND03, COND07 |
-| Conditions, alternatives, hopes, and regrets | `Even though + fact, + clause · Even if + possible case, + clause · whether or not/no matter what/how + clause · It doesn’t matter + wh-/if-clause` | Catalog ADD28, COND10; prior P043 |
+| Conditions, alternatives, hopes, and regrets | `Even though + fact, + clause · Even if + possible case, + clause · whether or not/no matter what/how + clause · It doesn’t matter + wh-/if-clause · regardless of + noun/V-ing/whether-clause` | Catalog ADD28, COND10; prior P043 |
 | Conditions, alternatives, hopes, and regrets | `in case + clause · just in case · in case of + noun` | Catalog ADD47, COND09, COND13; boundaries revised in local reference audit |
 | Conditions, alternatives, hopes, and regrets | `What if + clause? · Let’s say/Suppose + clause` | Catalog ADD47, COND09, COND13; boundaries revised in local reference audit |
 | Conditions, alternatives, hopes, and regrets | `depend on + noun/whether/how-clause · Depending on + noun/wh-clause, + main clause · Whether + clause + depends on + noun/wh-clause` | Catalog COND11; prior P046 |
@@ -258,6 +258,7 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Comparison, degree, quantity, and change | `so + adjective/adverb (that + clause) · such + (a/an +) noun phrase (that + clause)` | prior P051; boundaries revised in local reference audit |
 | Comparison, degree, quantity, and change | `even + focused phrase · even + comparative` | Local reference audit; see unit and chapter routes in coverage catalog |
 | Comparison, degree, quantity, and change | `only + focused phrase · not all/every + noun` | Local reference audit; see unit and chapter routes in coverage catalog |
+| Comparison, degree, quantity, and change | `There’s only so much … / There are only so many …` | Reconciled from the approved AnkiWeb note created 2026-10-29 |
 | Comparison, degree, quantity, and change | `The more/less + clause, the more/less + clause · As + quantity + changes, + clause` | Catalog TECH05; prior P049 |
 | Comparison, degree, quantity, and change | `get/become + adjective/comparative · comparative and comparative · more and more + adjective/noun · a growing number of + plural noun` | Catalog DESCRIBE15; prior P080; boundaries revised in local reference audit |
 | Comparison, degree, quantity, and change | `increase/decrease by + amount · increase/decrease from X to Y · an increase/decrease in + variable` | Catalog AMOUNT06, AMOUNT07, AMOUNT14; prior P077, P078, P079; boundaries revised in local reference audit |
@@ -366,7 +367,7 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Further reusable sentence shapes | `on time · in time for + noun / to + verb` | Local reference audit; see unit and chapter routes in coverage catalog |
 | Further reusable sentence shapes | `verb + particle + noun / verb + noun + particle · verb + pronoun + particle · verb + preposition + object` | Productive sentence-building gap identified during replacement audit |
 | Further reusable sentence shapes | `with + object + V-ing/past participle/adjective/phrase` | Productive sentence-building gap identified during replacement audit |
-| Results, change, and functional relationships | `result in + outcome / result from + cause` | prior P008 |
+| Results, change, and functional relationships | `lead to/result in + outcome · result from/stem from + cause` | prior P008 |
 | Results, change, and functional relationships | `come to a conclusion/decision/agreement` | prior P009; boundaries revised in local reference audit |
 | Results, change, and functional relationships | `come to a halt/stop · come to an end` | prior P009; boundaries revised in local reference audit |
 | Results, change, and functional relationships | `come to realize/understand/believe (that) + clause` | prior P009; boundaries revised in local reference audit |
@@ -391,7 +392,7 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Conversation glue: responses, reactions, and casual storytelling | `There’s no way + clause · There’s no way to + verb` | Learner-requested spoken-interaction gap, 2026-10-21 |
 | Conversation glue: responses, reactions, and casual storytelling | `It’s up to + person (to + verb) · I’ll leave it up to you` | Learner-requested spoken-interaction gap, 2026-10-21 |
 | Topic framing and reference | `When it comes to + noun/V-ing, + clause · As for + noun, + clause · As far as + noun + is concerned, + clause` | Learner-requested topic-marker gap, 2026-10-21 |
-| Topic framing and reference | `regarding/concerning/with regard to + noun · in the case of + noun` | Learner-requested topic-marker gap, 2026-10-21 |
+| Topic framing and reference | `regarding/concerning + noun · with/in regard to + noun · with respect to + noun · in the case of + noun` | Learner-requested topic-marker gap, 2026-10-21 |
 | Everyday spoken frames from published-material comparison | `By the way, + clause · Oh, before I forget, + clause · That reminds me, + clause` | Published-material gap comparison, 2026-10-21 |
 | Everyday spoken frames from published-material comparison | `It turns out (that) + clause · X turned out to be + adjective/noun · end up + V-ing / with + noun / in + place` | Published-material gap comparison, 2026-10-21 |
 | Everyday spoken frames from published-material comparison | `Not really · I’m not really into/not a big fan of + noun/V-ing · I’m more of a + noun + person · not … at all` | Published-material gap comparison, 2026-10-21 |
