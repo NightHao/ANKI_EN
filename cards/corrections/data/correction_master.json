@@ -1015,15 +1015,16 @@
       "target": "CONNECTION",
       "summary": "Use statement word order inside an embedded question.",
       "rule": "know / see / understand + wh-word + subject + verb; What do they look like? -> know what they look like; how do they look? -> know how they look",
-      "classification_reason": "Repeated embedded-question inversion in an independent context; useful conversational pattern.",
-      "encounter_count": 2,
+      "classification_reason": "Another occurrence of question word order inside an embedded wh-clause.",
+      "encounter_count": 3,
       "successful_use_count": 0,
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-30",
       "last_success": "",
       "sources": [
         "writing-study progress question",
-        "NYC and LA card-preview request"
+        "NYC and LA card-preview request",
+        "direct user conversation"
       ],
       "examples": [
         {
@@ -1037,6 +1038,12 @@
           "original": "So I could know how do they look like",
           "corrected": "So I could know what they look like",
           "source": "NYC and LA card-preview request"
+        },
+        {
+          "date": "2026-10-30",
+          "original": "tell me what're u gonna do",
+          "corrected": "tell me what u're gonna do",
+          "source": "direct user conversation"
         }
       ],
       "successful_examples": [],
