@@ -436,7 +436,7 @@ def rebuild_export(rows: list[dict[str, str]] | None = None) -> None:
     with EXPORT_PATH.open("w", encoding="utf-8", newline="") as handle:
         handle.write("#separator:Comma\n")
         handle.write("#html:true\n")
-        handle.write("#notetype:English Vocabulary\n")
+        handle.write("#notetype:EN_Vocabulary\n")
         handle.write("#deck:EN::Vocabulary\n")
         handle.write("#columns:" + ",".join(EXPORT_FIELDS) + "\n")
         writer = csv.writer(handle, lineterminator="\n")

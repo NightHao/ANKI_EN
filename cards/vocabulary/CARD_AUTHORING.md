@@ -675,7 +675,7 @@ When useful, add Anki import headers such as:
 ```text
 #separator:Comma
 #html:true
-#notetype:English Vocabulary
+#notetype:EN_Vocabulary
 #deck:EN::Vocabulary
 #columns:Term,Priority,PartsOfSpeech,PronunciationHTML,TTS_Text,BackHTML,Tags
 ```

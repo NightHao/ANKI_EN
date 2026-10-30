@@ -216,7 +216,7 @@ direct AnkiWeb file import based on GitHub or Notion access alone.
 
 Current text imports match existing notes using their first regular note field:
 
-- Vocabulary: `Term` with the `English Vocabulary` note type.
+- Vocabulary: `Term` with the `EN_Vocabulary` note type (the name used in the learner's collection).
 - Production and connection notes: `Front` with the appropriate Basic note
   type and import matching settings. The TSV Deck column is routing metadata,
   not an extra visible note field.
