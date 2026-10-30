@@ -2860,11 +2860,11 @@
       "target": "PATTERN",
       "summary": "Use a singular present-tense verb when explaining what one mark means.",
       "rule": "An X means ...; X, which means ... . Use means when the subject refers to one mark or the meaning of the preceding statement.",
-      "classification_reason": "Merge this new occurrence with the existing subject-verb agreement record; no additional Anki note is requested.",
-      "encounter_count": 5,
+      "classification_reason": "Recurrence: it + base verb in a short spontaneous reply.",
+      "encounter_count": 6,
       "successful_use_count": 0,
       "first_seen": "2026-09-16",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-30",
       "last_success": "",
       "sources": [
         "IELTS Speaking Unit 1 Section 3 Exercise 3.8 learner response",
@@ -2873,12 +2873,6 @@
         "Personal chunks consolidation discussion, 2026-10-27"
       ],
       "examples": [
-        {
-          "date": "2026-10-13",
-          "original": "A higher salary doesn't necessaraily mean that a job provide better quality of life.",
-          "corrected": "A higher salary doesn't necessarily mean that a job provides better quality of life.",
-          "source": "mixed production-pattern and legal-vocabulary deep review"
-        },
         {
           "date": "2026-10-21",
           "original": "if that really cover",
@@ -2890,6 +2884,12 @@
           "original": "which mean I don't think they are necessary.",
           "corrected": "which means I don't think they are necessary.",
           "source": "Personal chunks consolidation discussion, 2026-10-27"
+        },
+        {
+          "date": "2026-10-30",
+          "original": "okay, it work",
+          "corrected": "okay, it works",
+          "source": "direct user conversation"
         }
       ],
       "successful_examples": [],
