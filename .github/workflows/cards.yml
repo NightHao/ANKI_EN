@@ -19,11 +19,11 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: '3.11'
-      - name: Card builders agree with sources
-        run: python scripts/verify_handoff.py
+      - name: Card sources, imports, and change record agree
+        run: python scripts/check_cards.py
       - name: Generated imports are committed and current
         run: |
-          python scripts/verify_handoff.py --rebuild > /dev/null
+          python scripts/check_cards.py --rebuild > /dev/null
           git diff --exit-code -- cards/vocabulary/exports cards/patterns/anki-import.tsv \
             cards/connections/anki-import.tsv cards/connections/coverage.tsv
       - name: Anki sync planner tests

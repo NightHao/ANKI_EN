@@ -142,6 +142,68 @@ class AnkiSyncTest(unittest.TestCase):
         with self.assertRaisesRegex(SyncAbort, 'outside'):
             self.plan()
 
+    def schedule(self, nid: int, interval: int) -> int:
+        card = self.col.get_note(nid).cards()[0]
+        card.ivl, card.due, card.type, card.queue = interval, 500, 2, 2
+        self.col.update_card(card)
+        return card.id
+
+    def test_rename_edits_the_existing_note_in_place(self) -> None:
+        nid = self.col.find_notes('"Front:Front &amp; one"')[0]
+        card_id = self.schedule(nid, 45)
+        self.conn_rows[0][1] = 'Front &amp; one · with alternatives'
+        self.write_exports()
+        changes = {'renames': [{'family': 'connections', 'from': 'Front &amp; one',
+                                'to': 'Front &amp; one · with alternatives'}], 'removals': []}
+        plan = build_plan(self.col, self.config, self.root, changes)
+        self.assertEqual((len(plan.renames), len(plan.additions), plan.anki_only['connections']), (1, 0, []))
+        apply_plan(self.col, plan, self.config, self.root)
+        note = self.col.get_note(nid)
+        self.assertEqual(note['Front'], 'Front &amp; one · with alternatives')
+        self.assertEqual((note.cards()[0].id, note.cards()[0].ivl), (card_id, 45))
+        self.assertTrue(build_plan(self.col, self.config, self.root, changes).empty)
+
+    def test_rename_chain_across_commits_reaches_the_live_note(self) -> None:
+        nid = self.col.find_notes('"Front:Front &amp; one"')[0]
+        self.conn_rows[0][1] = 'C'
+        self.write_exports()
+        changes = {'renames': [{'family': 'connections', 'from': 'Front &amp; one', 'to': 'B'},
+                               {'family': 'connections', 'from': 'B', 'to': 'C'}], 'removals': []}
+        plan = build_plan(self.col, self.config, self.root, changes)
+        self.assertEqual([r[1] for r in plan.renames], [nid])
+
+    def test_without_a_rename_record_a_new_front_is_an_addition(self) -> None:
+        self.conn_rows[0][1] = 'Brand-new front'
+        self.write_exports()
+        plan = build_plan(self.col, self.config, self.root)
+        self.assertEqual((len(plan.additions), plan.anki_only['connections']), (1, ['Front &amp; one']))
+
+    def test_merge_keeps_one_history_and_removes_the_other_note(self) -> None:
+        keep = self.add('Basic', 'EN::Connection Patterns::01 Prepositions', ['merged away', 'x'])
+        card_id = self.schedule(self.col.find_notes('"Front:Front &amp; one"')[0], 20)
+        self.conn_rows[0][1] = 'Front &amp; one / merged away'
+        self.write_exports()
+        changes = {'renames': [{'family': 'connections', 'from': 'Front &amp; one',
+                                'to': 'Front &amp; one / merged away'}],
+                   'removals': [{'family': 'connections', 'key': 'merged away'}]}
+        plan = build_plan(self.col, self.config, self.root, changes)
+        self.assertEqual((len(plan.renames), [r[2] for r in plan.removals]), (1, ['merged away']))
+        apply_plan(self.col, plan, self.config, self.root)
+        self.assertEqual(self.col.find_notes(f'nid:{keep}'), [])
+        merged = self.col.find_notes('"deck:EN::Connection Patterns"')
+        self.assertEqual(len(merged), 1)
+        self.assertEqual(self.col.get_note(merged[0]).cards()[0].id, card_id)
+        self.assertTrue(build_plan(self.col, self.config, self.root, changes).empty)
+
+    def test_removal_of_a_card_still_in_the_repo_aborts(self) -> None:
+        changes = {'renames': [], 'removals': [{'family': 'connections', 'key': 'Front &amp; one'}]}
+        with self.assertRaisesRegex(SyncAbort, 'still has it'):
+            build_plan(self.col, self.config, self.root, changes)
+
+    def test_removals_never_touch_other_decks(self) -> None:
+        changes = {'renames': [], 'removals': [{'family': 'connections', 'key': 'Two Sum'}]}
+        self.assertTrue(build_plan(self.col, self.config, self.root, changes).empty)
+
     def test_change_limits_abort(self) -> None:
         self.config['limits']['max_updates'] = 0
         self.conn_rows[0][2] = 'changed'

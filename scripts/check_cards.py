@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-"""Check the portable EN sources and imports, optionally rebuilding derived files."""
+"""Check every card family: sources, generated imports, change record, and tests.
+
+Run before every push: python3 scripts/check_cards.py  (add --rebuild to
+regenerate all imports first). GitHub Actions runs the same checks.
+"""
 from __future__ import annotations
 
 import argparse
 import csv
-import hashlib
 import importlib.util
 import json
 import os
@@ -22,24 +25,9 @@ def run(*arguments: str) -> None:
     subprocess.run([sys.executable, *arguments], cwd=ROOT, env=environment, check=True)
 
 
-def check_snapshot() -> None:
-    manifest = json.loads((ROOT / 'handoff/package_manifest.json').read_text(encoding='utf-8'))
-    for name, expected in manifest['files'].items():
-        relative = Path(name)
-        if relative.is_absolute() or '..' in relative.parts:
-            raise ValueError(f'Invalid manifest path: {name}')
-        path = ROOT / relative
-        if not path.is_file() or path.is_symlink():
-            raise ValueError(f'Missing or invalid snapshot file: {name}')
-        content = path.read_bytes()
-        if len(content) != expected['bytes'] or hashlib.sha256(content).hexdigest() != expected['sha256']:
-            raise ValueError(f'Snapshot differs: {name}; omit --check-snapshot after intentional edits.')
-    print(f'Snapshot hashes verified: {len(manifest["files"])} files.', flush=True)
-
-
 def check_patterns() -> None:
     path = ROOT / 'cards/tools/build_import.py'
-    spec = importlib.util.spec_from_file_location('en_handoff_patterns', path)
+    spec = importlib.util.spec_from_file_location('en_patterns_builder', path)
     module = importlib.util.module_from_spec(spec)
     sys.modules[spec.name] = module
     spec.loader.exec_module(module)
@@ -56,6 +44,17 @@ def check_patterns() -> None:
     print(f'Pattern sources and import agree: {len(cards)} notes.', flush=True)
 
 
+def check_change_record() -> None:
+    sys.path.insert(0, str(ROOT / 'scripts/anki'))
+    import exports
+    changes = exports.parse_changes(exports.CHANGES.read_text(encoding='utf-8'))
+    errors = exports.validate_changes(changes, exports.load_config())
+    if errors:
+        raise ValueError('cards/anki_changes.json is inconsistent with the exports:\n' + '\n'.join(errors))
+    print(f"Change record is valid: {len(changes['renames'])} rename(s), {len(changes['removals'])} removal(s).",
+          flush=True)
+
+
 def export_count(relative: str, delimiter: str) -> int:
     with (ROOT / relative).open(encoding='utf-8', newline='') as stream:
         return sum(1 for row in csv.reader((line for line in stream if not line.startswith('#')), delimiter=delimiter) if row)
@@ -63,13 +62,10 @@ def export_count(relative: str, delimiter: str) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--check-snapshot', action='store_true', help='Verify original bundle hashes before editing.')
     parser.add_argument('--rebuild', action='store_true', help='Regenerate derived imports and coverage before validation.')
     args = parser.parse_args()
     if sys.version_info < (3, 10):
         raise ValueError('Python 3.10 or newer is required.')
-    if args.check_snapshot:
-        check_snapshot()
     if args.rebuild:
         run('cards/vocabulary/scripts/update_vocabulary.py', 'rebuild')
         run('cards/tools/build_import.py')
@@ -77,6 +73,7 @@ def main() -> int:
         run('cards/tools/build_connection_import.py', '--final')
     run('cards/vocabulary/scripts/update_vocabulary.py', 'validate')
     check_patterns()
+    check_change_record()
     for arguments in [
         ('cards/tools/build_import.py', '--self-test'),
         ('cards/tools/build_connection_coverage.py', '--check'),
@@ -86,6 +83,7 @@ def main() -> int:
         ('cards/corrections/scripts/update_corrections.py', 'validate'),
         ('cards/corrections/scripts/update_corrections.py', 'self-test'),
         ('-m', 'unittest', 'discover', '-s', 'cards/vocabulary/scripts', '-p', 'test_grouped_vocabulary.py'),
+        ('scripts/anki/test_change_records.py',),
     ]:
         run(*arguments)
     counts = {
@@ -94,7 +92,6 @@ def main() -> int:
         'connections': export_count('cards/connections/anki-import.tsv', '\t'),
     }
     print('\nAll card checks passed: ' + json.dumps(counts, sort_keys=True), flush=True)
-    print('Anki app import, review history, cloud connections, and the legacy grammar audit were not tested.')
     return 0
 
 

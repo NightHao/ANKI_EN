@@ -3,12 +3,16 @@
 Tools > Update EN cards from GitHub runs:
   1. Anki's own sync, so the local collection matches AnkiWeb first;
   2. git pull in the EN repo this add-on lives in;
-  3. a dry-run plan (scripts/anki/anki_sync.py), shown for approval;
-  4. the approved changes as one undoable step ("Update EN cards");
+  3. a plan (scripts/anki/anki_sync.py), shown before applying;
+  4. the changes as one undoable step ("Update EN cards");
   5. Anki's own sync again, so AnkiWeb and other devices receive them.
 
-Only the official Anki client talks to AnkiWeb. The planner never deletes,
-renames, or moves notes and never changes a note type's fields.
+Renames and removals come from the cards/anki_changes.json record of every
+commit since the last applied one. That commit is remembered in the collection
+config, which syncs, so every computer continues from the same point.
+
+Only the official Anki client talks to AnkiWeb. The planner never changes a
+note type's fields and deletes only notes a change record names.
 """
 from __future__ import annotations
 
@@ -28,6 +32,7 @@ ADDON_DIR = Path(__file__).resolve().parent
 REPO = ADDON_DIR.parents[1]
 ENGINE_DIR = REPO / 'scripts' / 'anki'
 UNDO_LABEL = 'Update EN cards'
+LAST_COMMIT_KEY = 'enCardsSync.lastCommit'
 _startup_check_done = False
 
 
@@ -45,22 +50,25 @@ def git_binary() -> str:
     raise RuntimeError('git was not found; set "git_path" in this add-on\'s config')
 
 
-def git_pull() -> str:
+def git(*args: str, check: bool = True) -> subprocess.CompletedProcess:
     env = dict(os.environ, GIT_TERMINAL_PROMPT='0')
     env['PATH'] = os.pathsep.join([str(Path.home() / '.local/bin'), '/opt/homebrew/bin', '/usr/local/bin',
                                    env.get('PATH', '')])
-    result = subprocess.run([git_binary(), '-C', str(REPO), 'pull', '--ff-only'],
+    result = subprocess.run([git_binary(), '-C', str(REPO), *args],
                             capture_output=True, text=True, env=env, timeout=120)
-    if result.returncode != 0:
-        raise RuntimeError(f'git pull failed:\n{result.stderr or result.stdout}')
-    return result.stdout.strip()
+    if check and result.returncode != 0:
+        raise RuntimeError(f'git {args[0]} failed:\n{result.stderr or result.stdout}')
+    return result
+
+
+
 
 
 def engine():
     """Load the planner from the repo, reloading it in case git pull changed it."""
     if str(ENGINE_DIR) not in sys.path:
         sys.path.insert(0, str(ENGINE_DIR))
-    modules = [importlib.import_module(name) for name in ('inspect_collection', 'anki_sync')]
+    modules = [importlib.import_module(name) for name in ('exports', 'anki_sync')]
     for module in modules:
         importlib.reload(module)
     return modules[-1]
@@ -104,19 +112,24 @@ def start_update(sync_first: bool = True) -> None:
 
 def plan_update() -> None:
     def op(col):
-        pulled = git_pull()
+        pulled = git('pull', '--ff-only').stdout.strip()
+        head = git('rev-parse', 'HEAD').stdout.strip()
         sync = engine()
+        exports = sys.modules['exports']
+        records, history = exports.change_records(git, col.get_config(LAST_COMMIT_KEY, None), head)
         cfg = sync.load_config(REPO / 'cards' / 'anki_sync.json')
-        return pulled, sync, cfg, sync.build_plan(col, cfg, REPO)
+        changes = sync.merge_changes(records)
+        return pulled, head, history, sync, cfg, sync.build_plan(col, cfg, REPO, changes)
 
     def on_success(result) -> None:
-        pulled, sync, cfg, plan = result
+        pulled, head, history, sync, cfg, plan = result
         if plan.empty:
+            mw.col.set_config(LAST_COMMIT_KEY, head)
             tooltip(f'EN cards are already up to date ({sum(plan.unchanged.values())} notes checked).')
             return
-        report = f'_git pull:_ {pulled}\n\n' + sync.render_report(plan, applied=False)
-        if PreviewDialog(report, can_apply=True).exec():
-            apply_update(sync, cfg, plan)
+        report = f'_git pull:_ {pulled}  \n_{history}_\n\n' + sync.render_report(plan, applied=False)
+        if not config().get('confirm_before_apply', True) or PreviewDialog(report, can_apply=True).exec():
+            apply_update(sync, cfg, plan, head)
 
     def on_failure(error: Exception) -> None:
         showWarning(f'EN cards were not updated.\n\n{error}')
@@ -125,11 +138,12 @@ def plan_update() -> None:
         'Checking EN cards…').run_in_background()
 
 
-def apply_update(sync, cfg: dict, plan) -> None:
+def apply_update(sync, cfg: dict, plan, head: str) -> None:
     def op(col):
         position = col.add_custom_undo_entry(UNDO_LABEL)
         try:
             sync.apply_plan(col, plan, cfg, REPO)
+            col.set_config(LAST_COMMIT_KEY, head, undoable=True)
         except Exception:
             col.merge_undo_entries(position)
             col.undo()
@@ -137,7 +151,8 @@ def apply_update(sync, cfg: dict, plan) -> None:
         return col.merge_undo_entries(position)
 
     def on_success(_changes) -> None:
-        tooltip(f'EN cards updated: {len(plan.additions)} added, {len(plan.updates)} updated. Syncing…')
+        tooltip(f'EN cards updated: {len(plan.additions)} added, {len(plan.updates)} updated, '
+                f'{len(plan.renames)} renamed, {len(plan.removals)} removed. Syncing…')
         if config().get('sync_after_update', True):
             sync_then(lambda: mw.toolbar.redraw())
 

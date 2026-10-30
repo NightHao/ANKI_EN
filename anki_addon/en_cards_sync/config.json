@@ -1,5 +1,6 @@
 {
   "check_on_startup": false,
+  "confirm_before_apply": true,
   "git_path": "",
   "sync_after_update": true,
   "sync_before_update": true

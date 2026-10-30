@@ -5,3 +5,5 @@
   the latest AnkiWeb data. Keep this on.
 - `sync_after_update`: run Anki's sync after applying so other devices receive
   the changes.
+- `confirm_before_apply`: show the summary with an "Apply and sync" button
+  before changing cards. Set to `false` to apply approved repo changes directly.

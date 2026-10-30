@@ -8,15 +8,18 @@ AnkiWeb, whose terms allow only official Anki clients.
 
 Notes are matched the way Anki's text importer matches them: same note type and
 same first field, restricted to the family's deck tree (cards/anki_sync.json).
-The tool adds missing notes, updates changed fields/tags of matched notes (which
-keeps their review history), and updates template text and CSS that the repo
-owns. It never deletes, renames, or moves notes, never changes a note type's
-fields or templates list, and never performs a full upload.
+The planner adds missing notes, updates changed fields/tags (keeping review
+history), and updates template text and CSS that the repo owns.
+
+Card identity changes come only from the change records in
+cards/anki_changes.json (one per commit, gathered from git history by the
+add-on): a rename edits the existing note's first field in place, keeping its
+review history; a removal deletes the named note. Nothing else is ever deleted,
+and a note type's fields are never changed.
 """
 from __future__ import annotations
 
 import argparse
-import json
 import shutil
 import sys
 import tempfile
@@ -26,10 +29,7 @@ from pathlib import Path
 from anki.collection import Collection
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from inspect_collection import read_export  # noqa: E402
-
-ROOT = Path(__file__).resolve().parents[2]
-CONFIG = ROOT / 'cards/anki_sync.json'
+from exports import CHANGES, ROOT, EMPTY_CHANGES, load_config, parse_changes, read_export  # noqa: E402
 
 
 class SyncAbort(Exception):
@@ -40,6 +40,8 @@ class SyncAbort(Exception):
 class Plan:
     additions: list[tuple[str, str, dict[str, str], list[str]]] = field(default_factory=list)
     updates: list[tuple[str, int, dict[str, str], list[str] | None, list[str]]] = field(default_factory=list)
+    renames: list[tuple[str, int, str, dict[str, str], list[str] | None]] = field(default_factory=list)
+    removals: list[tuple[str, int, str]] = field(default_factory=list)
     notetype_updates: list[tuple[str, list[str]]] = field(default_factory=list)
     anki_only: dict[str, list[str]] = field(default_factory=dict)
     deck_mismatches: list[str] = field(default_factory=list)
@@ -47,11 +49,16 @@ class Plan:
 
     @property
     def empty(self) -> bool:
-        return not (self.additions or self.updates or self.notetype_updates)
+        return not (self.additions or self.updates or self.renames or self.removals or self.notetype_updates)
 
 
-def load_config(path: Path = CONFIG) -> dict:
-    return json.loads(path.read_text(encoding='utf-8'))
+def merge_changes(records: list[dict]) -> dict:
+    """Combine change records in commit order."""
+    merged = {'renames': [], 'removals': []}
+    for record in records:
+        merged['renames'] += record.get('renames', [])
+        merged['removals'] += record.get('removals', [])
+    return merged
 
 
 def resolve_notetype(col: Collection, family: dict) -> dict:
@@ -65,7 +72,7 @@ def resolve_notetype(col: Collection, family: dict) -> dict:
     return notetype
 
 
-def plan_family(col: Collection, family: dict, plan: Plan, root: Path) -> None:
+def plan_family(col: Collection, family: dict, plan: Plan, root: Path, changes: dict) -> None:
     name, deck_root = family['name'], family['deck_root']
     notetype = resolve_notetype(col, family)
     headers, rows = read_export(root / family['export'])
@@ -85,6 +92,21 @@ def plan_family(col: Collection, family: dict, plan: Plan, root: Path) -> None:
         if key not in in_tree:
             outside[key] = nid
 
+    # Later records win; follow chains such as A -> B -> C back to a live note.
+    renamed_from = {r['to']: r['from'] for r in changes['renames'] if r['family'] == name}
+    consumed: set[str] = set()
+
+    def rename_source(key: str) -> str | None:
+        seen_keys = {key}
+        while key in renamed_from:
+            key = renamed_from[key]
+            if key in seen_keys:
+                raise SyncAbort(f'[{name}] rename records form a cycle at {key[:60]!r}')
+            seen_keys.add(key)
+            if key in in_tree:
+                return key
+        return None
+
     seen: set[str] = set()
     unchanged = 0
     for row in rows:
@@ -98,12 +120,23 @@ def plan_family(col: Collection, family: dict, plan: Plan, root: Path) -> None:
         fields = {f: row[f] for f in family['fields']}
         tags = row.get('Tags', '').split() if family.get('sync_tags') else []
         if key not in in_tree:
+            source = rename_source(key)
+            if source is not None:
+                if source in consumed:
+                    raise SyncAbort(f'[{name}] two cards claim the rename source {source[:60]!r}')
+                consumed.add(source)
+                plan.renames.append((name, in_tree[source][0], source, fields,
+                                     tags if family.get('sync_tags') else None))
+                continue
             if key in outside:
                 decks = sorted({col.decks.name(c.did) for c in col.get_note(outside[key]).cards()})
                 raise SyncAbort(f'[{name}] {key[:60]!r} already exists outside {deck_root} in {decks}; '
                                 'move it in the Anki app or resolve the conflict first')
             plan.additions.append((name, deck, fields, tags))
             continue
+        if key in renamed_from and rename_source(key) is not None:
+            raise SyncAbort(f'[{name}] both {key[:50]!r} and its rename source exist in Anki; '
+                            'delete the one without review history in the Anki app')
         note = col.get_note(in_tree[key][0])
         changed = [f for f in family['fields'] if note[f] != fields[f]]
         new_tags = None
@@ -117,32 +150,44 @@ def plan_family(col: Collection, family: dict, plan: Plan, root: Path) -> None:
             plan.updates.append((name, note.id, {f: fields[f] for f in changed if f != 'tags'}, new_tags, changed))
         else:
             unchanged += 1
-    plan.unchanged[name] = unchanged
-    plan.anki_only[name] = [k[:80] for k in in_tree if k not in seen]
 
-    changes = []
+    for removal in changes['removals']:
+        if removal['family'] != name:
+            continue
+        key = removal['key']
+        if key in seen:
+            raise SyncAbort(f'[{name}] a change record removes {key[:60]!r}, but the repo still has it')
+        if key in in_tree and key not in consumed and all(r[2] != in_tree[key][0] for r in plan.removals):
+            plan.removals.append((name, in_tree[key][0], key))
+    removed = {r[2] for r in plan.removals if r[0] == name}
+    plan.unchanged[name] = unchanged
+    plan.anki_only[name] = [k[:80] for k in in_tree if k not in seen and k not in consumed and k not in removed]
+
+    template_changes = []
     for template_name, paths in family.get('templates', {}).items():
         template = next((t for t in notetype['tmpls'] if t['name'] == template_name), None)
         if template is None:
             raise SyncAbort(f'[{name}] template {template_name!r} is missing from {family["notetype"]!r}')
         for side, key in (('front', 'qfmt'), ('back', 'afmt')):
             if template[key].strip() != (root / paths[side]).read_text(encoding='utf-8').strip():
-                changes.append(f'{template_name} {side}')
+                template_changes.append(f'{template_name} {side}')
     if family.get('css') and notetype['css'].strip() != (root / family['css']).read_text(encoding='utf-8').strip():
-        changes.append('css')
-    if changes:
-        plan.notetype_updates.append((name, changes))
+        template_changes.append('css')
+    if template_changes:
+        plan.notetype_updates.append((name, template_changes))
 
 
-def build_plan(col: Collection, config: dict, root: Path = ROOT) -> Plan:
+def build_plan(col: Collection, config: dict, root: Path = ROOT, changes: dict | None = None) -> Plan:
+    changes = changes or EMPTY_CHANGES
     plan = Plan()
     for family in config['families']:
-        plan_family(col, family, plan, root)
+        plan_family(col, family, plan, root, changes)
     limits = config.get('limits', {})
-    if len(plan.additions) > limits.get('max_additions', 10**9):
-        raise SyncAbort(f'{len(plan.additions)} additions exceed max_additions; rerun with --allow-large if intended')
-    if len(plan.updates) > limits.get('max_updates', 10**9):
-        raise SyncAbort(f'{len(plan.updates)} updates exceed max_updates; rerun with --allow-large if intended')
+    for label, items in (('additions', plan.additions), ('updates', plan.updates + plan.renames),
+                         ('removals', plan.removals)):
+        if len(items) > limits.get(f'max_{label}', 10**9):
+            raise SyncAbort(f'{len(items)} {label} exceed max_{label} in cards/anki_sync.json; '
+                            'raise the limit there if this is intended')
     return plan
 
 
@@ -159,13 +204,17 @@ def apply_plan(col: Collection, plan: Plan, config: dict, root: Path = ROOT) -> 
             note[key] = value
         note.tags = tags
         col.add_note(note, col.decks.id(deck, create=True))
-    for _name, nid, fields, tags, _changed in plan.updates:
+    edits = [(nid, fields, tags) for _n, nid, fields, tags, _c in plan.updates]
+    edits += [(nid, fields, tags) for _n, nid, _old, fields, tags in plan.renames]
+    for nid, fields, tags in edits:
         note = col.get_note(nid)
         for key, value in fields.items():
             note[key] = value
         if tags is not None:
             note.tags = tags
         col.update_note(note)
+    if plan.removals:
+        col.remove_notes([nid for _name, nid, _key in plan.removals])
     for name, _changes in plan.notetype_updates:
         family = families[name]
         notetype = col.models.by_name(family['notetype'])
@@ -178,21 +227,28 @@ def apply_plan(col: Collection, plan: Plan, config: dict, root: Path = ROOT) -> 
             notetype['css'] = (root / family['css']).read_text(encoding='utf-8')
         col.models.update_dict(notetype)
     if schema_stamp(col) != before:
-        raise SyncAbort('changes would modify the collection schema (forcing a full sync); nothing was synced')
+        raise SyncAbort('changes would modify the collection schema (forcing a full sync)')
 
 
 def render_report(plan: Plan, applied: bool) -> str:
-    verb = 'Applied' if applied else 'Planned (dry run)'
-    lines = [f'## Anki sync: {verb}', '',
-             '| Family | Unchanged | Add | Update | Only in Anki |', '| --- | ---: | ---: | ---: | ---: |']
+    verb = 'Applied' if applied else 'Planned'
+    lines = [f'## EN cards: {verb}', '',
+             '| Family | Unchanged | Add | Update | Rename | Remove | Only in Anki |',
+             '| --- | ---: | ---: | ---: | ---: | ---: | ---: |']
     for name, unchanged in plan.unchanged.items():
-        adds = sum(1 for a in plan.additions if a[0] == name)
-        updates = sum(1 for u in plan.updates if u[0] == name)
-        lines.append(f'| {name} | {unchanged} | {adds} | {updates} | {len(plan.anki_only.get(name, []))} |')
+        counts = [sum(1 for item in items if item[0] == name)
+                  for items in (plan.additions, plan.updates, plan.renames, plan.removals)]
+        lines.append(f'| {name} | {unchanged} | ' + ' | '.join(map(str, counts))
+                     + f' | {len(plan.anki_only.get(name, []))} |')
+    lines.append('')
     for name, deck, fields, _tags in plan.additions:
         lines.append(f'- add [{name}] {next(iter(fields.values()))[:90]} → {deck}')
     for name, _nid, fields, _tags, changed in plan.updates:
         lines.append(f'- update [{name}] {", ".join(changed)}: {next(iter(fields.values()), "")[:60]}')
+    for name, _nid, old, fields, _tags in plan.renames:
+        lines.append(f'- rename [{name}] {old[:50]} → {next(iter(fields.values()))[:50]} (review history kept)')
+    for name, _nid, key in plan.removals:
+        lines.append(f'- remove [{name}] {key[:80]}')
     for name, changes in plan.notetype_updates:
         lines.append(f'- note type [{name}]: update {", ".join(changes)}')
     for name, keys in plan.anki_only.items():
@@ -201,7 +257,7 @@ def render_report(plan: Plan, applied: bool) -> str:
     for mismatch in plan.deck_mismatches:
         lines.append(f'- deck differs, left untouched {mismatch}')
     if plan.empty:
-        lines.append('\nAnkiWeb already matches the repo.')
+        lines.append('Anki already matches the repo.')
     return '\n'.join(lines) + '\n'
 
 
@@ -211,12 +267,13 @@ def main() -> int:
                         help='a closed .anki2 file to preview against (a temporary copy is opened)')
     args = parser.parse_args()
 
+    changes = parse_changes(CHANGES.read_text(encoding='utf-8')) if CHANGES.exists() else EMPTY_CHANGES
     with tempfile.TemporaryDirectory() as scratch:
         copy = Path(scratch) / 'collection.anki2'
         shutil.copy2(args.collection, copy)
         col = Collection(str(copy))
         try:
-            plan = build_plan(col, load_config())
+            plan = build_plan(col, load_config(), changes=changes)
         except SyncAbort as error:
             print(f'ABORTED: {error}', file=sys.stderr)
             return 1

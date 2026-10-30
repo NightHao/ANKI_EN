@@ -4,11 +4,21 @@
       "name": "vocabulary",
       "export": "cards/vocabulary/exports/anki_import.csv",
       "notetype": "EN_Vocabulary",
-      "fields": ["Term", "Priority", "PartsOfSpeech", "PronunciationHTML", "TTS_Text", "BackHTML"],
+      "fields": [
+        "Term",
+        "Priority",
+        "PartsOfSpeech",
+        "PronunciationHTML",
+        "TTS_Text",
+        "BackHTML"
+      ],
       "deck_root": "EN::Vocabulary",
       "sync_tags": true,
       "templates": {
-        "Card 1": {"front": "cards/vocabulary/anki/front.html", "back": "cards/vocabulary/anki/back.html"}
+        "Card 1": {
+          "front": "cards/vocabulary/anki/front.html",
+          "back": "cards/vocabulary/anki/back.html"
+        }
       },
       "css": "cards/vocabulary/anki/styling.css"
     },
@@ -16,7 +26,10 @@
       "name": "patterns",
       "export": "cards/patterns/anki-import.tsv",
       "notetype": "Basic",
-      "fields": ["Front", "Back"],
+      "fields": [
+        "Front",
+        "Back"
+      ],
       "deck_root": "EN::Patterns",
       "sync_tags": false
     },
@@ -24,13 +37,17 @@
       "name": "connections",
       "export": "cards/connections/anki-import.tsv",
       "notetype": "Basic",
-      "fields": ["Front", "Back"],
+      "fields": [
+        "Front",
+        "Back"
+      ],
       "deck_root": "EN::Connection Patterns",
       "sync_tags": false
     }
   ],
   "limits": {
     "max_additions": 150,
-    "max_updates": 60
+    "max_updates": 60,
+    "max_removals": 20
   }
 }
