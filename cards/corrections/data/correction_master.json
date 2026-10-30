@@ -3234,11 +3234,11 @@
       "target": "PATTERN",
       "summary": "Use 'will' for an expected future result in the real current situation and 'would' for a hypothetical or future-in-the-past result.",
       "rule": "real expected result: will + base verb; hypothetical result: would + base verb",
-      "classification_reason": "Second independent occurrence; real plan expressed with hypothetical 'd.",
-      "encounter_count": 2,
+      "classification_reason": "Recurrence: would used for a real, expected future outcome.",
+      "encounter_count": 3,
       "successful_use_count": 1,
       "first_seen": "2026-09-15",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-30",
       "last_success": "2026-09-15",
       "sources": [
         "direct user conversation",
@@ -3255,6 +3255,12 @@
           "date": "2026-10-21",
           "original": "Considering I'd use it to learn most of the common patterns",
           "corrected": "Considering I'll use it to learn most of the common patterns",
+          "source": "direct user conversation"
+        },
+        {
+          "date": "2026-10-30",
+          "original": "I would know which cards are going to be removed when I interact with AI agent",
+          "corrected": "I'll know which cards are going to be removed when I interact with AI agent",
           "source": "direct user conversation"
         }
       ],
