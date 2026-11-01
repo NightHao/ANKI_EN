@@ -313,15 +313,19 @@ Examples:
 - While it is true that the tool saves time, it still needs supervision.
 - The tool may be useful, but it cannot replace a careful review.
 
-## `clause, whereas/while + clause · On the one hand, + clause; on the other hand, + clause`
+## `clause, whereas/while + clause · On the one hand, + clause; on the other hand, + clause · One advantage/disadvantage of + noun/V-ing + is that + clause`
 
-Whereas and contrastive while compare different facts. On the one hand/on the other hand balances considerations, often about the same choice. You can omit on the one hand when the first consideration is already clear. While can also express time, so choose whereas if the context is ambiguous.
+<!-- overview-card -->
+
+Use these expressions to contrast facts or weigh the benefits and drawbacks of an option. Whereas/while compares facts; while can also express time. On the one hand/on the other hand weighs competing considerations. Advantage/disadvantage names a benefit or drawback. The flip side introduces another aspect, positive or negative; the downside names a disadvantage. Comes at the cost of identifies the sacrifice.
 
 Examples:
 
 - I prefer written feedback, whereas my manager prefers a call. / I prefer written feedback, while my manager prefers a call.
 - On the one hand, the job pays well; on the other hand, the hours are unpredictable.
-- The apartment is close to work. On the other hand, it has very little natural light.
+- One advantage of remote work is that I avoid a long commute. / One disadvantage is that I miss spontaneous conversations.
+- Working from home gives me flexibility. The flip side is that I sometimes feel isolated. / On the flip side, I have more time with my family.
+- The downside is that the simpler design offers fewer options. / Simplicity comes at the cost of customization.
 
 ## `I agree/disagree with + noun · I agree to some extent/up to a point, but + clause · I see your point, but + clause · That is a valid concern · To be fair, + clause · I have a different take on + noun`
 
@@ -1544,16 +1548,6 @@ Examples:
 - The problem with the current process is that nobody owns the final decision.
 - A possible solution to the delay is to assign one reviewer.
 - One way to reduce misunderstandings is to summarize decisions in writing.
-
-## `One advantage/disadvantage of + noun/V-ing + is that + clause · The downside is that + clause · X comes at the cost of Y`
-
-Compare benefits and costs. Advantage/disadvantage introduces one consideration. The downside highlights a drawback. Comes at the cost of identifies what is sacrificed for a benefit; name the loss clearly rather than naming an ambiguous metric.
-
-Examples:
-
-- One advantage of remote work is that I can avoid a long commute.
-- One disadvantage of remote work is that informal conversations take more effort. / The downside is that it can feel isolating.
-- The simpler design comes at the cost of fewer customization options.
 
 ## `There is a risk of + V-ing`
 
@@ -4146,3 +4140,53 @@ Examples:
 - I’m at work right now; I’ll call you after the meeting.
 - She is off work this week while she recovers from the flu.
 - I have a day off on Friday, so I’m planning a short trip.
+
+## `set an example · lead by example`
+
+Demonstrate behavior that others can follow. Set an example can describe good or bad behavior; lead by example emphasizes showing people what to do through your actions rather than instructions. You can set an example for someone by doing something.
+
+Examples:
+
+- My dad sets a good example for our family by taking responsibility for his mistakes.
+- The manager sets a bad example when he ignores the rules.
+- Good leaders lead by example instead of just telling others what to do.
+
+## `For what it's worth, + clause`
+
+Offer an opinion, observation, or advice without insisting it must influence someone's decision. Common in casual and professional conversation; it does not necessarily imply uncertainty.
+
+Examples:
+
+- For what it's worth, I think you made the right decision.
+- For what it's worth, I've used both frameworks, and the second was easier to maintain.
+
+## `Looking back, + clause · In retrospect/hindsight, + clause`
+
+Reflect on past experiences from your current perspective. Looking back can introduce memories or reassessment; in retrospect and in hindsight especially emphasize judging the past with what you know now. These expressions often overlap.
+
+Examples:
+
+- Looking back, I wish I'd spent more time with my family.
+- In retrospect, we should have tested the architecture more thoroughly.
+- In hindsight, turning down that offer was the right decision.
+
+## `can't help + V-ing · find myself + V-ing`
+
+Can't help + V-ing (also can't help but + base verb) means finding it difficult or impossible to avoid a reaction or action. Find myself + V-ing describes noticing yourself doing something, often without deciding to do it; it does not necessarily mean the action is impossible to control.
+
+Examples:
+
+- I can't help worrying about my future. / I can't help but worry about my future.
+- I find myself comparing my progress with other people's.
+- Whenever I read about AI breakthroughs, I can't help but wonder what jobs will look like in ten years.
+
+## `have/has been meaning to + base verb`
+
+Describe something you have intended to do for some time but have not done yet. Often used for delayed plans, unfinished goals, or something you meant to ask someone.
+
+Examples:
+
+- I've been meaning to improve my spoken English, but other responsibilities keep getting in the way.
+- I've been meaning to ask you about the new project.
+- She's been meaning to update her résumé for months.
+

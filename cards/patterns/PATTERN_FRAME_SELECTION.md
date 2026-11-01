@@ -101,7 +101,7 @@ Do not add:
 
 ## Current reviewed selection
 
-The current selection contains 321 production frames. This inventory includes grouped overviews; the separate nine operation-based grammar cards bring the full source to 330 cards. The twelve conversation-glue frames, two topic-framing frames, and twenty-nine published-material gap frames were added at the learner’s request on 2026-10-21. Six personal production frames were approved and added on 2026-10-27. One further frame and seven expanded grouped Fronts, approved in an Oct 28–29 session whose source edits were not preserved, were reconciled from AnkiWeb on 2026-10-30.
+The current selection contains 325 production frames. This inventory includes grouped overviews; the separate nine operation-based grammar cards bring the full source to 330 cards. The twelve conversation-glue frames, two topic-framing frames, and twenty-nine published-material gap frames were added at the learner’s request on 2026-10-21. Six personal production frames were approved and added on 2026-10-27. One further frame and seven expanded grouped Fronts, approved in an Oct 28–29 session whose source edits were not preserved, were reconciled from AnkiWeb on 2026-10-30.
 
 The learner explicitly authorized a complete consolidated replacement for review on 2026-10-20. The entries below identify that authored replacement, **not a claim that the learner has already accepted every new card**. The full Fronts and Backs are in [cards.md](cards.md). Historical P-identifiers and catalog IDs refer to the retired coverage catalog, which remains in git history ([former path](american_english_production_patterns_catalog.md).
 
@@ -134,7 +134,7 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Reasons, results, purpose, and contrast | `(in order) to + verb · so that + subject + can/could + verb · The goal is to + verb · be designed to + verb` | Catalog CAUSE16, PLAN02, PLAN10; prior P045 |
 | Reasons, results, purpose, and contrast | `clause, but + clause · Although/Though/Even though + clause, main clause · Despite/In spite of + noun/V-ing, main clause · statement. However, statement. · clause, though` | Catalog CONTRAST03; prior P042 |
 | Reasons, results, purpose, and contrast | `That said/Still/Even so/Nevertheless, + clause · While it is true that + clause, main clause · X may be true, but Y` | Catalog CONTRAST01, CONTRAST14; prior P067, P068 |
-| Reasons, results, purpose, and contrast | `clause, whereas/while + clause · On the one hand, + clause; on the other hand, + clause` | Catalog CONTRAST02, CONTRAST06; prior P004 |
+| Reasons, results, purpose, and contrast | `clause, whereas/while + clause · On the one hand, + clause; on the other hand, + clause · One advantage/disadvantage of + noun/V-ing + is that + clause` | Catalog CONTRAST02, CONTRAST06; prior P004 |
 | Reasons, results, purpose, and contrast | `I agree/disagree with + noun · I agree to some extent/up to a point, but + clause · I see your point, but + clause · That is a valid concern · To be fair, + clause · I have a different take on + noun` | Catalog CONTRAST16, VIEW17; prior P069, P139; boundaries revised in local reference audit |
 | Reasons, results, purpose, and contrast | `X does not necessarily mean Y · Just because + clause + does not mean + clause · X does not guarantee Y` | Catalog CONTRAST15, TECH12; prior P066 |
 | Reasons, results, purpose, and contrast | `It is not that X; it is (just) that Y · It’s not like + clause · It’s not like + person + to + verb · I am not saying X; I am saying Y · The problem is not X; it is Y` | Catalog CONTRAST09; prior P140 |
@@ -247,7 +247,11 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Work, problem solving, and professional explanations | `Can you walk me through + noun? · Let me walk you through + noun` | Catalog PROBLEM08, PROBLEM16, PROBLEM20; boundaries revised in local reference audit |
 | Work, problem solving, and professional explanations | `That did not solve/fix + noun · X solved/fixed + noun` | Catalog PROBLEM08, PROBLEM16, PROBLEM20; boundaries revised in local reference audit |
 | Work, problem solving, and professional explanations | `The problem with + noun/V-ing + is that + clause · A possible solution to + noun + is to + verb · One way to + verb + is to + verb` | prior P014, P015, P017 |
-| Work, problem solving, and professional explanations | `One advantage/disadvantage of + noun/V-ing + is that + clause · The downside is that + clause · X comes at the cost of Y` | Catalog CONTRAST07, TECH11; prior P016 |
+| Conversation, reflection, and evaluation | `set an example · lead by example` | Approved learner chunks, consolidation reviewed 2026-11-01 |
+| Conversation, reflection, and evaluation | `For what it's worth, + clause` | Approved learner chunks, consolidation reviewed 2026-11-01 |
+| Conversation, reflection, and evaluation | `Looking back, + clause · In retrospect/hindsight, + clause` | Approved learner chunks, consolidation reviewed 2026-11-01 |
+| Conversation, reflection, and evaluation | `can't help + V-ing · find myself + V-ing` | Approved learner chunks, consolidation reviewed 2026-11-01 |
+| Conversation, reflection, and evaluation | `have/has been meaning to + base verb` | Approved learner chunks, consolidation reviewed 2026-11-01 |
 | Work, problem solving, and professional explanations | `There is a risk of + V-ing` | prior P013 |
 | Comparison, degree, quantity, and change | `Compared with/to + noun, + clause · in terms of + aspect · be about the same · differ in + aspect · What makes X better than Y?` | Catalog CHOICE14, CHOICE15, CHOICE16; prior P052 |
 | Comparison, degree, quantity, and change | `much/far/slightly/a little + comparative + than · any/no + comparative` | Catalog AMOUNT09; prior P053; boundaries revised in local reference audit |

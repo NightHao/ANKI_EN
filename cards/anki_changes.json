@@ -1,4 +1,17 @@
 {
-  "renames": [],
-  "removals": []
+  "renames": [
+    {
+      "family": "patterns",
+      "from": "clause, whereas/while + clause · On the one hand, + clause; on the other hand, + clause",
+      "to": "clause, whereas/while + clause · On the one hand, + clause; on the other hand, + clause · One advantage/disadvantage of + noun/V-ing + is that + clause",
+      "reason": "Consolidate contrast, benefits, and trade-offs on one production card"
+    }
+  ],
+  "removals": [
+    {
+      "family": "patterns",
+      "key": "One advantage/disadvantage of + noun/V-ing + is that + clause · The downside is that + clause · X comes at the cost of Y",
+      "reason": "Merged into combined contrast and trade-offs production card"
+    }
+  ]
 }
