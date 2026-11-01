@@ -1,0 +1,348 @@
+{
+  "schema_version": 1,
+  "groups": [
+    {
+      "id": "admiration",
+      "function": "Express respect or admiration",
+      "owner": {
+        "family": "vocabulary",
+        "key": "regard"
+      },
+      "expressions": [
+        {
+          "text": "regard",
+          "relationship": "core"
+        },
+        {
+          "text": "look up to",
+          "relationship": "related",
+          "note": "Often suggests a role model or someone worth emulating."
+        },
+        {
+          "text": "have great regard for",
+          "relationship": "variant"
+        },
+        {
+          "text": "hold someone in high regard",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "exemplary_behavior",
+      "function": "Demonstrate behavior others may follow",
+      "owner": {
+        "family": "patterns",
+        "key": "set an example · lead by example"
+      },
+      "expressions": [
+        {
+          "text": "set an example",
+          "relationship": "core"
+        },
+        {
+          "text": "set a good example",
+          "relationship": "variant"
+        },
+        {
+          "text": "set a bad example",
+          "relationship": "variant"
+        },
+        {
+          "text": "lead by example",
+          "relationship": "related",
+          "note": "Emphasizes leadership through actions."
+        }
+      ]
+    },
+    {
+      "id": "contrast_tradeoffs",
+      "function": "Contrast facts, perspectives, or trade-offs",
+      "owner": {
+        "family": "patterns",
+        "key": "clause, whereas/while + clause · On the one hand, + clause; on the other hand, + clause · One advantage/disadvantage of + noun/V-ing + is that + clause"
+      },
+      "expressions": [
+        {
+          "text": "whereas",
+          "relationship": "core"
+        },
+        {
+          "text": "while",
+          "relationship": "near_synonym",
+          "note": "While can also express time."
+        },
+        {
+          "text": "on the one hand",
+          "relationship": "related"
+        },
+        {
+          "text": "on the other hand",
+          "relationship": "related"
+        },
+        {
+          "text": "the flip side",
+          "relationship": "related",
+          "note": "Another side, which may be positive or negative."
+        },
+        {
+          "text": "on the flip side",
+          "relationship": "variant"
+        },
+        {
+          "text": "the downside",
+          "relationship": "related",
+          "note": "Specifically negative."
+        },
+        {
+          "text": "advantage",
+          "relationship": "related"
+        },
+        {
+          "text": "disadvantage",
+          "relationship": "related"
+        },
+        {
+          "text": "come at the cost of",
+          "relationship": "related"
+        }
+      ]
+    },
+    {
+      "id": "retrospective_reflection",
+      "function": "Reflect on past experiences with later knowledge",
+      "owner": {
+        "family": "patterns",
+        "key": "Looking back, + clause · In retrospect/hindsight, + clause"
+      },
+      "expressions": [
+        {
+          "text": "looking back",
+          "relationship": "core"
+        },
+        {
+          "text": "in retrospect",
+          "relationship": "near_synonym"
+        },
+        {
+          "text": "in hindsight",
+          "relationship": "near_synonym"
+        }
+      ]
+    },
+    {
+      "id": "unavoidable_unintentional_reactions",
+      "function": "Describe unavoidable reactions or noticing unintentional behavior",
+      "owner": {
+        "family": "patterns",
+        "key": "can't help + V-ing · find myself + V-ing"
+      },
+      "expressions": [
+        {
+          "text": "can't help",
+          "relationship": "core"
+        },
+        {
+          "text": "can't help but",
+          "relationship": "variant",
+          "note": "Takes a base verb, not V-ing."
+        },
+        {
+          "text": "find myself",
+          "relationship": "related",
+          "note": "Notice behavior rather than claim it cannot be controlled."
+        }
+      ]
+    },
+    {
+      "id": "modest_opinion",
+      "function": "Offer an opinion without insisting on it",
+      "owner": {
+        "family": "patterns",
+        "key": "For what it's worth, + clause"
+      },
+      "expressions": [
+        {
+          "text": "for what it's worth",
+          "relationship": "core"
+        },
+        {
+          "text": "for what it is worth",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "delayed_intention",
+      "function": "Mention a plan you haven't acted on",
+      "owner": {
+        "family": "patterns",
+        "key": "have/has been meaning to + base verb"
+      },
+      "expressions": [
+        {
+          "text": "have been meaning to",
+          "relationship": "core"
+        },
+        {
+          "text": "I've been meaning to",
+          "relationship": "variant"
+        },
+        {
+          "text": "has been meaning to",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "gradual_realization",
+      "function": "Gradually develop an understanding or belief",
+      "owner": {
+        "family": "patterns",
+        "key": "come to realize/understand/believe (that) + clause"
+      },
+      "expressions": [
+        {
+          "text": "come to realize",
+          "relationship": "core"
+        },
+        {
+          "text": "come to understand",
+          "relationship": "near_synonym"
+        },
+        {
+          "text": "come to believe",
+          "relationship": "related"
+        }
+      ]
+    },
+    {
+      "id": "topic_framing",
+      "function": "Introduce a topic",
+      "owner": {
+        "family": "patterns",
+        "key": "When it comes to + noun/V-ing, + clause · As for + noun, + clause · As far as + noun + is concerned, + clause"
+      },
+      "expressions": [
+        {
+          "text": "when it comes to",
+          "relationship": "core"
+        },
+        {
+          "text": "as for",
+          "relationship": "related"
+        },
+        {
+          "text": "as far as is concerned",
+          "relationship": "related"
+        }
+      ]
+    },
+    {
+      "id": "outcome_discovery",
+      "function": "Explain an outcome or discovery",
+      "owner": {
+        "family": "patterns",
+        "key": "It turns out (that) + clause · X turned out to be + adjective/noun · end up + V-ing / with + noun / in + place"
+      },
+      "expressions": [
+        {
+          "text": "it turns out",
+          "relationship": "core"
+        },
+        {
+          "text": "turned out to be",
+          "relationship": "variant"
+        },
+        {
+          "text": "end up",
+          "relationship": "related"
+        }
+      ]
+    },
+    {
+      "id": "central_conclusion",
+      "function": "Emphasize a central message or conclusion",
+      "owner": {
+        "family": "patterns",
+        "key": "The main point is that + clause · The bottom line is that + clause · At the end of the day, + clause"
+      },
+      "expressions": [
+        {
+          "text": "at the end of the day",
+          "relationship": "core"
+        },
+        {
+          "text": "the bottom line is that",
+          "relationship": "near_synonym"
+        },
+        {
+          "text": "the main point is that",
+          "relationship": "near_synonym"
+        }
+      ]
+    },
+    {
+      "id": "concession",
+      "function": "Concede and qualify a previous point",
+      "owner": {
+        "family": "patterns",
+        "key": "That said/Still/Even so/Nevertheless, + clause · While it is true that + clause, main clause · X may be true, but Y"
+      },
+      "expressions": [
+        {
+          "text": "that said",
+          "relationship": "core"
+        },
+        {
+          "text": "that being said",
+          "relationship": "variant"
+        },
+        {
+          "text": "even so",
+          "relationship": "near_synonym"
+        }
+      ]
+    },
+    {
+      "id": "essential_explanation",
+      "function": "Explain what an issue ultimately depends on",
+      "owner": {
+        "family": "vocabulary",
+        "key": "stem from / boil down to"
+      },
+      "expressions": [
+        {
+          "text": "boil down to",
+          "relationship": "core"
+        },
+        {
+          "text": "come down to",
+          "relationship": "near_synonym"
+        }
+      ]
+    },
+    {
+      "id": "falling_behind",
+      "function": "Describe lagging behind an expected pace or others",
+      "owner": {
+        "family": "vocabulary",
+        "key": "fall behind"
+      },
+      "expressions": [
+        {
+          "text": "fall behind",
+          "relationship": "core"
+        },
+        {
+          "text": "falling behind",
+          "relationship": "variant"
+        },
+        {
+          "text": "feel like I'm falling behind",
+          "relationship": "related"
+        }
+      ]
+    }
+  ]
+}
