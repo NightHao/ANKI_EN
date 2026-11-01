@@ -29,6 +29,16 @@ review or implementation. Do not force the master deck into the source format or
 
 Put the reusable pattern itself on the Front.
 
+**Minimize repeated Front variants.** Fronts contain the indispensable
+retrieval pattern(s), not every grammatical or phrase variant. For example,
+one `can't help` Front can teach `can't help + V-ing` and
+`can't help but + base verb` on the Back. `The flip side is that` and
+`On the flip side` can be demonstrated on one contrast card without adding
+two separate Front entries. Keep the complement shapes explicit on the Back.
+Group communicative jobs rather than merely similar spellings; avoid combining
+different meaning boundaries solely to minimize card count. Search the
+semantic index and read existing owner cards in full before editing.
+
 Good:
 
 ```text
@@ -98,8 +108,8 @@ to describe position, distance, or movement. These cards provide a mental map
 across related expressions; they do not replace the atomic retrieval decisions
 in `EN::Connection Patterns`.
 
-An overview card still has exactly two Anki fields. Its Front lists the related
-reusable expressions directly, and its Back gives a concise organizing
+An overview card still has exactly two Anki fields. Its Front lists the distinct **core** retrieval expressions directly
+(not each inflection or same-meaning variation), and its Back gives a concise organizing
 explanation followed by enough natural examples to demonstrate every
 expression on the Front at least once. Unlike an ordinary production card, an
 overview card is not limited to two or three examples. Do not add examples

@@ -85,6 +85,14 @@ frame when they share one communicative job and the combined Front remains
 usable. Do not merge alternatives whose meaning difference would become
 unclear.
 
+**Consolidation-first review:** check `cards/semantic/index.json` for
+candidate owners, then read the actual cards. Put alternative forms of the
+same useful expression on the Back rather than making a long Front catalog.
+A broader semantic category can span several legitimately distinct cards.
+Prefer Back enrichment to new note creation, but retain different production
+decisions when their meaning or grammatical boundary affects use. A merged
+note does not automatically inherit the removed note's review history.
+
 ## Exclusions
 
 Do not add:

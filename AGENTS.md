@@ -19,7 +19,7 @@ delivers changes), and `scripts/` (checks and tools).
 
 ## 1. Every session
 
-1. `git pull` before reading or changing anything.
+1. `git pull` before reading or changing anything (or fetch the latest `main` through the GitHub connector if a local clone is unavailable).
 2. Do the work. Answer English questions using sections 5–7.
 3. Before committing card changes, run `python3 scripts/check_cards.py`; it
    must end with `All card checks passed`. Correction-registry updates are
@@ -44,6 +44,31 @@ for analysis, not permission to edit. Answer what each item means and how it is
 used, following section 5.
 
 **b. Search the existing decks by meaning, not only spelling.**
+
+Use `python3 scripts/find_cards.py "expression"` and consult
+`cards/semantic/index.json` / `cards/semantic/groups.json` first. The
+generated index lists all current exported card identities and curated
+semantic aliases; it is a retrieval aid, not an exhaustive semantic model or
+a license to treat related expressions as synonyms.
+
+**Consolidation-first decisions:** identify the communicative function before
+deciding on cards. Prefer (1) already covered, (2) extend an existing Back,
+(3) extend a grouped Front for a distinct necessary production decision,
+(4) consolidate genuinely redundant cards, (5) create a new card only when
+no existing owner adequately teaches the expression.
+
+**Keep Fronts economical.** Do not list every inflection, paraphrase or
+same-meaning grammatical variant as a separate Front item. Put such forms
+with their exact complement shapes and examples on the Back. Preserve separate
+production decisions when meaning or grammar makes retrieval genuinely
+different. A semantic category does not necessarily correspond to one card.
+
+**Show effects of consolidation:** quote the exact old and proposed Fronts;
+identify the surviving Anki note and all removals; explain that removed notes'
+independent review histories cannot be combined into the surviving note.
+Update `cards/anki_changes.json` and all semantic owner references when
+note identities change. Do not create, update, merge, or delete an Anki note
+without explicit approval.
 
 ```bash
 python3 scripts/find_cards.py regard "with respect to" concerning

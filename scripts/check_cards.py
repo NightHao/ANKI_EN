@@ -71,7 +71,10 @@ def main() -> int:
         run('cards/tools/build_import.py')
         run('cards/tools/build_connection_coverage.py')
         run('cards/tools/build_connection_import.py', '--final')
+        run('scripts/build_semantic_index.py')
     run('cards/vocabulary/scripts/update_vocabulary.py', 'validate')
+    run('scripts/build_semantic_index.py', '--check')
+    run('scripts/test_semantic_index.py')
     check_patterns()
     check_change_record()
     for arguments in [

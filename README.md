@@ -7,10 +7,10 @@ teaching and correcting the learner's English. **Agents: read
 | Deck | Notes | What it teaches |
 | --- | ---: | --- |
 | `EN::Vocabulary` | 336 | Words and expressions, with meanings, examples, patterns, and contrast groups |
-| `EN::Patterns` | 330 | Reusable sentence frames for speaking and writing |
+| `EN::Patterns` | 334 | Reusable sentence frames for speaking and writing |
 | `EN::Connection Patterns` | 603 | Prepositions, complements, and linkers, in nine subdecks |
 
-Counts as of 2026-10-30; `python3 scripts/check_cards.py` prints the current ones.
+Counts as of 2026-11-01; `python3 scripts/check_cards.py` prints the current ones.
 
 ## How it works
 
@@ -40,10 +40,12 @@ cards/
   tools/                  pattern and connection builders
   anki_sync.json          note type, fields, and deck for each family
   anki_changes.json       this commit's renames and removals
+  semantic/               reviewed meaning groups and generated card lookup
 anki_addon/en_cards_sync/ the Anki add-on
 scripts/
   check_cards.py          all card checks (run before every push)
-  find_cards.py           search existing cards across all decks
+  find_cards.py           semantic owner lookup and literal search across decks
+  build_semantic_index.py rebuild/check the generated semantic index
   anki/                   planner used by the add-on, and its tests
 ```
 
@@ -54,6 +56,7 @@ Requires Python 3.10+ and git. The card tools use only the standard library.
 ```bash
 git clone https://github.com/NightHao/ANKI_EN.git && cd ANKI_EN
 python3 scripts/check_cards.py
+python3 scripts/find_cards.py "look up to" "the flip side"
 ```
 
 To update Anki from this computer, link the add-on and restart Anki:

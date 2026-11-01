@@ -25,7 +25,8 @@ jobs:
         run: |
           python scripts/check_cards.py --rebuild > /dev/null
           git diff --exit-code -- cards/vocabulary/exports cards/patterns/anki-import.tsv \
-            cards/connections/anki-import.tsv cards/connections/coverage.tsv
+            cards/connections/anki-import.tsv cards/connections/coverage.tsv \
+            cards/semantic/index.json
       - name: Anki sync planner tests
         run: |
           pip install anki==26.9.3
