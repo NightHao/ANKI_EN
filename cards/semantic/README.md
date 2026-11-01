@@ -12,6 +12,7 @@ The index is a retrieval aid, **not** an Anki deck or alternate canonical source
 
 ```
 python3 scripts/find_cards.py "look up to" "the flip side"
+python3 scripts/find_cards.py --meaning "respect admiration"
 python3 scripts/build_semantic_index.py --check
 python3 scripts/test_semantic_index.py
 ```
@@ -21,7 +22,9 @@ python3 scripts/test_semantic_index.py
 `related` shares a domain without claiming interchangeability.
 `contrast` is a decision that matters; `core` is the group's anchor.
 
-A semantic group is **not** a requirement to merge every member into one
+Meaning-search results are **candidates** ranked by lexical overlap with
+semantic descriptors. They are not embedding similarity, proof of coverage,
+or permission to merge cards. A semantic group is **not** a requirement to merge every member into one
 card. Read actual cards before deciding whether a new expression is covered,
 needs a Back addition, needs a grouped Front, or a new card. Editing a card
 requires user approval, and changing first fields requires the Anki change

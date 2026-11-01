@@ -36,6 +36,17 @@ class SemanticIndexTests(unittest.TestCase):
         self.assertEqual(found[0][0]["owner"]["key"],
                          "can't help + V-ing · find myself + V-ing")
 
+
+    def test_every_note_has_semantic_metadata(self):
+        for card in self.data["cards"]:
+            self.assertTrue(card["function"], card["key"])
+            self.assertTrue(card["meaning"], card["key"])
+        self.assertEqual(len(self.data["cards"]), 1273)
+
+    def test_meaning_search_finds_admiration_owner(self):
+        results = find_cards.meaning_candidates("respect admiration", self.data, 15)
+        self.assertTrue(any(c["key"] == "regard" for _score, c in results))
+
     def test_generated_index(self):
         self.assertEqual(semantic.OUTPUT.read_text(encoding="utf-8"),semantic.render())
 

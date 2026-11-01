@@ -57,6 +57,7 @@ Requires Python 3.10+ and git. The card tools use only the standard library.
 git clone https://github.com/NightHao/ANKI_EN.git && cd ANKI_EN
 python3 scripts/check_cards.py
 python3 scripts/find_cards.py "look up to" "the flip side"
+python3 scripts/find_cards.py --meaning "respect admiration"
 ```
 
 To update Anki from this computer, link the add-on and restart Anki:
