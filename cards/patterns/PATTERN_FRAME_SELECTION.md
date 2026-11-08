@@ -109,7 +109,7 @@ Do not add:
 
 ## Current reviewed selection
 
-The current selection contains 325 production frames. This inventory includes grouped overviews; the separate nine operation-based grammar cards bring the full source to 330 cards. The twelve conversation-glue frames, two topic-framing frames, and twenty-nine published-material gap frames were added at the learner’s request on 2026-10-21. Six personal production frames were approved and added on 2026-10-27. One further frame and seven expanded grouped Fronts, approved in an Oct 28–29 session whose source edits were not preserved, were reconciled from AnkiWeb on 2026-10-30.
+The current selection contains 326 production frames. This inventory includes grouped overviews; the separate nine operation-based grammar cards bring the full source to 335 cards. The twelve conversation-glue frames, two topic-framing frames, and twenty-nine published-material gap frames were added at the learner’s request on 2026-10-21. Six personal production frames were approved and added on 2026-10-27. One further frame and seven expanded grouped Fronts, approved in an Oct 28–29 session whose source edits were not preserved, were reconciled from AnkiWeb on 2026-10-30. Two further frames, two expanded grouped Fronts, seven revised Backs, and the merge of `It turns out (that) …` into the `lead to / result in / end up / turn out` vocabulary note, all made directly in Anki on 2026-11-02 to 2026-11-06, were reconciled from AnkiWeb on 2026-11-08.
 
 The learner explicitly authorized a complete consolidated replacement for review on 2026-10-20. The entries below identify that authored replacement, **not a claim that the learner has already accepted every new card**. The full Fronts and Backs are in [cards.md](cards.md). Historical P-identifiers and catalog IDs refer to the retired coverage catalog, which remains in git history ([former path](american_english_production_patterns_catalog.md).
 
@@ -129,9 +129,9 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Opinions, certainty, and evidence | `I realize/understand (that) + clause · I can see that + clause` | Local reference audit; see unit and chapter routes in coverage catalog |
 | Opinions, certainty, and evidence | `I am not sure whether/if + clause · I have no idea + wh-/whether-clause · I am not entirely convinced that + clause · I could be wrong, but + clause` | Catalog VIEW09, VIEW18; prior P143 |
 | Opinions, certainty, and evidence | `may/might/could + base verb · There is a chance/possibility that + clause · be likely/unlikely to + verb · be bound to + verb` | Catalog MODAL01, VIEW10; prior P012, P058 |
-| Opinions, certainty, and evidence | `There is evidence that + clause · The results/evidence suggest that + clause` | Catalog VIEW11; prior P011, P086, P087; boundaries revised in local reference audit |
+| Opinions, certainty, and evidence | `There is evidence that + clause · The results suggest/indicate/show/confirm that + clause` | Catalog VIEW11; prior P011, P086, P087; boundaries revised in local reference audit |
 | Opinions, certainty, and evidence | `According to + source, + clause` | Catalog VIEW11; prior P011, P086, P087; boundaries revised in local reference audit |
-| Opinions, certainty, and evidence | `usually/often/rarely/hardly ever + main verb · be + frequency adverb · every now and then · How often ...?` | Catalog ACTION22, AMOUNT04; prior P056, P070; boundaries revised in local reference audit |
+| Opinions, certainty, and evidence | `always/usually/often/sometimes/occasionally/rarely/hardly ever/never + main verb · be + frequency adverb · every now and then / from time to time · How often ...?` | Catalog ACTION22, AMOUNT04; prior P056, P070; boundaries revised in local reference audit |
 | Opinions, certainty, and evidence | `tend to + verb · In general/Generally/In most cases, + clause` | Catalog ACTION22, AMOUNT04; prior P056, P070; boundaries revised in local reference audit |
 | Reasons, results, purpose, and contrast | `The main reason + clause + is that + clause · One reason for + noun/V-ing + is that + clause` | Catalog CAUSE07; prior P005, P006 |
 | Reasons, results, purpose, and contrast | `because/since/as + clause · because of/due to + noun/V-ing` | Catalog CAUSE03; prior P007 |
@@ -239,6 +239,7 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Requests, cooperation, boundaries, and social interaction | `I am glad/relieved that + clause · I am glad/relieved to + verb` | Catalog FEEL01, FEEL04, FEEL07, FEEL08, FEEL17; boundaries revised in local reference audit |
 | Requests, cooperation, boundaries, and social interaction | `I am worried/concerned that + clause · I am worried/concerned about + noun/V-ing · It concerns me that + clause · My concern is that + clause` | Catalog FEEL01, FEEL04, FEEL07, FEEL08, FEEL17; boundaries revised in local reference audit |
 | Requests, cooperation, boundaries, and social interaction | `I feel + adjective + when + clause · It bothers me that/when + clause · I love it/hate it/can’t stand it when + clause` | Catalog FEEL01, FEEL04, FEEL07, FEEL08, FEEL17; boundaries revised in local reference audit |
+| Requests, cooperation, boundaries, and social interaction | `X is eating me up (inside) · X is weighing on me · X is getting to me` | Added in Anki 2026-11-04; reconciled from AnkiWeb 2026-11-08 |
 | Requests, cooperation, boundaries, and social interaction | `I can see why + clause · Do you want to talk about it? · I am sorry to hear that + clause` | Catalog FEEL12, FEEL14, FEEL15, VIEW16; boundaries revised in local reference audit |
 | Requests, cooperation, boundaries, and social interaction | `be comfortable/uncomfortable + V-ing · be comfortable/uncomfortable with + noun` | Catalog FEEL12, FEEL14, FEEL15, VIEW16; boundaries revised in local reference audit |
 | Requests, cooperation, boundaries, and social interaction | `It was great talking to you · I should get going · Let’s keep in touch` | Catalog SOCIAL18 |
@@ -260,6 +261,7 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Conversation, reflection, and evaluation | `Looking back, + clause · In retrospect/hindsight, + clause` | Approved learner chunks, consolidation reviewed 2026-11-01 |
 | Conversation, reflection, and evaluation | `can't help + V-ing · find myself + V-ing` | Approved learner chunks, consolidation reviewed 2026-11-01 |
 | Conversation, reflection, and evaluation | `have/has been meaning to + base verb` | Approved learner chunks, consolidation reviewed 2026-11-01 |
+| Conversation, reflection, and evaluation | `X applies to Y · The same goes for Y · X holds true for Y` | Added in Anki 2026-11-03; reconciled from AnkiWeb 2026-11-08 |
 | Work, problem solving, and professional explanations | `There is a risk of + V-ing` | prior P013 |
 | Comparison, degree, quantity, and change | `Compared with/to + noun, + clause · in terms of + aspect · be about the same · differ in + aspect · What makes X better than Y?` | Catalog CHOICE14, CHOICE15, CHOICE16; prior P052 |
 | Comparison, degree, quantity, and change | `much/far/slightly/a little + comparative + than · any/no + comparative` | Catalog AMOUNT09; prior P053; boundaries revised in local reference audit |
@@ -406,7 +408,6 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Topic framing and reference | `When it comes to + noun/V-ing, + clause · As for + noun, + clause · As far as + noun + is concerned, + clause` | Learner-requested topic-marker gap, 2026-10-21 |
 | Topic framing and reference | `regarding/concerning + noun · with/in regard to + noun · with respect to + noun · in the case of + noun` | Learner-requested topic-marker gap, 2026-10-21 |
 | Everyday spoken frames from published-material comparison | `By the way, + clause · Oh, before I forget, + clause · That reminds me, + clause` | Published-material gap comparison, 2026-10-21 |
-| Everyday spoken frames from published-material comparison | `It turns out (that) + clause · X turned out to be + adjective/noun · end up + V-ing / with + noun / in + place` | Published-material gap comparison, 2026-10-21 |
 | Everyday spoken frames from published-material comparison | `Not really · I’m not really into/not a big fan of + noun/V-ing · I’m more of a + noun + person · not … at all` | Published-material gap comparison, 2026-10-21 |
 | Everyday spoken frames from published-material comparison | `You did? / Do you? / Have you? · You did what? · Like what? · How so? · What makes you say that?` | Published-material gap comparison, 2026-10-21 |
 | Everyday spoken frames from published-material comparison | `No problem · No worries · Don’t worry about it · Anytime · Never mind` | Published-material gap comparison, 2026-10-21 |

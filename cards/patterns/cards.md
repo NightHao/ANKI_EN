@@ -142,10 +142,12 @@ Examples:
 
 Express uncertainty or qualified doubt. Whether/if introduces an unresolved yes-or-no question; I have no idea is stronger and more casual: you have no information at all. Not entirely convinced expresses doubt about a claim. I could be wrong acknowledges that your own judgment may be mistaken.
 
+Unconvinced means not persuaded. Use be/remain unconvinced by + evidence/explanation, or unconvinced that + clause. Not entirely convinced softens your doubt; unconvinced can sound firmer. Neither expression necessarily means you have proved the claim false.
+
 Examples:
 
 - I am not sure whether this plan includes dental coverage. / I am not sure if it includes dental coverage. / I have no idea why the build failed.
-- I am not entirely convinced that adding more meetings would help.
+- I am not entirely convinced that adding more meetings would help. / I remain unconvinced by that explanation.
 - I could be wrong, but I think we tested a different version.
 
 ## `may/might/could + base verb · There is a chance/possibility that + clause · be likely/unlikely to + verb · be bound to + verb`
@@ -162,14 +164,19 @@ Examples:
 - It is likely that we will need another reviewer.
 - Something is bound to go wrong on the first day, so plan some extra time.
 
-## `There is evidence that + clause · The results/evidence suggest that + clause`
+## `There is evidence that + clause · The results suggest/indicate/show/confirm that + clause`
 
-Distinguish evidence from the conclusion drawn from it. There is evidence that says support exists. Suggest presents an interpretation without claiming proof. Name the actual evidence when it matters.
+Report evidence and the conclusion drawn from it. There is evidence that says supporting information exists. Suggest presents an interpretation with room for uncertainty. Indicate says the evidence points to a conclusion and can overlap with suggest or show. Show presents a finding as revealed or demonstrated. Confirm presents a previously uncertain claim, suspicion, or finding as verified.
+
+Choose the verb according to what the evidence supports. These verbs do not form a fixed certainty scale. Name the actual evidence when it matters.
+
+With singular, uncountable evidence, use suggests/indicates/shows/confirms. With plural results, use suggest/indicate/show/confirm.
 
 Examples:
 
 - There is evidence that the new schedule has reduced staff turnover.
-- The results suggest that network latency is affecting response times.
+- The results suggest/indicate that network latency is affecting response times.
+- We suspected the cache was serving old data. The logs showed/confirmed that it was returning last week’s results.
 
 ## `According to + source, + clause`
 
@@ -180,18 +187,24 @@ Examples:
 - According to the latest report, bus ridership rose last year.
 - According to Maya, the revised estimate includes testing.
 
-## `usually/often/rarely/hardly ever + main verb · be + frequency adverb · every now and then · How often ...?`
+## `always/usually/often/sometimes/occasionally/rarely/hardly ever/never + main verb · be + frequency adverb · every now and then / from time to time · How often ...?`
 
 <!-- overview-card -->
 
-Describe how frequently something happens. These adverbs normally go before a main verb, after be, or after the first auxiliary. Hardly ever means almost never; every now and then means occasionally.
+Describe how frequently something happens: always = every time; usually = most of the time; often = frequently; sometimes/occasionally = on some occasions; rarely/hardly ever = very infrequently; never = not at any time. These expressions do not represent fixed percentages.
+
+Put a frequency adverb before an ordinary main verb, after be, or after the first auxiliary: I usually work remotely; she is often available; we have never missed a deadline.
+
+Occasionally, every now and then, and from time to time have similar meanings. All three can appear at the beginning or end of a clause. Occasionally can also take the usual position before a main verb.
 
 Examples:
 
-- I usually work from home, but I am rarely unavailable during office hours.
-- I hardly ever check work email on vacation, but every now and then I check for an urgent update.
+- I usually work from home, but I am occasionally in the office.
+- We often review difficult decisions together, and we always document the reasoning.
+- I sometimes attend networking events, but I rarely stay until the end.
+- I hardly ever check work email on vacation, and I never take work calls during family dinners.
+- Every now and then, I attend an industry meetup. / I attend industry meetups from time to time.
 - How often do you travel for work? — About once a month.
-- We often review difficult decisions together before responding to the client.
 
 ## `tend to + verb · In general/Generally/In most cases, + clause`
 
@@ -279,9 +292,11 @@ Examples:
 
 Explain purpose. A purpose infinitive normally shares its understood actor with the main action. So that lets you name a different actor. In order to makes purpose explicit; plain to is usually enough. A goal or design expresses an intention, not guaranteed success.
 
+In an effort to + base verb means to try to achieve something and emphasizes the attempt; it does not guarantee success. In diving in an effort to avoid boats, in belongs to in an effort to, not to dive in.
+
 Examples:
 
-- I muted notifications to concentrate. / I muted notifications in order to concentrate.
+- I muted notifications to concentrate. / I muted notifications in order to concentrate. / I muted notifications in an effort to concentrate.
 - I shared the recording so that colleagues in other time zones could watch it.
 - The goal of the trial is to identify confusing steps.
 - The interface is designed to make common tasks easier.
@@ -1039,12 +1054,16 @@ Examples:
 
 Prefer can express a general preference; would prefer/would rather often expresses a current choice. After would rather, use a base verb. Instead of takes a noun or -ing action. Rather than contrasts alternatives and works best when their shapes are parallel. These forms can express the same preference after restructuring.
 
+In preference to introduces the alternative not chosen: choose/use A in preference to B means choose A because you prefer it. This is formal; prefer A to B, choose A over B, or rather than are often more conversational. To is a preposition here, so an action after it takes V-ing.
+
 Examples:
 
 - I prefer working from home to commuting every day.
 - I would prefer to meet online. / I would rather meet online than drive across town.
 - We met online instead of driving across town.
 - We chose to repair the system rather than replace it.
+- We used reusable containers in preference to disposable ones.
+- They chose to repair the device in preference to replacing it.
 
 ## `like/love/hate + V-ing / to + verb · would like/love + to + verb`
 
@@ -1386,13 +1405,27 @@ Examples:
 
 ## `I feel + adjective + when + clause · It bothers me that/when + clause · I love it/hate it/can’t stand it when + clause`
 
-Describe how a situation affects you. I feel names your reaction. It bothers me expresses annoyance, distress, or worry. In I love it/hate it when, it points forward to the situation in the when-clause; can’t stand is stronger than hate in everyday speech. State the behavior or situation without assuming you know the other person’s intentions.
+Describe how a situation affects you. I feel names your reaction. It bothers me expresses annoyance, distress, or worry. In I love it/hate it when, it points forward to the situation in the when-clause. Can’t stand expresses strong dislike or intolerance. State the behavior or situation without assuming you know the other person’s intentions.
+
+Use have had enough of + noun/pronoun/V-ing when your tolerance has reached its limit. This often expresses frustration and suggests that you want the situation to stop.
 
 Examples:
 
 - I feel left out when decisions are made without me. / I love it when the whole team is involved in a decision.
-- It bothers me that nobody explained the change.
-- It bothers me when people interrupt before I have finished. / I can’t stand it when people interrupt before I’ve finished.
+- It bothers me that nobody explained the change. / It bothers me when people interrupt before I have finished.
+- I can’t stand it when people interrupt before I’ve finished. / I’ve had enough of being interrupted.
+
+## `X is eating me up (inside) · X is weighing on me · X is getting to me`
+
+Describe how a feeling, thought, responsibility, or situation affects you emotionally. Eating me up inside suggests deep, consuming distress; weighing on me suggests an emotional burden; getting to me means starting to upset or bother me. They overlap, but are not identical in intensity.
+
+X is the feeling or situation causing the reaction; me is the person affected. Change me to you/him/her/us/them as needed. Eat away at someone is a close alternative for a worry or feeling that keeps troubling them. Drive someone crazy expresses strong annoyance or frustration.
+
+Examples:
+
+- The guilt is eating me up inside. / What I said yesterday is eating away at me.
+- The uncertainty about my job is weighing on me.
+- The constant interruptions are getting to me. / These repeated delays are driving me crazy.
 
 ## `I can see why + clause · Do you want to talk about it? · I am sorry to hear that + clause`
 
@@ -2099,13 +2132,20 @@ Examples:
 
 ## `consider/find + object + adjective · regard/see/treat + object + as + adjective/noun`
 
-Express an evaluation or classification. The verb controls the complement: consider something risky, but regard it as risky. See as describes a perspective; treat as describes how you handle it. These can overlap, but their grammar is not interchangeable.
+<!-- overview-card -->
+
+Express an evaluation, classification, perspective, or finding. Consider expresses a judgment; deem expresses a similar judgment, often in formal or official contexts. Regard/see as describes a perspective; treat as describes how someone handles something. Find describes what someone discovers or experiences.
+
+Use consider/deem + object + (to be) + adjective/noun, but regard/see/treat + object + as + adjective/noun. In the passive, these become be considered/deemed (to be) … and be regarded/seen/treated as …. With find, common forms include find + object + adjective and find + object + to be + adjective/noun; the latter becomes be found to be ….
 
 Examples:
 
-- I consider the proposal risky. / I regard the proposal as risky.
-- I found the instructions confusing, but I see the examples as a useful starting point.
-- The clinic treated the case as urgent.
+- We consider the proposal risky. / The proposal is considered risky. / The proposal is considered to be risky.
+- The pilot is considered a success. / The pilot is considered to be a success.
+- The committee deemed the proposal impractical. / The proposal was deemed impractical. / The pilot was deemed to be a success.
+- I regard clear documentation as essential. / Clear documentation is regarded as essential. / She is widely regarded as an excellent engineer.
+- Users found the instructions confusing. / The instructions were found to be confusing. / The message was found to be a hoax.
+- I see the examples as a useful starting point. / The clinic treated the case as urgent.
 
 ## `make/keep + object + adjective`
 
@@ -2286,11 +2326,13 @@ Examples:
 
 ## `It is said/reported/believed/expected that + clause · subject + be said/reported/believed/expected + to-infinitive`
 
-Report a claim or expectation with less focus on the source. These passives suit reports and formal explanations. To have + past participle places the reported event earlier. A reporting passive attributes a claim; it does not guarantee truth.
+Report a claim or expectation with less focus on its source. These passives suit reports and formal explanations. A reporting passive attributes a claim; it does not guarantee truth.
+
+Use to be + adjective/noun to report a state or classification. Other verbs can follow to directly. Use to have + past participle when the reported event happened earlier.
 
 Examples:
 
-- It is believed that the policy reduces costs. / The policy is believed to reduce costs.
+- It is believed that the system is reliable. / The system is believed to be reliable. It is also believed to be a major improvement over the previous version.
 - It is expected that demand will rise. / Demand is expected to rise.
 - The supplier is reported to have missed several deadlines.
 
@@ -2542,6 +2584,8 @@ area or enclosure. **Located** is neutral; **situated** is slightly more
 formal. The point-surface-area model is useful, but English also has fixed
 location conventions.
 
+Be set amid + surroundings means be situated among or surrounded by them. Amid is descriptive and relatively formal. Set is the past participle of set; it stays set. A noun can be followed directly by the description: a cabin set amid pine trees = a cabin that is set amid pine trees. Surrounded by or among is often a conversational alternative.
+
 Examples:
 
 - The information booth is at the entrance, the map is on the wall, and the café is in the lobby.
@@ -2551,6 +2595,8 @@ Examples:
 - I worked at home while my supervisor was at work.
 - I reviewed the report on the bus, revised it on the train, and emailed it on the plane.
 - I left my umbrella in the car and remembered it while I was in a taxi.
+- The hotel is set amid rolling hills.
+- We stayed in a cabin set amid pine trees.
 
 ## `to the left/right of · next to/beside/right next to · adjacent to · between/among · across from/opposite · in front of/behind · above/below · over/under/beneath · on top of`
 
@@ -3800,16 +3846,6 @@ Examples:
 - Oh, before I forget, the client moved the call to Thursday.
 - A: I’m flying to Denver next week. B: That reminds me, I still need to book my flight home for Thanksgiving.
 
-## `It turns out (that) + clause · X turned out to be + adjective/noun · end up + V-ing / with + noun / in + place`
-
-Talk about how things developed. Turn out reports a fact or result that you discovered, often different from what you expected. End up describes where a process finally led, often without a plan. Both are common in stories and status updates.
-
-Examples:
-
-- It turns out the bug was in the configuration file, not the code. / The new hire turned out to be a great fit.
-- We ended up rewriting the whole module.
-- I meant to stay for one year, but I ended up in Seattle for five. / We ended up with more volunteers than we needed.
-
 ## `Not really · I’m not really into/not a big fan of + noun/V-ing · I’m more of a + noun + person · not … at all`
 
 Answer with the right strength. Not really is a soft no. Not really into and not a big fan of express mild dislike politely; I’m more of a ___ person names the preference you have instead. Not ... at all is strong: it emphasizes zero.
@@ -4190,3 +4226,16 @@ Examples:
 - I've been meaning to ask you about the new project.
 - She's been meaning to update her résumé for months.
 
+## `X applies to Y · The same goes for Y · X holds true for Y`
+
+Use these frames to extend a rule, instruction, or statement to another person or situation. Applies to says which cases a rule or instruction covers. The same goes for is a conversational way to extend the previous point. Holds true for says that a statement remains true in another case.
+
+The same means “the point I just made.” You can also say The same applies to…
+
+Here, the subject is the rule, instruction, or statement. Someone applies X to Y has a different meaning: someone uses X when dealing with Y.
+
+Examples:
+
+- This confidentiality rule applies to contractors. The same applies to temporary staff.
+- Keep vocabulary examples short and practical. The same goes for pattern examples.
+- Regular feedback helps new employees improve. The same holds true for experienced staff.

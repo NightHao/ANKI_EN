@@ -143,6 +143,16 @@
     },
     {
       "family": "vocabulary",
+      "key": "amphitheater",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "An open-air venue with rising rows of seats arranged around or partly around a central performance area.",
+      "related_terms": [
+        "open-air theater"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "anecdote / anecdotal",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -279,12 +289,34 @@
     },
     {
       "family": "vocabulary",
+      "key": "austere",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Very plain or simple, with little decoration, comfort, or luxury.; Severe and unfriendly in manner.",
+      "related_terms": [
+        "plain",
+        "spartan",
+        "stern"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "backwater",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
       "meaning": "A quiet part of a river where little or no water flows.; A place or field that is isolated and little influenced by new ideas or development.",
       "related_terms": [
         "isolated place"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "barn / silo",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A farm building used to house animals or store crops, feed, or equipment.; An enclosed structure used to store bulk materials such as grain or animal feed, often tall and cylindrical.; A team, department, or information system that operates separately and shares little with others.; To keep information, activities, or people separate from others.",
+      "related_terms": [
+        "isolate"
       ]
     },
     {
@@ -371,6 +403,16 @@
     },
     {
       "family": "vocabulary",
+      "key": "blockbuster",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "An exceptionally popular and commercially successful movie, book, or other product.",
+      "related_terms": [
+        "hit"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "bloodlust",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -425,6 +467,19 @@
     },
     {
       "family": "vocabulary",
+      "key": "buck",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Informal: a dollar.; A male deer or certain other male animals.; Resist or go against a trend, expectation, rule, or system.; For a horse or similar animal to jump with its back arched, often trying to throw off a rider.",
+      "related_terms": [
+        "dollar",
+        "male deer",
+        "defy",
+        "resist"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "build on top of",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -457,6 +512,14 @@
         "accept",
         "invest in"
       ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "calf",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A young cow, or the young of certain other large mammals, including dolphins, whales, and elephants.; The muscular back part of the lower leg.",
+      "related_terms": []
     },
     {
       "family": "vocabulary",
@@ -513,6 +576,23 @@
     },
     {
       "family": "vocabulary",
+      "key": "capture",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "To catch and hold a person or animal, or take control of a place or object.; To attract and hold someone’s interest, attention, or imagination.; To record an image, sound, event, or information so it can be stored or used.; To express or represent the character, mood, or essential features of something accurately.",
+      "related_terms": [
+        "catch",
+        "seize",
+        "engage",
+        "fascinate",
+        "record",
+        "convey",
+        "portray",
+        "gain"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "caramel",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -549,6 +629,17 @@
       "meaning": "Surprise someone when they are unprepared.",
       "related_terms": [
         "take someone by surprise"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "cavernous",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Extremely large and open inside, suggesting the space inside a cave.",
+      "related_terms": [
+        "vast",
+        "spacious"
       ]
     },
     {
@@ -627,6 +718,18 @@
       "related_terms": [
         "persistent",
         "long-term"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "clear up",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "To explain something so that confusion disappears, or resolve a problem.; For cloudy or rainy weather to become clear.; For an illness or skin problem to go away, or for something to make it go away.",
+      "related_terms": [
+        "clarify",
+        "resolve",
+        "go away"
       ]
     },
     {
@@ -951,12 +1054,14 @@
     },
     {
       "family": "vocabulary",
-      "key": "cynical",
+      "key": "cynical / distrustful",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
-      "meaning": "Distrustful of people’s sincerity, honesty, or motives.",
+      "meaning": "Distrustful of people’s sincerity, honesty, or motives.; Unwilling to trust someone or something.",
       "related_terms": [
-        "distrustful"
+        "distrustful",
+        "mistrustful",
+        "suspicious"
       ]
     },
     {
@@ -968,6 +1073,19 @@
       "related_terms": [
         "moist",
         "wet"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "dated / outdated",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Seeming old-fashioned or no longer suited to current styles, ideas, or needs.; No longer current or suitable because information, methods, technology, or expectations have changed.",
+      "related_terms": [
+        "old-fashioned",
+        "outdated",
+        "out-of-date",
+        "dated"
       ]
     },
     {
@@ -1051,6 +1169,16 @@
     },
     {
       "family": "vocabulary",
+      "key": "disastrous",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Extremely harmful or unsuccessful, often causing serious damage or problems.",
+      "related_terms": [
+        "catastrophic"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "discern",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -1096,6 +1224,39 @@
         "force out",
         "replace",
         "move"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "distort",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Represent facts, ideas, or a situation inaccurately or misleadingly.; Change a shape, image, or sound so that it differs from its original or normal form.",
+      "related_terms": [
+        "misrepresent",
+        "warp",
+        "deform"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "distress",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Serious unhappiness, worry, or suffering.; A state of danger or serious difficulty requiring help.; To make someone very upset or worried.",
+      "related_terms": [
+        "anguish",
+        "upset"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "diverse",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Including many different types of people or things, or differing substantially from one another.",
+      "related_terms": [
+        "varied"
       ]
     },
     {
@@ -1163,6 +1324,18 @@
     },
     {
       "family": "vocabulary",
+      "key": "ease up",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "To become less intense, severe, or demanding.; To reduce your effort or put less pressure on someone.",
+      "related_terms": [
+        "ease off",
+        "let up",
+        "go easy on someone"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "empirical",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -1170,6 +1343,16 @@
       "related_terms": [
         "evidence-based",
         "observational"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "enclave",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "An area or community surrounded by a larger area but having a distinct identity or character.",
+      "related_terms": [
+        "pocket"
       ]
     },
     {
@@ -1439,6 +1622,29 @@
     },
     {
       "family": "vocabulary",
+      "key": "forage",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Search for food, especially in a natural environment.",
+      "related_terms": [
+        "search for food",
+        "scavenge"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "frustration",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Annoyance or disappointment because something blocks your progress or prevents you from getting what you want.; Something that repeatedly causes this feeling.",
+      "related_terms": [
+        "exasperation",
+        "annoyance",
+        "irritation"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "gargle",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -1574,6 +1780,16 @@
     },
     {
       "family": "vocabulary",
+      "key": "guilt",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "The painful feeling that you have done something wrong or failed someone.; Responsibility for doing something wrong, especially committing a crime.",
+      "related_terms": [
+        "remorse"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "handicap",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -1630,14 +1846,16 @@
     },
     {
       "family": "vocabulary",
-      "key": "hazy",
+      "key": "hazy / opaque",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
-      "meaning": "Unclear or difficult to remember or understand.; Not clear to see through because of mist, smoke, or similar particles.",
+      "meaning": "Unclear or difficult to remember or understand.; Not clear to see through because of mist, smoke, or similar particles.; Not transparent; preventing you from seeing through it.; Difficult to understand or lacking clarity about how something works.",
       "related_terms": [
         "vague",
         "unclear",
-        "misty"
+        "misty",
+        "nontransparent",
+        "obscure"
       ]
     },
     {
@@ -1689,6 +1907,17 @@
     },
     {
       "family": "vocabulary",
+      "key": "hut / log cabin",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A small, simply constructed building used for shelter or another practical purpose.; A small house built from logs.",
+      "related_terms": [
+        "shack",
+        "cabin"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "hydrophobic",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -1713,6 +1942,17 @@
       "meaning": "If something is required or someone needs it.",
       "related_terms": [
         "if necessary"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "immerse",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Become deeply involved in an activity, subject, or environment; usually immerse yourself in something.; Put someone or something completely into a liquid.",
+      "related_terms": [
+        "engross",
+        "submerge"
       ]
     },
     {
@@ -1769,24 +2009,40 @@
     },
     {
       "family": "vocabulary",
-      "key": "indifferent",
+      "key": "incredulous",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
-      "meaning": "Not interested in or concerned about someone or something.; Having no preference between different choices.",
+      "meaning": "Unable or unwilling to believe something, often because it is surprising or shocking.",
       "related_terms": [
-        "unconcerned",
-        "apathetic"
+        "disbelieving",
+        "skeptical"
       ]
     },
     {
       "family": "vocabulary",
-      "key": "inferior",
+      "key": "indifferent / nonchalant",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
-      "meaning": "Lower in quality, ability, importance, or value than someone or something else.; A person considered lower in rank or status.",
+      "meaning": "Not interested in or concerned about someone or something.; Having no preference between different choices.; Behaving or appearing calm and casual, often suggesting little interest, concern, or worry.",
+      "related_terms": [
+        "unconcerned",
+        "apathetic",
+        "casual"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "inferior / subordinate",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Lower in quality, ability, importance, or value than someone or something else.; A person considered lower in rank or status.; Lower in rank, authority, or importance than someone or something else.; A person with a lower position in an organization than another person.",
       "related_terms": [
         "worse",
-        "substandard"
+        "substandard",
+        "secondary",
+        "junior",
+        "direct report",
+        "put second to"
       ]
     },
     {
@@ -1844,12 +2100,35 @@
     },
     {
       "family": "vocabulary",
+      "key": "jealousy",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Unhappiness or resentment because someone has something you want.; Fear or resentment that someone you care about may prefer another person.",
+      "related_terms": [
+        "envy"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "just yet",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
       "meaning": "At this particular time; used with negatives to suggest that something may happen later.",
       "related_terms": [
         "yet"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "juvenile",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Young or not yet fully grown; also relating to people who are not yet legally adults.; Childish or immature in a way the speaker disapproves of.; A young person who is not yet legally an adult, especially in a legal context.",
+      "related_terms": [
+        "young",
+        "childish",
+        "immature",
+        "minor"
       ]
     },
     {
@@ -1879,6 +2158,23 @@
       "function": "vocabulary",
       "meaning": "A round part that you turn to operate a device or open a door.",
       "related_terms": []
+    },
+    {
+      "family": "vocabulary",
+      "key": "lead to / result in / end up / turn out",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "To cause something to happen or develop.; For a road, path, or entrance to provide a route to a place.; To cause a particular outcome.; To reach a final situation after a process or series of events, often unexpectedly or unintentionally.",
+      "related_terms": [
+        "result in",
+        "bring about",
+        "go to",
+        "lead to",
+        "cause",
+        "wind up",
+        "work out",
+        "prove to be"
+      ]
     },
     {
       "family": "vocabulary",
@@ -1920,6 +2216,39 @@
         "use",
         "influence",
         "bargaining power"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "lid",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A cover that closes the top of a container, pot, jar, or box.",
+      "related_terms": [
+        "cover",
+        "cap"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "locust",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A grasshopper-like insect that can form large swarms and damage crops.; A name for certain pod-bearing trees, especially black locust and honey locust.",
+      "related_terms": [
+        "grasshopper"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "loft",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A large open apartment or living space, often in a converted industrial building.; A space directly under a roof, often used for storage.; A raised, often open platform or partial upper level within a room or building.",
+      "related_terms": [
+        "loft apartment",
+        "attic",
+        "mezzanine"
       ]
     },
     {
@@ -1996,6 +2325,17 @@
     },
     {
       "family": "vocabulary",
+      "key": "map out",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Plan something carefully, often by identifying its stages, details, or structure.",
+      "related_terms": [
+        "plan out",
+        "outline"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "margin",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -2039,6 +2379,14 @@
         "average",
         "second-rate"
       ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "meerkat",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A small mammal in the mongoose family that lives in social groups in southern Africa and often stands upright to watch for danger.",
+      "related_terms": []
     },
     {
       "family": "vocabulary",
@@ -2104,6 +2452,16 @@
     },
     {
       "family": "vocabulary",
+      "key": "modernist",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Relating to modernism, a movement that broke with traditional forms in art, literature, or architecture.; An artist, writer, designer, or other person associated with modernism.",
+      "related_terms": [
+        "modern"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "modest / humble",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -2123,6 +2481,17 @@
       "related_terms": [
         "sovereign",
         "ruler"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "monotonous",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Boring because there is too little change or variety.",
+      "related_terms": [
+        "tedious",
+        "repetitive"
       ]
     },
     {
@@ -2170,6 +2539,17 @@
     },
     {
       "family": "vocabulary",
+      "key": "noteworthy",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Important, interesting, or unusual enough to deserve attention.",
+      "related_terms": [
+        "notable",
+        "remarkable"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "notice / find out",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -2198,6 +2578,16 @@
       "meaning": "From memory, without checking or preparing.",
       "related_terms": [
         "from memory"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "oil rig",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A large structure with equipment used to drill for oil on land or at sea.",
+      "related_terms": [
+        "drilling rig"
       ]
     },
     {
@@ -2286,6 +2676,17 @@
     },
     {
       "family": "vocabulary",
+      "key": "overhear / eavesdrop",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Hear speech not intended for you, often by chance or without the speakers knowing.; Deliberately listen to someone’s private conversation without their knowledge.",
+      "related_terms": [
+        "hear by chance",
+        "listen in"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "overwhelmed",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -2306,6 +2707,14 @@
         "placate",
         "subdue"
       ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "pagoda",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A religious tower in parts of Asia, often with several levels and projecting roofs.",
+      "related_terms": []
     },
     {
       "family": "vocabulary",
@@ -2521,6 +2930,19 @@
     },
     {
       "family": "vocabulary",
+      "key": "prominent",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Important, influential, or well known within a particular field or group.; Easy to see or notice, sometimes because it projects beyond a surrounding surface.",
+      "related_terms": [
+        "leading",
+        "well-known",
+        "noticeable",
+        "conspicuous"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "proportional",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -2539,6 +2961,16 @@
       "meaning": "A state or territory under a stronger power’s protection and influence, typically with some internal self-government.",
       "related_terms": [
         "dependent territory"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "pub",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A place serving alcoholic drinks and often food, especially a traditional British or Irish establishment.",
+      "related_terms": [
+        "bar"
       ]
     },
     {
@@ -2571,6 +3003,17 @@
         "idiosyncrasy",
         "peculiarity",
         "anomaly"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "racial",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Relating to race or relationships between racial groups.",
+      "related_terms": [
+        "race-related",
+        "ethnic"
       ]
     },
     {
@@ -2627,6 +3070,19 @@
     },
     {
       "family": "vocabulary",
+      "key": "rendition",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A particular performance or interpretation of a song, piece of music, poem, or other work.; A particular version, representation, or translation of a work or account.",
+      "related_terms": [
+        "performance",
+        "interpretation",
+        "version",
+        "translation"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "repellent",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -2635,6 +3091,14 @@
         "resistant",
         "disgusting"
       ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "reproductive",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Related to producing offspring or new organisms, or capable of doing so.",
+      "related_terms": []
     },
     {
       "family": "vocabulary",
@@ -2681,6 +3145,19 @@
       "meaning": "Think again about an idea or plan, often to change it.",
       "related_terms": [
         "reconsider"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "revel",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "To take great pleasure in a situation or activity.; To celebrate noisily or with great enjoyment.; A lively celebration or party, often used in the plural.",
+      "related_terms": [
+        "delight in",
+        "enjoy",
+        "celebrate",
+        "festivities"
       ]
     },
     {
@@ -2745,6 +3222,16 @@
     },
     {
       "family": "vocabulary",
+      "key": "roost",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A place where birds rest or sleep.; For birds to settle somewhere to rest or sleep.",
+      "related_terms": [
+        "perch"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "ruffian",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -2752,6 +3239,19 @@
       "related_terms": [
         "thug",
         "hooligan"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "ruminate",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "To think about something carefully for a long time, often returning to the same thoughts or worries.; For animals such as cows or sheep to bring swallowed food back to the mouth and chew it again.",
+      "related_terms": [
+        "ponder",
+        "mull over",
+        "dwell on",
+        "chew the cud"
       ]
     },
     {
@@ -2853,12 +3353,14 @@
     },
     {
       "family": "vocabulary",
-      "key": "scrape by",
+      "key": "scrape by / stay afloat",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
-      "meaning": "Manage to live or continue with barely enough money or resources.",
+      "meaning": "Manage to live or continue with barely enough money or resources.; Continue operating or surviving financially instead of failing.; Remain floating on the surface of water.",
       "related_terms": [
-        "get by"
+        "get by",
+        "survive",
+        "remain floating"
       ]
     },
     {
@@ -2950,12 +3452,15 @@
     },
     {
       "family": "vocabulary",
-      "key": "skeptical",
+      "key": "skeptical / doubtful / dubious",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
-      "meaning": "Having doubts about whether a claim or idea is true or convincing.",
+      "meaning": "Having doubts about whether a claim or idea is true or convincing.; Uncertain or lacking confidence about something.; Unlikely to happen or be true.; Unsure whether something is true, sensible, or reliable.",
       "related_terms": [
-        "doubtful"
+        "doubtful",
+        "uncertain",
+        "unlikely",
+        "questionable"
       ]
     },
     {
@@ -3020,6 +3525,19 @@
       "meaning": "The bottom surface of a foot or shoe.; Being the only one or the only thing of a particular kind.",
       "related_terms": [
         "only"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "sophisticated",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Highly developed or carefully designed, often involving advanced skills, ideas, or technology.; Having experience, cultural knowledge, or refined taste; also describing an elegant or refined style.",
+      "related_terms": [
+        "advanced",
+        "complex",
+        "refined",
+        "worldly"
       ]
     },
     {
@@ -3089,6 +3607,16 @@
     },
     {
       "family": "vocabulary",
+      "key": "stately home",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A large, impressive country house, especially a historically important one in Britain.",
+      "related_terms": [
+        "country mansion"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "stave off / prevent",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -3140,6 +3668,16 @@
     },
     {
       "family": "vocabulary",
+      "key": "straw / hay",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "The dry stalks left after grain crops have been harvested, commonly used for animal bedding or mulch.; A thin tube used for drinking.; Grass or other suitable plants cut and dried for animal feed.",
+      "related_terms": [
+        "drinking straw"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "streamline",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -3184,6 +3722,19 @@
     },
     {
       "family": "vocabulary",
+      "key": "sufficient / adequate",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Enough to meet a particular need, requirement, or purpose.; Enough, or satisfactory in quality or suitability, for a particular purpose.",
+      "related_terms": [
+        "enough",
+        "adequate",
+        "sufficient",
+        "satisfactory"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "surge",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -3218,6 +3769,17 @@
         "prohibition",
         "off-limits",
         "forbidden"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "tailwind / headwind",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Wind blowing from behind, in your direction of travel.; A factor or condition that supports progress or success.; Wind blowing against your direction of travel.; A factor or condition that makes progress or success harder.",
+      "related_terms": [
+        "boost",
+        "obstacle"
       ]
     },
     {
@@ -3347,6 +3909,20 @@
     },
     {
       "family": "vocabulary",
+      "key": "thermal",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Related to heat, heat transfer, or changes in temperature.; Designed to retain body heat and keep someone warm, especially for clothing or blankets.; Naturally warm or hot, especially for water heated within the earth.; A rising current of warm air that birds and gliders can use to gain height.",
+      "related_terms": [
+        "heat-related",
+        "insulating",
+        "naturally hot",
+        "updraft",
+        "thermal underwear"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "thermometer",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -3424,22 +4000,6 @@
     },
     {
       "family": "vocabulary",
-      "key": "turn out / end up",
-      "deck": "EN::Vocabulary",
-      "function": "vocabulary",
-      "meaning": "To happen or develop in a particular way, often with an unexpected result.; To be finally discovered or proved to have a particular identity or quality.; To attend an event or appear somewhere, especially as part of a group.; To produce or make something, especially regularly or in large quantities.",
-      "related_terms": [
-        "prove to be",
-        "show up",
-        "be revealed as",
-        "attend",
-        "produce",
-        "manufacture",
-        "wind up"
-      ]
-    },
-    {
-      "family": "vocabulary",
       "key": "turnout",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -3474,6 +4034,17 @@
     },
     {
       "family": "vocabulary",
+      "key": "uniformity",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "The state of being the same or consistent in appearance, form, or standards.",
+      "related_terms": [
+        "consistency",
+        "sameness"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "unilateral",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -3481,6 +4052,17 @@
       "related_terms": [
         "one-sided",
         "independent"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "unspoiled",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Still naturally attractive because people have not damaged or heavily developed it.",
+      "related_terms": [
+        "pristine",
+        "untouched"
       ]
     },
     {
@@ -3571,13 +4153,29 @@
     },
     {
       "family": "vocabulary",
-      "key": "wary",
+      "key": "wake",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
-      "meaning": "Careful because you suspect that something may be dangerous, unreliable, or likely to cause problems.",
+      "meaning": "To stop sleeping, or make someone stop sleeping.; In wake up to, to become aware of an important fact, problem, or opportunity.; The trail of disturbed water left behind a moving boat or ship; also a disturbed flow behind a moving object.; A gathering before or around a funeral at which people remember someone who has died, sometimes with a viewing of the body.",
+      "related_terms": [
+        "wake up",
+        "awaken",
+        "recognize",
+        "become aware of",
+        "following"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "wary / suspicious",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Careful because you suspect that something may be dangerous, unreliable, or likely to cause problems.; Feeling that someone or something may be dishonest, wrong, or untrustworthy.; Causing people to suspect that something is wrong.",
       "related_terms": [
         "cautious",
-        "suspicious"
+        "suspicious",
+        "distrustful",
+        "questionable"
       ]
     },
     {
@@ -3652,6 +4250,16 @@
       "meaning": "To twist or move the body repeatedly, especially because of pain or distress.",
       "related_terms": [
         "squirm"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "yurt",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A round tent with a supporting framework, traditionally used as a portable home in parts of Central Asia.",
+      "related_terms": [
+        "tent"
       ]
     },
     {
@@ -3754,10 +4362,10 @@
     },
     {
       "family": "patterns",
-      "key": "There is evidence that + clause · The results/evidence suggest that + clause",
+      "key": "There is evidence that + clause · The results suggest/indicate/show/confirm that + clause",
       "deck": "EN::Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Distinguish evidence from the conclusion drawn from it. There is evidence that says support exists. Suggest presents an interpretation without claiming proof. Name the actual evidence when it matters."
+      "meaning": "Report evidence and the conclusion drawn from it. There is evidence that says supporting information exists. Suggest presents an interpretation with room for uncertainty. Indicate says the evidence points to a conclusion and can overlap with suggest or show. Show presents a finding as revealed or demonstrated. Confirm presents a previously uncertain claim, suspicion, or finding as verified."
     },
     {
       "family": "patterns",
@@ -3768,10 +4376,10 @@
     },
     {
       "family": "patterns",
-      "key": "usually/often/rarely/hardly ever + main verb · be + frequency adverb · every now and then · How often ...?",
+      "key": "always/usually/often/sometimes/occasionally/rarely/hardly ever/never + main verb · be + frequency adverb · every now and then / from time to time · How often ...?",
       "deck": "EN::Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Describe how frequently something happens. These adverbs normally go before a main verb, after be, or after the first auxiliary. Hardly ever means almost never; every now and then means occasionally."
+      "meaning": "Describe how frequently something happens: always = every time; usually = most of the time; often = frequently; sometimes/occasionally = on some occasions; rarely/hardly ever = very infrequently; never = not at any time. These expressions do not represent fixed percentages."
     },
     {
       "family": "patterns",
@@ -4520,7 +5128,14 @@
       "key": "I feel + adjective + when + clause · It bothers me that/when + clause · I love it/hate it/can’t stand it when + clause",
       "deck": "EN::Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Describe how a situation affects you. I feel names your reaction. It bothers me expresses annoyance, distress, or worry. In I love it/hate it when, it points forward to the situation in the when-clause; can’t stand is stronger than hate in everyday speech. State the behavior or situation without assuming you know the other person’s intentions."
+      "meaning": "Describe how a situation affects you. I feel names your reaction. It bothers me expresses annoyance, distress, or worry. In I love it/hate it when, it points forward to the situation in the when-clause. Can’t stand expresses strong dislike or intolerance. State the behavior or situation without assuming you know the other person’s intentions."
+    },
+    {
+      "family": "patterns",
+      "key": "X is eating me up (inside) · X is weighing on me · X is getting to me",
+      "deck": "EN::Patterns",
+      "function": "Requests, cooperation, boundaries, and social interaction",
+      "meaning": "Describe how a feeling, thought, responsibility, or situation affects you emotionally. Eating me up inside suggests deep, consuming distress; weighing on me suggests an emotional burden; getting to me means starting to upset or bother me. They overlap, but are not identical in intensity."
     },
     {
       "family": "patterns",
@@ -5017,7 +5632,7 @@
       "key": "consider/find + object + adjective · regard/see/treat + object + as + adjective/noun",
       "deck": "EN::Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Express an evaluation or classification. The verb controls the complement: consider something risky, but regard it as risky. See as describes a perspective; treat as describes how you handle it. These can overlap, but their grammar is not interchangeable."
+      "meaning": "Express an evaluation, classification, perspective, or finding. Consider expresses a judgment; deem expresses a similar judgment, often in formal or official contexts. Regard/see as describes a perspective; treat as describes how someone handles something. Find describes what someone discovers or experiences."
     },
     {
       "family": "patterns",
@@ -5136,7 +5751,7 @@
       "key": "It is said/reported/believed/expected that + clause · subject + be said/reported/believed/expected + to-infinitive",
       "deck": "EN::Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Report a claim or expectation with less focus on the source. These passives suit reports and formal explanations. To have + past participle places the reported event earlier. A reporting passive attributes a claim; it does not guarantee truth."
+      "meaning": "Report a claim or expectation with less focus on its source. These passives suit reports and formal explanations. A reporting passive attributes a claim; it does not guarantee truth."
     },
     {
       "family": "patterns",
@@ -5721,13 +6336,6 @@
     },
     {
       "family": "patterns",
-      "key": "It turns out (that) + clause · X turned out to be + adjective/noun · end up + V-ing / with + noun / in + place",
-      "deck": "EN::Patterns",
-      "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Talk about how things developed. Turn out reports a fact or result that you discovered, often different from what you expected. End up describes where a process finally led, often without a plan. Both are common in stories and status updates."
-    },
-    {
-      "family": "patterns",
       "key": "Not really · I’m not really into/not a big fan of + noun/V-ing · I’m more of a + noun + person · not … at all",
       "deck": "EN::Patterns",
       "function": "Everyday spoken frames from published-material comparison",
@@ -5991,6 +6599,13 @@
       "deck": "EN::Patterns",
       "function": "Conversation, reflection, and evaluation",
       "meaning": "Describe something you have intended to do for some time but have not done yet. Often used for delayed plans, unfinished goals, or something you meant to ask someone."
+    },
+    {
+      "family": "patterns",
+      "key": "X applies to Y · The same goes for Y · X holds true for Y",
+      "deck": "EN::Patterns",
+      "function": "Conversation, reflection, and evaluation",
+      "meaning": "Use these frames to extend a rule, instruction, or statement to another person or situation. Applies to says which cases a rule or instruction covers. The same goes for is a conversational way to extend the previous point. Holds true for says that a statement remains true in another case."
     },
     {
       "family": "connections",
@@ -12265,8 +12880,8 @@
       "id": "outcome_discovery",
       "function": "Explain an outcome or discovery",
       "owner": {
-        "family": "patterns",
-        "key": "It turns out (that) + clause · X turned out to be + adjective/noun · end up + V-ing / with + noun / in + place"
+        "family": "vocabulary",
+        "key": "lead to / result in / end up / turn out"
       },
       "expressions": [
         {

@@ -242,8 +242,8 @@
       "id": "outcome_discovery",
       "function": "Explain an outcome or discovery",
       "owner": {
-        "family": "patterns",
-        "key": "It turns out (that) + clause · X turned out to be + adjective/noun · end up + V-ing / with + noun / in + place"
+        "family": "vocabulary",
+        "key": "lead to / result in / end up / turn out"
       },
       "expressions": [
         {

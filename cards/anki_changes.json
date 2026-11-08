@@ -1,17 +1,71 @@
 {
   "renames": [
     {
+      "family": "vocabulary",
+      "from": "cynical",
+      "to": "cynical / distrustful",
+      "reason": "grouped in Anki on 2026-10-27–11-02 (same note, review history kept); reconciled from AnkiWeb"
+    },
+    {
+      "family": "vocabulary",
+      "from": "hazy",
+      "to": "hazy / opaque",
+      "reason": "grouped in Anki on 2026-10-27–11-02 (same note, review history kept); reconciled from AnkiWeb"
+    },
+    {
+      "family": "vocabulary",
+      "from": "indifferent",
+      "to": "indifferent / nonchalant",
+      "reason": "grouped in Anki on 2026-10-27–11-02 (same note, review history kept); reconciled from AnkiWeb"
+    },
+    {
+      "family": "vocabulary",
+      "from": "inferior",
+      "to": "inferior / subordinate",
+      "reason": "grouped in Anki on 2026-10-27–11-02 (same note, review history kept); reconciled from AnkiWeb"
+    },
+    {
+      "family": "vocabulary",
+      "from": "scrape by",
+      "to": "scrape by / stay afloat",
+      "reason": "grouped in Anki on 2026-10-27–11-02 (same note, review history kept); reconciled from AnkiWeb"
+    },
+    {
+      "family": "vocabulary",
+      "from": "skeptical",
+      "to": "skeptical / doubtful / dubious",
+      "reason": "grouped in Anki on 2026-10-27–11-02 (same note, review history kept); reconciled from AnkiWeb"
+    },
+    {
+      "family": "vocabulary",
+      "from": "wary",
+      "to": "wary / suspicious",
+      "reason": "grouped in Anki on 2026-10-27–11-02 (same note, review history kept); reconciled from AnkiWeb"
+    },
+    {
+      "family": "vocabulary",
+      "from": "turn out / end up",
+      "to": "lead to / result in / end up / turn out",
+      "reason": "grouped in Anki on 2026-10-27–11-02 (same note, review history kept); reconciled from AnkiWeb"
+    },
+    {
       "family": "patterns",
-      "from": "clause, whereas/while + clause · On the one hand, + clause; on the other hand, + clause",
-      "to": "clause, whereas/while + clause · On the one hand, + clause; on the other hand, + clause · One advantage/disadvantage of + noun/V-ing + is that + clause",
-      "reason": "Consolidate contrast, benefits, and trade-offs on one production card"
+      "from": "There is evidence that + clause · The results/evidence suggest that + clause",
+      "to": "There is evidence that + clause · The results suggest/indicate/show/confirm that + clause",
+      "reason": "Front expanded in Anki; reconciled from AnkiWeb"
+    },
+    {
+      "family": "patterns",
+      "from": "usually/often/rarely/hardly ever + main verb · be + frequency adverb · every now and then · How often ...?",
+      "to": "always/usually/often/sometimes/occasionally/rarely/hardly ever/never + main verb · be + frequency adverb · every now and then / from time to time · How often ...?",
+      "reason": "Front expanded in Anki; reconciled from AnkiWeb"
     }
   ],
   "removals": [
     {
       "family": "patterns",
-      "key": "One advantage/disadvantage of + noun/V-ing + is that + clause · The downside is that + clause · X comes at the cost of Y",
-      "reason": "Merged into combined contrast and trade-offs production card"
+      "key": "It turns out (that) + clause · X turned out to be + adjective/noun · end up + V-ing / with + noun / in + place",
+      "reason": "merged in Anki into vocabulary note lead to / result in / end up / turn out; reconciled from AnkiWeb"
     }
   ]
 }
