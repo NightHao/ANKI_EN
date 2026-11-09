@@ -615,15 +615,15 @@ Examples:
 - I have just started learning to drive. / I just started learning to drive.
 - Has your English improved? — Ask about the result by now.
 
-## `have/has + noun · have/has got + noun`
+## `have/has + noun · have + object + state/condition`
 
-Describe possession, relationships, or current conditions. Have got is conversational; plain have and do you have are versatile everyday AmE choices. For activities, use ordinary have, which can be continuous. For past possession, use had, not have got.
+Use main-verb have to describe possession, relationships, availability, and current conditions. Have got is conversational; plain have and do you have are versatile in American English. When an object is followed by a state/condition, the final phrase describes the object: left means remaining, ready means prepared, and on silent names a setting. For activities, have can be continuous; for past possession, use had, not have got. Do not confuse this with auxiliary have + past participle or causative have + person + base verb.
 
 Examples:
 
-- I have a spare charger. / I have got a spare charger.
+- I have a spare charger. / I've got a spare charger. / We're having lunch now.
 - Do you have any allergies? — No, I do not. / I had a food allergy as a child.
-- We are having lunch now. — An activity, not possession.
+- We have three exercises left. / I have the documents ready, and she has her phone on silent.
 
 ## `have/has + past participle · have/has been + V-ing · for + duration · since + starting point`
 
