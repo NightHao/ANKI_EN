@@ -301,6 +301,17 @@
     },
     {
       "family": "vocabulary",
+      "key": "backfire",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "For a plan or action to unexpectedly produce a harmful result, often the opposite of what was intended.",
+      "related_terms": [
+        "have the opposite effect",
+        "go wrong"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "backwater",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -805,6 +816,17 @@
       "related_terms": [
         "self-satisfied",
         "overconfident"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "compost",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Decayed plant and food material added to soil to help plants grow.; To let organic material decompose so it can become compost.",
+      "related_terms": [
+        "soil amendment",
+        "decompose"
       ]
     },
     {
@@ -1633,6 +1655,17 @@
     },
     {
       "family": "vocabulary",
+      "key": "fortnight / fortnightly",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A period of two weeks.; Happening every two weeks.",
+      "related_terms": [
+        "two weeks",
+        "every two weeks"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "frustration",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -1846,6 +1879,17 @@
     },
     {
       "family": "vocabulary",
+      "key": "hazard",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Something that could cause injury, damage, or other harm.",
+      "related_terms": [
+        "danger",
+        "risk"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "hazy / opaque",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -1892,6 +1936,17 @@
         "prank",
         "deceive",
         "trick"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "hospitality",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Friendly and generous treatment of guests.; The business sector providing lodging, meals, and services to guests.",
+      "related_terms": [
+        "warm welcome",
+        "hotel and restaurant industry"
       ]
     },
     {
@@ -2873,6 +2928,18 @@
     },
     {
       "family": "vocabulary",
+      "key": "premise / premises",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A statement or assumption used as a starting point for reasoning.; The basic idea or situation of a story.; Buildings and land used by a business or institution.",
+      "related_terms": [
+        "assumption",
+        "property",
+        "site"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "preservative",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -3053,6 +3120,17 @@
       "meaning": "Think again about a decision, opinion, or possible action.",
       "related_terms": [
         "rethink"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "redundancy",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "In British English, loss of a job because the position is no longer needed.; Unnecessary repetition or duplication.; Additional components or copies designed to keep a system working if one fails.",
+      "related_terms": [
+        "layoff",
+        "duplication"
       ]
     },
     {
@@ -3423,6 +3501,18 @@
     },
     {
       "family": "vocabulary",
+      "key": "shift",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A scheduled period of work.; A change in position, attitude, or approach.; To move or change something, or change direction or focus.",
+      "related_terms": [
+        "work period",
+        "change",
+        "move"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "showerhead",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -3596,6 +3686,17 @@
     },
     {
       "family": "vocabulary",
+      "key": "staple / stapler",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A small bent metal fastener that holds papers together.; Something basic and regularly used, especially a food or product.; To attach papers or materials using staples.; A device that drives staples through paper.",
+      "related_terms": [
+        "fastener",
+        "essential item"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "startle",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -3731,6 +3832,18 @@
         "adequate",
         "sufficient",
         "satisfactory"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "suite",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A set of connected hotel rooms or offices used together.; A group of related software products, tools, or tests.",
+      "related_terms": [
+        "set of rooms",
+        "collection",
+        "bundle"
       ]
     },
     {
@@ -3968,6 +4081,16 @@
     },
     {
       "family": "vocabulary",
+      "key": "tonne",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A metric unit of mass equal to exactly 1,000 kilograms, commonly written tonne in British and international English.",
+      "related_terms": [
+        "metric ton"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "topping",
       "deck": "EN::Vocabulary",
       "function": "vocabulary",
@@ -3981,6 +4104,28 @@
       "function": "vocabulary",
       "meaning": "Small ring-shaped pasta parcels with a filling.",
       "related_terms": []
+    },
+    {
+      "family": "vocabulary",
+      "key": "tractor",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A powerful vehicle used for pulling farm equipment.; The powered front part of a tractor-trailer truck.",
+      "related_terms": [
+        "farm vehicle",
+        "truck tractor"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "trailer",
+      "deck": "EN::Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A vehicle without its own engine that another vehicle pulls.; A short promotional video showing scenes from a movie or game.",
+      "related_terms": [
+        "towed vehicle",
+        "preview"
+      ]
     },
     {
       "family": "vocabulary",
@@ -4628,10 +4773,10 @@
     },
     {
       "family": "patterns",
-      "key": "have/has + noun · have/has got + noun",
+      "key": "have/has + noun · have + object + state/condition",
       "deck": "EN::Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Describe possession, relationships, or current conditions. Have got is conversational; plain have and do you have are versatile everyday AmE choices. For activities, use ordinary have, which can be continuous. For past possession, use had, not have got."
+      "meaning": "Use main-verb have to describe possession, relationships, availability, and current conditions. Have got is conversational; plain have and do you have are versatile in American English. When an object is followed by a state/condition, the final phrase describes the object: left means remaining, ready means prepared, and on silent names a setting. For activities, have can be continuous; for past possession, use had, not have got. Do not confuse this with auxiliary have + past participle or causative have + person + base verb."
     },
     {
       "family": "patterns",
