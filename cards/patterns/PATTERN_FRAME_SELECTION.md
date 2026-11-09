@@ -167,7 +167,7 @@ The learner explicitly authorized a complete consolidated replacement for review
 | Time, habits, experiences, and stories | `be + adjective · be being + behavior adjective` | Local reference audit; see unit and chapter routes in coverage catalog |
 | Time, habits, experiences, and stories | `be always/constantly + V-ing` | Local reference audit; see unit and chapter routes in coverage catalog |
 | Time, habits, experiences, and stories | `simple past · have/has + past participle · Have you ever ...? · have/has not ... yet` | Catalog TIME09, TIME10, TIME12, TIME16, TIME21, TIME22; prior P001, P090 |
-| Time, habits, experiences, and stories | `have/has + noun · have/has got + noun` | Local reference audit; see unit and chapter routes in coverage catalog |
+| Time, habits, experiences, and stories | `have/has + noun · have + object + state/condition` | Local reference audit; see unit and chapter routes in coverage catalog |
 | Time, habits, experiences, and stories | `have/has + past participle · have/has been + V-ing · for + duration · since + starting point` | Catalog TIME08; prior P089, P091 |
 | Time, habits, experiences, and stories | `The first/last time + past clause, + clause · This is the first time + present perfect · When was the last time + past clause?` | Catalog QUESTION20, TIME11; prior P096 |
 | Time, habits, experiences, and stories | `It has been + duration + since + past clause · How long has it been since + past clause?` | Local reference audit; see unit and chapter routes in coverage catalog |
