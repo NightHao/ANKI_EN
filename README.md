@@ -6,11 +6,11 @@ teaching and correcting the learner's English. **Agents: read
 
 | Deck | Notes | What it teaches |
 | --- | ---: | --- |
-| `EN::Vocabulary` | 389 | Words and expressions, with meanings, examples, patterns, and contrast groups |
+| `EN::Vocabulary` | 402 | Words and expressions, with meanings, examples, patterns, and contrast groups |
 | `EN::Patterns` | 335 | Reusable sentence frames for speaking and writing |
 | `EN::Connection Patterns` | 603 | Prepositions, complements, and linkers, in nine subdecks |
 
-Counts as of 2026-11-08; `python3 scripts/check_cards.py` prints the current ones.
+Counts as of 2026-11-09; `python3 scripts/check_cards.py` prints the current ones.
 
 ## How it works
 
