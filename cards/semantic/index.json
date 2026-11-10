@@ -6061,10 +6061,17 @@
     },
     {
       "family": "patterns",
-      "key": "to the left/right of · next to/beside/right next to · adjacent to · between/among · across from/opposite · in front of/behind · above/below · over/under/beneath · on top of",
+      "key": "in + month/year/season/part of day · on + day/date/specific day-part · at + time/noon/night",
+      "deck": "EN::Patterns",
+      "function": "Grammar operations",
+      "meaning": "Use **in** for months, years, seasons, and general parts of the day. Use **on** for days, dates, and specific parts of a particular day. Use **at** for clock times and fixed expressions such as **at noon**, **at midnight**, and **at night**. The point/period model is useful, but some choices are fixed conventions. In American English, **on the weekend** and **on weekends** are common."
+    },
+    {
+      "family": "patterns",
+      "key": "to the left/right of · next to/beside/right next to · by/near · adjacent to · between/among · around · across from/opposite · in front of/behind · above/below · over/under/beneath · on top of",
       "deck": "EN::Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use these expressions to locate something relative to another object or place. **Between** presents distinct reference points, even when there are more than two; **among** presents something within a group. **Adjacent to** is more formal than **next to** or **beside**."
+      "meaning": "Use these expressions to locate something relative to another object or place. **Between** presents distinct reference points, even when there are more than two; **among** presents something within a group. **Adjacent to** is more formal than **next to** or **beside**. **By** means beside or near; **near** need not mean immediately adjacent. **Around** describes positions surrounding something. **In front of** describes a relative outside position, whereas **at the front of** names the front part of a larger space. **Before an audience** means in the audience's presence (formal). For location, **about** can mean around an area, but it is less common than **around** in American English."
     },
     {
       "family": "patterns",
@@ -6096,10 +6103,10 @@
     },
     {
       "family": "patterns",
-      "key": "to/toward/from · into/out of · onto/off · across/through · along/past · around · over/under",
+      "key": "to/toward/from/away from · into/out of · onto/off · across/through · along/past · around · over/under",
       "deck": "EN::Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use **to** for an intended destination and **toward** for direction without presenting the place as the endpoint. The other pairs distinguish starting points, boundaries, surfaces, and different paths. In AmE, **toward** is more common; **towards** is also correct and is more common in British English."
+      "meaning": "Use **to** for an intended destination and **toward** for direction without presenting the place as the endpoint. **From** marks a starting point; **away from** means movement that increases the distance from it. The other pairs distinguish boundaries, surfaces, and different paths. In AmE, **toward** is more common; **towards** is also correct and is more common in British English."
     },
     {
       "family": "patterns",

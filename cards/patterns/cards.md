@@ -2578,6 +2578,8 @@ Examples:
 ## `at + point/site · on + surface/line · in + area/enclosure · located/situated at/on/in · inside/outside/within · at home/work · on a bus/train/plane · in a car/taxi`
 
 <!-- overview-card -->
+<!-- diagram: en-prepositions-master-v1.svg -->
+<!-- diagram: en-prepositions-location-v1.svg -->
 
 Use **at** for a point or site, **on** for a surface or line, and **in** for an
 area or enclosure. **Located** is neutral; **situated** is slightly more
@@ -2598,14 +2600,40 @@ Examples:
 - The hotel is set amid rolling hills.
 - We stayed in a cabin set amid pine trees.
 
-## `to the left/right of · next to/beside/right next to · adjacent to · between/among · across from/opposite · in front of/behind · above/below · over/under/beneath · on top of`
+## `in + month/year/season/part of day · on + day/date/specific day-part · at + time/noon/night`
 
 <!-- overview-card -->
+<!-- diagram: en-prepositions-time-v1.svg -->
+
+Use **in** for months, years, seasons, and general parts of the day. Use **on**
+for days, dates, and specific parts of a particular day. Use **at** for clock
+times and fixed expressions such as **at noon**, **at midnight**, and
+**at night**. The point/period model is useful, but some choices are fixed
+conventions. In American English, **on the weekend** and **on weekends**
+are common.
+
+Examples:
+
+- The project starts in November, and our kickoff meeting is on Monday at 9:00 a.m.
+- I usually study in the evening, but I have a meeting on Friday evening.
+- The system runs scheduled checks at midnight and sends a report at noon.
+- She often works at night, especially during the busy season.
+- We go hiking on weekends, and our favorite trail is busiest in summer.
+
+## `to the left/right of · next to/beside/right next to · by/near · adjacent to · between/among · around · across from/opposite · in front of/behind · above/below · over/under/beneath · on top of`
+
+<!-- overview-card -->
+<!-- diagram: en-prepositions-position-v1.svg -->
 
 Use these expressions to locate something relative to another object or
 place. **Between** presents distinct reference points, even when there are
 more than two; **among** presents something within a group. **Adjacent to** is
-more formal than **next to** or **beside**.
+more formal than **next to** or **beside**. **By** means beside or near; **near**
+need not mean immediately adjacent. **Around** describes positions surrounding
+something. **In front of** describes a relative outside position, whereas
+**at the front of** names the front part of a larger space. **Before an audience**
+means in the audience's presence (formal). For location, **about** can mean
+around an area, but it is less common than **around** in American English.
 
 Examples:
 
@@ -2617,6 +2645,9 @@ Examples:
 - Taxis wait in front of the building, while staff parking is behind it.
 - A sign is above the entrance, a bench is below it, a canopy hangs over it, and several bicycles are stored under it.
 - A tunnel runs beneath the highway, and a communications antenna sits on top of the building.
+- A bench stands by the river, while several cafés are near the station.
+- Guests sat around the table; their host stood at the front of the room.
+- The speaker stood before a large audience; her colleague waited behind the curtain.
 
 ## `north/south/east/west of · northeast/northwest/southeast/southwest of · in northern/southern/eastern/western X · in the north/south/east/west of X · on the northern/southern/eastern/western side of X · at the northern/southern/eastern/western end of X`
 
@@ -2702,14 +2733,17 @@ Examples:
 - The pharmacy will be on your left, and the station will be on your right.
 - The entrance is just before the bridge, the parking lot is just after it, and the hotel is just past the next intersection.
 
-## `to/toward/from · into/out of · onto/off · across/through · along/past · around · over/under`
+## `to/toward/from/away from · into/out of · onto/off · across/through · along/past · around · over/under`
 
 <!-- overview-card -->
+<!-- diagram: en-prepositions-movement-v1.svg -->
 
 Use **to** for an intended destination and **toward** for direction without
-presenting the place as the endpoint. The other pairs distinguish starting
-points, boundaries, surfaces, and different paths. In AmE, **toward** is more
-common; **towards** is also correct and is more common in British English.
+presenting the place as the endpoint. **From** marks a starting point;
+**away from** means movement that increases the distance from it. The other
+pairs distinguish boundaries, surfaces, and different paths. In AmE,
+**toward** is more common; **towards** is also correct and is more common in
+British English.
 
 Examples:
 
@@ -2720,6 +2754,7 @@ Examples:
 - Continue along the river and past the bank.
 - Go around the construction barrier, and then walk around the campus to explore its different areas.
 - Cross over the footbridge, then pass under the railroad tracks.
+- Move away from the construction site and head toward the bus stop.
 
 ## `upstairs/downstairs · go up/down the stairs · take the elevator to + floor · on the same floor · one floor above/below · down/along/across the hall · at the far end of the hall · through + door · around the corner · the first/second door on your left/right`
 

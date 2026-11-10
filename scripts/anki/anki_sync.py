@@ -196,7 +196,7 @@ def schema_stamp(col: Collection) -> int:
     return col.db.scalar('select scm from col')
 
 
-IMAGE_SOURCE_RE = re.compile(r'<img\\b[^>]*\\bsrc="([^"]+)"')
+IMAGE_SOURCE_RE = re.compile(r'<img\b[^>]*\bsrc="([^"]+)"')
 
 
 def install_pattern_media(col: Collection, plan: Plan, config: dict, root: Path) -> None:
@@ -217,7 +217,7 @@ def install_pattern_media(col: Collection, plan: Plan, config: dict, root: Path)
             for filename in IMAGE_SOURCE_RE.findall(value):
                 if filename in installed:
                     continue
-                if not re.fullmatch(r"en-prepositions-[a-z0-9-]+\\.svg", filename):
+                if not re.fullmatch(r"en-prepositions-[a-z0-9-]+\.svg", filename):
                     raise SyncAbort(f"Unexpected diagram name: {filename}")
                 path = root / media_dir / filename
                 if not path.is_file():

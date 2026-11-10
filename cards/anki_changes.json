@@ -2,9 +2,15 @@
   "renames": [
     {
       "family": "patterns",
-      "from": "have/has + noun · have/has got + noun",
-      "to": "have/has + noun · have + object + state/condition",
-      "reason": "Expand existing possession/current-state frame with learner-requested have + object + state/condition; preserve original note review history"
+      "from": "to the left/right of · next to/beside/right next to · adjacent to · between/among · across from/opposite · in front of/behind · above/below · over/under/beneath · on top of",
+      "to": "to the left/right of · next to/beside/right next to · by/near · adjacent to · between/among · around · across from/opposite · in front of/behind · above/below · over/under/beneath · on top of",
+      "reason": "Extend existing position overview with by/near and around; keep note history"
+    },
+    {
+      "family": "patterns",
+      "from": "to/toward/from · into/out of · onto/off · across/through · along/past · around · over/under",
+      "to": "to/toward/from/away from · into/out of · onto/off · across/through · along/past · around · over/under",
+      "reason": "Extend movement overview with away from; keep note history"
     }
   ],
   "removals": []

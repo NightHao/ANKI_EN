@@ -7,10 +7,10 @@ teaching and correcting the learner's English. **Agents: read
 | Deck | Notes | What it teaches |
 | --- | ---: | --- |
 | `EN::Vocabulary` | 402 | Words and expressions, with meanings, examples, patterns, and contrast groups |
-| `EN::Patterns` | 335 | Reusable sentence frames for speaking and writing |
+| `EN::Patterns` | 336 | Reusable sentence frames for speaking and writing |
 | `EN::Connection Patterns` | 603 | Prepositions, complements, and linkers, in nine subdecks |
 
-Counts as of 2026-11-09; `python3 scripts/check_cards.py` prints the current ones.
+Counts as of 2026-11-10; `python3 scripts/check_cards.py` prints the current ones.
 
 ## How it works
 
@@ -24,7 +24,7 @@ Counts as of 2026-11-09; `python3 scripts/check_cards.py` prints the current one
    step (Edit > Undo), and syncs again. Phones get the changes on their next
    sync.
 
-Edited cards keep their review history. Renames, merges, and removals that you
+Original preposition diagrams in Patterns are transferred as Anki media when you update the deck.\n\nEdited cards keep their review history. Renames, merges, and removals that you
 approved are recorded in `cards/anki_changes.json` and applied by the add-on,
 so old cards never need deleting by hand.
 

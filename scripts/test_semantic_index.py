@@ -41,7 +41,7 @@ class SemanticIndexTests(unittest.TestCase):
         for card in self.data["cards"]:
             self.assertTrue(card["function"], card["key"])
             self.assertTrue(card["meaning"], card["key"])
-        self.assertEqual(len(self.data["cards"]), 1340)
+        self.assertEqual(len(self.data["cards"]), 1341)
 
     def test_meaning_search_finds_admiration_owner(self):
         results = find_cards.meaning_candidates("respect admiration", self.data, 15)
