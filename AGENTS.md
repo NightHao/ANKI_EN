@@ -22,8 +22,7 @@ delivers changes), and `scripts/` (checks and tools).
 1. `git pull` before reading or changing anything (or fetch the latest `main` through the GitHub connector if a local clone is unavailable).
 2. Do the work. Answer English questions using sections 5–7.
 3. Before committing card changes, run `python3 scripts/check_cards.py`; it
-   must end with `All card checks passed`. Correction-registry updates are
-   validated by their own script.
+   must end with `All card checks passed`.
 4. Commit with a message that says what changed and why, then `git push`.
    GitHub Actions reruns the checks.
 5. If cards changed, tell the learner to choose **Tools > Update EN cards from
@@ -302,6 +301,11 @@ interviews, remote work, and international collaboration.
 
 Whenever the user writes in English:
 
+Correct the learner's English in the response as instructed below. Do not
+automatically save, classify, or track corrections in files, databases, or
+persistent registries. Only record corrections when the learner explicitly
+asks for a record to be created or updated.
+
 1. Answer the actual question first.
 
 2. In ordinary conversation, select only the one to three highest-impact
@@ -564,43 +568,3 @@ changes to natural wording.
    separately, cite evidence from the original response, distinguish the
    original from any corrected version, and state that the result is an
    estimate rather than an official examiner score.
-
-## 8. Persistent correction tracking
-
-- The learner approved automatic persistent correction tracking on 2026-09-15.
-  Before recording or reviewing a correction, read
-  `cards/corrections/README.md` and follow its classification, deduplication,
-  evidence, routing, and validation rules.
-- Whenever a response makes a genuine correction to the learner's own English,
-  classify and record the reusable root problem with
-  `cards/corrections/scripts/update_corrections.py`. This automatic registry
-  update does not require separate approval.
-- Keep the response-selection boundary above: normally record only the same one
-  to three high-impact corrections taught in the response. During a deep review,
-  record at most the three most reusable root problems even though the response
-  may correct more issues.
-- Use exactly one of `CORRECT_ONLY`, `TRACK`, or `CARD_CANDIDATE`. Store one
-  canonical entry per underlying pattern or vocabulary contrast and merge later
-  occurrences; never create one entry per sentence.
-- Do not record quoted source language, acceptable casual abbreviations,
-  optional alternative wording, answer-content errors, clarification-only
-  vocabulary, or every typo in a long text.
-- When the learner successfully uses a tracked pattern in requested follow-up
-  practice, record that success. Treat delayed or spontaneous use as stronger
-  evidence than immediate imitation.
-- When the learner says a record is too basic, normally reclassify it as
-  `CORRECT_ONLY` so recurrence evidence is preserved without producing a card.
-  If the learner explicitly asks to delete a specific record, resolve its exact
-  key and use the guarded deletion command documented in
-  `cards/corrections/README.md`. Do not infer an ambiguous deletion target, and
-  do not manually edit the master JSON.
-- `CARD_CANDIDATE` authorizes only a complete card preview. It never authorizes
-  an Anki edit. Wait for the learner's explicit approval, then follow the target
-  card family's existing authoring and build workflow. After successful
-  validation, record the durable card reference in the correction registry.
-- The correction registry is a staging and evidence system, not a fourth Anki
-  deck. Route approved candidates to vocabulary, general patterns, or the
-  connection deck only when that family's documented scope fits.
-- If automatic recording fails, do not hide the failure or manually bypass the
-  validator. Answer the learner's question, explain the correction normally,
-  and report the tracking failure briefly.
