@@ -12,6 +12,8 @@ import importlib.util
 import json
 import os
 import subprocess
+import re
+from xml.etree import ElementTree
 import sys
 from pathlib import Path
 
@@ -42,6 +44,28 @@ def check_patterns() -> None:
     if module.OUTPUT.read_text(encoding='utf-8') != module.build_tsv(cards):
         raise ValueError('Pattern import is stale. Rebuild before reporting completion.')
     print(f'Pattern sources and import agree: {len(cards)} notes.', flush=True)
+
+
+def check_pattern_diagrams() -> None:
+    """Ensure each Anki image reference points to a valid owned SVG asset."""
+    media = ROOT / 'cards/patterns/media'
+    filenames = set()
+    for path in media.glob('en-prepositions-*.svg'):
+        if path.name in filenames:
+            raise ValueError(f'duplicate preposition media name: {path.name}')
+        filenames.add(path.name)
+        root = ElementTree.parse(path).getroot()
+        if root.tag != '{http://www.w3.org/2000/svg}svg':
+            raise ValueError(f'not an SVG document: {path}')
+    source = (ROOT / 'cards/patterns/cards.md').read_text(encoding='utf-8')
+    import_text = (ROOT / 'cards/patterns/anki-import.tsv').read_text(encoding='utf-8')
+    referenced = set(re.findall(r'<!-- diagram: (en-prepositions-[a-z0-9-]+\\.svg) -->', source))
+    if referenced != filenames:
+        raise ValueError(f'diagram inventory mismatch: referenced={referenced}, files={filenames}')
+    for name in referenced:
+        if f'<img src="{name}"' not in import_text:
+            raise ValueError(f'Anki import does not reference diagram {name}')
+    print(f'Pattern diagrams validated: {len(filenames)} SVG media files.', flush=True)
 
 
 def check_change_record() -> None:
@@ -76,6 +100,7 @@ def main() -> int:
     run('scripts/build_semantic_index.py', '--check')
     run('scripts/test_semantic_index.py')
     check_patterns()
+    check_pattern_diagrams()
     check_change_record()
     for arguments in [
         ('cards/tools/build_import.py', '--self-test'),
