@@ -20,6 +20,7 @@ and a note type's fields are never changed.
 from __future__ import annotations
 
 import argparse
+import re
 import shutil
 import sys
 import tempfile
@@ -195,9 +196,44 @@ def schema_stamp(col: Collection) -> int:
     return col.db.scalar('select scm from col')
 
 
+IMAGE_SOURCE_RE = re.compile(r'<img\\b[^>]*\\bsrc="([^"]+)"')
+
+
+def install_pattern_media(col: Collection, plan: Plan, config: dict, root: Path) -> None:
+    """Install versioned diagram assets before updating note HTML.
+
+    Anki's regular post-update sync distributes media to mobile devices.
+    """
+    families = {f["name"]: f for f in config["families"]}
+    pending = [(name, fields) for name, _deck, fields, _tags in plan.additions]
+    pending += [(name, fields) for name, _id, fields, _tags, _changed in plan.updates]
+    pending += [(name, fields) for name, _id, _old, fields, _tags in plan.renames]
+    installed: set[str] = set()
+    for family_name, fields in pending:
+        media_dir = families[family_name].get("media_dir")
+        if not media_dir:
+            continue
+        for value in fields.values():
+            for filename in IMAGE_SOURCE_RE.findall(value):
+                if filename in installed:
+                    continue
+                if not re.fullmatch(r"en-prepositions-[a-z0-9-]+\\.svg", filename):
+                    raise SyncAbort(f"Unexpected diagram name: {filename}")
+                path = root / media_dir / filename
+                if not path.is_file():
+                    raise SyncAbort(f"Missing diagram asset: {path}")
+                actual = col.media.add_file(str(path))
+                if actual != filename:
+                    raise SyncAbort(
+                        f"Anki media filename collision: {filename} became {actual}"
+                    )
+                installed.add(filename)
+
+
 def apply_plan(col: Collection, plan: Plan, config: dict, root: Path = ROOT) -> None:
     families = {f['name']: f for f in config['families']}
     before = schema_stamp(col)
+    install_pattern_media(col, plan, config, root)
     for name, deck, fields, tags in plan.additions:
         note = col.new_note(col.models.by_name(families[name]['notetype']))
         for key, value in fields.items():

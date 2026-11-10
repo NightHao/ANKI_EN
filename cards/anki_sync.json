@@ -31,6 +31,7 @@
         "Back"
       ],
       "deck_root": "EN::Patterns",
+      "media_dir": "cards/patterns/media",
       "sync_tags": false
     },
     {

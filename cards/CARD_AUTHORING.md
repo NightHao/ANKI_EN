@@ -289,3 +289,21 @@ The builder validates that:
 The EN Cards Sync add-on delivers the import to Anki (Basic note type). The
 first TSV column is an Anki Deck directive column; the note itself has only
 Front and Back.
+
+## Optional visual diagrams on reviewed overview cards
+
+A reviewed `<!-- overview-card -->` can reference original repository-owned SVG
+assets stored under `cards/patterns/media/`. Insert each directive immediately
+after the overview marker:
+
+```markdown
+<!-- overview-card -->
+<!-- diagram: en-prepositions-location-v1.svg -->
+```
+
+The builder validates filenames and emits a responsive `<img>` tag on the
+Back, preserving the two-field Basic note. On the next desktop Anki update, the
+sync engine copies referenced diagrams into Anki's media collection before
+changing notes. The ordinary Anki sync sends the media to other devices.
+Use unique versioned filenames to avoid stale or conflicting graphics.
+Diagrams complement, not replace, accurate usage rules and natural examples.

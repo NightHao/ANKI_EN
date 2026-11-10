@@ -28,6 +28,7 @@ CARD_HEADING_RE = re.compile(r"^## `([^`\n]+)`\s*$")
 BULLET_RE = re.compile(r"^- (.+)$")
 GRAMMAR_CARD_MARKER = "<!-- grammar-card -->"
 OVERVIEW_CARD_MARKER = "<!-- overview-card -->"
+DIAGRAM_MARKER_RE = re.compile(r"^<!-- diagram: (en-prepositions-[a-z0-9-]+\.svg) -->$")
 INLINE_MARKUP_RE = re.compile(r"(`[^`\n]+`|\*\*[^*\n]+\*\*)")
 SELECTION_ROW_RE = re.compile(r"^\| [^|]+ \| `([^`\n]+)` \| [^|]*\|$")
 SELECTION_COUNT_RE = re.compile(
@@ -48,6 +49,7 @@ class Card:
     examples: tuple[str, ...] = ()
     grammar_lines: tuple[str, ...] = ()
     is_overview: bool = False
+    diagrams: tuple[str, ...] = ()
 
 
 def render_inline(text: str) -> str:
@@ -160,6 +162,23 @@ def parse_cards(text: str, source: Path = SOURCE) -> list[Card]:
             while body and not body[-1].strip():
                 body.pop()
 
+        diagrams: list[str] = []
+        remaining: list[str] = []
+        for line in body:
+            match = DIAGRAM_MARKER_RE.fullmatch(line.strip())
+            if match:
+                if not is_overview:
+                    raise ValueError(f"{source}:{start + 1}: diagrams require an overview card")
+                filename = match.group(1)
+                if not (PATTERNS_DIR / "media" / filename).is_file():
+                    raise ValueError(f"{source}:{start + 1}: missing diagram {filename}")
+                if filename in diagrams:
+                    raise ValueError(f"{source}:{start + 1}: duplicate diagram {filename}")
+                diagrams.append(filename)
+            else:
+                remaining.append(line)
+        body = remaining
+
         first_bullet = next(
             (i for i, line in enumerate(body) if BULLET_RE.fullmatch(line)),
             None,
@@ -215,6 +234,7 @@ def parse_cards(text: str, source: Path = SOURCE) -> list[Card]:
                 explanation=explanation,
                 examples=tuple(examples),
                 is_overview=is_overview,
+                diagrams=tuple(diagrams),
             )
         )
 
@@ -236,9 +256,15 @@ def render_back(card: Card) -> str:
     body = f"{explanation}<br><br>{examples}"
     if card.is_overview:
         repeated_front = html.escape(card.front, quote=False)
+        images = "".join(
+            '<img src="' + html.escape(name, quote=True) +
+            '" alt="Visual preposition guide" style="max-width:100%;height:auto;display:block;margin:8px auto">'
+            for name in card.diagrams
+        )
+        visual = f"{images}<br><br>" if images else ""
         return (
             "<strong>Patterns on this card:</strong><br>"
-            f"{repeated_front}<br><br>{body}"
+            f"{repeated_front}<br><br>{visual}{body}"
         )
     return body
 
@@ -443,6 +469,11 @@ Examples:
     overview_back = overview_row.split("\t")[2]
     assert "<strong>Patterns on this card:</strong>" in overview_back
     assert overview_cards[0].front in overview_back
+
+    diagram_card = Card(front="in/on/at", explanation="Spatial guide.",
+                        examples=("The map is on the wall.", "We met at the entrance."),
+                        is_overview=True, diagrams=("en-prepositions-location-v1.svg",))
+    assert '<img src="en-prepositions-location-v1.svg"' in render_back(diagram_card)
 
     ordinary_with_four_examples = sample + "- A fourth example is not allowed.\n"
     try:
