@@ -59,7 +59,7 @@ def check_pattern_diagrams() -> None:
             raise ValueError(f'not an SVG document: {path}')
     source = (ROOT / 'cards/patterns/cards.md').read_text(encoding='utf-8')
     import_text = (ROOT / 'cards/patterns/anki-import.tsv').read_text(encoding='utf-8')
-    referenced = set(re.findall(r'<!-- diagram: (en-prepositions-[a-z0-9-]+\\.svg) -->', source))
+    referenced = set(re.findall(r'<!-- diagram: (en-prepositions-[a-z0-9-]+\.svg) -->', source))
     if referenced != filenames:
         raise ValueError(f'diagram inventory mismatch: referenced={referenced}, files={filenames}')
     for name in referenced:
