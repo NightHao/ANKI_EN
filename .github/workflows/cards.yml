@@ -31,3 +31,4 @@ jobs:
         run: |
           pip install anki==26.9.3
           python scripts/anki/test_anki_sync.py
+          python scripts/anki/test_deck_migration.py
