@@ -7,10 +7,11 @@ Tools > Update EN cards from GitHub runs:
   4. the changes as one undoable step ("Update EN cards");
   5. Anki's own sync again, so AnkiWeb and other devices receive them.
 
-Renames and removals come from the cards/anki_changes.json record of every
+Note renames and removals come from the cards/anki_changes.json record of every
 commit since the last applied one. That commit is remembered in the collection
 config, which syncs, so every computer continues from the same point.
 
+Deck-root renames are planned separately and applied through Anki's native deck API.
 Only the official Anki client talks to AnkiWeb. The planner never changes a
 note type's fields and deletes only notes a change record names.
 """
@@ -152,7 +153,8 @@ def apply_update(sync, cfg: dict, plan, head: str) -> None:
 
     def on_success(_changes) -> None:
         tooltip(f'EN cards updated: {len(plan.additions)} added, {len(plan.updates)} updated, '
-                f'{len(plan.renames)} renamed, {len(plan.removals)} removed. Syncing…')
+                f'{len(plan.renames)} notes renamed, {len(plan.deck_renames)} decks renamed, '
+                f'{len(plan.removals)} removed. Syncing…')
         if config().get('sync_after_update', True):
             sync_then(lambda: mw.toolbar.redraw())
 

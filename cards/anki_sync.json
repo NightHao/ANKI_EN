@@ -12,7 +12,7 @@
         "TTS_Text",
         "BackHTML"
       ],
-      "deck_root": "EN::Vocabulary",
+      "deck_root": "EN::02 Vocabulary",
       "sync_tags": true,
       "templates": {
         "Card 1": {
@@ -30,7 +30,7 @@
         "Front",
         "Back"
       ],
-      "deck_root": "EN::Patterns",
+      "deck_root": "EN::01 Patterns",
       "media_dir": "cards/patterns/media",
       "sync_tags": false
     },
@@ -42,7 +42,7 @@
         "Front",
         "Back"
       ],
-      "deck_root": "EN::Connection Patterns",
+      "deck_root": "EN::03 Connection Patterns",
       "sync_tags": false
     }
   ],

@@ -28,7 +28,7 @@ CARDS_DIR = Path(__file__).resolve().parents[1]
 CONNECTIONS_DIR = CARDS_DIR / "connections"
 COVERAGE_PATH = CONNECTIONS_DIR / "coverage.tsv"
 OUTPUT_PATH = CONNECTIONS_DIR / "anki-import.tsv"
-PARENT_DECK = "EN::Connection Patterns"
+PARENT_DECK = "EN::03 Connection Patterns"
 
 SOURCE_DECKS = {
     "01-prepositions.md": "01 Prepositions and Prepositional Phrases",

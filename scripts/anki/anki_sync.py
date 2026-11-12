@@ -8,6 +8,8 @@ AnkiWeb, whose terms allow only official Anki clients.
 
 Notes are matched the way Anki's text importer matches them: same note type and
 same first field, restricted to the family's deck tree (cards/anki_sync.json).
+An explicit deck-root migration lets previews match notes under a legacy deck
+before the Anki client renames that deck in place.
 The planner adds missing notes, updates changed fields/tags (keeping review
 history), and updates template text and CSS that the repo owns.
 
@@ -33,12 +35,21 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from exports import CHANGES, ROOT, EMPTY_CHANGES, load_config, parse_changes, read_export  # noqa: E402
 
 
+DECK_ROOT_MIGRATIONS = {
+    'patterns': ('EN::Patterns', 'EN::01 Patterns'),
+    'vocabulary': ('EN::Vocabulary', 'EN::02 Vocabulary'),
+    'connections': ('EN::Connection Patterns', 'EN::03 Connection Patterns'),
+}
+
+
 class SyncAbort(Exception):
     """A condition that must stop the run before anything is written."""
 
 
 @dataclass
 class Plan:
+    # Family, original deck ID, old path, new path. Not note-identity changes.
+    deck_renames: list[tuple[str, int, str, str]] = field(default_factory=list)
     additions: list[tuple[str, str, dict[str, str], list[str]]] = field(default_factory=list)
     updates: list[tuple[str, int, dict[str, str], list[str] | None, list[str]]] = field(default_factory=list)
     renames: list[tuple[str, int, str, dict[str, str], list[str] | None]] = field(default_factory=list)
@@ -50,7 +61,8 @@ class Plan:
 
     @property
     def empty(self) -> bool:
-        return not (self.additions or self.updates or self.renames or self.removals or self.notetype_updates)
+        return not (self.deck_renames or self.additions or self.updates or self.renames
+                    or self.removals or self.notetype_updates)
 
 
 def merge_changes(records: list[dict]) -> dict:
@@ -73,14 +85,16 @@ def resolve_notetype(col: Collection, family: dict) -> dict:
     return notetype
 
 
-def plan_family(col: Collection, family: dict, plan: Plan, root: Path, changes: dict) -> None:
+def plan_family(col: Collection, family: dict, plan: Plan, root: Path, changes: dict,
+                existing_root: str | None = None) -> None:
     name, deck_root = family['name'], family['deck_root']
+    existing_root = existing_root or deck_root
     notetype = resolve_notetype(col, family)
     headers, rows = read_export(root / family['export'])
     match_field = family['fields'][0]
 
     in_tree: dict[str, list[int]] = {}
-    for nid in col.find_notes(f'"deck:{deck_root}" mid:{notetype["id"]}'):
+    for nid in col.find_notes(f'"deck:{existing_root}" mid:{notetype["id"]}'):
         key = col.get_note(nid).fields[0]
         in_tree.setdefault(key, []).append(nid)
     duplicates = [k for k, ids in in_tree.items() if len(ids) > 1]
@@ -145,7 +159,12 @@ def plan_family(col: Collection, family: dict, plan: Plan, root: Path, changes: 
             new_tags = tags
             changed.append('tags')
         card_decks = {col.decks.name(c.did) for c in note.cards()}
-        if deck not in card_decks:
+        # Preview the names as they will be after the planned deck rename.
+        effective_decks = {deck_root + actual[len(existing_root):]
+                           if existing_root != deck_root and
+                           (actual == existing_root or actual.startswith(existing_root + '::'))
+                           else actual for actual in card_decks}
+        if deck not in effective_decks:
             plan.deck_mismatches.append(f'[{name}] {key[:60]!r}: Anki {sorted(card_decks)}, repo {deck!r}')
         if changed:
             plan.updates.append((name, note.id, {f: fields[f] for f in changed if f != 'tags'}, new_tags, changed))
@@ -181,8 +200,22 @@ def plan_family(col: Collection, family: dict, plan: Plan, root: Path, changes: 
 def build_plan(col: Collection, config: dict, root: Path = ROOT, changes: dict | None = None) -> Plan:
     changes = changes or EMPTY_CHANGES
     plan = Plan()
+    # Check every family before planning notes. No deck creation, renaming, or writes.
     for family in config['families']:
-        plan_family(col, family, plan, root, changes)
+        migration = DECK_ROOT_MIGRATIONS.get(family['name'])
+        if migration is None or family['deck_root'] != migration[1]:
+            continue
+        old_name, new_name = migration
+        old_deck, new_deck = col.decks.by_name(old_name), col.decks.by_name(new_name)
+        if old_deck is not None and new_deck is not None:
+            raise SyncAbort(f'[{family["name"]}] both deck paths exist: {old_name!r} and '
+                            f'{new_name!r}; rename/resolve the conflict in Anki first')
+        if old_deck is not None:
+            plan.deck_renames.append((family['name'], int(old_deck['id']), old_name, new_name))
+    old_roots = {name: old for name, _did, old, _new in plan.deck_renames}
+    for family in config['families']:
+        plan_family(col, family, plan, root, changes,
+                    existing_root=old_roots.get(family['name']))
     limits = config.get('limits', {})
     for label, items in (('additions', plan.additions), ('updates', plan.updates + plan.renames),
                          ('removals', plan.removals)):
@@ -233,6 +266,15 @@ def install_pattern_media(col: Collection, plan: Plan, config: dict, root: Path)
 def apply_plan(col: Collection, plan: Plan, config: dict, root: Path = ROOT) -> None:
     families = {f['name']: f for f in config['families']}
     before = schema_stamp(col)
+    # Preflight all names/IDs before changing the collection. If a preview has
+    # gone stale, abort rather than merging decks or renaming the wrong deck.
+    for name, did, old_name, new_name in plan.deck_renames:
+        old_deck = col.decks.by_name(old_name)
+        if old_deck is None or int(old_deck['id']) != did or col.decks.by_name(new_name) is not None:
+            raise SyncAbort(f'[{name}] deck migration is no longer safe: '
+                            f'{old_name!r} -> {new_name!r}; refresh the plan')
+    for _name, did, _old_name, new_name in plan.deck_renames:
+        col.decks.rename(did, new_name)  # Anki updates children, preserving their IDs.
     install_pattern_media(col, plan, config, root)
     for name, deck, fields, tags in plan.additions:
         note = col.new_note(col.models.by_name(families[name]['notetype']))
@@ -269,14 +311,17 @@ def apply_plan(col: Collection, plan: Plan, config: dict, root: Path = ROOT) -> 
 def render_report(plan: Plan, applied: bool) -> str:
     verb = 'Applied' if applied else 'Planned'
     lines = [f'## EN cards: {verb}', '',
-             '| Family | Unchanged | Add | Update | Rename | Remove | Only in Anki |',
-             '| --- | ---: | ---: | ---: | ---: | ---: | ---: |']
+             '| Family | Unchanged | Deck rename | Add | Update | Note rename | Remove | Only in Anki |',
+             '| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |']
     for name, unchanged in plan.unchanged.items():
         counts = [sum(1 for item in items if item[0] == name)
-                  for items in (plan.additions, plan.updates, plan.renames, plan.removals)]
+                  for items in (plan.deck_renames, plan.additions, plan.updates,
+                                plan.renames, plan.removals)]
         lines.append(f'| {name} | {unchanged} | ' + ' | '.join(map(str, counts))
                      + f' | {len(plan.anki_only.get(name, []))} |')
     lines.append('')
+    for name, _did, old, new in plan.deck_renames:
+        lines.append(f'- rename deck [{name}] {old} → {new} (existing deck and child IDs kept)')
     for name, deck, fields, _tags in plan.additions:
         lines.append(f'- add [{name}] {next(iter(fields.values()))[:90]} → {deck}')
     for name, _nid, fields, _tags, changed in plan.updates:

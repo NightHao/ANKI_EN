@@ -437,7 +437,7 @@ def rebuild_export(rows: list[dict[str, str]] | None = None) -> None:
         handle.write("#separator:Comma\n")
         handle.write("#html:true\n")
         handle.write("#notetype:EN_Vocabulary\n")
-        handle.write("#deck:EN::Vocabulary\n")
+        handle.write("#deck:EN::02 Vocabulary\n")
         handle.write("#columns:" + ",".join(EXPORT_FIELDS) + "\n")
         writer = csv.writer(handle, lineterminator="\n")
         for row in included:
@@ -555,8 +555,8 @@ def validate() -> dict[str, int]:
 
     export_rows = parse_export_rows()
     export_text = EXPORT_PATH.read_text(encoding="utf-8")
-    if "#deck:EN::Vocabulary\n" not in export_text:
-        raise ValueError("Anki export is not routed to the EN::Vocabulary subdeck")
+    if "#deck:EN::02 Vocabulary\n" not in export_text:
+        raise ValueError("Anki export is not routed to the EN::02 Vocabulary subdeck")
     if any(len(export_row) != len(EXPORT_FIELDS) for export_row in export_rows):
         raise ValueError("Anki export contains a malformed CSV row")
     expected_export_rows: list[list[str]] = []
