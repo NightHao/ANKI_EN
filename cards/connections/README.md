@@ -1,7 +1,7 @@
 # Connection Patterns Deck
 
 This directory is the source of truth for the two-field Anki deck
-`EN::Connection Patterns`. Its learning target, scope boundary, nine-subdeck
+`EN::03 Connection Patterns`. Its learning target, scope boundary, nine-subdeck
 taxonomy, and card-format rules are defined in
 [`../CONNECTION_DECK_PLAN.md`](../CONNECTION_DECK_PLAN.md).
 

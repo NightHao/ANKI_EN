@@ -1,4 +1,4 @@
-# `EN::Vocabulary`
+# `EN::02 Vocabulary`
 
 This directory owns the repository's American-English vocabulary-learning
 system.

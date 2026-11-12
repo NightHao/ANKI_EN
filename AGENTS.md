@@ -8,9 +8,36 @@ conversation, IELTS, and professional/technical work.
 
 | Deck | Note type | Edit this source | Generated import (never hand-edit) | Rules |
 | --- | --- | --- | --- | --- |
-| `EN::Vocabulary` | `EN_Vocabulary` | `cards/vocabulary/data/vocabulary_master.csv` via the updater | `cards/vocabulary/exports/anki_import.csv` | `cards/vocabulary/CARD_AUTHORING.md`, `cards/vocabulary/README.md` |
-| `EN::Patterns` | `Basic` | `cards/patterns/cards.md` (+ `PATTERN_FRAME_SELECTION.md`) | `cards/patterns/anki-import.tsv` | `cards/CARD_AUTHORING.md` |
-| `EN::Connection Patterns` | `Basic` | `cards/connections/0*-*.md` + `inventory-slices/*.tsv` | `cards/connections/anki-import.tsv`, `coverage.tsv` | `cards/CONNECTION_DECK_PLAN.md`, `cards/connections/README.md` |
+| `EN::01 Patterns` | `Basic` | `cards/patterns/cards.md` (+ `PATTERN_FRAME_SELECTION.md`) | `cards/patterns/anki-import.tsv` | `cards/CARD_AUTHORING.md` |
+| `EN::02 Vocabulary` | `EN_Vocabulary` | `cards/vocabulary/data/vocabulary_master.csv` via the updater | `cards/vocabulary/exports/anki_import.csv` | `cards/vocabulary/CARD_AUTHORING.md`, `cards/vocabulary/README.md` |
+| `EN::03 Connection Patterns` | `Basic` | `cards/connections/0*-*.md` + `inventory-slices/*.tsv` | `cards/connections/anki-import.tsv`, `coverage.tsv` | `cards/CONNECTION_DECK_PLAN.md`, `cards/connections/README.md` |
+
+Preferred top-level Anki order (numeric prefixes are part of the actual deck
+names; the order of the `families` array is not the Anki display order):
+
+```text
+EN
+├── 01 Patterns
+├── 02 Vocabulary
+└── 03 Connection Patterns
+    ├── 01 Prepositions and Prepositional Phrases
+    ├── 02 Verb Patterns
+    └── ...the seven existing numbered subdecks
+```
+
+Legacy deck paths migrate **in place** through the Anki add-on:
+
+| Previous deck root | Current deck root |
+| --- | --- |
+| `EN::Patterns` | `EN::01 Patterns` |
+| `EN::Vocabulary` | `EN::02 Vocabulary` |
+| `EN::Connection Patterns` | `EN::03 Connection Patterns` |
+
+Deck renaming is independent of note Front/Term identity changes recorded in
+`cards/anki_changes.json`. The add-on previews renames, stops if both names
+exist, and uses Anki's native rename API after approval; never delete and
+reimport notes to achieve this routing. Do not enable automatic learner-error
+or correction tracking.
 
 Also here: `cards/corrections/` (the learner's tracked English mistakes, not a
 deck), `cards/anki_sync.json` (deck/note-type identity), `cards/anki_changes.json`

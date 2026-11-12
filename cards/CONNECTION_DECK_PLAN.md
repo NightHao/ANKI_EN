@@ -178,7 +178,7 @@ The visible word ending is not enough to determine the construction.
 Use one parent deck:
 
 ```text
-EN::Connection Patterns
+EN::03 Connection Patterns
 ├── 01 Prepositions and Prepositional Phrases
 ├── 02 Verb Patterns
 ├── 03 Adjective and Participle Patterns
@@ -791,9 +791,9 @@ Use Anki headers equivalent to:
 Deck values:
 
 ```text
-EN::Connection Patterns::01 Prepositions and Prepositional Phrases
+EN::03 Connection Patterns::01 Prepositions and Prepositional Phrases
 ...
-EN::Connection Patterns::09 Comparison, Degree, and Result Patterns
+EN::03 Connection Patterns::09 Comparison, Degree, and Result Patterns
 ```
 
 No Tags column, batch field, frequency field, or suspended output rows.

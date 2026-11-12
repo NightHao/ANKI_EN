@@ -1,7 +1,7 @@
-# Reviewed Production Frames for `EN::Patterns`
+# Reviewed Production Frames for `EN::01 Patterns`
 
 This file governs the compact production-frame layer selected from, or checked
-against, the larger `EN::Connection Patterns` resource.
+against, the larger `EN::03 Connection Patterns` resource.
 
 Read this file before adding a general production frame to `cards.md`.
 Omission and shortening grammar cards are governed separately by
@@ -9,8 +9,8 @@ Omission and shortening grammar cards are governed separately by
 
 ## Purpose
 
-`EN::Connection Patterns` teaches 600 individual connection decisions through
-closed retrieval, contrast, and repair prompts. `EN::Patterns` has a different
+`EN::03 Connection Patterns` teaches 600 individual connection decisions through
+closed retrieval, contrast, and repair prompts. `EN::01 Patterns` has a different
 job: its Front shows a complete reusable frame so that the learner can use that
 frame to produce a new sentence.
 

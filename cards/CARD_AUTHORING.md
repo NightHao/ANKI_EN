@@ -106,7 +106,7 @@ The user approved a second narrow exception on 2026-09-07 for compact overview
 cards that organize an already reviewed semantic family, such as common ways
 to describe position, distance, or movement. These cards provide a mental map
 across related expressions; they do not replace the atomic retrieval decisions
-in `EN::Connection Patterns`.
+in `EN::03 Connection Patterns`.
 
 An overview card still has exactly two Anki fields. Its Front lists the distinct **core** retrieval expressions directly
 (not each inflection or same-meaning variation), and its Back gives a concise organizing
@@ -146,7 +146,7 @@ must earn its place through a distinct usage or contrast.
 
 The user explicitly approved a narrow exception for grammar cards grouped by
 the visible editing operation a learner performs. These cards remain in
-`EN::Patterns` and still have only Front and Back fields, but they are not
+`EN::01 Patterns` and still have only Front and Back fields, but they are not
 forced into the ordinary 2–3-example production-card shape. Their Fronts show
 the reusable transformation pattern directly rather than using a lesson-title
 question.

@@ -1,7 +1,7 @@
-# `EN::Patterns`
+# `EN::01 Patterns`
 
 This directory is the source of truth for the two-field Anki deck
-`EN::Patterns`.
+`EN::01 Patterns`.
 
 - [`cards.md`](cards.md) contains the learner-facing Fronts and Backs.
 - [`PATTERN_FRAME_SELECTION.md`](PATTERN_FRAME_SELECTION.md) defines the
