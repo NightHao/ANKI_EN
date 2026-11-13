@@ -1068,6 +1068,23 @@
     },
     {
       "family": "vocabulary",
+      "key": "cut back / cut down / cut off / cut out / cut in / cut up",
+      "deck": "EN::02 Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Reduce how much you do, spend, or use.; Trim a plant by removing some growth.; Reduce an amount, especially consumption.; Make a tree fall by cutting its trunk.",
+      "related_terms": [
+        "reduce",
+        "prune",
+        "fell",
+        "sever",
+        "disconnect",
+        "interrupt",
+        "eliminate",
+        "omit"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "cylinder",
       "deck": "EN::02 Vocabulary",
       "function": "vocabulary",
@@ -3010,14 +3027,16 @@
     },
     {
       "family": "vocabulary",
-      "key": "proportional",
+      "key": "proportional / disproportionate",
       "deck": "EN::02 Vocabulary",
       "function": "vocabulary",
-      "meaning": "Changing or corresponding in amount according to a consistent relationship or ratio.; Appropriate in size, degree, or seriousness when compared with something else.",
+      "meaning": "Changing or corresponding in amount according to a consistent relationship or ratio.; Appropriate in size, degree, or seriousness when compared with something else.; Too large or too small relative to something else; out of proportion to the comparison.",
       "related_terms": [
         "corresponding",
         "proportionate",
-        "commensurate"
+        "commensurate",
+        "out of proportion",
+        "excessive"
       ]
     },
     {
@@ -3416,6 +3435,19 @@
     },
     {
       "family": "vocabulary",
+      "key": "scatter / disperse / spread out",
+      "deck": "EN::02 Vocabulary",
+      "function": "vocabulary",
+      "meaning": "Throw or drop things over an area in separate places.; Move apart in different directions.; Be scattered: be located in separate places over an area.; Move apart or spread over an area, or cause people or things to do this.",
+      "related_terms": [
+        "disperse",
+        "spread out",
+        "sprinkle",
+        "scatter"
+      ]
+    },
+    {
+      "family": "vocabulary",
       "key": "scrape / scrap",
       "deck": "EN::02 Vocabulary",
       "function": "vocabulary",
@@ -3439,6 +3471,18 @@
         "get by",
         "survive",
         "remain floating"
+      ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "scratch",
+      "deck": "EN::02 Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A thin mark or shallow cut caused by something sharp.; Rub your skin with your nails, often because it itches.; Make a thin mark or shallow cut on a surface with something sharp.; Remove something by marking or rubbing it away.",
+      "related_terms": [
+        "scrape",
+        "cross out",
+        "cancel"
       ]
     },
     {
@@ -3694,6 +3738,14 @@
         "fastener",
         "essential item"
       ]
+    },
+    {
+      "family": "vocabulary",
+      "key": "starch",
+      "deck": "EN::02 Vocabulary",
+      "function": "vocabulary",
+      "meaning": "A type of carbohydrate found in many plants and foods, including potatoes, rice, and corn. Usually uncountable.; Apply starch to fabric to make it stiff or crisp.",
+      "related_terms": []
     },
     {
       "family": "vocabulary",
@@ -4412,21 +4464,21 @@
       "key": "I think/believe/feel (that) + clause · I do not think/believe + clause",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "State a personal judgment. Think and believe often overlap; believe can sound more considered. Feel can present an intuitive or personal judgment. None establishes an objective certainty level. I do not think/believe commonly introduces a negative judgment politely; it can also mean you withhold belief."
+      "meaning": "State a personal judgment."
     },
     {
       "family": "patterns",
       "key": "In my opinion/view, + clause · From my perspective/point of view, + clause · Personally, + clause · As far as I am concerned, + clause · If you ask me, + clause",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Mark a view as your own. In my opinion and in my view are close alternatives; from my perspective/point of view foregrounds your standpoint. Personally marks your own preference or judgment. As far as I am concerned can sound firmer, particularly when setting a boundary. If you ask me is conversational and often introduces a frank or mildly critical view. These are not different levels of certainty. Use in my opinion, but from my point of view."
+      "meaning": "Mark a view as your own."
     },
     {
       "family": "patterns",
       "key": "I would say + clause · I guess/suppose/imagine + clause",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Offer a tentative judgment. I would say softens an assessment; guess and suppose can express uncertainty or reluctant acceptance. Imagine often introduces a reasonable inference about a situation you have not experienced. Their meanings overlap and depend on tone."
+      "meaning": "Offer a tentative judgment."
     },
     {
       "family": "patterns",
@@ -4440,42 +4492,42 @@
       "key": "In my experience, + clause · As far as I know, + clause · From what I have heard, + clause · Apparently, + clause",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Identify the basis or limits of a claim. Experience means firsthand experience; as far as I know allows for missing information. The related expression as far as I can tell limits a judgment to available observations; it overlaps with as far as I know when those observations are the basis of your knowledge. From what I have heard identifies a report. Apparently presents something as seeming true from reports or evidence, without guaranteeing it."
+      "meaning": "Identify the basis or limits of a claim."
     },
     {
       "family": "patterns",
       "key": "It seems/appears that + clause · It seems/looks/sounds/feels like + clause",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Present an impression rather than a confirmed fact. Seems and appears overlap; appears often sounds more formal. Looks like and sounds like can describe an inference, not only literal sight or sound. Feels like highlights your subjective impression."
+      "meaning": "Present an impression rather than a confirmed fact."
     },
     {
       "family": "patterns",
       "key": "look/sound/feel/taste/smell + adjective · look/sound/feel/taste/smell like + noun",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Describe a perceived quality with an adjective; use like before a thing you compare it with. A person can look tired without looking like a particular tired person. These linking uses describe the subject, so use good, not well, for a pleasant taste or smell."
+      "meaning": "Describe a perceived quality with an adjective; use like before a thing you compare it with."
     },
     {
       "family": "patterns",
       "key": "What does X look like? · How does X look?",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "What does it look like usually asks for a description or resemblance. How does it look asks about appearance or an evaluation. The answers can overlap; neither question is automatically wrong when you want to know about appearance."
+      "meaning": "Ask about appearance; descriptions and evaluations can overlap."
     },
     {
       "family": "patterns",
       "key": "I assume/presume + clause · Assuming (that) + clause, main clause",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Accept something as true without confirmation, or state a working premise. Assume and presume often overlap; presume usually sounds more formal. Assuming introduces the condition your conclusion relies on. These expressions do not guarantee that the premise is correct."
+      "meaning": "Accept something as true without confirmation, or state a working premise."
     },
     {
       "family": "patterns",
       "key": "I suspect + clause · I have a feeling (that) + clause",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Present an unconfirmed belief or intuition. Suspect often suggests a possible explanation; it does not necessarily imply wrongdoing. Have a feeling more explicitly presents an intuition. Either can work when evidence is limited."
+      "meaning": "Present an unconfirmed belief or intuition."
     },
     {
       "family": "patterns",
@@ -4489,28 +4541,28 @@
       "key": "I realize/understand (that) + clause · I can see that + clause",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Acknowledge or recognize a situation. Realize often suggests becoming aware of it; understand can acknowledge the facts or someone’s reasoning. I can see that signals recognition and need not describe literal sight. These often accept a point before you respond; they do not automatically mean agreement."
+      "meaning": "Acknowledge or recognize a situation."
     },
     {
       "family": "patterns",
       "key": "I am not sure whether/if + clause · I have no idea + wh-/whether-clause · I am not entirely convinced that + clause · I could be wrong, but + clause",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Express uncertainty or qualified doubt. Whether/if introduces an unresolved yes-or-no question; I have no idea is stronger and more casual: you have no information at all. Not entirely convinced expresses doubt about a claim. I could be wrong acknowledges that your own judgment may be mistaken."
+      "meaning": "Express uncertainty or qualified doubt."
     },
     {
       "family": "patterns",
       "key": "may/might/could + base verb · There is a chance/possibility that + clause · be likely/unlikely to + verb · be bound to + verb",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Express possibility or likelihood without claiming certainty. May, might, and could overlap; context and tone matter more than a fixed probability scale. Likely suggests a probable outcome; unlikely suggests an improbable one. There is a chance/possibility introduces an outcome explicitly. Be bound to makes a confident prediction, often based on experience."
+      "meaning": "Express possibility or likelihood without claiming certainty."
     },
     {
       "family": "patterns",
       "key": "There is evidence that + clause · The results suggest/indicate/show/confirm that + clause",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Report evidence and the conclusion drawn from it. There is evidence that says supporting information exists. Suggest presents an interpretation with room for uncertainty. Indicate says the evidence points to a conclusion and can overlap with suggest or show. Show presents a finding as revealed or demonstrated. Confirm presents a previously uncertain claim, suspicion, or finding as verified."
+      "meaning": "Report evidence and the conclusion drawn from it."
     },
     {
       "family": "patterns",
@@ -4524,105 +4576,105 @@
       "key": "always/usually/often/sometimes/occasionally/rarely/hardly ever/never + main verb · be + frequency adverb · every now and then / from time to time · How often ...?",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Describe how frequently something happens: always = every time; usually = most of the time; often = frequently; sometimes/occasionally = on some occasions; rarely/hardly ever = very infrequently; never = not at any time. These expressions do not represent fixed percentages."
+      "meaning": "Describe how frequently something happens; these expressions do not represent fixed percentages."
     },
     {
       "family": "patterns",
       "key": "tend to + verb · In general/Generally/In most cases, + clause",
       "deck": "EN::01 Patterns",
       "function": "Opinions, certainty, and evidence",
-      "meaning": "Describe a tendency while allowing exceptions. Tend to presents characteristic behavior; the sentence openings introduce a generalization. They do not specify an exact frequency or claim that every case is the same."
+      "meaning": "Describe a tendency while allowing exceptions."
     },
     {
       "family": "patterns",
       "key": "The main reason + clause + is that + clause · One reason for + noun/V-ing + is that + clause",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Give an explanation. The main reason identifies the most important reason; one reason introduces a contribution without claiming it is the only one. Use a clause after the reason I/we/etc.; use for before a noun or an -ing action."
+      "meaning": "Give an explanation."
     },
     {
       "family": "patterns",
       "key": "because/since/as + clause · because of/due to + noun/V-ing",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Give a cause. Because makes the reason explicit; since and as often present background reasons, but they can also refer to time. Use because for clarity if that ambiguity matters. Because of and due to take a noun phrase or an -ing phrase, not an ordinary subject–verb clause."
+      "meaning": "Give a cause."
     },
     {
       "family": "patterns",
       "key": "clause, so + result · As a result/Therefore/Consequently, + clause · That is why + clause",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Present a result or conclusion. So joins clauses and is common in conversation. As a result highlights a consequence; therefore often highlights a logical conclusion; consequently is more formal. That is why explains an outcome. These can overlap. Start a new sentence or use a semicolon before therefore/consequently when linking independent statements."
+      "meaning": "Present a result or conclusion."
     },
     {
       "family": "patterns",
       "key": "Given/Considering + noun/that-clause · Based on + evidence · In light of + facts · On that basis, + conclusion",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Present the grounds for a judgment or recommendation. Given/considering + noun or that-clause brings relevant facts or circumstances into consideration; these are often alternatives. Based on/on the basis of introduces evidence or criteria used to reach a judgment and can take a noun phrase or a what-clause. In light of highlights relevant information or circumstances, often prompting reassessment; it does not require the information to be new. On that basis refers back to grounds already stated. These uses overlap, but they organize the reasoning differently rather than necessarily expressing a direct physical cause."
+      "meaning": "Present the grounds for a judgment or recommendation."
     },
     {
       "family": "patterns",
       "key": "One possible explanation is that + clause · It might have something to do with + noun · X has nothing to do with Y",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Suggest an explanation without presenting it as established. A possible explanation proposes how or why something happened. Might have something to do with suggests a connection that still needs investigation. Has nothing to do with firmly denies a connection."
+      "meaning": "Suggest an explanation without presenting it as established."
     },
     {
       "family": "patterns",
       "key": "The cause of X is Y · What is causing + noun?",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Identify or ask about the cause of a problem or event. Naming the cause is stronger than proposing a possible explanation. A symptom is an observable effect, not automatically the cause."
+      "meaning": "Identify or ask about the cause of a problem or event."
     },
     {
       "family": "patterns",
       "key": "(in order) to + verb · so that + subject + can/could + verb · The goal is to + verb · be designed to + verb",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Explain purpose. A purpose infinitive normally shares its understood actor with the main action. So that lets you name a different actor. In order to makes purpose explicit; plain to is usually enough. A goal or design expresses an intention, not guaranteed success."
+      "meaning": "Explain purpose."
     },
     {
       "family": "patterns",
       "key": "clause, but + clause · Although/Though/Even though + clause, main clause · Despite/In spite of + noun/V-ing, main clause · statement. However, statement. · clause, though",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Express a contrast despite an expectation. These forms can convey the same message after restructuring. Although and though overlap; even though emphasizes the unexpected result. Despite and in spite of are near-equivalents. However often sounds more formal and needs a sentence boundary or semicolon between independent statements. But also has broader contrast uses. Sentence-final though is conversational; although/even though cannot take that position."
+      "meaning": "Something happened even though another fact might make you expect otherwise. These forms can express the same message after restructuring."
     },
     {
       "family": "patterns",
       "key": "That said/Still/Even so/Nevertheless, + clause · While it is true that + clause, main clause · X may be true, but Y",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Acknowledge a point before limiting its implications. That said signals a qualification; still, even so, and nevertheless stress what remains true despite the previous point. Nevertheless is more formal than still. While it is true and may ... but explicitly concede a point. These choices often overlap rather than expressing mutually exclusive meanings."
+      "meaning": "Acknowledge a point before limiting its implications."
     },
     {
       "family": "patterns",
       "key": "clause, whereas/while + clause · On the one hand, + clause; on the other hand, + clause · One advantage/disadvantage of + noun/V-ing + is that + clause",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Use these expressions to contrast facts or weigh the benefits and drawbacks of an option. Whereas/while compares facts; while can also express time. On the one hand/on the other hand weighs competing considerations. Advantage/disadvantage names a benefit or drawback. The flip side introduces another aspect, positive or negative; the downside names a disadvantage. Comes at the cost of identifies the sacrifice."
+      "meaning": "Use these expressions to contrast facts or weigh the benefits and drawbacks of an option."
     },
     {
       "family": "patterns",
       "key": "I agree/disagree with + noun · I agree to some extent/up to a point, but + clause · I see your point, but + clause · That is a valid concern · To be fair, + clause · I have a different take on + noun",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Acknowledge another viewpoint before responding. I agree to some extent and I agree up to a point express partial agreement and often lead into a reservation with but. Seeing someone's point or recognizing a concern does not require agreement. To be fair introduces a consideration you think deserves recognition. A different take offers another interpretation."
+      "meaning": "Acknowledge another viewpoint before responding."
     },
     {
       "family": "patterns",
       "key": "X does not necessarily mean Y · Just because + clause + does not mean + clause · X does not guarantee Y",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Reject an overstrong inference. Not necessarily means the conclusion is not automatic, rather than saying it is always false. Does not guarantee denies certainty, even when the first fact makes the outcome more likely."
+      "meaning": "One fact alone is not enough to establish a conclusion or ensure an outcome. All three work in this situation: the first two question an inference, and the third emphasizes the lack of certainty."
     },
     {
       "family": "patterns",
       "key": "It is not that X; it is (just) that Y · It’s not like + clause · It’s not like + person + to + verb · I am not saying X; I am saying Y · The problem is not X; it is Y",
       "deck": "EN::01 Patterns",
       "function": "Reasons, results, purpose, and contrast",
-      "meaning": "Correct a possible interpretation by stating the intended distinction. It is not that rejects an assumed reason; adding just, or using It’s just that alone, gives the real reason more softly, especially when you decline something. It’s not like + clause looks similar but dismisses a worry or assumption: it means it is not as if. It’s not like + person + to + verb says that a behavior is unusual for that person. I am not saying clarifies your claim. Keep the two alternatives parallel enough to compare."
+      "meaning": "Correct a possible interpretation by stating the intended distinction."
     },
     {
       "family": "patterns",
@@ -4636,14 +4688,14 @@
       "key": "In terms of + noun/V-ing · in this/that regard/respect",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Limit an evaluation to one aspect, measure, or activity. In terms of names the aspect; in this/that regard/respect refers back to an aspect already clear from the context. These expressions organize the same kind of evaluation without requiring a separate card for this versus that. In that sense instead refers to a particular interpretation; it belongs with in a way/in a sense."
+      "meaning": "Limit an evaluation to one aspect, measure, or activity."
     },
     {
       "family": "patterns",
       "key": "What I need/value/like most is + noun/clause · What matters most is + noun/clause · What I struggle with most is + noun/V-ing",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Put the focus at the end of the sentence. The opening what-clause acts as the subject; is introduces the important information. Choose the opening verb for the relationship you mean, rather than treating every frame as an interchangeable introduction."
+      "meaning": "Put the focus at the end of the sentence."
     },
     {
       "family": "patterns",
@@ -4657,14 +4709,14 @@
       "key": "What I mean is + clause · What I am trying to say is + clause · That is not what I meant · In other words/To put it simply, + clause · Sorry, I meant to say + correction",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Clarify or reformulate a message. What I mean introduces your intended meaning; what I am trying to say can help repair a difficult explanation. That is not what I meant rejects a misunderstanding. In other words restates; to put it simply promises a simpler version."
+      "meaning": "Clarify or reformulate a message."
     },
     {
       "family": "patterns",
       "key": "For example/For instance, + clause · such as/like + noun/V-ing",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Illustrate a general point with a specific case. For example and for instance can introduce a sentence; such as introduces examples within a phrase. Like also introduces examples in ordinary conversation. They do not themselves express a cause or correction."
+      "meaning": "Illustrate a general point with a specific case."
     },
     {
       "family": "patterns",
@@ -4678,84 +4730,84 @@
       "key": "Also, + clause · In addition/Furthermore, + clause · Another thing is that + clause · not only X but also Y",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Add a related point. Also and another thing are comfortable in conversation; in addition is neutral-to-formal, and furthermore is more formal. Not only ... but also emphasizes the combination. Keep X and Y grammatically parallel."
+      "meaning": "Add a related point."
     },
     {
       "family": "patterns",
       "key": "First/First of all, + clause · Then/Next/After that, + clause · Finally, + clause",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Put steps or points in a clear order. First of all can introduce your first point; finally introduces the last one. These expressions organize a sequence and do not automatically summarize an argument."
+      "meaning": "Put steps or points in a clear order."
     },
     {
       "family": "patterns",
       "key": "The main point is that + clause · The bottom line is that + clause · At the end of the day, + clause",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Highlight the central message or practical conclusion. Main point identifies what you most want someone to understand. Bottom line often stresses what ultimately matters for a decision; it is common in conversation and workplace discussion. At the end of the day introduces what matters most after everything else is considered; it is very common in speech but sounds like a cliché if overused."
+      "meaning": "Highlight the central message or practical conclusion."
     },
     {
       "family": "patterns",
       "key": "To sum up/In summary/In conclusion/Overall, + clause · Long story short, + clause",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Summarize or give an overall assessment. To sum up and in summary introduce a summary; in conclusion more explicitly closes an argument and suits formal writing or presentations. Overall evaluates the whole picture and can also introduce a data overview. Long story short is casual: it skips the details of a story and gives the outcome."
+      "meaning": "Summarize or give an overall assessment."
     },
     {
       "family": "patterns",
       "key": "base verb + object/complement · Do not/Don’t + base verb · Make sure (that) + clause",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Give instructions with an understood you as the subject. Please can soften a request; make sure asks someone to ensure a condition holds. Use an ordinary tense inside the that-clause."
+      "meaning": "Give instructions with an understood you as the subject."
     },
     {
       "family": "patterns",
       "key": "Speaking of + noun, + clause · Going back to + topic, + clause · Anyway, as I was saying, + clause · Now that you mention it, + clause · One thing I forgot to mention is + noun/clause",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Move between topics clearly. Speaking of introduces a related topic; going back returns to an earlier one. As I was saying resumes an interrupted point. Now that you mention it introduces something prompted by the other person’s remark."
+      "meaning": "Move between topics clearly."
     },
     {
       "family": "patterns",
       "key": "Can I jump in for a second? · Let me finish + noun",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Ask to take a turn or keep your turn long enough to finish. These are direct conversational tools; a calm tone helps. Let me finish can sound firm when someone repeatedly interrupts."
+      "meaning": "Ask to take a turn or keep your turn long enough to finish."
     },
     {
       "family": "patterns",
       "key": "Let me think for a second · I have never really thought about + noun/wh-clause · I am not sure how to answer that · It’s hard to say + wh-/whether-clause",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Acknowledge that you need thinking time or do not yet have an answer. These phrases let you respond honestly instead of inventing an opinion. It’s hard to say signals that the answer depends on factors nobody knows yet. Follow with a relevant thought when you have one."
+      "meaning": "Acknowledge that you need thinking time or do not yet have an answer."
     },
     {
       "family": "patterns",
       "key": "To be honest, + clause · I have to say/admit, + clause",
       "deck": "EN::01 Patterns",
       "function": "Explanation, organization, and clarification",
-      "meaning": "Use these only when you are genuinely being candid or admitting something; do not use them as empty fillers. I have to say stresses a frank judgment, often a positive or surprising one. I have to admit concedes something you did not expect or would rather not say."
+      "meaning": "Use these only when you are genuinely being candid or admitting something; do not use them as empty fillers."
     },
     {
       "family": "patterns",
       "key": "simple present · am/is/are + V-ing · Do/Does + subject + base verb? · Am/Is/Are + subject + V-ing?",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Use the simple present for habits, general facts, and stable situations; use the present continuous for an activity in progress or a temporary developing situation. The simple present takes -s with he/she/it, but after does use the base verb. State verbs such as know, own, and need normally use the simple form."
+      "meaning": "Choose between general/habitual and current/temporary situations, in statements and questions."
     },
     {
       "family": "patterns",
       "key": "I think + clause · I am thinking about/of + noun/V-ing",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Distinguish holding an opinion from actively considering an idea. Opinion think normally uses a simple form; thinking about/of describes the mental activity. The same verb can take different forms because its meaning changes."
+      "meaning": "Distinguish holding an opinion from actively considering an idea."
     },
     {
       "family": "patterns",
       "key": "be + adjective · be being + behavior adjective",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Use be for a state or characteristic; be being highlights current behavior. It works with behavior descriptions such as helpful, rude, careful, or unreasonable. Do not use being merely to make a nonbehavioral state temporary."
+      "meaning": "Use be for a state or characteristic; be being highlights current behavior."
     },
     {
       "family": "patterns",
@@ -4769,63 +4821,63 @@
       "key": "simple past · have/has + past participle · Have you ever ...? · have/has not ... yet",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Use the simple past for a finished past time, stated or understood. Use the present perfect to look back from now: experience up to now, a current result, or an unfinished period. With a stated finished time, use the simple past. In casual AmE, the simple past often overlaps with the present perfect for recent events with just, already, and yet."
+      "meaning": "Relate events to a finished past time or look back from the present."
     },
     {
       "family": "patterns",
       "key": "have/has + noun · have + object + state/condition",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Use main-verb have to describe possession, relationships, availability, and current conditions. Have got is conversational; plain have and do you have are versatile in American English. When an object is followed by a state/condition, the final phrase describes the object: left means remaining, ready means prepared, and on silent names a setting. For activities, have can be continuous; for past possession, use had, not have got. Do not confuse this with auxiliary have + past participle or causative have + person + base verb."
+      "meaning": "Use main-verb **have** for possession, relationships, availability, activities, and an object's current condition. **Have got** is a conversational alternative for current possession. Distinguish these uses from auxiliary **have + past participle** and causative **have + person + base verb**."
     },
     {
       "family": "patterns",
       "key": "have/has + past participle · have/has been + V-ing · for + duration · since + starting point",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Use the simple perfect for a result, count, or established state; use the continuous perfect to emphasize activity or duration up to now. The activity may still be happening or may have just stopped. Live and work often allow both. Use for for a length of time and since for its starting point. Know and own normally take the simple form."
+      "meaning": "Choose a focus on result, state, or activity, and express duration or a starting point."
     },
     {
       "family": "patterns",
       "key": "The first/last time + past clause, + clause · This is the first time + present perfect · When was the last time + past clause?",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Distinguish narrating an occasion from counting experience up to now. The first time I did something introduces a past occasion. This is the first time I have done something relates the current experience to earlier ones. After was, had done is available when looking back from that past point."
+      "meaning": "Distinguish narrating an occasion from counting experience up to now."
     },
     {
       "family": "patterns",
       "key": "It has been + duration + since + past clause · How long has it been since + past clause?",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Measure the time from an earlier event to now. The since-clause identifies the event, while the main clause gives the elapsed duration. Conversational it’s been is natural."
+      "meaning": "Measure the time from an earlier event to now."
     },
     {
       "family": "patterns",
       "key": "used to + base verb · would + base verb for repeated past actions · be/get used to + noun/V-ing",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Used to describes a past habit or state that no longer holds. Would can describe repeated past actions after the past setting is clear; it does not usually replace used to for a past state. Be used to means familiar with; get used to describes becoming familiar. The to in these last two forms takes a noun or -ing action."
+      "meaning": "Used to describes a past habit or state that no longer holds."
     },
     {
       "family": "patterns",
       "key": "was/were + V-ing + when + past event · While + past continuous, + past continuous",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Set an activity in progress as background to an event, or describe two simultaneous activities. The past continuous does not itself mean an action was interrupted; the surrounding event tells you that."
+      "meaning": "Set an activity in progress as background to an event, or describe two simultaneous activities."
     },
     {
       "family": "patterns",
       "key": "simple past · had + past participle · had been + V-ing",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Use the simple past for the main events in a past account. Use the past perfect when you need to look back from one past moment to an earlier event. Do not use the past perfect merely because an event happened a long time ago."
+      "meaning": "Narrate past events, or look back from a past reference point."
     },
     {
       "family": "patterns",
       "key": "be about to + verb + when + event · was/were going to + verb, but + clause · meant to + verb, but + clause",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "About to means an action is imminent; it does not guarantee that another event prevents it. Was going to states an earlier plan or expectation. Meant to states an intention. Adding but makes the change explicit, rather than relying on the tense alone."
+      "meaning": "About to means an action is imminent; it does not guarantee that another event prevents it."
     },
     {
       "family": "patterns",
@@ -4839,14 +4891,14 @@
       "key": "As soon as/Once/The moment + clause, + main clause · right after + noun/clause",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Link events in sequence. As soon as and the moment emphasize immediacy; once emphasizes reaching a stage or condition and does not promise immediate action. Right after emphasizes a short gap. In future time clauses, use a present form rather than will for the expected event."
+      "meaning": "Link events in sequence."
     },
     {
       "family": "patterns",
       "key": "by + deadline · until + endpoint · not ... until + time/clause · It was not until X that Y",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "By sets a latest completion time. Until describes continuation up to an endpoint; not ... until delays the start or occurrence. It was not until ... that ... emphasizes the delayed timing. With future time clauses, use a present form."
+      "meaning": "Distinguish a completion deadline, continuation, and a delayed occurrence."
     },
     {
       "family": "patterns",
@@ -4860,35 +4912,35 @@
       "key": "will + base verb · be going to + base verb · present continuous + future time · will be + V-ing · simple present for a timetable",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Will can express predictions, promises, or decisions made now. Going to often expresses an existing intention or a prediction based on present evidence. The present continuous presents an arrangement. Will be doing describes activity in progress at a future time. These forms overlap; they are not rigid one-to-one categories."
+      "meaning": "Express a prediction, plan, arrangement, activity in progress, or timetable. These forms overlap; they are not rigid one-to-one categories."
     },
     {
       "family": "patterns",
       "key": "Whenever/Every time + clause, + clause · when/if + clause, + clause",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Whenever and every time describe repeated occasions. When presents an event as expected or established; if leaves it conditional. In general rules, when and if can overlap. Use a present form in a future time or condition clause."
+      "meaning": "Whenever and every time describe repeated occasions."
     },
     {
       "family": "patterns",
       "key": "At first, + clause; eventually/in the end, + clause · Over time, + clause · Over the past + period, + present perfect",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Contrast an initial situation with a later outcome. Eventually emphasizes reaching a point after time or effort; in the end emphasizes the final outcome. Over time describes gradual development. Over the past ... connects a period to now and commonly takes the present perfect."
+      "meaning": "Contrast an initial situation with a later outcome."
     },
     {
       "family": "patterns",
       "key": "still + verb · not ... anymore/any longer · no longer + verb · already/yet",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Describe whether a situation continues or an expected change has happened. Still marks continuation; not ... anymore/any longer and no longer mark an ended situation. Already marks completion by now or earlier than expected; yet usually appears in questions and negatives about an expected change. AmE commonly writes adverbial anymore as one word."
+      "meaning": "Describe whether a situation continues or an expected change has happened."
     },
     {
       "family": "patterns",
       "key": "at the beginning/end of + noun · in the beginning/end",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "At the beginning/end of identifies a point in a period, event, or object. In the beginning describes an initial situation; in the end gives the eventual outcome. Do not add of after in the end for a date or event endpoint."
+      "meaning": "Distinguish a point within a named period from an initial situation or final outcome."
     },
     {
       "family": "patterns",
@@ -4902,126 +4954,126 @@
       "key": "You will not believe what happened · So there’s this + noun + clause · All of a sudden/Out of nowhere, + clause · The next thing I knew, + clause",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Introduce a surprising story or an abrupt event. So there’s this + noun introduces a new person or thing in a casual story, even though the listener does not know it yet. All of a sudden emphasizes suddenness; out of nowhere emphasizes an unexpected appearance or event. The next thing I knew skips to a rapid or surprising development from the speaker’s perspective. These are conversational storytelling choices."
+      "meaning": "Introduce a surprising story or an abrupt event."
     },
     {
       "family": "patterns",
       "key": "Luckily/Fortunately/Unfortunately, + clause · To make matters worse, + clause",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Evaluate whether events were fortunate or unfortunate. Luckily and fortunately overlap; unfortunately marks bad news or a disappointing outcome. To make matters worse adds a further problem to an already bad situation."
+      "meaning": "Evaluate whether events were fortunate or unfortunate."
     },
     {
       "family": "patterns",
       "key": "Surprisingly, + clause · I could not believe + clause",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Express surprise about an event. Surprisingly marks something as unexpected; could not believe often expresses a stronger personal reaction, without literally denying what happened."
+      "meaning": "Express surprise about an event."
     },
     {
       "family": "patterns",
       "key": "almost/nearly + verb · almost/nearly all/every + noun",
       "deck": "EN::01 Patterns",
       "function": "Time, habits, experiences, and stories",
-      "meaning": "Say an action came close to happening or a quantity was close to complete. Almost missing a train means you caught it; almost finishing means some work remained. Almost and nearly overlap in these patterns."
+      "meaning": "Say an action came close to happening or a quantity was close to complete."
     },
     {
       "family": "patterns",
       "key": "If + present, + present/will/can/may · as long as/provided that + clause · only if + clause",
       "deck": "EN::01 Patterns",
       "function": "Conditions, alternatives, hopes, and regrets",
-      "meaning": "Use an open condition for general rules or real possibilities. As long as and provided that state a requirement; provided that is more formal. Only if marks a necessary condition, not a guarantee of the result. Present forms normally express future conditions."
+      "meaning": "Use an open condition for general rules or real possibilities."
     },
     {
       "family": "patterns",
       "key": "unless + clause · if not, + clause · otherwise, + clause · in that case/if that’s the case, + clause · That’s not the case",
       "deck": "EN::01 Patterns",
       "function": "Conditions, alternatives, hopes, and regrets",
-      "meaning": "Unless usually means if ... not, but do not mechanically substitute it into every negative condition. Otherwise gives the consequence if the preceding requirement is not met. If not negates a clear prior condition. In that case and if that’s the case respond to the situation just described. That’s not the case politely says that a described situation is not true."
+      "meaning": "Unless usually means if ..."
     },
     {
       "family": "patterns",
       "key": "Even though + fact, + clause · Even if + possible case, + clause · whether or not/no matter what/how + clause · It doesn’t matter + wh-/if-clause · regardless of + noun/V-ing/whether-clause",
       "deck": "EN::01 Patterns",
       "function": "Conditions, alternatives, hopes, and regrets",
-      "meaning": "Even though presents a fact; even if describes a possible condition. Whether or not covers both alternatives, and no matter what/how makes the outcome independent of the named variation. It does not matter expresses that independence as a complete sentence. Regardless of also makes the result independent of a circumstance and takes a noun phrase, an -ing clause, or whether + clause. Do not put a bare subject-verb statement directly after regardless of; use whether for the yes-or-no alternative. Preserve the fact-versus-possibility distinction rather than treating every expression as interchangeable."
+      "meaning": "Make an outcome independent of a circumstance while preserving the distinction between fact and possibility."
     },
     {
       "family": "patterns",
       "key": "in case + clause · just in case · in case of + noun",
       "deck": "EN::01 Patterns",
       "function": "Conditions, alternatives, hopes, and regrets",
-      "meaning": "Describe a precaution with in case: prepare before you know whether the event will happen. If instead makes the action conditional. In case of in instructions means if the named event occurs. Use a present form for a future event after in case."
+      "meaning": "Describe a precaution with in case: prepare before you know whether the event will happen."
     },
     {
       "family": "patterns",
       "key": "What if + clause? · Let’s say/Suppose + clause",
       "deck": "EN::01 Patterns",
       "function": "Conditions, alternatives, hopes, and regrets",
-      "meaning": "Invite someone to consider a hypothetical scenario. What if can raise a worry or propose an option. Let’s say and suppose establish an imagined case for discussion; they do not claim it is true."
+      "meaning": "Invite someone to consider a hypothetical scenario."
     },
     {
       "family": "patterns",
       "key": "depend on + noun/whether/how-clause · Depending on + noun/wh-clause, + main clause · Whether + clause + depends on + noun/wh-clause",
       "deck": "EN::01 Patterns",
       "function": "Conditions, alternatives, hopes, and regrets",
-      "meaning": "Use depend on to name what determines an answer or outcome. Whether introduces an unresolved yes-or-no condition; how introduces a manner or degree. Depending on introduces a variable that changes the situation, rather than saying someone is personally dependent."
+      "meaning": "Use depend on to name what determines an answer or outcome."
     },
     {
       "family": "patterns",
       "key": "If + past form, + would/could + base verb · If + subject + were to + verb, + would + base verb · Without + noun, + would/could + base verb",
       "deck": "EN::01 Patterns",
       "function": "Conditions, alternatives, hopes, and regrets",
-      "meaning": "Imagine a present or future situation as hypothetical or remote. The past form marks distance from reality, not necessarily past time. Were is standard for hypothetical be; was also occurs in conversation. Were to makes a future possibility sound even more hypothetical, often for a sensitive or unlikely case. Without can express the absent condition. Use could for an imagined possibility or ability."
+      "meaning": "Imagine a present or future situation as hypothetical or remote."
     },
     {
       "family": "patterns",
       "key": "If + had + past participle, + would/could have + past participle · If + had + past participle, + would + base verb + now",
       "deck": "EN::01 Patterns",
       "function": "Conditions, alternatives, hopes, and regrets",
-      "meaning": "Imagine a different past and its consequence. Would have gives an imagined past result; could have gives an imagined possibility. Use would + base verb when the consequence belongs to now. Without + noun can replace a clear condition, but keep the consequence’s time intact."
+      "meaning": "Imagine a different past and its consequence."
     },
     {
       "family": "patterns",
       "key": "I hope + clause · I wish + past form · I wish + had + past participle · I wish + would + verb",
       "deck": "EN::01 Patterns",
       "function": "Conditions, alternatives, hopes, and regrets",
-      "meaning": "Hope leaves room for a desired outcome to be true. Wish + past describes an unreal or unsatisfactory present; wish + past perfect regrets a past situation. Wish + would often expresses a desired change, sometimes with frustration, rather than a neutral prediction."
+      "meaning": "Express desired outcomes, unreal wishes, or regret about the past."
     },
     {
       "family": "patterns",
       "key": "could have + past participle · should/should not have + past participle",
       "deck": "EN::01 Patterns",
       "function": "Conditions, alternatives, hopes, and regrets",
-      "meaning": "Could have can describe an unrealized possibility or a possible explanation; context determines which. Should have often evaluates a past choice or expresses regret. It can also express an expected completed event, so do not assume every should have sentence criticizes someone."
+      "meaning": "Could have can describe an unrealized possibility or a possible explanation; context determines which."
     },
     {
       "family": "patterns",
       "key": "must/might/cannot + base verb · must/might/could not have + past participle · should + base verb",
       "deck": "EN::01 Patterns",
       "function": "Conditions, alternatives, hopes, and regrets",
-      "meaning": "Distinguish inference, possibility, and expectation. Must can express a strong inference rather than an obligation. Cannot/could not can reject a possibility. Have + past participle places the inference in the past. Should can predict what is expected, without making a promise."
+      "meaning": "Distinguish inference, possibility, and expectation."
     },
     {
       "family": "patterns",
       "key": "plan/decide/hope/agree/promise + to + verb · decide against + noun/V-ing · think about + V-ing",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "These verbs can take to + base verb for an intended action; each verb still keeps its own meaning. Decide against rejects an option and takes a noun or -ing form. Think about doing something describes consideration, not a commitment. Do not assume every verb accepts both complement shapes."
+      "meaning": "These verbs can take to + base verb for an intended action; each verb still keeps its own meaning."
     },
     {
       "family": "patterns",
       "key": "have to/have got to/need to/must + verb · do not have to/do not need to + verb · did not have to + verb · be going to have to + verb · cannot/must not + verb · be supposed to + verb · be supposed to be + adjective/noun",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Have to, have got to, need to, and must can express necessity. Have got to is conversational; have to is useful across tenses. Do not have to/need to removes necessity; did not have to says something was unnecessary in the past, and You didn’t have to! thanks someone for an unnecessary kindness. Be going to have to announces an unwelcome necessity politely. Cannot/must not can prohibit an action. Supposed to expresses an expectation, arrangement, or rule. Was supposed to does not itself prove that the action failed to happen. Be supposed to be + adjective/noun reports what people say about something."
+      "meaning": "Describe necessity, lack of necessity, prohibition, and expectations."
     },
     {
       "family": "patterns",
       "key": "should + verb · might want to + verb · had better + verb · would be better off + V-ing · Have you tried + V-ing?",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Give advice. Should is a direct recommendation; might want to softens it. Had better suggests an important warning or consequence, so it can sound pushy in a low-stakes suggestion. Would be better off + V-ing says an option would leave someone in a better position. Have you tried + V-ing? suggests a solution as a question. Should and had better take a base verb without to."
+      "meaning": "Give advice."
     },
     {
       "family": "patterns",
@@ -5035,28 +5087,28 @@
       "key": "It is time (for + person) to + verb · It is (about) time + subject + past form",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Say an action should happen now. The to-form is a neutral signal; the past-form construction can imply that the action is overdue. About time often strengthens that implication. The past form here does not locate the action in the past."
+      "meaning": "Say an action should happen now."
     },
     {
       "family": "patterns",
       "key": "prefer + noun/V-ing + to + noun/V-ing · would prefer to + verb · would rather + base verb + than + base verb · instead of + noun/V-ing · rather than + parallel alternative",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Prefer can express a general preference; would prefer/would rather often expresses a current choice. After would rather, use a base verb. Instead of takes a noun or -ing action. Rather than contrasts alternatives and works best when their shapes are parallel. These forms can express the same preference after restructuring."
+      "meaning": "Express a preference or describe the alternative chosen."
     },
     {
       "family": "patterns",
       "key": "like/love/hate + V-ing / to + verb · would like/love + to + verb",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Both -ing and to can express general likes and dislikes, especially in AmE. An -ing form often focuses on the activity as an experience; like to can foreground a chosen routine. Would like/love usually introduces a particular wish and takes to. Do not invent a rigid enjoyment-versus-duty rule."
+      "meaning": "Both -ing and to can express general likes and dislikes, especially in AmE."
     },
     {
       "family": "patterns",
       "key": "Either one works for me · What are our options for + noun/V-ing? · Which would you recommend?",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Discuss a choice among options. Either one works accepts either of two choices. Ask about options before choosing; ask which someone recommends when you want their judgment."
+      "meaning": "Discuss a choice among options."
     },
     {
       "family": "patterns",
@@ -5070,133 +5122,133 @@
       "key": "be worth + noun/V-ing · There is no point in + V-ing · It makes sense to + verb",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Evaluate whether an action offers enough value or serves a purpose. Worth takes a noun or -ing form. No point in says an action lacks a useful purpose. Makes sense to says it is reasonable in context; it does not necessarily mean it is morally right or the only option."
+      "meaning": "Evaluate whether an action offers enough value or serves a purpose."
     },
     {
       "family": "patterns",
       "key": "can/be able to + verb · could + verb · managed to + verb · could not + verb + in time · cannot seem to + verb",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Describe ability and actual success. Could often describes general past ability; managed to highlights success on a particular difficult occasion. Was able to can also report that success. Could not can describe a particular failure. Cannot seem to expresses difficulty despite trying. Finally adds the sense that a delay or obstacle has ended."
+      "meaning": "Describe ability and actual success."
     },
     {
       "family": "patterns",
       "key": "try to + verb · try + V-ing",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Try to emphasizes an attempt; try doing presents an action as a method or experiment. The meanings can overlap when an attempted action also tests a solution. Neither construction guarantees success."
+      "meaning": "Try to emphasizes an attempt; try doing presents an action as a method or experiment."
     },
     {
       "family": "patterns",
       "key": "mean to + verb · mean + V-ing",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Mean to expresses intention; mean doing describes what something entails. Did not mean to is useful when acknowledging an unintended action. The different complement changes the relationship, not just the style."
+      "meaning": "Mean to expresses intention; mean doing describes what something entails."
     },
     {
       "family": "patterns",
       "key": "need + V-ing · need to be + past participle",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Describe an action that needs to be performed on the subject. The -ing form has a passive interpretation here. Need to be + past participle is a broadly useful AmE alternative. Contrast with a person who needs to perform an action."
+      "meaning": "Describe an action that needs to be performed on the subject."
     },
     {
       "family": "patterns",
       "key": "remember/forget + to + verb · remember/forget + V-ing",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Remember/forget to points to an action you need to perform. Remember doing points to a memory of an earlier event; never forget doing says that memory will stay with you."
+      "meaning": "Remember/forget to points to an action you need to perform."
     },
     {
       "family": "patterns",
       "key": "stop + V-ing · stop + to + verb",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Stop doing ends an activity. Stop to do pauses another activity so you can do something else. The infinitive gives the purpose of stopping."
+      "meaning": "Stop doing ends an activity."
     },
     {
       "family": "patterns",
       "key": "regret + V-ing · regret to say/inform + clause",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Regret doing looks back at an action with sorrow. Regret to say/inform introduces unwelcome news now and is formal, especially in notices or letters. In ordinary conversation, I am sorry is usually less distant."
+      "meaning": "Regret doing looks back at an action with sorrow."
     },
     {
       "family": "patterns",
       "key": "go on + V-ing · go on + to + verb",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Distinguish continuing the same activity from moving to a new one. Go on doing continues; go on to do introduces a subsequent action or stage."
+      "meaning": "Distinguish continuing the same activity from moving to a new one."
     },
     {
       "family": "patterns",
       "key": "have trouble/difficulty + V-ing · have trouble with + noun",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Describe something you find hard to do. Trouble/difficulty take an -ing action without to; trouble with names the problematic thing. Having trouble describes a current difficulty."
+      "meaning": "Describe something you find hard to do."
     },
     {
       "family": "patterns",
       "key": "be done + V-ing / with + noun · still need to + verb",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Report what is finished and what remains. Done doing and done with can describe completion. Done with can also mean wanting no further involvement; context determines which meaning applies."
+      "meaning": "Report what is finished and what remains."
     },
     {
       "family": "patterns",
       "key": "It takes + (person +) time/effort + to + verb · spend + time/money + on + noun / V-ing · How much longer will + clause?",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Takes describes the time or effort required; spend makes the person or organization the subject. Use on before a noun after spend; with time + -ing, on is usually omitted. How much longer asks about the remaining duration."
+      "meaning": "Takes describes the time or effort required; spend makes the person or organization the subject."
     },
     {
       "family": "patterns",
       "key": "be busy + V-ing · be busy with + noun",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Say an activity or task is occupying your time. Use -ing directly for the activity and with before a noun. This can explain why you are unavailable without rejecting someone personally."
+      "meaning": "Say an activity or task is occupying your time."
     },
     {
       "family": "patterns",
       "key": "have/get a chance to + verb · give + person + a chance/the opportunity to + verb · Have you had a chance to + verb?",
       "deck": "EN::01 Patterns",
       "function": "Plans, choices, obligations, and getting things done",
-      "meaning": "Describe an opportunity or politely ask about progress. Have you had a chance to can sound less demanding than Have you done it, but context and tone still matter. Get a chance can mean an opportunity becomes available."
+      "meaning": "Describe an opportunity or politely ask about progress."
     },
     {
       "family": "patterns",
       "key": "Could you + verb? · I was wondering if you could + verb · Would it be possible to + verb? · Could I ask you a favor? · I would be grateful if you could + verb",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Make a request. Could you is a normal polite choice; I was wondering softens the approach and does not necessarily refer to a past request. Would it be possible asks about feasibility and can leave the actor implicit. Add a clear object or deadline when needed."
+      "meaning": "Make a request."
     },
     {
       "family": "patterns",
       "key": "Can/Could I + verb? · Do you mind if + present clause? · Would you mind + V-ing? · Is it okay if + clause? · Would you mind if + past clause?",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Ask permission or request an action. Do you mind if I asks about your action; would you mind doing asks the other person to act. A no response to mind normally means no objection. Use a clear phrase such as Go ahead or Sure to avoid confusion."
+      "meaning": "Ask permission or request an action."
     },
     {
       "family": "patterns",
       "key": "Do you want me to + verb? · Do you need a hand with + noun? · What would you like me to + verb?",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Offer help or ask which action the other person wants. In want/like + me + to, me performs the following action. Need a hand is conversational."
+      "meaning": "Offer help or ask which action the other person wants."
     },
     {
       "family": "patterns",
       "key": "Are you free + time/to + verb? · Does + time + work for you? · Could we move + event + to + time? · I can’t make it (to + event) · Can we make it + time? · When will you be ready to + verb? · Do you have any plans for + time?",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Check availability, propose a time, reschedule, or ask about readiness. Free refers to availability, not price, in this context. Work for you asks whether a proposal is suitable. Make it means manage to attend or arrive; Can we make it + time? proposes a different time."
+      "meaning": "Check availability, propose a time, reschedule, or ask about readiness."
     },
     {
       "family": "patterns",
       "key": "Do you want to/Would you like to + verb? · How about + noun/V-ing? · Why don’t we + verb? · Let’s + verb",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Invite someone or suggest a joint action. Do you want to asks about their preference; how about and why don’t we propose an option. Let’s is the normal conversational contraction of let us for a suggestion. We should ... sometime is a friendly suggestion, but it does not establish a specific plan."
+      "meaning": "Invite someone or suggest a joint action."
     },
     {
       "family": "patterns",
@@ -5210,189 +5262,182 @@
       "key": "That would be great, thanks · I’m good, thanks · Thanks for asking, but + clause · I’d love to, but + clause · I would rather not + verb",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Accept or decline an offer or invitation. I’m good, thanks politely declines a small offer such as food, a drink, or help. Thanks for asking acknowledges the offer before declining; I’d love to, but declines an invitation warmly. Would rather not states a preference without requiring an invented excuse."
+      "meaning": "Accept or decline an offer or invitation."
     },
     {
       "family": "patterns",
       "key": "Please do not + verb · I need you to + verb · I need + noun + from + person",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Set a boundary or state what you need from someone. These can be firm instructions; use them when the situation justifies directness. Name the action or information clearly."
+      "meaning": "Set a boundary or state what you need from someone."
     },
     {
       "family": "patterns",
       "key": "Sorry for/about + noun · Sorry for + V-ing · That was my mistake",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Apologize and acknowledge responsibility. Sorry about commonly names a situation; sorry for can name your action. Explain a concrete repair when one is needed. Sorry to hear that instead expresses sympathy, not necessarily responsibility."
+      "meaning": "Apologize and acknowledge responsibility."
     },
     {
       "family": "patterns",
       "key": "I appreciate + noun/V-ing/how-clause · Thank you for + noun/V-ing",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Express thanks. Appreciate takes a direct object; do not add for before it. Thank you takes for before the thing or action. Object-form subjects such as you taking are natural in conversation."
+      "meaning": "Express thanks."
     },
     {
       "family": "patterns",
       "key": "How have you been? · How is + event/day + going? · How is + task + coming along? · What have you been up to? · How was + event?",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Open a conversation. Have you been and been up to look back over a recent period; how is ... going asks about something in progress; how is ... coming along asks about progress on a task or project; how was asks about a finished event. What have you been up to asks about recent activities, not just health."
+      "meaning": "Open a conversation."
     },
     {
       "family": "patterns",
       "key": "I think/suppose/guess/hope so · I do not think so · I suppose/guess/hope not · I am afraid so/not",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Respond to a yes-or-no proposition without restating it. So stands for the positive proposition. The negative forms depend on the expression: I do not think so, but I hope not. I am afraid so/not politely introduces an unwelcome answer; it does not necessarily express fear."
+      "meaning": "Respond to a yes-or-no proposition without restating it."
     },
     {
       "family": "patterns",
       "key": "What do you think of/about + noun? · How do you feel about + noun/V-ing?",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Invite a view or reaction. Think of and think about often overlap when asking for an opinion. Feel about can foreground an attitude or personal reaction; it does not demand an emotional answer."
+      "meaning": "Invite a view or reaction."
     },
     {
       "family": "patterns",
       "key": "I am glad/relieved that + clause · I am glad/relieved to + verb",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Express a positive reaction. Glad expresses happiness; relieved suggests that a worry has eased. Use that to name a complete situation and to before an action with the same understood subject."
+      "meaning": "Express happiness or relief, using a complete situation or an action."
     },
     {
       "family": "patterns",
       "key": "I am worried/concerned that + clause · I am worried/concerned about + noun/V-ing · It concerns me that + clause · My concern is that + clause",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Express worry and identify its cause. Worried and concerned often overlap in everyday and professional English. That introduces a clause; about introduces a noun or -ing action. It concerns me makes the situation the cause of worry. My concern uses the noun to introduce the issue. As far as I am concerned instead introduces your viewpoint."
+      "meaning": "Express worry and identify its cause."
     },
     {
       "family": "patterns",
       "key": "I feel + adjective + when + clause · It bothers me that/when + clause · I love it/hate it/can’t stand it when + clause",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Describe how a situation affects you. I feel names your reaction. It bothers me expresses annoyance, distress, or worry. In I love it/hate it when, it points forward to the situation in the when-clause. Can’t stand expresses strong dislike or intolerance. State the behavior or situation without assuming you know the other person’s intentions."
-    },
-    {
-      "family": "patterns",
-      "key": "X is eating me up (inside) · X is weighing on me · X is getting to me",
-      "deck": "EN::01 Patterns",
-      "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Describe how a feeling, thought, responsibility, or situation affects you emotionally. Eating me up inside suggests deep, consuming distress; weighing on me suggests an emotional burden; getting to me means starting to upset or bother me. They overlap, but are not identical in intensity."
+      "meaning": "Describe how a situation affects you."
     },
     {
       "family": "patterns",
       "key": "I can see why + clause · Do you want to talk about it? · I am sorry to hear that + clause",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Acknowledge another person’s experience and offer support. I can see why recognizes a reason without endorsing every reaction. Sorry to hear expresses sympathy; it does not mean you caused the problem."
+      "meaning": "Acknowledge another person’s experience and offer support."
     },
     {
       "family": "patterns",
       "key": "be comfortable/uncomfortable + V-ing · be comfortable/uncomfortable with + noun",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Describe whether an activity or situation feels acceptable or manageable. Uncomfortable can express hesitation or a boundary without claiming inability. Getting comfortable describes growing confidence."
+      "meaning": "Describe whether an activity or situation feels acceptable or manageable."
     },
     {
       "family": "patterns",
       "key": "It was great talking to you · I should get going · Let’s keep in touch",
       "deck": "EN::01 Patterns",
       "function": "Requests, cooperation, boundaries, and social interaction",
-      "meaning": "Close a conversation politely. It was great talking to you acknowledges the interaction; I should get going signals departure; let’s keep in touch expresses interest in future contact without scheduling it."
+      "meaning": "Close a conversation politely."
     },
     {
       "family": "patterns",
       "key": "I work as/for/on + noun · I have + duration + of experience in/with + noun · My role involves/involved + V-ing",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Introduce your work precisely. As names a role; for names an employer or client; on names a project or task. Experience in often names a field or activity; with often names a tool, group, or practical area. They can overlap. Involves describes what a role includes."
+      "meaning": "Introduce your work precisely."
     },
     {
       "family": "patterns",
       "key": "be responsible for + noun/V-ing · My contribution was to + verb · I + action, which + result",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Explain responsibility and contribution. Responsible for can identify a duty or accountability for an outcome; it does not always mean personally causing it. Follow a role description with a concrete action and result. Which can refer to the preceding action or situation, not just a single noun."
+      "meaning": "Explain responsibility and contribution."
     },
     {
       "family": "patterns",
       "key": "Where are we with + task? · Could you give me an update on + task? · I will keep you posted on + noun",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Request or promise progress information. Where are we with asks about status, not physical location. Keep you posted promises updates as information becomes available."
+      "meaning": "Request or promise progress information."
     },
     {
       "family": "patterns",
       "key": "Here is what we agreed on · The next step is to + verb",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Summarize a decision and its immediate follow-through. Here is what introduces the actual agreement; the next step identifies the next action. Neither expression substitutes for naming an owner or deadline when those matter."
+      "meaning": "Summarize a decision and its immediate follow-through."
     },
     {
       "family": "patterns",
       "key": "We are blocked by + noun · We need more time to + verb",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Explain an obstacle or request more time. Blocked by names a dependency preventing progress. Need more time describes the time requirement; explain the reason when requesting a change."
+      "meaning": "Explain an obstacle or request more time."
     },
     {
       "family": "patterns",
       "key": "Just a heads-up: + clause · I (just) wanted to let you know/check/ask + clause · Just a quick question: + question",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Give advance notice or open a short work message without sounding demanding. Heads-up is conversational and common at work. I wanted to let you know softens the introduction; the information itself can be current. Just makes a check, question, or follow-up sound small and low-pressure."
+      "meaning": "Give advance notice or open a short work message without sounding demanding."
     },
     {
       "family": "patterns",
       "key": "I would appreciate your feedback on + noun · Could you tell me what I could improve?",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Ask for an assessment that helps you revise your work. Name the part you want reviewed. The embedded what-clause uses statement order."
+      "meaning": "Ask for an assessment that helps you revise your work."
     },
     {
       "family": "patterns",
       "key": "I am writing to + verb · I am writing about/regarding/in response to + noun",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "State the purpose of an email or letter. To introduces your intended action; about/regarding names the topic; in response to names the message or announcement prompting you to write. Regarding is more formal than about."
+      "meaning": "State the purpose of an email or letter."
     },
     {
       "family": "patterns",
       "key": "I am following up on + noun · Please let me know + if/whether/wh-clause",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Refer back to an earlier request and specify the information you need. Follow up on identifies the earlier matter; let me know asks the recipient to inform you. Keep statement word order after whether or a question word."
+      "meaning": "Refer back to an earlier request and specify the information you need."
     },
     {
       "family": "patterns",
       "key": "Something went wrong with + noun · X is not working properly · It only happens when + clause",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Describe an observable problem and the conditions that trigger it. Name the failed behavior before proposing a cause. Only happens when limits the circumstances in which you observed it."
+      "meaning": "Describe an observable problem and the conditions that trigger it."
     },
     {
       "family": "patterns",
       "key": "Can you walk me through + noun? · Let me walk you through + noun",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Ask for or offer a step-by-step explanation. Walk someone through can refer to a process, experience, or reasoning; it is not limited to troubleshooting."
+      "meaning": "Ask for or offer a step-by-step explanation."
     },
     {
       "family": "patterns",
       "key": "That did not solve/fix + noun · X solved/fixed + noun",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Report whether an attempted remedy worked. Name the remaining problem or the improvement. Solve suits problems; fix commonly suits faults and broken things. The words overlap for many practical problems."
+      "meaning": "Report whether an attempted remedy worked."
     },
     {
       "family": "patterns",
       "key": "The problem with + noun/V-ing + is that + clause · A possible solution to + noun + is to + verb · One way to + verb + is to + verb",
       "deck": "EN::01 Patterns",
       "function": "Work, problem solving, and professional explanations",
-      "meaning": "Move from a problem to a response or method. Problem with identifies a weakness; solution to names a response to a problem; one way to describes a method without claiming it is the only one."
+      "meaning": "Move from a problem to a response or method."
     },
     {
       "family": "patterns",
@@ -5406,7 +5451,7 @@
       "key": "Compared with/to + noun, + clause · in terms of + aspect · be about the same · differ in + aspect · What makes X better than Y?",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Set a comparison and its dimension. Compared with and compared to often overlap in ordinary comparisons. About the same means approximately equal; differ in identifies the dimension of difference. Make sure the subject after a comparison phrase is the thing being compared."
+      "meaning": "Set a comparison and its dimension."
     },
     {
       "family": "patterns",
@@ -5420,49 +5465,49 @@
       "key": "twice/three times as + adjective/adverb + as · twice/three times the + size/number/amount + of",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Compare quantities by a multiplier. Keep the measured quantity clear: twice as long refers to duration or length, while twice as many refers to a count. Avoid ambiguous wording such as twice smaller."
+      "meaning": "Compare quantities by a multiplier."
     },
     {
       "family": "patterns",
       "key": "as + adjective/adverb + as · not as + adjective/adverb + as · comparative + than expected · as + adjective/adverb + as possible/you can",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Compare equality, a lower degree, or a result against expectations. As ... as works with adjectives and adverbs. As ... as possible or as ... as you can asks for the greatest feasible degree; it does not always mean quickly."
+      "meaning": "Compare equality, a lower degree, or a result against expectations."
     },
     {
       "family": "patterns",
       "key": "the + superlative + noun · one of the + superlative + plural noun · the + superlative + noun + I have ever + past participle",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Identify an extreme within a relevant group. One of requires a plural group after the superlative. Add ever + present perfect to compare the current example with your experience up to now."
+      "meaning": "Identify an extreme within a relevant group."
     },
     {
       "family": "patterns",
       "key": "too + adjective/adverb + to + verb · adjective/adverb + enough + to + verb · enough + noun + to/for",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Too describes exceeding a useful limit; enough describes reaching the required amount or degree. Put enough after an adjective/adverb but before a noun. Use for to identify a person or purpose. Too does not merely mean very."
+      "meaning": "Too describes exceeding a useful limit; enough describes reaching the required amount or degree."
     },
     {
       "family": "patterns",
       "key": "so + adjective/adverb (that + clause) · such + (a/an +) noun phrase (that + clause)",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Use so before an adjective/adverb and such before a noun phrase. Both intensify a description and can introduce a result with that. A singular count noun needs a/an after such; use so much/many before a quantity."
+      "meaning": "Use so before an adjective/adverb and such before a noun phrase."
     },
     {
       "family": "patterns",
       "key": "even + focused phrase · even + comparative",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Highlight an unexpected inclusion or a further change in degree. Position even near what is surprising; moving it can change the focus. This use is separate from even though and even if, which introduce clauses."
+      "meaning": "Highlight an unexpected inclusion or a further change in degree."
     },
     {
       "family": "patterns",
       "key": "only + focused phrase · not all/every + noun",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Limit a claim precisely. Place only where the intended restriction is clear, and use stress or rephrasing if needed. Not all/every means at least one exception; it does not mean none."
+      "meaning": "Limit a claim precisely."
     },
     {
       "family": "patterns",
@@ -5476,238 +5521,238 @@
       "key": "The more/less + clause, the more/less + clause · As + quantity + changes, + clause",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Describe linked changes. The paired comparative makes the relationship prominent; as can also link changes over time or degree. Neither construction by itself proves that one change causes the other."
+      "meaning": "Describe linked changes."
     },
     {
       "family": "patterns",
       "key": "get/become + adjective/comparative · comparative and comparative · more and more + adjective/noun · a growing number of + plural noun",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Describe a developing state or trend. Get is often conversational; become is neutral and works well in formal explanations too. Repeat a short comparative, but use more and more with adjectives that take more. A growing number of takes a plural verb."
+      "meaning": "Describe a developing state or trend."
     },
     {
       "family": "patterns",
       "key": "increase/decrease by + amount · increase/decrease from X to Y · an increase/decrease in + variable",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Distinguish the amount of change from its starting and ending levels. By names the change; from and to name levels; in names the variable. A change from 20% to 30% is ten percentage points, or a 50% relative increase."
+      "meaning": "Distinguish the amount of change from its starting and ending levels."
     },
     {
       "family": "patterns",
       "key": "account for/make up + share + of + whole · fraction/percentage + of + group",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Describe a share of a total. Account for and make up overlap in this numerical sense. Use of before the whole or group; this is different from reporting the amount by which a number changed."
+      "meaning": "Describe part of a total."
     },
     {
       "family": "patterns",
       "key": "The chart/table shows + noun/wh-clause · The figures for + group + verb",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Introduce what a visual or data set represents. Shows can introduce a noun phrase or a clause such as how much changed. Figures for identifies the group or measure. Describe what the data support; the construction does not establish a cause."
+      "meaning": "Introduce what a visual or data set represents."
     },
     {
       "family": "patterns",
       "key": "the number of + plural count noun · the amount of + uncountable noun · a number of + plural count noun",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "The number of measures a count and takes a singular verb; the amount of measures an uncountable quantity and also takes a singular verb. A number of means several and takes a plural verb."
+      "meaning": "The number of measures a count and takes a singular verb; the amount of measures an uncountable quantity and also takes a singular verb."
     },
     {
       "family": "patterns",
       "key": "about/roughly + number · more or less + quantity/description · at least/no less than + number · at most/no more than + number",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Give an estimate or bound. About, roughly, and more or less can express approximation. At least sets a minimum; at most sets a maximum. No less than can emphasize a surprisingly large amount; no more than can emphasize a small one. The bound is not necessarily the exact amount."
+      "meaning": "Give an estimate or bound."
     },
     {
       "family": "patterns",
       "key": "few/a few + plural count noun · a couple of + plural count noun · little/a little + uncountable noun · fewer/less + noun",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Few/little emphasizes scarcity; a few/a little emphasizes that some is available. A couple of means two, or loosely a small number, in conversation. Use fewer with countable items and less with amounts. Less is also standard with measurements treated as amounts, such as time or money. Use many with plural count nouns and much with uncountable nouns; a lot of works with either."
+      "meaning": "Few/little emphasizes scarcity; a few/a little emphasizes that some is available."
     },
     {
       "family": "patterns",
       "key": "much + uncountable noun · many + plural count noun · a lot of/lots of/plenty of + noun",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Choose a quantity expression that matches countability. A lot of and lots of work with both types and are common in conversation. Much is especially natural in questions, negatives, and after too/so; plain affirmative much often sounds formal. Plenty of means enough or more than enough."
+      "meaning": "Choose a quantity expression that matches countability."
     },
     {
       "family": "patterns",
       "key": "all/most/some + noun · all/most/some of + determiner/pronoun",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Without of, refer to a group directly. Use of before the/these/my or an object pronoun to select from an identified group. All can omit of before a determiner, but keep it before an object pronoun."
+      "meaning": "Without of, refer to a group directly."
     },
     {
       "family": "patterns",
       "key": "both + plural noun · either/neither + singular noun · both/either/neither of + identified pair",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Describe two choices: both includes the two; either selects one or the other; neither excludes both. Use of before a determiner or object pronoun. Either/neither before a singular noun takes a singular verb; agreement after of varies, with singular the cautious formal choice."
+      "meaning": "Describe two choices: both includes the two; either selects one or the other; neither excludes both."
     },
     {
       "family": "patterns",
       "key": "some/any + noun · someone/anyone · something/anything",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Some often introduces an unspecified amount in positive statements; any is common in open questions, negatives, and conditions. Some is natural in offers or requests that expect an available item. Any can also mean whichever you choose."
+      "meaning": "Refer to unspecified amounts, people, or things."
     },
     {
       "family": "patterns",
       "key": "no + noun · not ... any + noun · none of + identified group",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Express zero quantity. No takes a noun; none of selects zero members from a specified group. Not ... any often expresses the same meaning as no. Do not add another negative to express the same negation in standard English."
+      "meaning": "Express zero quantity."
     },
     {
       "family": "patterns",
       "key": "all (of) the + noun · the whole + singular count noun · every + singular count noun",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Distinguish a complete amount, a complete individual thing, and every member or occasion. All and whole overlap with singular countable periods or objects, but use all with uncountable nouns. Every day means each day; all day means throughout one day."
+      "meaning": "Distinguish a complete amount, a complete individual thing, and every member or occasion."
     },
     {
       "family": "patterns",
       "key": "each + singular noun · every + singular noun · each of + group · every one of + group",
       "deck": "EN::01 Patterns",
       "function": "Comparison, degree, quantity, and change",
-      "meaning": "Each draws attention to individual members; every includes all members of a group. They often overlap. Each can refer to two; every normally involves a larger group and also expresses frequency. Use every one of, not every of."
+      "meaning": "Each draws attention to individual members; every includes all members of a group."
     },
     {
       "family": "patterns",
       "key": "Do/Does/Did + subject + base verb? · be/auxiliary/modal + subject ...? · Who/What + verb ...?",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Use do/does/did for ordinary simple-tense questions; keep the main verb in its base form. Invert be or an existing helper/modal instead of adding do. A question word that is itself the subject normally does not require do. Distinguish Who called you? from Who did you call?"
+      "meaning": "Choose question structure according to the verb/helper and whether the question word is the subject."
     },
     {
       "family": "patterns",
       "key": "How come + subject + verb? · Why + auxiliary + subject + verb?",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Ask for a reason. How come is conversational and uses statement word order. Why normally uses ordinary question order. They can ask about the same event; the difference is wording and structure, not a separate kind of cause."
+      "meaning": "Ask for a reason."
     },
     {
       "family": "patterns",
       "key": "Do you know/Could you tell me + wh-word + subject + verb? · I wonder + wh-clause/if/whether-clause · Do you happen to know + noun?",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Use statement word order inside an indirect question. Use if/whether for a yes-or-no question, and keep the relevant question word for other questions. I wonder and I have been wondering present an unresolved question. Happen to softens a question about knowledge. Ordinary present simple forms still agree with their subjects."
+      "meaning": "Use statement word order inside an indirect question."
     },
     {
       "family": "patterns",
       "key": "positive statement, negative auxiliary + pronoun? · negative statement, positive auxiliary + pronoun?",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Use a question tag to invite confirmation. Match the tense and helper; use do/does/did when there is no helper. A falling voice often expects agreement; a rising voice asks more openly. The common tag after I am is aren’t I. Answer according to the fact, even after a negative statement."
+      "meaning": "Use a question tag to invite confirmation."
     },
     {
       "family": "patterns",
       "key": "do/does/did not + base verb · be/auxiliary/modal + not · never/nobody/nothing + affirmative verb",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Form a negative with the first helper; ordinary simple-tense main verbs need do/does/did. Never, nobody, and nothing already express negation in standard English, so do not add not to the same clause for the same negative meaning. Negative contractions are normal in everyday AmE."
+      "meaning": "Form a negative with the first helper; ordinary simple-tense main verbs need do/does/did."
     },
     {
       "family": "patterns",
       "key": "There is/are + noun · There is/are + noun + V-ing · There seems to be + noun · There used to be + noun",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Introduce the existence or presence of something. Use is with a singular or uncountable noun and are with a plural noun in careful speech and writing; plural there’s is common casually but is not the careful model here. An -ing modifier describes the noun; it does not need a second are. There seems to be expresses an impression; there used to be describes a past state."
+      "meaning": "Introduce the existence or presence of something."
     },
     {
       "family": "patterns",
       "key": "There is/are + new thing · It is + known thing’s description · It is + weather/time/distance",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "There introduces existence; it describes an identified thing or serves as the subject for weather, time, and distance. Do not use it to introduce a new object merely because your first language omits a subject."
+      "meaning": "Introduce existence with there, or describe an identified thing, weather, time, or distance with it."
     },
     {
       "family": "patterns",
       "key": "a/an + singular count noun · the + identified noun · plural/uncountable noun for a general class",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Use a/an for one nonspecific countable member and the when the listener can identify which one. General plurals and uncountable nouns often take no article. Choose a/an by the next sound, not just the next letter. A singular count noun normally needs an article or another determiner such as my or this."
+      "meaning": "Use a/an for one nonspecific countable member and the when the listener can identify which one."
     },
     {
       "family": "patterns",
       "key": "a piece/item/unit/container of + uncountable noun · a pair of + plural item",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Count an amount with a suitable unit rather than giving an uncountable noun an arbitrary plural. Some nouns also become countable for a serving or an individual experience. Choose the unit that fits the noun."
+      "meaning": "Count an amount with a suitable unit rather than giving an uncountable noun an arbitrary plural."
     },
     {
       "family": "patterns",
       "key": "at school/work · in college/bed/prison · go to school/work/bed · at/in the + specific place",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Some institutional activities use no article, while a specific building or object often takes the. These are conventional combinations, not a rule for every place. In AmE, a patient is usually in the hospital; in hospital is a standard British form. AmE commonly uses in college for enrollment."
+      "meaning": "Some institutional activities use no article, while a specific building or object often takes the."
     },
     {
       "family": "patterns",
       "key": "noun + noun · noun + of + contents · number-unit + noun",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Use a noun before another noun to identify its type or purpose; the first noun is usually singular, with conventional exceptions. Of often identifies contents. A measurement before a noun normally uses a singular unit; after a verb, use the ordinary plural."
+      "meaning": "Use a noun before another noun to identify its type or purpose; the first noun is usually singular, with conventional exceptions."
     },
     {
       "family": "patterns",
       "key": "singular subject + singular verb · plural subject + plural verb · each/every + singular noun · one of + plural noun",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Choose the verb form from the actual subject, not a nearby noun. Each/every + singular noun and one of a group normally take a singular verb. A pair of nouns joined by and usually takes a plural verb; an -ing activity used as one subject normally takes a singular verb."
+      "meaning": "Choose the verb form from the actual subject, not a nearby noun."
     },
     {
       "family": "patterns",
       "key": "possessive determiner + noun · possessive pronoun · a friend/colleague of mine/yours/hers/ours/theirs",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Use my/your/their before a noun and mine/yours/theirs when the noun is not repeated. A colleague of mine means one of my colleagues; use a possessive form after of in this construction."
+      "meaning": "Use my/your/their before a noun and mine/yours/theirs when the noun is not repeated."
     },
     {
       "family": "patterns",
       "key": "subject + verb + reflexive pronoun · each other/one another",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "A reflexive points back to the subject; each other and one another describe reciprocal actions. Reflexives can also emphasize who did something. Do not use myself simply as a formal replacement for me."
+      "meaning": "A reflexive points back to the subject; each other and one another describe reciprocal actions."
     },
     {
       "family": "patterns",
       "key": "person/organization + ’s + noun · plural ending in s + ’ + noun · the + part + of + whole",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Express possession, association, or a part–whole relationship. Possessive ’s is common with people, organizations, and time expressions; of is often useful with parts and long noun phrases. These choices overlap, so do not teach a rigid living-versus-nonliving rule."
+      "meaning": "Express possession, association, or a part–whole relationship."
     },
     {
       "family": "patterns",
       "key": "my/your/their own + noun · a/an + noun + of my/your/their own",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Emphasize that something belongs or is assigned to that person, often rather than being shared or borrowed. Own can also emphasize doing something yourself when it appears with the object you act on."
+      "meaning": "Emphasize that something belongs or is assigned to that person, often rather than being shared or borrowed."
     },
     {
       "family": "patterns",
       "key": "on my/your/their own · by myself/yourself/themselves",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Say someone is alone or does something without help. These expressions often overlap. Context determines whether you mean absence of other people or independent effort."
+      "meaning": "Say someone is alone or does something without help."
     },
     {
       "family": "patterns",
       "key": "adjective + noun · be/look/seem + adjective · verb + adverb · adverb + adjective",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Use adjectives to describe a noun or a state, and adverbs to describe how an action is performed or to modify an adjective. Not all adverbs end in -ly: fast and hard can be adverbs; hardly means almost not. Good is an adjective; well often describes how an action is performed."
+      "meaning": "Choose adjectives/adverbs according to what they describe."
     },
     {
       "family": "patterns",
       "key": "feeling adjective in -ed · feeling-causing adjective in -ing",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "With paired adjectives such as bored/boring and confused/confusing, -ed describes the experienced feeling; -ing describes what causes it. This is a meaning contrast, not a tense rule. A person can be boring and a situation can be interesting."
+      "meaning": "With paired adjectives such as bored/boring and confused/confusing, -ed describes the experienced feeling; -ing describes what causes it."
     },
     {
       "family": "patterns",
@@ -5721,14 +5766,14 @@
       "key": "pretty/fairly/really/quite + adjective · not quite + adjective",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Adjust the strength of a description. Pretty is conversational; fairly often sounds moderate; really is a common intensifier. In AmE, quite can be strong, but its force varies with the adjective, tone, and context. Do not memorize a fixed ranking. Not quite means not completely."
+      "meaning": "Adjust the strength of a description."
     },
     {
       "family": "patterns",
       "key": "verb + direct object · verb + object + preposition phrase · give/send + person + thing / thing + to + person",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "A verb determines the shape of its complements; do not add a preposition by translating from Mandarin. Discuss takes the topic directly. Explain takes the explanation directly and names the recipient with to. Some verbs, such as give and send, allow two object orders; do not generalize that option to every verb."
+      "meaning": "A verb determines the shape of its complements; do not add a preposition by translating from Mandarin."
     },
     {
       "family": "patterns",
@@ -5742,7 +5787,7 @@
       "key": "subject + also/already/probably + main verb · be/first auxiliary + adverb",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Place common middle-position adverbs where they modify the verb phrase. They normally precede an ordinary main verb, follow be, or follow the first helper. Other positions are possible for focus; probably often comes before a negative contraction."
+      "meaning": "Place common middle-position adverbs where they modify the verb phrase."
     },
     {
       "family": "patterns",
@@ -5756,7 +5801,7 @@
       "key": "make/let/have + person + base verb · have/get + object + past participle · want/need + object + past participle · get + person + to + verb · be made to + verb",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Make causes or forces an action; let permits it; have arranges or instructs it. In have someone repair something, the person performs the action. In have/get something repaired, the object receives it. Get someone to do also arranges or brings about an action, but takes to. Passive make also takes to. Want/need something done describes a desired or required completed action. Have/get something done can also describe an experience, including an unwanted one; the context determines the reading."
+      "meaning": "Distinguish causing someone to act from arranging or requiring an action on an object."
     },
     {
       "family": "patterns",
@@ -5777,7 +5822,7 @@
       "key": "consider/find + object + adjective · regard/see/treat + object + as + adjective/noun",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Express an evaluation, classification, perspective, or finding. Consider expresses a judgment; deem expresses a similar judgment, often in formal or official contexts. Regard/see as describes a perspective; treat as describes how someone handles something. Find describes what someone discovers or experiences."
+      "meaning": "Express an evaluation, classification, perspective, or finding."
     },
     {
       "family": "patterns",
@@ -5819,7 +5864,7 @@
       "key": "It is + adjective + for + person + to + verb · find/make it + adjective + to + verb · It is + adjective + of + person + to + verb",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "For names the performer of an evaluated action. Find it describes your evaluation; make it describes what causes an activity to become easier, harder, or possible. Of evaluates someone’s behavior or character with adjectives such as kind or careless. It stands in for the following action, so it is not omitted."
+      "meaning": "For names the performer of an evaluated action."
     },
     {
       "family": "patterns",
@@ -5833,21 +5878,21 @@
       "key": "V-ing clause + singular verb · To + verb + is + complement · What + clause + is + complement",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Use an action or a what-clause as the subject. An -ing subject is a common way to discuss an activity. A to-infinitive subject is possible but often more formal; It is ... to ... is frequently easier in conversation. What ... introduces the thing or idea that fills the role."
+      "meaning": "Use an action or a what-clause as the subject."
     },
     {
       "family": "patterns",
       "key": "enjoy/avoid/consider/finish/keep + V-ing · feel like/cannot help + V-ing",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "These verbs and expressions select an -ing action. Enjoy expresses pleasure, avoid keeps away from an action, consider weighs an option, finish completes it, and keep continues it. Feel like expresses inclination; cannot help describes something you cannot easily stop yourself from doing. Many other verbs also select -ing; do not replace it with to merely because the intended action is future."
+      "meaning": "These verbs and expressions select an -ing action."
     },
     {
       "family": "patterns",
       "key": "suggest/recommend + V-ing / suggest/recommend (that) + subject + base verb · It is important/essential that + subject + base verb",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Use V-ing for a general recommended activity and a base-verb clause when naming who should act. In this AmE construction, the verb stays in the base form even with he/she/it. The same construction can express a requirement after important or essential."
+      "meaning": "Recommend an activity or require someone to act."
     },
     {
       "family": "patterns",
@@ -5868,14 +5913,14 @@
       "key": "being + past participle · (not) having + past participle · having been + past participle/V-ing/adjective/noun",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Use being + past participle when an -ing complement is passive. Having + past participle emphasizes that an event is earlier than the main situation; not having negates that earlier event. Having been preserves an earlier passive event, continuing activity, state, or identity. These perfect complements often sound more formal or explicit than a simpler -ing complement. This card describes complements, not rules for deleting a clause."
+      "meaning": "Describe passive or earlier actions in complements; this card does not teach deletion of clauses."
     },
     {
       "family": "patterns",
       "key": "be/get + past participle · be being + past participle · have/has been + past participle · modal + be + past participle",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Use the passive when the subject receives an action. Be is the neutral passive helper; get often highlights an event, sometimes an unexpected one, and is more conversational. Being marks an action in progress; been after have/has marks a perfect form. Name the actor with by when it matters. A participle can also describe a state, so context matters."
+      "meaning": "Use the passive when the subject receives an action."
     },
     {
       "family": "patterns",
@@ -5889,21 +5934,21 @@
       "key": "say (that) + clause · tell + person + clause · ask + person + if/whether/wh-clause",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Report speech or questions. Tell normally names the listener; say does not take that listener directly. Reported questions use statement order. Adjust pronouns and time references to the reporting situation. Past reporting verbs often take backshift, but still-current information can retain present tense."
+      "meaning": "Report speech or questions."
     },
     {
       "family": "patterns",
       "key": "It is said/reported/believed/expected that + clause · subject + be said/reported/believed/expected + to-infinitive",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Report a claim or expectation with less focus on its source. These passives suit reports and formal explanations. A reporting passive attributes a claim; it does not guarantee truth."
+      "meaning": "Report a claim or expectation with less focus on its source."
     },
     {
       "family": "patterns",
       "key": "noun + who/that/which + clause · noun + whose + noun + clause · place/time + where/when + clause",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Add information about a person, thing, possession, place, or time. An identifying relative clause normally has no commas; an extra-information clause uses commas and does not use that. Whose expresses possession and can refer to things too. Do not repeat the noun’s subject/object role with an extra pronoun inside the clause."
+      "meaning": "Add information about a person, thing, possession, place, or time."
     },
     {
       "family": "patterns",
@@ -5917,21 +5962,21 @@
       "key": "It is a kind/type of + noun that + clause · It is something/someone that/who + clause · It is used for + V-ing / to + verb · What do you call + description? · What’s the word for + description?",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Describe a category, person, or function when introducing an unfamiliar term or when the exact word is unavailable. That/who adds identifying information. Used for takes an -ing activity; used to takes a base verb for a function here, not the separate past-habit expression. To ask for the missing word itself, use What do you call ...? or What’s the word for ...? and then describe it."
+      "meaning": "Describe a category, person, or function when introducing an unfamiliar term or when the exact word is unavailable."
     },
     {
       "family": "patterns",
       "key": "consist of + parts · include + item · involve + noun/V-ing",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Describe how parts relate to a whole. Consist of presents the composition of the whole; include identifies members without requiring a complete list. Involve identifies something that participates in a process or situation. They can describe the same situation from different perspectives; they are not freely interchangeable."
+      "meaning": "Describe how parts relate to a whole."
     },
     {
       "family": "patterns",
       "key": "both X and Y · either X or Y · neither X nor Y · X rather than Y",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Coordinate matching grammatical units. Both includes two; either ... or offers alternatives; neither ... nor excludes both. Rather than chooses or contrasts alternatives. With either/neither subjects, agreement usually follows the nearer subject; rephrase an awkward mix instead of forcing it."
+      "meaning": "Coordinate matching grammatical units."
     },
     {
       "family": "patterns",
@@ -5945,63 +5990,63 @@
       "key": "the fact/idea/claim that + clause · noun + that + relative clause",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "A content clause states what the fact, idea, or claim is. A relative clause identifies which noun you mean by giving information about it. In a content clause, that does not fill a missing subject or object role; in a relative clause, the noun has a role inside the clause. This contrast helps you distinguish reporting a claim from identifying a claim someone made."
+      "meaning": "A content clause states what the fact, idea, or claim is."
     },
     {
       "family": "patterns",
       "key": "This/That + summary noun + clause · These/Those + plural noun + clause",
       "deck": "EN::01 Patterns",
       "function": "Questions, reference, and building complete sentences",
-      "meaning": "Refer back to a previous idea with a noun that accurately summarizes it. This approach, that decision, and these changes keep the connection explicit. The noun must match the idea; it is not an arbitrary synonym replacement."
+      "meaning": "Refer back to a previous idea with a noun that accurately summarizes it."
     },
     {
       "family": "patterns",
       "key": "Could you say/repeat + noun + again? · Could you slow down? · What do you mean by + noun? · Could you clarify + wh-clause?",
       "deck": "EN::01 Patterns",
       "function": "Clarification and learning conversations",
-      "meaning": "Request repetition, a slower pace, or an explanation. Repeat/say again asks for the wording; clarify/mean by asks about its meaning. Use statement order inside a question embedded after clarify."
+      "meaning": "Request repetition, a slower pace, or an explanation."
     },
     {
       "family": "patterns",
       "key": "If I understand correctly, + clause · Just to confirm, + clause · So you are saying that + clause? · Does that make sense? · Are we on the same page about + noun?",
       "deck": "EN::01 Patterns",
       "function": "Clarification and learning conversations",
-      "meaning": "Check your interpretation or shared understanding before proceeding. Does that make sense checks whether your explanation was clear; on the same page can check understanding or agreement, so name the issue. State the specific interpretation rather than just asking whether you understand. So you are saying can sound challenging if delivered sharply; use a neutral tone."
+      "meaning": "Check your interpretation or shared understanding before proceeding."
     },
     {
       "family": "patterns",
       "key": "Can you give me an example of + noun? · Could you explain + noun + in plain English? · I do not understand why/how + clause",
       "deck": "EN::01 Patterns",
       "function": "Clarification and learning conversations",
-      "meaning": "Ask for a concrete illustration or a clearer explanation. Plain English means language without unnecessary jargon. Name what remains unclear so the other person can respond usefully. The clause after why/how uses statement order."
+      "meaning": "Ask for a concrete illustration or a clearer explanation."
     },
     {
       "family": "patterns",
       "key": "How would you say X in English? · Does X sound natural? · Can I use X to mean Y? · What is the difference between X and Y?",
       "deck": "EN::01 Patterns",
       "function": "Clarification and learning conversations",
-      "meaning": "Ask about expression, naturalness, meaning, or a contrast. Give a context when possible because a phrase can be natural in one setting and unsuitable in another. How does X compare with/to Y asks for a broader comparison than a single definition."
+      "meaning": "Ask about expression, naturalness, meaning, or a contrast."
     },
     {
       "family": "patterns",
       "key": "Can/Could I get + noun? · I would like + noun, please · without + ingredient · What does X come with?",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Order something or ask what is included. Can I get is ordinary conversational AmE; could I get and I would like are polite alternatives. Without requests an omission. Come with asks about included items, not necessarily everything available at extra cost."
+      "meaning": "Order something or ask what is included."
     },
     {
       "family": "patterns",
       "key": "I ordered/asked for X, but I got Y · I have not gotten my + item + yet · Could you + remedy?",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Explain a service problem and request a concrete remedy. Gotten is standard AmE for received here. Focus on what happened, then say what would resolve it."
+      "meaning": "Explain a service problem and request a concrete remedy."
     },
     {
       "family": "patterns",
       "key": "Do you have + item + in + size/color? · Is there another + option/time?",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Ask what is available or request an alternative. In introduces a size, color, or version. Another requests a different or additional option, depending on context."
+      "meaning": "Ask what is available or request an alternative."
     },
     {
       "family": "patterns",
@@ -6015,7 +6060,7 @@
       "key": "How much is it per + unit? · Is this charged by weight?",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Clarify the unit price and what determines the charge. Per asks for a rate per unit, such as a pound or a day. By weight asks whether the price depends on the item’s weight instead of a fixed price per item or container."
+      "meaning": "Clarify the unit price and what determines the charge."
     },
     {
       "family": "patterns",
@@ -6029,112 +6074,112 @@
       "key": "be coated in/with + substance · be packed in + liquid/container · be served + adjective / with + accompaniment",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Describe a food or item’s presentation. Coated in/with describes a surface layer; both prepositions often work. Packed in identifies a surrounding liquid or container. Served + adjective describes the condition at serving; served with names an accompaniment."
+      "meaning": "Describe a food or item’s presentation."
     },
     {
       "family": "patterns",
       "key": "I have had + symptom + for + duration · It hurts when + clause",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Describe a symptom, its duration, or the action that causes discomfort. Have had relates the problem to a period up to now. These are communication patterns, not diagnostic advice."
+      "meaning": "Describe a symptom, its duration, or the action that causes discomfort."
     },
     {
       "family": "patterns",
       "key": "I need help with + noun · Could you call + person/service?",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Ask for practical or urgent assistance. State the problem or needed service clearly; the same request shape works with ordinary help and emergencies."
+      "meaning": "Ask for practical or urgent assistance."
     },
     {
       "family": "patterns",
       "key": "on the left/right · at the top/bottom · in the middle/center · at the top left/bottom right · in the upper-left/lower-right corner · at/near/along the edge of",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use these expressions to describe general positions and boundary areas on a map, diagram, or plan. **At the center** is also natural when the center is treated as an exact point."
+      "meaning": "Describe general positions and boundary areas on a map, diagram, or plan."
     },
     {
       "family": "patterns",
       "key": "at + point/site · on + surface/line · in + area/enclosure · located/situated at/on/in · inside/outside/within · at home/work · on a bus/train/plane · in a car/taxi",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use **at** for a point or site, **on** for a surface or line, and **in** for an area or enclosure. **Located** is neutral; **situated** is slightly more formal. The point-surface-area model is useful, but English also has fixed location conventions."
+      "meaning": "Describe location, using spatial relationships and conventional combinations."
     },
     {
       "family": "patterns",
       "key": "in + month/year/season/part of day · on + day/date/specific day-part · at + time/noon/night",
       "deck": "EN::01 Patterns",
       "function": "Grammar operations",
-      "meaning": "Use **in** for months, years, seasons, and general parts of the day. Use **on** for days, dates, and specific parts of a particular day. Use **at** for clock times and fixed expressions such as **at noon**, **at midnight**, and **at night**. The point/period model is useful, but some choices are fixed conventions. In American English, **on the weekend** and **on weekends** are common."
+      "meaning": "Locate events in time with in, on, or at."
     },
     {
       "family": "patterns",
       "key": "to the left/right of · next to/beside/right next to · by/near · adjacent to · between/among · around · across from/opposite · in front of/behind · above/below · over/under/beneath · on top of",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use these expressions to locate something relative to another object or place. **Between** presents distinct reference points, even when there are more than two; **among** presents something within a group. **Adjacent to** is more formal than **next to** or **beside**. **By** means beside or near; **near** need not mean immediately adjacent. **Around** describes positions surrounding something. **In front of** describes a relative outside position, whereas **at the front of** names the front part of a larger space. **Before an audience** means in the audience's presence (formal). For location, **about** can mean around an area, but it is less common than **around** in American English."
+      "meaning": "Locate something relative to another object or place."
     },
     {
       "family": "patterns",
       "key": "north/south/east/west of · northeast/northwest/southeast/southwest of · in northern/southern/eastern/western X · in the north/south/east/west of X · on the northern/southern/eastern/western side of X · at the northern/southern/eastern/western end of X",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use **north of**, for example, to compare a location with a reference point. Use **in northern X** or **in the north of X** for a location within a larger area. Use **on the eastern side of X** for a side and **at the eastern end of X** for an endpoint. A relative direction does not by itself say whether two places share a wider region."
+      "meaning": "Describe a compass relationship, a region, a side, or an endpoint."
     },
     {
       "family": "patterns",
       "key": "near + noun · close to + noun · nearby · fairly/pretty/relatively close to · not far from · in (fairly) close proximity to · far/quite far/pretty far from · a long way/some distance from · [distance] from or north/south/east/west of X · a [time]-minute walk from · within walking distance of · [time] away by car/train",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use **near + noun**, but **close to + noun**. **Nearby** normally has no complement or appears before a noun. **In close proximity to** is correct but formal. **Pretty close** and **pretty far** are conversational AmE."
+      "meaning": "Describe proximity, measured distance, or travel time."
     },
     {
       "family": "patterns",
       "key": "on + street · at + exact address/intersection · on/at the corner of two streets · in the corner of a room · on + floor · at + entrance/exit/end · at the traffic light(s)/next light",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use **on** for a named street and **at** for an exact address or point. A building can be **on** or **at the corner of** two streets. Use **in the corner** for a corner inside an enclosed space."
+      "meaning": "Locate places using streets, addresses, corners, floors, and landmarks."
     },
     {
       "family": "patterns",
       "key": "go/head/walk/drive + compass direction · go/continue straight ahead · go up/down + street · walk/continue along + route · go as far as + landmark · continue until + clause · turn at/onto · take the first/second left/right · on your left/right · just before/after/past",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use **at** with a turning landmark and **onto** with the street you enter. **As far as** and **until you reach** identify where the current instruction ends. In directions, **up/down a street** does not always mean geographic north/south."
+      "meaning": "Give a route as a sequence of clear navigation instructions."
     },
     {
       "family": "patterns",
       "key": "to/toward/from/away from · into/out of · onto/off · across/through · along/past · around · over/under",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use **to** for an intended destination and **toward** for direction without presenting the place as the endpoint. **From** marks a starting point; **away from** means movement that increases the distance from it. The other pairs distinguish boundaries, surfaces, and different paths. In AmE, **toward** is more common; **towards** is also correct and is more common in British English."
+      "meaning": "Describe destinations, directions, boundaries, and paths."
     },
     {
       "family": "patterns",
       "key": "upstairs/downstairs · go up/down the stairs · take the elevator to + floor · on the same floor · one floor above/below · down/along/across the hall · at the far end of the hall · through + door · around the corner · the first/second door on your left/right",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use **upstairs/downstairs** without **to**. Use **on** with a floor and **above/below** to compare floors."
+      "meaning": "Give directions between floors and through a building."
     },
     {
       "family": "patterns",
       "key": "go + number of blocks · continue for + number of blocks · merge onto + road/highway · stay in + lane · keep/bear left/right · take + exit · get on/off the highway · at the fork · make a U-turn · take the first/second exit at the roundabout",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use these expressions in spoken navigation instructions and GPS directions. **Go two blocks** normally has no **for**; **continue for two blocks** normally includes it."
+      "meaning": "Give road-navigation instructions and distances in blocks."
     },
     {
       "family": "patterns",
       "key": "get on/off + bus/train · board + bus/train · take + bus/train to/toward + place · ride for + number of stops · get off at + stop/station · transfer at + station · transfer/change to + line · catch/miss + bus/train · northbound/southbound/eastbound/westbound",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use **get on/off** with the vehicle, but **get off at** with the stop or station. **Board** takes a direct object without **on**."
+      "meaning": "Describe using public transportation, including stops, transfers, and travel direction."
     },
     {
       "family": "patterns",
       "key": "How do I get to ...? · Could you tell me how to get to ...? · Do you know where ... is? · Which way is ...? · Where exactly is ...? · Where is the nearest ...? · Is there a ... near here? · Is this the way to ...? · Am I going in the right direction? · How far is ...? · Is it within walking distance? · How long does it take to get there? · Could you show me on the map?",
       "deck": "EN::01 Patterns",
       "function": "Travel, services, locations, and practical needs",
-      "meaning": "Use these neutral, polite questions to ask for directions or confirm a route. Starting with **Excuse me** makes a request to a stranger more polite."
+      "meaning": "Use these neutral, polite questions to ask for directions or confirm a route."
     },
     {
       "family": "patterns",
@@ -6211,14 +6256,14 @@
       "key": "It is + focused person/thing + that/who + clause · What + subject + did + was + (to) + verb",
       "deck": "EN::01 Patterns",
       "function": "Further reusable sentence shapes",
-      "meaning": "Highlight the person, thing, or action that answers an implicit contrast. A cleft changes focus rather than necessarily changing the underlying event. Do not use it to make every sentence sound emphatic."
+      "meaning": "Highlight the person, thing, or action that answers an implicit contrast."
     },
     {
       "family": "patterns",
       "key": "whether X or Y · whether + clause + or not",
       "deck": "EN::01 Patterns",
       "function": "Further reusable sentence shapes",
-      "meaning": "Use whether to present alternatives or an unresolved yes-or-no question. A whether-clause after a verb does not invert its subject and verb. Whether or not can also introduce a condition-independent outcome, but a question such as I do not know whether ... leaves the answer unresolved."
+      "meaning": "Use whether to present alternatives or an unresolved yes-or-no question."
     },
     {
       "family": "patterns",
@@ -6232,7 +6277,7 @@
       "key": "like + noun · as + role/function noun · as + subject + verb",
       "deck": "EN::01 Patterns",
       "function": "Further reusable sentence shapes",
-      "meaning": "Use like for similarity and as + noun for an actual role or function. As + clause can mean in the way that; conversational like + clause also occurs. As I said and like I said can both refer back to your earlier words, with like more conversational."
+      "meaning": "Use like for similarity and as + noun for an actual role or function."
     },
     {
       "family": "patterns",
@@ -6246,14 +6291,14 @@
       "key": "X matters more to + person + than Y · choose X over Y",
       "deck": "EN::01 Patterns",
       "function": "Further reusable sentence shapes",
-      "meaning": "Compare priorities or state a choice. Matters more describes relative importance; choose over identifies the preferred alternative. Neither requires claiming the other option is bad."
+      "meaning": "Compare priorities or state a choice."
     },
     {
       "family": "patterns",
       "key": "would rather + person + past form · would rather + person + had + past participle",
       "deck": "EN::01 Patterns",
       "function": "Further reusable sentence shapes",
-      "meaning": "State a preference about another person’s action. Use a past form for a present or future preference; use past perfect for a preferred past that did not happen. When you perform the action yourself, use would rather + base verb."
+      "meaning": "State a preference about another person's present/future or past action."
     },
     {
       "family": "patterns",
@@ -6267,28 +6312,28 @@
       "key": "for + duration · during + noun · while + clause · before/after + noun/clause/V-ing",
       "deck": "EN::01 Patterns",
       "function": "Further reusable sentence shapes",
-      "meaning": "For measures duration; during names the period in which something happens; while introduces a simultaneous situation. Before/after can take a noun, a clause, or an -ing action. With an understood -ing subject, keep the actor clear. For and since in continuing situations are covered by the perfect-duration frame."
+      "meaning": "For measures duration; during names the period in which something happens; while introduces a simultaneous situation."
     },
     {
       "family": "patterns",
       "key": "as/while + clause · just as + clause",
       "deck": "EN::01 Patterns",
       "function": "Further reusable sentence shapes",
-      "meaning": "Describe overlapping events. As can show simultaneous actions or change; just as emphasizes the exact moment. While often highlights the duration. Because as can also mean because, use while or when if the intended time relationship would otherwise be unclear."
+      "meaning": "Describe overlapping events."
     },
     {
       "family": "patterns",
       "key": "on time · in time for + noun / to + verb",
       "deck": "EN::01 Patterns",
       "function": "Further reusable sentence shapes",
-      "meaning": "On time means at the scheduled or expected time. In time means early enough for a purpose or event; just in time means almost too late. One arrival can satisfy both descriptions."
+      "meaning": "Distinguish meeting a schedule from arriving early enough for a purpose."
     },
     {
       "family": "patterns",
       "key": "verb + particle + noun / verb + noun + particle · verb + pronoun + particle · verb + preposition + object",
       "deck": "EN::01 Patterns",
       "function": "Further reusable sentence shapes",
-      "meaning": "Separable phrasal verbs allow the noun object in either position, but their ordinary pronoun object goes between the verb and particle. Prepositional verbs keep their object after the preposition. Which type a verb belongs to is lexical knowledge; not every short word after a verb is a movable particle."
+      "meaning": "Place objects according to whether the verb is separable or prepositional."
     },
     {
       "family": "patterns",
@@ -6302,7 +6347,7 @@
       "key": "lead to/result in + outcome · result from/stem from + cause",
       "deck": "EN::01 Patterns",
       "function": "Results, change, and functional relationships",
-      "meaning": "Connect a cause with an outcome in either direction. Lead to and result in introduce the effect produced; result from and stem from introduce its cause or origin. The alternatives often overlap: do not invent a certainty difference between lead to and result in. Both to in lead to and in in result in are prepositions and can take a noun or an -ing action. Stem from / boil down to has its own vocabulary contrast: origin versus the essential issue."
+      "meaning": "Connect a cause with an outcome in either direction."
     },
     {
       "family": "patterns",
@@ -6316,7 +6361,7 @@
       "key": "come to a halt/stop · come to an end",
       "deck": "EN::01 Patterns",
       "function": "Results, change, and functional relationships",
-      "meaning": "Describe movement or an activity ending. Halt and stop often overlap for movement; halt can also describe a process stopping. Come to an end suits an event or period reaching its endpoint."
+      "meaning": "Describe movement or an activity ending."
     },
     {
       "family": "patterns",
@@ -6330,7 +6375,7 @@
       "key": "have an impact/effect on + target · contribute to + outcome · play a role in + process · be associated with + noun",
       "deck": "EN::01 Patterns",
       "function": "Results, change, and functional relationships",
-      "meaning": "Distinguish influence, contribution, participation, and association. Impact/effect identifies something affected. Contribute to presents a partial cause or contribution. Play a role identifies involvement or influence. Associated with identifies a connection without by itself claiming causation. These frames can overlap; the evidence determines what you can claim."
+      "meaning": "Distinguish influence, contribution, participation, and association."
     },
     {
       "family": "patterns",
@@ -6358,7 +6403,7 @@
       "key": "turn into + result · turn + object + into + result",
       "deck": "EN::01 Patterns",
       "function": "Results, change, and functional relationships",
-      "meaning": "Describe transformation. Turn into makes the changing thing the subject; turn something into names the agent causing the change. The result is what the thing becomes."
+      "meaning": "Describe transformation."
     },
     {
       "family": "patterns",
@@ -6372,7 +6417,7 @@
       "key": "stand clear of + hazard · stay clear of + person/thing/problem",
       "deck": "EN::01 Patterns",
       "function": "Results, change, and functional relationships",
-      "meaning": "Stand clear tells someone to move or stay out of a hazard’s immediate path, especially in announcements. Stay clear can refer to physical avoidance or avoiding involvement. They overlap around physical hazards; stay clear also extends naturally to situations such as gossip."
+      "meaning": "Stand clear tells someone to move or stay out of a hazard’s immediate path, especially in announcements."
     },
     {
       "family": "patterns",
@@ -6386,140 +6431,140 @@
       "key": "Me too · Me neither · So do I/So am I · Neither do I/Neither am I",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "Say that the same thing is true for you. Use me too after a positive statement and me neither after a negative one; these are the most common casual replies. So/Neither + helper + I is slightly fuller and repeats the helper from the other person’s sentence: do for ordinary present verbs, am for be, did for the past, and have or can when they used those helpers. In casual AmE, me either is also common after a negative."
+      "meaning": "Say that the same positive or negative statement is true for you."
     },
     {
       "family": "patterns",
       "key": "How about you? · What about you? · And you?",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "Pass the turn back after you answer a question so the conversation keeps going. How about you and what about you are interchangeable here. And you? is shorter and fits simple exchanges such as greetings."
+      "meaning": "Pass the turn back after you answer a question so the conversation keeps going."
     },
     {
       "family": "patterns",
       "key": "Right. · I see. · That makes sense. · Fair enough. · Exactly. · Totally.",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "Show that you are following or agreeing while someone explains something. Right and I see signal that you understand, not necessarily that you agree. That makes sense says the explanation sounds logical to you. Fair enough accepts someone’s reason even if you might have chosen differently. Exactly and totally show strong agreement; totally is casual."
+      "meaning": "Show that you are following or agreeing while someone explains something."
     },
     {
       "family": "patterns",
       "key": "Really? · Seriously? · No way! · You’re kidding! · Oh, nice! · Oh no!",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "React briefly to someone’s news to show interest and invite them to continue. Really? shows interest or mild surprise. Seriously?, No way!, and You’re kidding! show stronger surprise or disbelief; You’re kidding! often reacts to something annoying or hard to believe. Oh, nice! responds to good news, and Oh no! responds to bad news. Your tone matters: a flat Really? can sound doubtful."
+      "meaning": "React briefly to someone’s news to show interest and invite them to continue."
     },
     {
       "family": "patterns",
       "key": "Congrats on + noun/V-ing · That’s great news! · Good for you!",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "Respond warmly to someone’s good news or achievement. Congrats is the casual form of congratulations; both take on + noun/V-ing. That’s great news! reacts to the information itself. Good for you! praises the person’s own effort or decision; said in a flat tone, it can sound sarcastic."
+      "meaning": "Respond warmly to someone’s good news or achievement."
     },
     {
       "family": "patterns",
       "key": "Well, + reply · So, + new topic/question/summary",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "Start your turn in a way that signals its purpose. Well begins a reply that needs a moment of thought, a qualification, or a soft disagreement. So opens a new topic, introduces a question, or sums up what has been decided."
+      "meaning": "Start your turn in a way that signals its purpose."
     },
     {
       "family": "patterns",
       "key": "I mean, + clarification/correction · ..., you know?",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "Use small spoken markers to adjust what you just said. I mean adds a clarification, a qualification, or a quick correction. You know? at the end checks that the listener shares your point. Use them occasionally; adding them to every sentence makes you sound hesitant. For a deliberate repair of a misunderstanding, use a fuller frame such as What I mean is."
+      "meaning": "Use small spoken markers to adjust what you just said."
     },
     {
       "family": "patterns",
       "key": "kind of/sort of + adjective/verb · a bit/a little + adjective · a bit of a + noun",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "Soften a description or opinion so it sounds less direct. Kind of and sort of are interchangeable and casual; they can come before an adjective or a verb. A bit and a little often soften a negative or uncomfortable adjective; a bit is especially common in conversation. A bit of a + noun softens a negative noun such as problem, mess, or challenge."
+      "meaning": "Soften a description or opinion so it sounds less direct."
     },
     {
       "family": "patterns",
       "key": "..., or something · ..., and stuff (like that) · ..., or whatever",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "Keep a description general when the exact details do not matter. Or something means or something similar; and stuff (like that) means and similar things. Or whatever also leaves the choice open but can sound dismissive, as if the details are unimportant. All three are casual; avoid them in interviews and formal writing."
+      "meaning": "Keep a description general when the exact details do not matter."
     },
     {
       "family": "patterns",
       "key": "I was like, \"...\" · subject + was like, \"...\" · I’m like / he’s like, \"...\"",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "Report what someone said, thought, or how they reacted in a casual story. Be like does not promise the exact words; it often captures an attitude. Storytellers commonly use the past form, but they also switch to the present to make a story vivid. Use said in professional contexts or when the exact words matter."
+      "meaning": "Report what someone said, thought, or how they reacted in a casual story."
     },
     {
       "family": "patterns",
       "key": "There’s no way + clause · There’s no way to + verb",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "Say that something is impossible or that you strongly reject it. There’s no way + clause expresses strong disbelief or refusal. There’s no way to + verb says that no method exists. Ask whether a method exists with Is there any way to + verb?"
+      "meaning": "Say that something is impossible or that you strongly reject it."
     },
     {
       "family": "patterns",
       "key": "It’s up to + person (to + verb) · I’ll leave it up to you",
       "deck": "EN::01 Patterns",
       "function": "Conversation glue: responses, reactions, and casual storytelling",
-      "meaning": "Say who has the right or responsibility to decide. It’s up to you hands a decision to the listener. It’s up to + person + to + verb names who has to act. I’ll leave it up to you is a polite way to let someone else choose."
+      "meaning": "Say who has the right or responsibility to decide."
     },
     {
       "family": "patterns",
       "key": "When it comes to + noun/V-ing, + clause · As for + noun, + clause · As far as + noun + is concerned, + clause",
       "deck": "EN::01 Patterns",
       "function": "Topic framing and reference",
-      "meaning": "Introduce the topic your next statement is about. When it comes to is very common in speech and sets up a general statement about a topic. As for moves to the next person or item, often after you have discussed another one. As far as + noun + is concerned limits the statement to that topic and sounds neutral to slightly formal; as far as I am concerned instead means in my opinion. In terms of is different: it narrows an evaluation or comparison to one aspect rather than introducing a topic."
+      "meaning": "Introduce the topic your next statement is about."
     },
     {
       "family": "patterns",
       "key": "regarding/concerning + noun · with/in regard to + noun · with respect to + noun · in the case of + noun",
       "deck": "EN::01 Patterns",
       "function": "Topic framing and reference",
-      "meaning": "Name the topic in professional or written English. Regarding and concerning take a noun directly, without to. With/in regard to and with respect to also mean about; they are generally more formal than about. In casual conversation, about is usually a good default. As regards is another formal alternative. In the case of introduces a particular case, often contrasted with other cases, rather than simply meaning about."
+      "meaning": "Name the topic in professional or written English."
     },
     {
       "family": "patterns",
       "key": "By the way, + clause · Oh, before I forget, + clause · That reminds me, + clause",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Bring up something new or unrelated without a smooth transition. By the way adds a side point. Before I forget flags something you might otherwise forget to mention. That reminds me says that something just said made you think of it. Unlike speaking of, these do not need a related topic."
+      "meaning": "Bring up something new or unrelated without a smooth transition."
     },
     {
       "family": "patterns",
       "key": "Not really · I’m not really into/not a big fan of + noun/V-ing · I’m more of a + noun + person · not … at all",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Answer with the right strength. Not really is a soft no. Not really into and not a big fan of express mild dislike politely; I’m more of a ___ person names the preference you have instead. Not ... at all is strong: it emphasizes zero."
+      "meaning": "Answer with the right strength."
     },
     {
       "family": "patterns",
       "key": "You did? / Do you? / Have you? · You did what? · Like what? · How so? · What makes you say that?",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Show interest and invite the speaker to say more. A short response question repeats the helper from the other person’s sentence with a rising tone: did for a past verb, do for a present verb, and have for a perfect. In an echo question such as You did what?, a question word replaces the surprising part. Like what? asks for examples; How so? and What makes you say that? ask for reasons."
+      "meaning": "Show interest and invite the speaker to say more."
     },
     {
       "family": "patterns",
       "key": "No problem · No worries · Don’t worry about it · Anytime · Never mind",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Brush off a small problem, thanks, or an apology. No problem and no worries reply to thanks or a small apology; no worries is casual. Don’t worry about it reassures someone who apologizes or offers to fix something. Anytime replies to thanks and says you are happy to help again. Never mind cancels your own question or request, or says that a small issue no longer matters."
+      "meaning": "Brush off a small problem, thanks, or an apology."
     },
     {
       "family": "patterns",
       "key": "Don’t you think + clause? · Isn’t it + adjective? · Wouldn’t it be better to + verb?",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Ask a negative question when you expect or want the listener to agree. It sounds more involved than a plain statement and can soften a suggestion. Answer about the facts, not the negative form of the question: yes means the positive statement is true."
+      "meaning": "Ask a negative question when you expect or want the listener to agree."
     },
     {
       "family": "patterns",
       "key": "That must be + adjective · That sounds + adjective · No wonder + clause",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "React to someone’s situation by drawing a reasonable conclusion. That must be + adjective imagines how the situation feels. That sounds + adjective reacts to what you have just heard. No wonder + clause says that a fact explains something you noticed."
+      "meaning": "React to someone’s situation by drawing a reasonable conclusion."
     },
     {
       "family": "patterns",
@@ -6533,35 +6578,35 @@
       "key": "You know what? + comment/decision · Guess what? + news · Did you hear about + noun?",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Get attention before saying something. You know what? introduces a comment or a sudden decision. Guess what? announces news, usually good or surprising. Did you hear about introduces news about someone or something the listener may know."
+      "meaning": "Get attention before saying something."
     },
     {
       "family": "patterns",
       "key": "So far, + present perfect · So far, so good",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Report progress up to now. So far normally takes the present perfect because the period continues. So far, so good says that everything has gone well up to this point, but the process is not finished."
+      "meaning": "Report progress up to now."
     },
     {
       "family": "patterns",
       "key": "Keep in mind (that) + clause · keep + noun + in mind",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Remind someone of a fact that should affect a decision or plan. Keep in mind is more common than bear in mind in American English. With a short noun, put it between keep and in mind."
+      "meaning": "Remind someone of a fact that should affect a decision or plan."
     },
     {
       "family": "patterns",
       "key": "go ahead and + verb · Go ahead.",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Say that you are about to do something, or tell someone they can start. I’ll go ahead and + verb announces an action you are taking without more discussion. Go ahead and + verb tells someone to proceed; Go ahead alone gives permission."
+      "meaning": "Say that you are about to do something, or tell someone they can start."
     },
     {
       "family": "patterns",
       "key": "I doubt (that) + clause · I doubt it · I’m not so sure about that · I don’t think that’s right",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Respond with skepticism. I doubt + clause says you think something is probably not true or will probably not happen; because doubt already carries the negative meaning, the clause is usually positive. I doubt it is the short reply. I’m not so sure about that politely questions someone’s claim; I don’t think that’s right is more direct and suits a factual mistake."
+      "meaning": "Respond with skepticism."
     },
     {
       "family": "patterns",
@@ -6575,35 +6620,35 @@
       "key": "I’m afraid + clause · I’m sorry, but + clause · I don’t want to worry you, but + clause",
       "deck": "EN::01 Patterns",
       "function": "Everyday spoken frames from published-material comparison",
-      "meaning": "Soften unwelcome news, a refusal, or a disagreement. I’m afraid here means I am sorry to say, not that you feel fear. I’m sorry, but is direct and polite. I don’t want to worry you, but prepares the listener for a possible problem."
+      "meaning": "Soften unwelcome news, a refusal, or a disagreement."
     },
     {
       "family": "patterns",
       "key": "these days + present · lately/recently + present perfect · the other day + past · at the time + past",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Choose the time phrase and the tense together. These days describes the current situation, often in contrast with the past. Lately and recently often take the present perfect for a recent period; recently can also take the simple past for one recent event. The other day means a few days ago. At the time means then, when the event happened, often when your view has changed since."
+      "meaning": "Choose a time phrase and a tense that match the period you mean."
     },
     {
       "family": "patterns",
       "key": "At this point, + clause · In the meantime, + clause · at some point",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Place an action within a process. At this point means at the current stage, often to say what is now possible or sensible. In the meantime means during the period before something else happens. At some point means at a time that is not yet known."
+      "meaning": "Place an action within a process."
     },
     {
       "family": "patterns",
       "key": "In a way/In a sense, + clause · If you think about it, + clause",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Present a claim as partly true or as one way of looking at things. In a way and in a sense limit the claim. If you think about it invites the listener to notice a point they may not have considered."
+      "meaning": "Present a claim as partly true or as one way of looking at things."
     },
     {
       "family": "patterns",
       "key": "Then again, + clause · On the contrary, + clause",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Then again adds a second thought that balances or weakens what you just said. On the contrary rejects the previous statement and asserts the opposite; it is not a general contrast marker. When both sides are true, use on the other hand instead."
+      "meaning": "Then again adds a second thought that balances or weakens what you just said."
     },
     {
       "family": "patterns",
@@ -6617,35 +6662,35 @@
       "key": "Other than that, + clause · other than + noun",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Make an exception. Other than that follows a mentioned exception and says that everything else is fine or unchanged. Other than + noun means except."
+      "meaning": "Make an exception."
     },
     {
       "family": "patterns",
       "key": "The best/worst part was (when) + clause · The good thing about + noun + is (that) + clause · One of the things I like about + noun + is (that) + clause",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Highlight one part of an experience or one feature of something. The best/worst part was describes a moment. The good thing about names an advantage. One of the things I like about presents one of several reasons; the verb agrees with one, so use is."
+      "meaning": "Highlight one part of an experience or one feature of something."
     },
     {
       "family": "patterns",
       "key": "What a/an (+ adjective) + noun! · How + adjective! · absolutely/totally + extreme adjective · couldn’t be + comparative",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Express a strong reaction. What a + noun and How + adjective are exclamations. With extreme adjectives such as exhausted, amazing, or freezing, absolutely or totally is the natural intensifier; very usually goes with ordinary adjectives such as tired. Couldn’t be better/happier means as good or as happy as possible."
+      "meaning": "Express a strong reaction."
     },
     {
       "family": "patterns",
       "key": "I wouldn’t say + X, just + Y · not exactly + adjective/noun",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Tone down a judgment. I wouldn’t say X, just Y rejects a strong word and offers a milder, more accurate one. Not exactly is ironic understatement: it politely or humorously means not at all."
+      "meaning": "Tone down a judgment."
     },
     {
       "family": "patterns",
       "key": "Some people (might) argue that + clause, but + clause · It could be argued that + clause",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Introduce a view you do not fully share before you respond to it. Some people argue presents an opposing view in conversation and essays. It could be argued is more formal and impersonal."
+      "meaning": "Introduce a view you do not fully share before you respond to it."
     },
     {
       "family": "patterns",
@@ -6659,21 +6704,21 @@
       "key": "Let’s move on to + topic · That’s a separate issue · Let’s not get into + topic · Let’s not go there",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Steer a conversation or meeting. Let’s move on to changes to the next item. That’s a separate issue says a point is not relevant right now. Let’s not get into + topic and the casual Let’s not go there avoid a sensitive or time-consuming subject."
+      "meaning": "Steer a conversation or meeting."
     },
     {
       "family": "patterns",
       "key": "Sorry to bother you, but + clause · Do you have a minute? · Can I have a word (with you)?",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Approach someone who may be busy. Sorry to bother you, but apologizes for the interruption before a request. Do you have a minute? checks whether someone is available; Got a sec? is casual. Can I have a word (with you)? asks for a short private talk and can sound serious."
+      "meaning": "Approach someone who may be busy."
     },
     {
       "family": "patterns",
       "key": "Can I speak to + person? · Can I leave a message? · Could you tell + person + I called? · This is + name + returning your call",
       "deck": "EN::01 Patterns",
       "function": "Discussion, storytelling, and work frames from published-material comparison",
-      "meaning": "Handle a phone call. Can I speak to asks for the person you want. On the phone, identify yourself with This is + name, not I am + name. Can I leave a message? and Could you tell + person + I called? are useful when the person is unavailable. Returning your call says that you are calling back."
+      "meaning": "Handle a phone call."
     },
     {
       "family": "patterns",
@@ -6708,21 +6753,21 @@
       "key": "at once · in one go · at a time",
       "deck": "EN::01 Patterns",
       "function": "Approved personal production frames",
-      "meaning": "Describe timing or the size of a batch. At once can mean immediately or simultaneously; context distinguishes them. In one go means in a single continuous effort. At a time means per occasion or batch; one, ten, or another quantity supplies the batch size."
+      "meaning": "Describe timing or the size of a batch."
     },
     {
       "family": "patterns",
       "key": "at work · off work · have a day off",
       "deck": "EN::01 Patterns",
       "function": "Approved personal production frames",
-      "meaning": "Describe work status or a break from work. At work means working or at your workplace. Off work means not working during a stated period, including scheduled time away or illness. A day off is a day when you do not have to work; it does not mean leaving your job."
+      "meaning": "Describe work status or a break from work."
     },
     {
       "family": "patterns",
       "key": "set an example · lead by example",
       "deck": "EN::01 Patterns",
       "function": "Conversation, reflection, and evaluation",
-      "meaning": "Demonstrate behavior that others can follow. Set an example can describe good or bad behavior; lead by example emphasizes showing people what to do through your actions rather than instructions. You can set an example for someone by doing something."
+      "meaning": "Demonstrate behavior that others can follow."
     },
     {
       "family": "patterns",
@@ -6736,14 +6781,14 @@
       "key": "Looking back, + clause · In retrospect/hindsight, + clause",
       "deck": "EN::01 Patterns",
       "function": "Conversation, reflection, and evaluation",
-      "meaning": "Reflect on past experiences from your current perspective. Looking back can introduce memories or reassessment; in retrospect and in hindsight especially emphasize judging the past with what you know now. These expressions often overlap."
+      "meaning": "Reflect on past experiences from your current perspective."
     },
     {
       "family": "patterns",
       "key": "can't help + V-ing · find myself + V-ing",
       "deck": "EN::01 Patterns",
       "function": "Conversation, reflection, and evaluation",
-      "meaning": "Can't help + V-ing (also can't help but + base verb) means finding it difficult or impossible to avoid a reaction or action. Find myself + V-ing describes noticing yourself doing something, often without deciding to do it; it does not necessarily mean the action is impossible to control."
+      "meaning": "Describe an action/reaction you find hard to avoid, or one you notice yourself doing."
     },
     {
       "family": "patterns",
@@ -6756,8 +6801,15 @@
       "family": "patterns",
       "key": "X applies to Y · The same goes for Y · X holds true for Y",
       "deck": "EN::01 Patterns",
-      "function": "Conversation, reflection, and evaluation",
-      "meaning": "Use these frames to extend a rule, instruction, or statement to another person or situation. Applies to says which cases a rule or instruction covers. The same goes for is a conversational way to extend the previous point. Holds true for says that a statement remains true in another case."
+      "function": "Approved personal production frames",
+      "meaning": "Use these frames to extend a rule, instruction, or statement to another person or situation."
+    },
+    {
+      "family": "patterns",
+      "key": "X is eating me up (inside) · X is weighing on me · X is getting to me",
+      "deck": "EN::01 Patterns",
+      "function": "Approved personal production frames",
+      "meaning": "Describe how a feeling, thought, responsibility, or situation affects you emotionally."
     },
     {
       "family": "connections",
@@ -13030,7 +13082,7 @@
     },
     {
       "id": "outcome_discovery",
-      "function": "Explain an outcome or discovery",
+      "function": "Compare causing an effect, reaching a final situation, and discovering an outcome",
       "owner": {
         "family": "vocabulary",
         "key": "lead to / result in / end up / turn out"
@@ -13047,6 +13099,20 @@
         {
           "text": "end up",
           "relationship": "related"
+        },
+        {
+          "text": "turn out",
+          "relationship": "core"
+        },
+        {
+          "text": "lead to",
+          "relationship": "related",
+          "note": "Introduces a caused outcome; lead to also describes a route."
+        },
+        {
+          "text": "result in",
+          "relationship": "near_synonym",
+          "note": "Overlaps with lead to for caused outcomes, rather than being interchangeable with every expression in this group."
         }
       ]
     },
@@ -13131,6 +13197,306 @@
         {
           "text": "feel like I'm falling behind",
           "relationship": "related"
+        }
+      ]
+    },
+    {
+      "id": "unconcerned_attitude_variants",
+      "function": "Describe little concern or an outwardly relaxed manner",
+      "owner": {
+        "family": "vocabulary",
+        "key": "indifferent / nonchalant"
+      },
+      "expressions": [
+        {
+          "text": "nonchalance",
+          "relationship": "related",
+          "note": "Noun related to nonchalant; does not prove an absence of inner feelings."
+        },
+        {
+          "text": "nonchalant",
+          "relationship": "core"
+        }
+      ]
+    },
+    {
+      "id": "formal_attachment_variant",
+      "function": "Attach an object or label to something",
+      "owner": {
+        "family": "vocabulary",
+        "key": "stick"
+      },
+      "expressions": [
+        {
+          "text": "affix",
+          "relationship": "related",
+          "note": "Formal attaching verb only; the linguistic noun is outside this owner."
+        },
+        {
+          "text": "affix A to B",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "formal_preference_variant",
+      "function": "Choose one option because it is preferred to another",
+      "owner": {
+        "family": "patterns",
+        "key": "prefer + noun/V-ing + to + noun/V-ing · would prefer to + verb · would rather + base verb + than + base verb · instead of + noun/V-ing · rather than + parallel alternative"
+      },
+      "expressions": [
+        {
+          "text": "in preference to",
+          "relationship": "variant",
+          "note": "Formal alternative; takes a noun phrase or V-ing."
+        }
+      ]
+    },
+    {
+      "id": "descriptive_location_variant",
+      "function": "Describe the surroundings of a place",
+      "owner": {
+        "family": "patterns",
+        "key": "at + point/site · on + surface/line · in + area/enclosure · located/situated at/on/in · inside/outside/within · at home/work · on a bus/train/plane · in a car/taxi"
+      },
+      "expressions": [
+        {
+          "text": "set amid",
+          "relationship": "related"
+        },
+        {
+          "text": "be set amid",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "cut_family_reduction_removal_interruption",
+      "function": "Choose cut expressions for reduction, removal, interruption, queue-jumping, or inclusion.",
+      "owner": {
+        "family": "vocabulary",
+        "key": "cut back / cut down / cut off / cut out / cut in / cut up"
+      },
+      "expressions": [
+        {
+          "text": "cut back",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut down",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut off",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut out",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut in",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut up",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut in line",
+          "relationship": "variant",
+          "note": "American queue-jumping expression under cut in."
+        },
+        {
+          "text": "cut the line",
+          "relationship": "variant",
+          "note": "American alternative for queue-jumping."
+        },
+        {
+          "text": "cut back on",
+          "relationship": "variant"
+        },
+        {
+          "text": "cut down on",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "proportional_and_disproportionate",
+      "function": "Describe corresponding ratios or an appropriate versus excessive or insufficient comparative amount.",
+      "owner": {
+        "family": "vocabulary",
+        "key": "proportional / disproportionate"
+      },
+      "expressions": [
+        {
+          "text": "proportional",
+          "relationship": "core"
+        },
+        {
+          "text": "disproportionate",
+          "relationship": "contrast"
+        },
+        {
+          "text": "proportionally",
+          "relationship": "variant"
+        },
+        {
+          "text": "disproportionately",
+          "relationship": "variant"
+        },
+        {
+          "text": "proportionate",
+          "relationship": "related",
+          "note": "Common alternative for appropriate balance."
+        },
+        {
+          "text": "proportionately",
+          "relationship": "variant",
+          "note": "Related adverb taught in the Back’s usage notes."
+        }
+      ]
+    },
+    {
+      "id": "adjective_share_of_total",
+      "function": "Describe a considerable part of a total and compare the sizes of shares.",
+      "owner": {
+        "family": "patterns",
+        "key": "account for/make up + share + of + whole · fraction/percentage + of + group"
+      },
+      "expressions": [
+        {
+          "text": "a large share of",
+          "relationship": "core"
+        },
+        {
+          "text": "a substantial share of",
+          "relationship": "variant"
+        },
+        {
+          "text": "a considerable share of",
+          "relationship": "variant"
+        },
+        {
+          "text": "a sizable share of",
+          "relationship": "variant"
+        },
+        {
+          "text": "a significant share of",
+          "relationship": "related",
+          "note": "Can emphasize importance as well as amount."
+        },
+        {
+          "text": "the largest share of",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "scatter_disperse_spread_out",
+      "function": "Describe or cause people or things to occupy separated positions over an area.",
+      "owner": {
+        "family": "vocabulary",
+        "key": "scatter / disperse / spread out"
+      },
+      "expressions": [
+        {
+          "text": "scatter",
+          "relationship": "core"
+        },
+        {
+          "text": "disperse",
+          "relationship": "related",
+          "note": "Overlaps with scatter and spread out; somewhat more formal."
+        },
+        {
+          "text": "spread out",
+          "relationship": "related",
+          "note": "Includes occupying a wider area or arranging things on a surface."
+        },
+        {
+          "text": "scattered throughout",
+          "relationship": "variant",
+          "note": "Spatial throughout means in all parts of an area; the time contrast with during remains in the connection deck."
+        },
+        {
+          "text": "scattered across",
+          "relationship": "variant"
+        },
+        {
+          "text": "scattered all over",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "scratch_word_uses",
+      "function": "Describe scratching, surface marks, removal, cancellation, and common scratch expressions",
+      "owner": {
+        "family": "vocabulary",
+        "key": "scratch"
+      },
+      "expressions": [
+        {
+          "text": "scratch",
+          "relationship": "core"
+        },
+        {
+          "text": "from scratch",
+          "relationship": "related",
+          "note": "Beginning without adapting an existing version."
+        },
+        {
+          "text": "scratch the surface",
+          "relationship": "related",
+          "note": "Deal with only a small part of a subject."
+        },
+        {
+          "text": "scratch your head",
+          "relationship": "related",
+          "note": "Feel puzzled."
+        },
+        {
+          "text": "scratch that",
+          "relationship": "related",
+          "note": "Retract or cancel what was just said."
+        },
+        {
+          "text": "scratch off",
+          "relationship": "related",
+          "note": "Remove by marking or rubbing; scratch a name off a list."
+        }
+      ]
+    },
+    {
+      "id": "starch_word_uses",
+      "function": "Name starch in food, related cooking vocabulary, and its use on fabric",
+      "owner": {
+        "family": "vocabulary",
+        "key": "starch"
+      },
+      "expressions": [
+        {
+          "text": "starch",
+          "relationship": "core"
+        },
+        {
+          "text": "starchy",
+          "relationship": "related",
+          "note": "Adjective for containing a lot of starch."
+        },
+        {
+          "text": "cornstarch",
+          "relationship": "related",
+          "note": "A type of starch used as a thickener; covered on the Back."
         }
       ]
     }
