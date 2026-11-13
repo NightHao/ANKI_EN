@@ -13,11 +13,16 @@ class SemanticIndexTests(unittest.TestCase):
     def setUpClass(cls):
         cls.data=semantic.build()
         cls.groups={g["id"]:g for g in cls.data["groups"]}
+        cls.exported_keys=set()
+        for family in semantic.load_config()['families']:
+            _, rows=semantic.read_export(ROOT/family['export'])
+            cls.exported_keys.update((family['name'], row[family['fields'][0]]) for row in rows)
 
     def test_all_families(self):
         self.assertEqual({c["family"] for c in self.data["cards"]},
                          {"vocabulary","patterns","connections"})
-        self.assertGreaterEqual(len(self.data["cards"]),1327)
+        self.assertEqual({(card['family'], card['key']) for card in self.data['cards']},
+                         self.exported_keys)
 
     def test_separate_behavior_from_admiration(self):
         admire=self.groups["admiration"]
@@ -41,7 +46,7 @@ class SemanticIndexTests(unittest.TestCase):
         for card in self.data["cards"]:
             self.assertTrue(card["function"], card["key"])
             self.assertTrue(card["meaning"], card["key"])
-        self.assertEqual(len(self.data["cards"]), 1341)
+        self.assertEqual(len(self.data["cards"]), len(self.exported_keys))
 
     def test_meaning_search_finds_admiration_owner(self):
         results = find_cards.meaning_candidates("respect admiration", self.data, 15)

@@ -34,6 +34,7 @@ def check_patterns() -> None:
     sys.modules[spec.name] = module
     spec.loader.exec_module(module)
     cards = module.parse_cards(module.SOURCE.read_text(encoding='utf-8'))
+    module.validate_answer_organization(cards)
     selected = module.parse_pattern_selection(module.PATTERN_SELECTION.read_text(encoding='utf-8'))
     module.validate_pattern_selection(cards, selected)
     connection_sources = '\n'.join(
@@ -108,8 +109,6 @@ def main() -> int:
         ('cards/tools/promote_connection_cards.py', '--check'),
         ('cards/tools/build_connection_import.py', '--final', '--check'),
         ('cards/tools/build_connection_import.py', '--self-test'),
-        ('cards/corrections/scripts/update_corrections.py', 'validate'),
-        ('cards/corrections/scripts/update_corrections.py', 'self-test'),
         ('-m', 'unittest', 'discover', '-s', 'cards/vocabulary/scripts', '-p', 'test_grouped_vocabulary.py'),
         ('scripts/anki/test_change_records.py',),
     ]:

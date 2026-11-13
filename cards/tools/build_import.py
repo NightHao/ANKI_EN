@@ -28,6 +28,8 @@ CARD_HEADING_RE = re.compile(r"^## `([^`\n]+)`\s*$")
 BULLET_RE = re.compile(r"^- (.+)$")
 GRAMMAR_CARD_MARKER = "<!-- grammar-card -->"
 OVERVIEW_CARD_MARKER = "<!-- overview-card -->"
+GROUPED_LAYOUT_MARKER = "<!-- grouped-layout -->"
+SECTION_HEADING_RE = re.compile(r"^### `([^`\n]+)`$")
 DIAGRAM_MARKER_RE = re.compile(r"^<!-- diagram: (en-prepositions-[a-z0-9-]+\.svg) -->$")
 INLINE_MARKUP_RE = re.compile(r"(`[^`\n]+`|\*\*[^*\n]+\*\*)")
 SELECTION_ROW_RE = re.compile(r"^\| [^|]+ \| `([^`\n]+)` \| [^|]*\|$")
@@ -43,6 +45,13 @@ REVIEW_EXEMPT_ORDINARY_FRONTS = frozenset(
 
 
 @dataclass(frozen=True)
+class OverviewSection:
+    pattern: str
+    explanation: str
+    examples: tuple[str, ...]
+
+
+@dataclass(frozen=True)
 class Card:
     front: str
     explanation: str | None = None
@@ -50,6 +59,50 @@ class Card:
     grammar_lines: tuple[str, ...] = ()
     is_overview: bool = False
     diagrams: tuple[str, ...] = ()
+    sections: tuple[OverviewSection, ...] = ()
+
+
+def parse_grouped_layout(front: str, body: list[str], source: Path,
+                         start: int, diagrams: list[str], is_overview: bool = False) -> Card:
+    """Read reviewed blocks from the canonical Markdown, without changing Fronts."""
+    starts = [(i, match.group(1)) for i, line in enumerate(body)
+              if (match := SECTION_HEADING_RE.fullmatch(line.strip()))]
+    if not starts:
+        raise ValueError(f"{source}:{start + 1}: grouped layout needs pattern sections")
+    if any("\t" in line for line in body):
+        raise ValueError(f"{source}:{start + 1}: grouped layout cannot contain tabs")
+    if any(line.startswith("###") and not SECTION_HEADING_RE.fullmatch(line) for line in body):
+        raise ValueError(f"{source}:{start + 1}: section headings must use a code span")
+    expected = front.split(" · ")
+    if [pattern for _, pattern in starts] != expected:
+        raise ValueError(f"{source}:{start + 1}: grouped sections must match every Front item in order")
+    intro = "\n\n".join(" ".join(p.split()) for p in "\n".join(body[1:starts[0][0]]).strip().split("\n\n") if p.strip())
+    if not intro:
+        raise ValueError(f"{source}:{start + 1}: grouped layout needs an introduction")
+    sections: list[OverviewSection] = []
+    for number, (offset, pattern) in enumerate(starts):
+        end = starts[number + 1][0] if number + 1 < len(starts) else len(body)
+        lines = body[offset + 1:end]
+        first = next((i for i, line in enumerate(lines) if BULLET_RE.fullmatch(line)), None)
+        if first is None:
+            raise ValueError(f"{source}:{start + 1}: grouped section needs an example")
+        explanation = "\n\n".join(" ".join(p.split()) for p in "\n".join(lines[:first]).strip().split("\n\n") if p.strip())
+        if not explanation:
+            raise ValueError(f"{source}:{start + 1}: grouped section needs a usage explanation")
+        examples: list[str] = []
+        for line in lines[first:]:
+            if not line.strip():
+                continue
+            match = BULLET_RE.fullmatch(line)
+            if not match:
+                raise ValueError(f"{source}:{start + 1}: unexpected text after grouped examples")
+            examples.append(match.group(1))
+        sections.append(OverviewSection(pattern, explanation, tuple(examples)))
+    examples = tuple(example for section in sections for example in section.examples)
+    if len(examples) < 2:
+        raise ValueError(f"{source}:{start + 1}: grouped layout needs at least two examples")
+    return Card(front=front, explanation=intro, examples=examples, is_overview=is_overview,
+                diagrams=tuple(diagrams), sections=tuple(sections))
 
 
 def render_inline(text: str) -> str:
@@ -69,7 +122,7 @@ def render_inline(text: str) -> str:
     return "".join(parts)
 
 
-def render_grammar_back(lines: tuple[str, ...]) -> str:
+def _render_grammar_lines(lines: tuple[str, ...]) -> str:
     """Preserve the reviewed line-and-section layout of a grammar card."""
 
     paragraphs: list[str] = []
@@ -83,6 +136,23 @@ def render_grammar_back(lines: tuple[str, ...]) -> str:
     if current:
         paragraphs.append("<br>".join(current))
     return "<br><br>".join(paragraphs)
+
+
+def render_grammar_back(lines: tuple[str, ...], front: str = "") -> str:
+    """Style existing decisions without rewriting or dropping any grammar lines."""
+    starts = [i for i, line in enumerate(lines) if re.fullmatch(r"\*\*\d+\*\*", line)]
+    if not starts:
+        return _render_grammar_lines(lines)
+    blocks = ['<section data-en-pattern-sections="1" class="en-pattern-grammar">',
+              '<h3 class="en-pattern-section-title">' + html.escape(front, quote=False) + '</h3>',
+              _render_grammar_lines(lines[:starts[0]])]
+    for number, start in enumerate(starts):
+        end = starts[number + 1] if number + 1 < len(starts) else len(lines)
+        blocks.extend(['<section class="en-pattern-section">',
+                       '<h3 class="en-pattern-section-title">' + render_inline(lines[start]) + '</h3>',
+                       _render_grammar_lines(lines[start + 1:end]), '</section>'])
+    blocks.append('</section>')
+    return ''.join(blocks)
 
 
 def parse_cards(text: str, source: Path = SOURCE) -> list[Card]:
@@ -179,6 +249,10 @@ def parse_cards(text: str, source: Path = SOURCE) -> list[Card]:
                 remaining.append(line)
         body = remaining
 
+        if body and body[0].strip() == GROUPED_LAYOUT_MARKER:
+            cards.append(parse_grouped_layout(front, body, source, start, diagrams, is_overview))
+            continue
+
         first_bullet = next(
             (i for i, line in enumerate(body) if BULLET_RE.fullmatch(line)),
             None,
@@ -243,7 +317,27 @@ def parse_cards(text: str, source: Path = SOURCE) -> list[Card]:
 
 def render_back(card: Card) -> str:
     if card.grammar_lines:
-        return render_grammar_back(card.grammar_lines)
+        return render_grammar_back(card.grammar_lines, card.front)
+    if card.sections:
+        blocks = ['<section data-en-pattern-sections="1">']
+        # Single-pattern cards place their explanation inside their only block.
+        if len(card.sections) > 1:
+            blocks.append('<div class="en-pattern-summary"><div class="en-pattern-label">Shared idea / comparison</div>'
+                          + ''.join('<p>' + render_inline(p) + '</p>' for p in (card.explanation or '').split('\n\n')) + '</div>')
+        for diagram in card.diagrams:
+            blocks.append('<img src="' + html.escape(diagram, quote=True)
+                          + '" alt="Visual preposition guide" style="max-width:100%;height:auto">')
+        for number, section in enumerate(card.sections, start=1):
+            blocks.append('<section class="en-pattern-section"><h3 class="en-pattern-section-title">'
+                          f'<span class="en-pattern-number">{number}.</span> '
+                          + html.escape(section.pattern, quote=False) + '</h3>')
+            blocks.append('<div class="en-pattern-usage"><strong>Usage:</strong> ' + '<br><br>'.join(render_inline(p) for p in section.explanation.split('\n\n')) + '</div>')
+            for example in section.examples:
+                for alternative in example.split(" / "):
+                    blocks.append('<div class="en-pattern-example">' + render_inline(alternative) + '</div>')
+            blocks.append('</section>')
+        blocks.append('</section>')
+        return ''.join(blocks)
     if card.explanation is None:
         raise ValueError(f"ordinary card has no explanation: {card.front}")
     explanation = "<br><br>".join(
@@ -348,6 +442,13 @@ def validate_pattern_selection(cards: list[Card], selected: tuple[str, ...]) -> 
         )
 
 
+def validate_answer_organization(cards: list[Card]) -> None:
+    """Enforce the approved layout in canonical sources, retaining legacy parsing."""
+    for card in cards:
+        if not card.grammar_lines and not card.sections:
+            raise ValueError(f"pattern Back needs per-pattern grouped-layout sections: {card.front}")
+
+
 def _normalize_example(text: str) -> str:
     without_inline_markdown = re.sub(r"[*_`]", "", text)
     return " ".join(without_inline_markdown.casefold().split())
@@ -363,7 +464,7 @@ def validate_example_uniqueness(
     for card in cards:
         for example in card.examples:
             normalized = _normalize_example(example)
-            if normalized in seen:
+            if normalized in seen and seen[normalized] != card.front:
                 raise ValueError(
                     f"duplicate ordinary example in {card.front!r}; first used "
                     f"in {seen[normalized]!r}: {example}"
@@ -470,6 +571,46 @@ Examples:
     assert "<strong>Patterns on this card:</strong>" in overview_back
     assert overview_cards[0].front in overview_back
 
+    grouped_sample = """## `clause, but + clause · Although + clause, main clause`
+
+<!-- overview-card -->
+<!-- grouped-layout -->
+
+Express a contrast.
+
+### `clause, but + clause`
+
+Join two contrasting clauses.
+
+- I was tired, **but I finished the review**.
+
+### `Although + clause, main clause`
+
+Introduce a contrasting circumstance.
+
+- **Although I was tired**, I finished the review.
+"""
+    grouped = parse_cards(grouped_sample, Path("<grouped-self-test>"))[0]
+    assert grouped.front == "clause, but + clause · Although + clause, main clause"
+    assert len(grouped.sections) == 2 and len(grouped.examples) == 2
+    grouped_back = render_back(grouped)
+    assert '<strong>but I finished the review</strong>' in grouped_back
+    assert "Patterns on this card:" not in grouped_back
+    assert grouped_back.count('class="en-pattern-section"') == 2
+    for bad in [grouped_sample.replace('### `clause, but + clause`', '### `Wrong pattern`'),
+                grouped_sample.replace('Join two contrasting clauses.\n\n', ''),
+                grouped_sample.replace('- **Although I was tired**, I finished the review.', '')]:
+        try:
+            parse_cards(bad, Path("<invalid-grouped-self-test>"))
+        except ValueError:
+            pass
+        else:
+            raise AssertionError('grouped layouts must preserve ownership and section completeness')
+
+    ordinary_grouped = parse_cards(grouped_sample.replace('<!-- overview-card -->\n', ''), Path('<ordinary-grouped>'))[0]
+    assert not ordinary_grouped.is_overview and len(ordinary_grouped.sections) == 2
+    assert 'Usage:</strong>' in render_back(ordinary_grouped)
+
     diagram_card = Card(front="in/on/at", explanation="Spatial guide.",
                         examples=("The map is on the wall.", "We met at the entrance."),
                         is_overview=True, diagrams=("en-prepositions-location-v1.svg",))
@@ -568,6 +709,13 @@ Examples:
         assert "duplicates a Connection Patterns source example" in str(error)
     else:
         raise AssertionError("cross-deck example duplication must be rejected")
+    validate_answer_organization([grouped, ordinary_grouped, grammar_cards[0]])
+    try:
+        validate_answer_organization(cards)
+    except ValueError as error:
+        assert "per-pattern grouped-layout" in str(error)
+    else:
+        raise AssertionError("canonical flat production cards must fail organization validation")
     print("self-test passed")
 
 
@@ -585,6 +733,7 @@ def main() -> None:
         return
 
     cards = parse_cards(SOURCE.read_text(encoding="utf-8"))
+    validate_answer_organization(cards)
     selected = parse_pattern_selection(PATTERN_SELECTION.read_text(encoding="utf-8"))
     validate_pattern_selection(cards, selected)
     connection_source_text = "\n".join(

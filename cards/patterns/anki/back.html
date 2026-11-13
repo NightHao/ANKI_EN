@@ -1,0 +1,100 @@
+{{FrontSide}}
+
+<hr id=answer>
+
+<div class="en-pattern-scope" data-en-pattern-deck="{{Deck}}" data-en-pattern-side="back">{{Back}}</div>
+<script>
+(function () {
+  var script = document.currentScript;
+  var root = script && script.previousElementSibling;
+  if (!root || !root.hasAttribute('data-en-pattern-side')) return;
+  var deck = root.getAttribute('data-en-pattern-deck') || '';
+  var active = /^(?:EN::01 Patterns|EN::Patterns)(?:::|$)/.test(deck);
+  // Anki runs its own body-class reset after card scripts. Reapply our scope
+  // in its update hook, after that reset, as well as for standalone rendering.
+  function applyScope() {
+    var card = document.querySelector('.card') || document.body;
+    card.classList.toggle('en-pattern-layout', active);
+  }
+  applyScope();
+  if (Array.isArray(window.onUpdateHook)) window.onUpdateHook.push(applyScope);
+  if (!active) return;
+  root.classList.add('en-pattern-active');
+
+  function label(text) {
+    var el = document.createElement('div');
+    el.className = 'en-pattern-label'; el.textContent = text; return el;
+  }
+  function inline(html) {
+    return html.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/`([^`]+)`/g, '<code>$1</code>');
+  }
+  function patternLine(text) {
+    var line = document.createElement('div'); line.className = 'en-pattern-line';
+    var grammar = /\b(main clause|base verb|past participle|noun phrase|to-infinitive|clause|statement|subject|object|noun|verb|adjective|adverb|V-ing)\b/g;
+    var match, end = 0;
+    while ((match = grammar.exec(text))) {
+      line.appendChild(document.createTextNode(text.slice(end, match.index)));
+      var slot = document.createElement('span'); slot.className = 'en-pattern-slot';
+      slot.textContent = match[0]; line.appendChild(slot); end = grammar.lastIndex;
+    }
+    line.appendChild(document.createTextNode(text.slice(end))); return line;
+  }
+  if (root.getAttribute('data-en-pattern-side') === 'front') {
+    var text = root.textContent;
+    root.setAttribute('data-en-pattern-original', text);
+    var parts = text.split(' · '); root.textContent = '';
+    if (parts.length > 3) root.classList.add('en-pattern-many');
+    parts.forEach(function (part) { root.appendChild(patternLine(part)); });
+    return;
+  }
+
+  var headers = document.querySelectorAll('[data-en-pattern-side="front"]');
+  Array.prototype.forEach.call(headers, function (header) {
+    header.classList.add('en-pattern-back-header');
+  });
+  root.classList.add('en-pattern-answer');
+  var repeated = root.querySelector('[data-en-pattern-repeat]');
+  if (repeated) repeated.remove();
+  if (root.querySelector('[data-en-pattern-sections]')) {
+    // Each answer block already owns its pattern: remove the aggregate Front
+    // only on structured Patterns answers, retaining FrontSide on other decks.
+    Array.prototype.forEach.call(headers, function (header) { header.hidden = true; });
+    var divider = document.getElementById('answer');
+    if (divider) divider.hidden = true;
+    return;
+  }
+
+  var raw = root.innerHTML.replace(/^<strong>Patterns on this card:<\/strong><br>.*?<br><br>/, '');
+  var first = raw.indexOf('• ');
+  if (first < 0) {
+    root.classList.add('en-pattern-grammar');
+    root.innerHTML = inline(raw); return;
+  }
+  var usage = raw.slice(0, first).replace(/(?:<br\s*\/?>\s*)+$/, '');
+  var examples = raw.slice(first).replace(/^• /, '').split(/<br\s*\/?>\s*•\s*/);
+  root.textContent = '';
+  var source = document.createElement('div'); source.innerHTML = inline(usage);
+  var images = source.querySelectorAll('img');
+  if (images.length) {
+    var diagrams = document.createElement('div'); diagrams.className = 'en-pattern-diagrams';
+    Array.prototype.forEach.call(images, function (img) { diagrams.appendChild(img); });
+    root.appendChild(diagrams);
+  }
+  var paragraphs = source.innerHTML.split(/<br\s*\/?>\s*<br\s*\/?>/);
+  var meaning = document.createElement('section'); meaning.className = 'en-pattern-meaning';
+  meaning.appendChild(label('Usage'));
+  paragraphs.forEach(function (paragraph) {
+    var p = document.createElement('p'); p.innerHTML = paragraph;
+    var visible = p.textContent.trim();
+    if (visible && visible !== 'Examples:') meaning.appendChild(p);
+  });
+  root.appendChild(meaning); root.appendChild(label('Examples'));
+  examples.forEach(function (example) {
+    example.split(' / ').forEach(function (alternative) {
+      var el = document.createElement('div'); el.className = 'en-pattern-example';
+      el.innerHTML = inline(alternative); root.appendChild(el);
+    });
+  });
+})();
+</script>

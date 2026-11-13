@@ -70,35 +70,26 @@ situations.
 
 ### Back
 
-The Back contains only:
+Follow [`patterns/BACK_LAYOUT.md`](patterns/BACK_LAYOUT.md), the learner's
+approved default organization for every general pattern card:
 
-1. a brief plain-English explanation of the meaning or use;
-2. when useful, a separate short paragraph naming the common words that use
-   the pattern;
-3. an optional `Examples:` label; and
-4. two or three short, natural examples.
+1. For a grouped card, one short shared meaning, purpose, or comparison.
+2. One block for each complete Front group, in Front order.
+3. In each block: the pattern, its own meaning/usage and useful complement
+   structure, then its own natural examples. Keep these elements together.
+4. Prefer examples in the same situation when the forms express comparable
+   meanings. Say explicitly when more than one choice is valid. Do not force
+   identical situations on forms with different communicative jobs.
 
-Keep a blank line between the usage explanation, the common-words paragraph,
-the `Examples:` label, and the example bullets. Do not turn those paragraphs
-into extra bullet lists: ordinary cards reserve bullets for examples.
+Single-pattern cards use one block and normally two or three examples.
+Grouped cards need at least one example per group and two overall; add only
+examples that teach an additional form or boundary. Do not use an example
+count to omit a Front group. A grouped layout does not change an ordinary
+card into an overview or authorize new content, Front renames, or mergers.
 
-Example:
-
-```text
-Used to identify someone or something as first, next, last, or unique in
-performing an action.
-
-Common words include first, next, last, and only.
-
-Examples:
-
-• Amy was the first person to arrive.
-• This is the last train to leave tonight.
-• He was the only applicant to meet every requirement.
-```
-
-Do not add Card Type, Quick Answer, Supplement, Common Trap, Notes, exercises,
-or other standard sections unless the user explicitly changes this format.
+Do not add Card Type, Quick Answer, Supplement, Common Trap, Notes, or practice
+exercises. The note still has only Front and Back. The operation-based grammar
+exception below retains complete transformations and conditions.
 
 ## Reviewed grouped overview cards
 
@@ -115,10 +106,9 @@ expression on the Front at least once. Unlike an ordinary production card, an
 overview card is not limited to two or three examples. Do not add examples
 that merely repeat a form already demonstrated.
 
-The builder automatically begins the generated Back with **Patterns on this
-card:** followed by the complete Front. This keeps the target expressions
-visible while the learner examines the explanation and examples. Do not copy
-the Front manually into the editable Back in `cards.md`.
+Each expression remains visible in its own answer-block heading. Do not
+repeat the full Front above the Back or gather examples into a separate bank.
+Use the grouped source format in `patterns/BACK_LAYOUT.md` for overview cards too.
 
 Use this exception only after the user has reviewed the complete grouped card.
 Mark it with `<!-- overview-card -->` immediately below the Front heading:
@@ -128,12 +118,26 @@ Mark it with `<!-- overview-card -->` immediately below the Front heading:
 
 <!-- overview-card -->
 
-Use these expressions to describe general positions on a map or diagram.
+<!-- grouped-layout -->
 
-Examples:
+Describe general positions on a map or diagram.
+
+### `on the left/right`
+
+Locate something horizontally within the map or space.
 
 - The entrance is on the left, and the exit is on the right.
+
+### `at the top/bottom`
+
+Identify the upper or lower area.
+
 - The title is at the top, and the scale is at the bottom.
+
+### `in the middle/center`
+
+Identify a central area.
+
 - The garden is in the middle, with a fountain in the center.
 ```
 
@@ -191,8 +195,8 @@ For these reviewed cards:
   fixed count.
 
 The grammar-card renderer accepts plain lines, blank lines, inline code spans,
-and `**bold text**`. It escapes other HTML. Ordinary cards continue to require
-one explanation and exactly two or three bullet examples.
+and `**bold text**`. It escapes other HTML. Production/overview cards use the per-pattern blocks described above.
+Grammar cards retain their existing numbered decisions and full examples.
 
 ## Example level
 
@@ -234,26 +238,12 @@ Do not create a card for a broad label alone, such as `gerund`, `adverb`, or
 ## Source format
 
 `patterns/cards.md` is the canonical human-readable card source. Write each
-card as:
-
-```markdown
-## `pattern shown on the Front`
-
-One brief meaning or usage explanation.
-
-Optional common-words paragraph.
-
-Examples:
-
-- First natural example.
-- Second natural example.
-- Optional third natural example.
-```
-
-Everything inside the level-two heading's code span is the Front. Everything
-below it, up to the next level-two heading, is the Back. Keep exactly two or
-three example bullets on ordinary cards. Reviewed overview cards use the
-marker and example-coverage rule defined above.
+production/overview card using the `<!-- grouped-layout -->` marker and
+`###` code-span headings matching the complete Front groups in order. Retain
+`<!-- overview-card -->` when already applicable. See the complete source
+examples and validation contract in `patterns/BACK_LAYOUT.md`. Legacy flat
+cards remain readable by the builder for compatibility; they are not the
+default for new or revised cards.
 
 Before adding a card, search `patterns/cards.md` for the same idea under nearby
 wording. If the same production pattern is already present, update it rather
@@ -276,11 +266,12 @@ python3 cards/tools/build_import.py
 The builder validates that:
 
 - every Front is unique;
-- every ordinary card has one non-empty explanation and exactly two or three
-  examples;
-- every reviewed overview card has a non-empty explanation and at least two
-  examples, with semantic review confirming that every Front expression is
-  demonstrated, and its generated Back repeats the complete Front;
+- every structured card has a non-empty shared explanation and section
+  headings matching every complete Front group in order;
+- each section has its own usage explanation and at least one example, with
+  at least two examples overall;
+- semantic review confirms examples belong to their sections, matched cases
+  preserve meaning, and important variants/boundaries are retained;
 - every marked grammar card has a non-empty Back and no raw tabs or nested
   level-two headings;
 - no unexpected level-two headings are present;
@@ -307,3 +298,24 @@ sync engine copies referenced diagrams into Anki's media collection before
 changing notes. The ordinary Anki sync sends the media to other devices.
 Use unique versioned filenames to avoid stale or conflicting graphics.
 Diagrams complement, not replace, accurate usage rules and natural examples.
+
+## Reviewed presentation — 2026-11-12
+
+The learner approved a left-aligned Vocabulary-style presentation for
+Patterns, with separated Front lines and responsive light/dark styling.
+The final Back organization is specified in `patterns/BACK_LAYOUT.md`:
+shared idea, then each pattern with its own usage/structure and examples.
+Do not repeat the aggregate Front above those blocks. Front identities and
+Basic's two fields stay unchanged. Scope the HTML/CSS under `patterns/anki/`
+to Patterns; Connection Patterns and other Basic cards retain their appearance.
+
+### Approved visual revision — 2026-11-12
+
+Display separate patterns in lightly shaded, rounded blocks with comfortable
+spacing and balanced wrapping. Use a uniform font size, weight, and color
+within each pattern; grammatical placeholders such as `clause`, `noun`,
+and `V-ing` inherit the surrounding text style. Do not shrink placeholders
+or reduce individual groups just because a card contains more patterns.
+Fronts use 26px on desktop and 24px on phones; answer-block headings use
+21px throughout. Keep the complete pattern text at a uniform size. Keep this presentation scoped to Patterns, retain dark-mode
+contrast, and preserve note content, identities, and review history.

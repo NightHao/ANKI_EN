@@ -39,10 +39,43 @@ exist, and uses Anki's native rename API after approval; never delete and
 reimport notes to achieve this routing. Do not enable automatic learner-error
 or correction tracking.
 
-Also here: `cards/corrections/` (the learner's tracked English mistakes, not a
-deck), `cards/anki_sync.json` (deck/note-type identity), `cards/anki_changes.json`
+Also here: `cards/anki_sync.json` (deck/note-type identity), `cards/anki_changes.json`
 (this commit's renames and removals), `anki_addon/` (the Anki add-on that
 delivers changes), and `scripts/` (checks and tools).
+
+## Local machine override — Lewis.yeh work PC
+
+The learner explicitly set this exception on 2026-11-02. This work PC does not
+permit signing into personal GitHub accounts. This section overrides the
+repository-wide commit/push and GitHub-only delivery instructions on this PC.
+
+- Do not request or launch personal GitHub sign-in, push commits, or publish
+  repository changes from this PC.
+- For approved card changes, update the local Anki collection directly,
+  preserving existing note identities and review history where applicable.
+  Then use the official Anki client's normal sync to exchange cards with
+  AnkiWeb and the learner's other devices.
+- Inspect the live collection before editing: it may contain newer cards
+  received through Anki sync than this local repository contains.
+- On this PC, the current card sources and generated imports are in
+  `C:\Users\Lewis.yeh\Documents\ANKI_EN` (WSL path
+  `/mnt/c/Users/Lewis.yeh/Documents/ANKI_EN`). The WSL EN directory also holds
+  study material, but its card data may be older. Inspect live Anki and use
+  the current Windows sources for card writes; do not replace them with an
+  export built from stale WSL card data.
+- Maintain and validate local canonical sources/imports when needed, but do
+  not make GitHub publication a prerequisite for completing an Anki update.
+  Public read-only downloads remain possible when useful.
+
+- The learner set the EN deck-list order on 2026-11-12: `EN::01 Patterns`,
+  `EN::02 Vocabulary`, then `EN::03 Connection Patterns`. Preserve these deck
+  names and existing deck IDs. Keep generated imports and sync routing aligned;
+  map older GitHub deck paths to these local names during future merges.
+
+- The learner placed the existing `EN_Vocabulary` note
+  `lead to / result in / end up / turn out` in `EN::01 Patterns` on 2026-11-02.
+  Preserve its full comparison layout and note type, and respect this local
+  deck placement when applying updates; do not move it back to Vocabulary.
 
 ## 1. Every session
 
@@ -220,6 +253,16 @@ in the same commit, or Anki gets a duplicate and keeps the old note:
   defined in `cards/vocabulary/CARD_AUTHORING.md`.
 - Before editing a general pattern card, read `cards/CARD_AUTHORING.md` and
   search `cards/patterns/cards.md` for the same or an equivalent pattern.
+- For all general pattern-card Backs, follow
+  `cards/patterns/BACK_LAYOUT.md` (learner-approved 2026-11-12): keep related
+  expressions together on the Front; give a short shared idea, then one block
+  per Front group containing that pattern, its own usage/structure explanation,
+  and its own examples. Prefer matched situations for genuine alternatives,
+  state overlap explicitly, and preserve real grammar/meaning boundaries. Do
+  not gather every pattern's usage into a single paragraph or repeat the full
+  Front above the answer blocks. Single-pattern cards use one block. Preserve
+  the complete transformations and decision boundaries on grammar cards.
+  This is the default layout, not an opt-in overview-only exception.
 - Before adding or revising a high-value production frame selected from the
   connection deck, also read
   `cards/patterns/PATTERN_FRAME_SELECTION.md`. Treat it as a compact activation
@@ -258,7 +301,9 @@ in the same commit, or Anki gets a duplicate and keeps the old note:
   as Card Type, Quick Answer, Supplement, Common Trap, Notes, or Your Turn.
 - A visible general pattern card has exactly two fields:
   - Front: the reusable English pattern itself.
-  - Back: a short meaning/usage explanation and two or three natural examples.
+  - Back: a brief shared meaning/comparison, then each pattern group with its
+    own usage/structure and examples; see `cards/patterns/BACK_LAYOUT.md`.
+    Single-pattern cards normally retain two or three examples.
 - A user-reviewed operation-based grammar card is the only exception to that
   visible shape. Mark it with `<!-- grammar-card -->` in
   `cards/patterns/cards.md`.

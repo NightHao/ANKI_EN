@@ -7,10 +7,10 @@ teaching and correcting the learner's English. **Agents: read
 | Deck | Notes | What it teaches |
 | --- | ---: | --- |
 | `EN::01 Patterns` | 336 | Reusable sentence frames for speaking and writing |
-| `EN::02 Vocabulary` | 402 | Words and expressions, with meanings, examples, patterns, and contrast groups |
+| `EN::02 Vocabulary` | 406 | Words and expressions, with meanings, examples, patterns, and contrast groups |
 | `EN::03 Connection Patterns` | 603 | Prepositions, complements, and linkers, in nine subdecks |
 
-Counts as of 2026-11-10; `python3 scripts/check_cards.py` prints the current ones.
+Counts as of 2026-11-13; `python3 scripts/check_cards.py` prints the current ones.
 
 
 ## Preferred Anki deck order and migration
@@ -48,6 +48,27 @@ The `EN_Vocabulary` note `lead to / result in / end up / turn out`
 intentionally remains in `EN::01 Patterns`, rather than the Vocabulary deck.
 Automatic correction tracking remains disabled.
 
+## Patterns Back layout (approved November 12, 2026)
+
+The 336 Patterns notes use the learner-approved grouped presentation in
+[`cards/patterns/BACK_LAYOUT.md`](cards/patterns/BACK_LAYOUT.md).
+Each grouped Front retains its exact note identity; the Back gives a short
+shared idea followed by one visually distinct section per full pattern,
+containing **that pattern, its usage/structure, and its examples**.
+Single-pattern notes also render as a single section. The nine operation-based
+grammar cards retain their complete decisions and transformations.
+
+The deck-specific templates in `cards/patterns/anki/` use responsive,
+left-aligned, shaded pattern blocks on desktop and phones, with light/dark
+styling. The styling is scoped to Patterns even though Connection Patterns
+uses the same Basic note type. The existing `EN_Vocabulary` comparison note
+kept in Patterns retains its vocabulary note type and layout.
+
+The source ZIP from the work PC also supplies approved Vocabulary changes:
+406 exported Vocabulary notes (the repository's own current export count).
+Run the canonical builder and normal desktop Anki update; do not hand-edit
+generated TSV/CSV files or change Anki scheduling settings.
+
 ## How it works
 
 1. **Ask an agent to add or change cards.** It explains the items, checks
@@ -74,7 +95,6 @@ cards/
   vocabulary/             EN::02 Vocabulary: master CSV, updater, templates, export
   patterns/               EN::01 Patterns: cards.md source and export
   connections/            EN::03 Connection Patterns: nine sources, inventory, export
-  corrections/            tracked English mistakes (not a deck)
   tools/                  pattern and connection builders
   anki_sync.json          note type, fields, and deck for each family
   anki_changes.json       this commit's renames and removals

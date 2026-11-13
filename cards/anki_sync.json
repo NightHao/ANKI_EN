@@ -32,7 +32,14 @@
       ],
       "deck_root": "EN::01 Patterns",
       "media_dir": "cards/patterns/media",
-      "sync_tags": false
+      "sync_tags": false,
+      "templates": {
+        "Card 1": {
+          "front": "cards/patterns/anki/front.html",
+          "back": "cards/patterns/anki/back.html"
+        }
+      },
+      "css": "cards/patterns/anki/styling.css"
     },
     {
       "name": "connections",

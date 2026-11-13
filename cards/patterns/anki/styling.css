@@ -1,0 +1,143 @@
+.card {
+    font-family: arial;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+
+/* EN Patterns presentation. Keep the original Basic CSS above this block. */
+.en-pattern-scope { display: contents; }
+.card.en-pattern-layout {
+  --en-pattern-ink: #111827;
+  --en-pattern-text: #1f2937;
+  --en-pattern-muted: #6b7280;
+  --en-pattern-example: #4b5563;
+  --en-pattern-accent: #2563eb;
+  --en-pattern-rule: #e5e7eb;
+  --en-pattern-example-rule: #cbd5e1;
+  --en-pattern-panel: #f8fafc;
+  --en-pattern-panel-border: #e2e8f0;
+  --en-pattern-panel-edge: #bfdbfe;
+  box-sizing: border-box;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 28px;
+  background: #ffffff;
+  color: var(--en-pattern-text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: left;
+  overflow-wrap: break-word;
+}
+.en-pattern-layout .en-pattern-active { display: block; }
+.en-pattern-layout [data-en-pattern-side="front"] { margin: 0; }
+.en-pattern-layout .en-pattern-line {
+  padding: 18px 22px;
+  border: 1px solid var(--en-pattern-panel-border);
+  border-left: 3px solid var(--en-pattern-panel-edge);
+  border-radius: 12px;
+  background: var(--en-pattern-panel);
+  color: var(--en-pattern-text);
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.5;
+  text-wrap: balance;
+}
+.en-pattern-layout .en-pattern-line + .en-pattern-line {
+  margin-top: 14px;
+  border-top: 1px solid var(--en-pattern-panel-border);
+}
+.en-pattern-layout .en-pattern-slot {
+  font: inherit;
+  color: inherit;
+  letter-spacing: inherit;
+}
+.en-pattern-layout .en-pattern-back-header .en-pattern-line,
+.en-pattern-layout .en-pattern-back-header.en-pattern-many .en-pattern-line {
+  padding: 12px 16px;
+  font-size: 20px;
+  line-height: 1.5;
+}
+.en-pattern-layout #answer {
+  margin: 24px 0;
+  border: 0;
+  border-top: 1px solid var(--en-pattern-rule);
+}
+.en-pattern-layout .en-pattern-label {
+  margin: 24px 0 12px;
+  color: var(--en-pattern-muted);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.en-pattern-layout p { margin: 0 0 16px; }
+.en-pattern-layout .en-pattern-section {
+  padding: 20px;
+  border: 1px solid var(--en-pattern-panel-border);
+  border-radius: 12px;
+  margin-top: 16px;
+}
+.en-pattern-layout .en-pattern-section-title {
+  margin: 0 0 12px;
+  color: var(--en-pattern-ink);
+  font-size: 21px;
+  font-weight: 750;
+  line-height: 1.5;
+  letter-spacing: -0.015em;
+}
+.en-pattern-layout .en-pattern-number {
+  color: var(--en-pattern-accent);
+  margin-right: 4px;
+  font-weight: 600;
+}
+.en-pattern-layout .en-pattern-example {
+  margin: 12px 0;
+  padding: 5px 0 5px 16px;
+  border-left: 2px solid var(--en-pattern-example-rule);
+  color: var(--en-pattern-example);
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.65;
+}
+.en-pattern-layout .en-pattern-example strong {
+  color: var(--en-pattern-accent);
+  font-weight: 650;
+}
+.en-pattern-layout .en-pattern-grammar { line-height: 1.7; }
+.en-pattern-layout code { white-space: normal; overflow-wrap: anywhere; }
+.en-pattern-layout img { display: block; max-width: 100%; height: auto; margin: 16px auto; }
+.card.en-pattern-layout.nightMode,
+.card.en-pattern-layout.night_mode,
+.nightMode .card.en-pattern-layout {
+  --en-pattern-ink: #f8fafc;
+  --en-pattern-text: #e5e7eb;
+  --en-pattern-muted: #9ca3af;
+  --en-pattern-example: #d1d5db;
+  --en-pattern-accent: #93c5fd;
+  --en-pattern-rule: #374151;
+  --en-pattern-example-rule: #475569;
+  --en-pattern-panel: #1f2937;
+  --en-pattern-panel-border: #374151;
+  --en-pattern-panel-edge: #475569;
+  background: #111827;
+}
+@media (max-width: 480px) {
+  .card.en-pattern-layout { padding: 20px; }
+  .en-pattern-layout .en-pattern-line { padding: 16px; font-size: 24px; }
+  .en-pattern-layout .en-pattern-many .en-pattern-line { font-size: 24px; }
+  .en-pattern-layout .en-pattern-back-header .en-pattern-line,
+  .en-pattern-layout .en-pattern-back-header.en-pattern-many .en-pattern-line { padding: 12px 14px; font-size: 20px; }
+  .en-pattern-layout .en-pattern-section { padding: 16px; }
+  .en-pattern-layout .en-pattern-example { padding-left: 12px; }
+}
+
+/* Per-pattern answers: one owning heading, then its usage and examples. */
+.en-pattern-layout [data-en-pattern-side="front"][hidden] { display: none; }
+.en-pattern-layout .en-pattern-summary .en-pattern-label { margin-top: 0; }
+.en-pattern-layout .en-pattern-usage { margin-bottom: 14px; }
+.en-pattern-layout .en-pattern-usage code { font: inherit; }

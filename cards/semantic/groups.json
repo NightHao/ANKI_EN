@@ -240,7 +240,7 @@
     },
     {
       "id": "outcome_discovery",
-      "function": "Explain an outcome or discovery",
+      "function": "Compare causing an effect, reaching a final situation, and discovering an outcome",
       "owner": {
         "family": "vocabulary",
         "key": "lead to / result in / end up / turn out"
@@ -257,6 +257,20 @@
         {
           "text": "end up",
           "relationship": "related"
+        },
+        {
+          "text": "turn out",
+          "relationship": "core"
+        },
+        {
+          "text": "lead to",
+          "relationship": "related",
+          "note": "Introduces a caused outcome; lead to also describes a route."
+        },
+        {
+          "text": "result in",
+          "relationship": "near_synonym",
+          "note": "Overlaps with lead to for caused outcomes, rather than being interchangeable with every expression in this group."
         }
       ]
     },
@@ -341,6 +355,306 @@
         {
           "text": "feel like I'm falling behind",
           "relationship": "related"
+        }
+      ]
+    },
+    {
+      "id": "unconcerned_attitude_variants",
+      "function": "Describe little concern or an outwardly relaxed manner",
+      "owner": {
+        "family": "vocabulary",
+        "key": "indifferent / nonchalant"
+      },
+      "expressions": [
+        {
+          "text": "nonchalance",
+          "relationship": "related",
+          "note": "Noun related to nonchalant; does not prove an absence of inner feelings."
+        },
+        {
+          "text": "nonchalant",
+          "relationship": "core"
+        }
+      ]
+    },
+    {
+      "id": "formal_attachment_variant",
+      "function": "Attach an object or label to something",
+      "owner": {
+        "family": "vocabulary",
+        "key": "stick"
+      },
+      "expressions": [
+        {
+          "text": "affix",
+          "relationship": "related",
+          "note": "Formal attaching verb only; the linguistic noun is outside this owner."
+        },
+        {
+          "text": "affix A to B",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "formal_preference_variant",
+      "function": "Choose one option because it is preferred to another",
+      "owner": {
+        "family": "patterns",
+        "key": "prefer + noun/V-ing + to + noun/V-ing · would prefer to + verb · would rather + base verb + than + base verb · instead of + noun/V-ing · rather than + parallel alternative"
+      },
+      "expressions": [
+        {
+          "text": "in preference to",
+          "relationship": "variant",
+          "note": "Formal alternative; takes a noun phrase or V-ing."
+        }
+      ]
+    },
+    {
+      "id": "descriptive_location_variant",
+      "function": "Describe the surroundings of a place",
+      "owner": {
+        "family": "patterns",
+        "key": "at + point/site · on + surface/line · in + area/enclosure · located/situated at/on/in · inside/outside/within · at home/work · on a bus/train/plane · in a car/taxi"
+      },
+      "expressions": [
+        {
+          "text": "set amid",
+          "relationship": "related"
+        },
+        {
+          "text": "be set amid",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "cut_family_reduction_removal_interruption",
+      "function": "Choose cut expressions for reduction, removal, interruption, queue-jumping, or inclusion.",
+      "owner": {
+        "family": "vocabulary",
+        "key": "cut back / cut down / cut off / cut out / cut in / cut up"
+      },
+      "expressions": [
+        {
+          "text": "cut back",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut down",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut off",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut out",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut in",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut up",
+          "relationship": "related",
+          "note": "Grouped lexical member; its meanings and complement shapes are taught individually."
+        },
+        {
+          "text": "cut in line",
+          "relationship": "variant",
+          "note": "American queue-jumping expression under cut in."
+        },
+        {
+          "text": "cut the line",
+          "relationship": "variant",
+          "note": "American alternative for queue-jumping."
+        },
+        {
+          "text": "cut back on",
+          "relationship": "variant"
+        },
+        {
+          "text": "cut down on",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "proportional_and_disproportionate",
+      "function": "Describe corresponding ratios or an appropriate versus excessive or insufficient comparative amount.",
+      "owner": {
+        "family": "vocabulary",
+        "key": "proportional / disproportionate"
+      },
+      "expressions": [
+        {
+          "text": "proportional",
+          "relationship": "core"
+        },
+        {
+          "text": "disproportionate",
+          "relationship": "contrast"
+        },
+        {
+          "text": "proportionally",
+          "relationship": "variant"
+        },
+        {
+          "text": "disproportionately",
+          "relationship": "variant"
+        },
+        {
+          "text": "proportionate",
+          "relationship": "related",
+          "note": "Common alternative for appropriate balance."
+        },
+        {
+          "text": "proportionately",
+          "relationship": "variant",
+          "note": "Related adverb taught in the Back’s usage notes."
+        }
+      ]
+    },
+    {
+      "id": "adjective_share_of_total",
+      "function": "Describe a considerable part of a total and compare the sizes of shares.",
+      "owner": {
+        "family": "patterns",
+        "key": "account for/make up + share + of + whole · fraction/percentage + of + group"
+      },
+      "expressions": [
+        {
+          "text": "a large share of",
+          "relationship": "core"
+        },
+        {
+          "text": "a substantial share of",
+          "relationship": "variant"
+        },
+        {
+          "text": "a considerable share of",
+          "relationship": "variant"
+        },
+        {
+          "text": "a sizable share of",
+          "relationship": "variant"
+        },
+        {
+          "text": "a significant share of",
+          "relationship": "related",
+          "note": "Can emphasize importance as well as amount."
+        },
+        {
+          "text": "the largest share of",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "scatter_disperse_spread_out",
+      "function": "Describe or cause people or things to occupy separated positions over an area.",
+      "owner": {
+        "family": "vocabulary",
+        "key": "scatter / disperse / spread out"
+      },
+      "expressions": [
+        {
+          "text": "scatter",
+          "relationship": "core"
+        },
+        {
+          "text": "disperse",
+          "relationship": "related",
+          "note": "Overlaps with scatter and spread out; somewhat more formal."
+        },
+        {
+          "text": "spread out",
+          "relationship": "related",
+          "note": "Includes occupying a wider area or arranging things on a surface."
+        },
+        {
+          "text": "scattered throughout",
+          "relationship": "variant",
+          "note": "Spatial throughout means in all parts of an area; the time contrast with during remains in the connection deck."
+        },
+        {
+          "text": "scattered across",
+          "relationship": "variant"
+        },
+        {
+          "text": "scattered all over",
+          "relationship": "variant"
+        }
+      ]
+    },
+    {
+      "id": "scratch_word_uses",
+      "function": "Describe scratching, surface marks, removal, cancellation, and common scratch expressions",
+      "owner": {
+        "family": "vocabulary",
+        "key": "scratch"
+      },
+      "expressions": [
+        {
+          "text": "scratch",
+          "relationship": "core"
+        },
+        {
+          "text": "from scratch",
+          "relationship": "related",
+          "note": "Beginning without adapting an existing version."
+        },
+        {
+          "text": "scratch the surface",
+          "relationship": "related",
+          "note": "Deal with only a small part of a subject."
+        },
+        {
+          "text": "scratch your head",
+          "relationship": "related",
+          "note": "Feel puzzled."
+        },
+        {
+          "text": "scratch that",
+          "relationship": "related",
+          "note": "Retract or cancel what was just said."
+        },
+        {
+          "text": "scratch off",
+          "relationship": "related",
+          "note": "Remove by marking or rubbing; scratch a name off a list."
+        }
+      ]
+    },
+    {
+      "id": "starch_word_uses",
+      "function": "Name starch in food, related cooking vocabulary, and its use on fabric",
+      "owner": {
+        "family": "vocabulary",
+        "key": "starch"
+      },
+      "expressions": [
+        {
+          "text": "starch",
+          "relationship": "core"
+        },
+        {
+          "text": "starchy",
+          "relationship": "related",
+          "note": "Adjective for containing a lot of starch."
+        },
+        {
+          "text": "cornstarch",
+          "relationship": "related",
+          "note": "A type of starch used as a thickener; covered on the Back."
         }
       ]
     }
